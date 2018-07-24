@@ -71,26 +71,86 @@
               $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
             });
           });
-        for(var i = 0;i<5;++i){
-            $.get(`./en_${i+1}.json`,
+        $.get(`./en_1.json`,
             function (data, status) {
                 console.log(data['result']);
-                en_data[i] = data['result'];
+                en_data[0] = data['result'];
                 if(checkdata()){
                     showdata();
                 }
             });
-        }
-        for(var i = 0;i<5;++i){
-            $.get(`./zh-TW_${i+1}.json`,
+        $.get(`./en_2.json`,
             function (data, status) {
                 console.log(data['result']);
-                tw_data[i] = data['result'];
+                en_data[1] = data['result'];
                 if(checkdata()){
                     showdata();
                 }
             });
-        }
+        $.get(`./en_3.json`,
+            function (data, status) {
+                console.log(data['result']);
+                en_data[2] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./en_4.json`,
+            function (data, status) {
+                console.log(data['result']);
+                en_data[3] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./en_5.json`,
+            function (data, status) {
+                console.log(data['result']);
+                en_data[4] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./zh-TW_1.json`,
+            function (data, status) {
+                console.log(data['result']);
+                tw_data[0] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./zh-TW_2.json`,
+            function (data, status) {
+                console.log(data['result']);
+                tw_data[1] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./zh-TW_3.json`,
+            function (data, status) {
+                console.log(data['result']);
+                tw_data[2] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./zh-TW_4.json`,
+            function (data, status) {
+                console.log(data['result']);
+                tw_data[3] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
+        $.get(`./zh-TW_5.json`,
+            function (data, status) {
+                console.log(data['result']);
+                tw_data[4] = data['result'];
+                if(checkdata()){
+                    showdata();
+                }
+            });
         $.get(`./en_schema.json`,
             function (data, status) {
                 en_unusual = data['result'];
