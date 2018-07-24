@@ -8,10 +8,11 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <script>
-    var en_data = [];
-    var tw_data = [];
+    var en_data = [-1,-1,-1,-1,-1];
+    var tw_data = [-1,-1,-1,-1,-1];
     var en_unusual;
     var tw_unusual;
+    var data_conut = 0;
     var paints = [5027,5028,5029,5030,5031,5032,5033,5034,5035,5036,5037,5038,5039,5040,5046,5051,5052,5053,5054,5055,5056,5060,5061,5062,5063,5064,5065,5076,5077];
     var paints_rgb = {5027:'#729E42',5028:'#424F3B',5029:'#51384A',5030:'#D8BED8',5031:'#7D4071',
                       5032:'#CF7336',5033:'#A57545',5034:'#C5AF91',5035:'#694D3A',5036:'#7C6C57',
@@ -62,8 +63,43 @@
               $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
             });
           });
-
-        
+        for(var i = 0;i<5;++i){
+            $.get(`./en_${i+1}.json`,
+            function (data, status) {
+                en_data[i] = data['result'];
+                data_conut+=1;
+                if(data_conut == 12){
+                    showdata();
+                }
+            });
+        }
+        for(var i = 0;i<5;++i){
+            $.get(`./zh-TW_${i+1}.json`,
+            function (data, status) {
+                en_data[i] = data['result'];
+                data_conut+=1;
+                if(data_conut == 12){
+                    showdata();
+                }
+            });
+        }
+        $.get(`./en_schema.json`,
+            function (data, status) {
+                en_unusual = data['result'];
+                data_conut+=1;
+                if(data_conut == 12){
+                    showdata();
+                }
+            });
+        $.get(`./zh-tw_schema.json`,
+            function (data, status) {
+                tw_unusual = data['result'];
+                data_conut+=1;
+                if(data_conut == 12){
+                    showdata();
+                }
+            });
+        /*
         $.get("./data.php",
             function (data, status) {
                 console.log(data);
@@ -139,6 +175,7 @@
                 }
                 console.timeEnd('start');
             });
+            */
     });
 
 </script>
