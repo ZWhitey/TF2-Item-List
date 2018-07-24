@@ -27,7 +27,6 @@
     };
     function update() {
         var n = document.getElementById("cal_input");
-        console.log(n);
         var input = n.value;
         var lines = input.split('\n');
         var data = [];
@@ -36,7 +35,6 @@
                 data.push(lines[i]);
             }
         }
-        console.log(data);
         var ref = 0;
         var rec = 0;
         var scrap = 0;
@@ -47,7 +45,6 @@
                 scrap += Math.round(parseInt(tmp[1]) / 11)
             }
         }
-        console.log(ref, rec, scrap);
         if (scrap >= 9) {
             ref += Math.floor(scrap / 9);
             scrap %= 9;
@@ -77,7 +74,6 @@
         });
         $.get(`./en_1.json`,
             function (data, status) {
-                console.log(data['result']);
                 en_data[0] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -85,7 +81,6 @@
             });
         $.get(`./en_2.json`,
             function (data, status) {
-                console.log(data['result']);
                 en_data[1] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -93,7 +88,6 @@
             });
         $.get(`./en_3.json`,
             function (data, status) {
-                console.log(data['result']);
                 en_data[2] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -101,7 +95,6 @@
             });
         $.get(`./en_4.json`,
             function (data, status) {
-                console.log(data['result']);
                 en_data[3] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -109,7 +102,6 @@
             });
         $.get(`./en_5.json`,
             function (data, status) {
-                console.log(data['result']);
                 en_data[4] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -117,7 +109,6 @@
             });
         $.get(`./zh-TW_1.json`,
             function (data, status) {
-                console.log(data['result']);
                 tw_data[0] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -125,7 +116,6 @@
             });
         $.get(`./zh-TW_2.json`,
             function (data, status) {
-                console.log(data['result']);
                 tw_data[1] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -133,7 +123,6 @@
             });
         $.get(`./zh-TW_3.json`,
             function (data, status) {
-                console.log(data['result']);
                 tw_data[2] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -141,7 +130,6 @@
             });
         $.get(`./zh-TW_4.json`,
             function (data, status) {
-                console.log(data['result']);
                 tw_data[3] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -149,7 +137,6 @@
             });
         $.get(`./zh-TW_5.json`,
             function (data, status) {
-                console.log(data['result']);
                 tw_data[4] = data['result'];
                 if (checkdata()) {
                     showdata();
@@ -157,95 +144,19 @@
             });
         $.get(`./en_schema.json`,
             function (data, status) {
-                en_unusual = data['result'];
+                en_unusual = data['result']['attribute_controlled_attached_particles'];
                 if (checkdata()) {
                     showdata();
                 }
             });
         $.get(`./zh-tw_schema.json`,
             function (data, status) {
-                tw_unusual = data['result'];
+                tw_unusual = data['result']['attribute_controlled_attached_particles'];
                 if (checkdata()) {
                     showdata();
                 }
             });
-        /*
-        $.get("./data.php",
-            function (data, status) {
-                console.log(data);
-                for (var i = 0; i < data['en'].length; ++i)
-                    en_data.push(JSON.parse(data['en'][i]));
-                for (var i = 0; i < data['tw'].length; ++i)
-                    tw_data.push(JSON.parse(data['tw'][i]));
-                en_unusual=JSON.parse(data['ususual_en']);
-                tw_unusual=JSON.parse(data['ususual_tw']);
-                var table = $("#table");
-                var p_table = $("#p_table");
-                console.time('start');
-                for(var j=0;j<en_data.length;++j)
-                {
-                    var tb='';
-                    var tp='';
-                    for (var i = 0; i < en_data[j]["items"].length; ++i) {
-                        if(paints.indexOf(tw_data[j]["items"][i]["defindex"]) != -1 ){
-                            if(tw_data[j]["items"][i]["attributes"].length==1){
-                            tp+=`
-                                <tr>
-                                    <td>${tw_data[j]["items"][i]["defindex"]}</td>  
-                                    <td>${en_data[j]["items"][i]["item_name"]}</td>
-                                    <td>${tw_data[j]["items"][i]["item_name"]}</td>
-                                    <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]]}">${tw_data[j]["items"][i]["attributes"][0]['value']}</td>
-                                    <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]]}">${tw_data[j]["items"][i]["attributes"][0]['value']}</td>
-                                </tr>
-                                `;
-                            }
-                            else if(tw_data[j]["items"][i]["attributes"].length==2){
-                                tp+=`
-                                    <tr>
-                                        <td>${tw_data[j]["items"][i]["defindex"]}</td>  
-                                        <td>${en_data[j]["items"][i]["item_name"]}</td>
-                                        <td>${tw_data[j]["items"][i]["item_name"]}</td>
-                                        <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]][0]}">${tw_data[j]["items"][i]["attributes"][0]['value']}</td>
-                                        <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]][1]}">${tw_data[j]["items"][i]["attributes"][1]['value']}</td>
-                                    </tr>
-                                    `;
-                                }
-                        }
-                        tb+=`
-                                <tr>  
-                                    <td>${tw_data[j]["items"][i]["defindex"]}</td>            
-                                    <td><a href="javascript:void(0)" id="i_img_${tw_data[j]["items"][i]["defindex"]}" title="${en_data[j]["items"][i]["item_name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en_data[j]["items"][i]["item_name"]}</a></td>           
-                                    <td>${tw_data[j]["items"][i]["item_name"]}</td>
-                                    <td>${tw_data[j]["items"][i]["item_class"]}</td>           
-                                </tr>`; 
-                    }
-                    table.append(tb); 
-                    p_table.append(tp);
-                    for (var i = 0; i < en_data[j]["items"].length; ++i) {
-                        var img = `<img src="${tw_data[j]['items'][i]['image_url']}">`;
-                        $(`#i_img_${tw_data[j]["items"][i]["defindex"]}`).popover({content:img,html:true});
-                    }
-                }
-                
-                var utable = $("#u_table");
-                var tb='';
-                for (var i = 0; i < en_unusual.length; ++i) {   
-                    tb+=`
-                            <tr>
-                                <td>${en_unusual[i]["id"]}</td>            
-                                <td><a href="javascript:void(0)" id="u_img_${en_unusual[i]["id"]}" title="${en_unusual[i]["name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en_unusual[i]["name"]}</a></td>           
-                                <td>${tw_unusual[i]["name"]}</td>
-                                <td>${en_unusual[i]["system"]}</td>           
-                            </tr>`;
-                }
-                utable.append(tb);
-                for (var i = 0; i < en_unusual.length; ++i) {   
-                    var img = `<img src="imgs/${en_unusual[i]["id"]}.png">`;
-                    $(`#u_img_${en_unusual[i]["id"]}`).popover({content:img,html:true});
-                }
-                console.timeEnd('start');
-            });
-            */
+        
     });
     function showdata() {
         var table = $("#table");
