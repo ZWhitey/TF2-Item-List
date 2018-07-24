@@ -10,8 +10,8 @@
 <script>
     var en_data = [-1,-1,-1,-1,-1];
     var tw_data = [-1,-1,-1,-1,-1];
-    var en_unusual;
-    var tw_unusual;
+    var en_unusual=null;
+    var tw_unusual=null;
     var data_conut = 0;
     var paints = [5027,5028,5029,5030,5031,5032,5033,5034,5035,5036,5037,5038,5039,5040,5046,5051,5052,5053,5054,5055,5056,5060,5061,5062,5063,5064,5065,5076,5077];
     var paints_rgb = {5027:'#729E42',5028:'#424F3B',5029:'#51384A',5030:'#D8BED8',5031:'#7D4071',
@@ -56,6 +56,14 @@
         $("#c_rec").text(`Reclaimed Metal : ${rec}`);
         $("#c_scrap").text(`Scrap Metal : ${scrap}`);
     }
+    function checkdata(){
+        var tw = tw_data.indexOf(-1);
+        var en = en_data.indexOf(-1);
+        if(en_unusual != null && tw_unusual != null && tw !=-1 && en !=-1)
+            return true;
+        else
+            return false;
+    }
     $(function () {
         $("#Input").on("keyup", function() {
             var value = $(this).val().toLowerCase();
@@ -67,8 +75,7 @@
             $.get(`./en_${i+1}.json`,
             function (data, status) {
                 en_data[i] = data['result'];
-                data_conut+=1;
-                if(data_conut == 12){
+                if(checkdata()){
                     showdata();
                 }
             });
@@ -78,7 +85,7 @@
             function (data, status) {
                 en_data[i] = data['result'];
                 data_conut+=1;
-                if(data_conut == 12){
+                if(checkdata()){
                     showdata();
                 }
             });
@@ -87,7 +94,7 @@
             function (data, status) {
                 en_unusual = data['result'];
                 data_conut+=1;
-                if(data_conut == 12){
+                if(checkdata()){
                     showdata();
                 }
             });
@@ -95,7 +102,7 @@
             function (data, status) {
                 tw_unusual = data['result'];
                 data_conut+=1;
-                if(data_conut == 12){
+                if(checkdata()){
                     showdata();
                 }
             });
