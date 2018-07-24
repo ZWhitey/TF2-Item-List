@@ -1,34 +1,38 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Item Name</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <script>
-    var en_data = [-1,-1,-1,-1,-1];
-    var tw_data = [-1,-1,-1,-1,-1];
-    var en_unusual=null;
-    var tw_unusual=null;
+    var en_data = [-1, -1, -1, -1, -1];
+    var tw_data = [-1, -1, -1, -1, -1];
+    var en_unusual = null;
+    var tw_unusual = null;
     var data_conut = 0;
-    var paints = [5027,5028,5029,5030,5031,5032,5033,5034,5035,5036,5037,5038,5039,5040,5046,5051,5052,5053,5054,5055,5056,5060,5061,5062,5063,5064,5065,5076,5077];
-    var paints_rgb = {5027:'#729E42',5028:'#424F3B',5029:'#51384A',5030:'#D8BED8',5031:'#7D4071',
-                      5032:'#CF7336',5033:'#A57545',5034:'#C5AF91',5035:'#694D3A',5036:'#7C6C57',
-                      5037:'#E7B53B',5038:'#7E7E7E',5039:'#E6E6E6',5040:'#141414',5046:['#B8383B','#5885A2'],
-                      5051:'#FF69B4',5052:'#2F4F4F',5053:'#808000',5054:'#32CD32',5055:'#F0E68C',
-                      5056:'#E9967A',5060:['#483838','#384248'],5061:['#A89A8C','#839FA3'],
-                      5062:['#3B1F23','#18233D'],5063:['#654740','#28394D'],5064:['#803020','#256D8D'],
-                      5065:['#C36C2D','#B88035'],5076:'#BCDDB3',5077:'#2D2D24'};
-    function update(){
+    var paints = [5027, 5028, 5029, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 5040, 5046, 5051, 5052, 5053, 5054, 5055, 5056, 5060, 5061, 5062, 5063, 5064, 5065, 5076, 5077];
+    var paints_rgb = {
+        5027: '#729E42', 5028: '#424F3B', 5029: '#51384A', 5030: '#D8BED8', 5031: '#7D4071',
+        5032: '#CF7336', 5033: '#A57545', 5034: '#C5AF91', 5035: '#694D3A', 5036: '#7C6C57',
+        5037: '#E7B53B', 5038: '#7E7E7E', 5039: '#E6E6E6', 5040: '#141414', 5046: ['#B8383B', '#5885A2'],
+        5051: '#FF69B4', 5052: '#2F4F4F', 5053: '#808000', 5054: '#32CD32', 5055: '#F0E68C',
+        5056: '#E9967A', 5060: ['#483838', '#384248'], 5061: ['#A89A8C', '#839FA3'],
+        5062: ['#3B1F23', '#18233D'], 5063: ['#654740', '#28394D'], 5064: ['#803020', '#256D8D'],
+        5065: ['#C36C2D', '#B88035'], 5076: '#BCDDB3', 5077: '#2D2D24'
+    };
+    function update() {
         var n = document.getElementById("cal_input");
         console.log(n);
         var input = n.value;
         var lines = input.split('\n');
         var data = [];
-        for(var i=0;i<lines.length;++i){
-            if(/^[0-9]*(\.[0-9]{2})?$/g.test(lines[i])){
+        for (var i = 0; i < lines.length; ++i) {
+            if (/^[0-9]*(\.[0-9]{2})?$/g.test(lines[i])) {
                 data.push(lines[i]);
             }
         }
@@ -36,46 +40,46 @@
         var ref = 0;
         var rec = 0;
         var scrap = 0;
-        for(var i=0;i<data.length;i++){
-           tmp=data[i].split('.');
-           ref+=parseInt(tmp[0]);
-           if(tmp.length==2){
-                scrap+=Math.round(parseInt(tmp[1])/11)
-           }
+        for (var i = 0; i < data.length; i++) {
+            tmp = data[i].split('.');
+            ref += parseInt(tmp[0]);
+            if (tmp.length == 2) {
+                scrap += Math.round(parseInt(tmp[1]) / 11)
+            }
         }
-        console.log(ref,rec,scrap);
-        if(scrap>=9){
-            ref+=Math.floor(scrap/9);
-            scrap%=9;
+        console.log(ref, rec, scrap);
+        if (scrap >= 9) {
+            ref += Math.floor(scrap / 9);
+            scrap %= 9;
         }
-        if(scrap>=3){
-            rec+=Math.floor(scrap/3);
-            scrap%=3;
+        if (scrap >= 3) {
+            rec += Math.floor(scrap / 3);
+            scrap %= 3;
         }
         $("#c_ref").text(`Refine Metal : ${ref}`);
         $("#c_rec").text(`Reclaimed Metal : ${rec}`);
         $("#c_scrap").text(`Scrap Metal : ${scrap}`);
     }
-    function checkdata(){
+    function checkdata() {
         var tw = tw_data.indexOf(-1);
         var en = en_data.indexOf(-1);
-        if(en_unusual != null && tw_unusual != null && tw !=-1 && en !=-1)
+        if (en_unusual != null && tw_unusual != null && tw != -1 && en != -1)
             return true;
         else
             return false;
     }
     $(function () {
-        $("#Input").on("keyup", function() {
+        $("#Input").on("keyup", function () {
             var value = $(this).val().toLowerCase();
-            $("#table tr").filter(function() {
-              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            $("#table tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
             });
-          });
+        });
         $.get(`./en_1.json`,
             function (data, status) {
                 console.log(data['result']);
                 en_data[0] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -83,7 +87,7 @@
             function (data, status) {
                 console.log(data['result']);
                 en_data[1] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -91,7 +95,7 @@
             function (data, status) {
                 console.log(data['result']);
                 en_data[2] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -99,7 +103,7 @@
             function (data, status) {
                 console.log(data['result']);
                 en_data[3] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -107,7 +111,7 @@
             function (data, status) {
                 console.log(data['result']);
                 en_data[4] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -115,7 +119,7 @@
             function (data, status) {
                 console.log(data['result']);
                 tw_data[0] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -123,7 +127,7 @@
             function (data, status) {
                 console.log(data['result']);
                 tw_data[1] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -131,7 +135,7 @@
             function (data, status) {
                 console.log(data['result']);
                 tw_data[2] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -139,7 +143,7 @@
             function (data, status) {
                 console.log(data['result']);
                 tw_data[3] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -147,21 +151,21 @@
             function (data, status) {
                 console.log(data['result']);
                 tw_data[4] = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
         $.get(`./en_schema.json`,
             function (data, status) {
                 en_unusual = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
         $.get(`./zh-tw_schema.json`,
             function (data, status) {
                 tw_unusual = data['result'];
-                if(checkdata()){
+                if (checkdata()) {
                     showdata();
                 }
             });
@@ -243,77 +247,148 @@
             });
             */
     });
+    function showdata() {
+        var table = $("#table");
+        var p_table = $("#p_table");
+        for (var j = 0; j < en_data.length; ++j) {
+            var tb = '';
+            var tp = '';
+            for (var i = 0; i < en_data[j]["items"].length; ++i) {
+                if (paints.indexOf(tw_data[j]["items"][i]["defindex"]) != -1) {
+                    if (tw_data[j]["items"][i]["attributes"].length == 1) {
+                        tp += `
+                                <tr>
+                                    <td>${tw_data[j]["items"][i]["defindex"]}</td>  
+                                    <td>${en_data[j]["items"][i]["item_name"]}</td>
+                                    <td>${tw_data[j]["items"][i]["item_name"]}</td>
+                                    <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]]}">${tw_data[j]["items"][i]["attributes"][0]['value']}</td>
+                                    <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]]}">${tw_data[j]["items"][i]["attributes"][0]['value']}</td>
+                                </tr>
+                                `;
+                    }
+                    else if (tw_data[j]["items"][i]["attributes"].length == 2) {
+                        tp += `
+                                    <tr>
+                                        <td>${tw_data[j]["items"][i]["defindex"]}</td>  
+                                        <td>${en_data[j]["items"][i]["item_name"]}</td>
+                                        <td>${tw_data[j]["items"][i]["item_name"]}</td>
+                                        <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]][0]}">${tw_data[j]["items"][i]["attributes"][0]['value']}</td>
+                                        <td style="background-color:${paints_rgb[tw_data[j]["items"][i]["defindex"]][1]}">${tw_data[j]["items"][i]["attributes"][1]['value']}</td>
+                                    </tr>
+                                    `;
+                    }
+                }
+                tb += `
+                                <tr>  
+                                    <td>${tw_data[j]["items"][i]["defindex"]}</td>            
+                                    <td><a href="javascript:void(0)" id="i_img_${tw_data[j]["items"][i]["defindex"]}" title="${en_data[j]["items"][i]["item_name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en_data[j]["items"][i]["item_name"]}</a></td>           
+                                    <td>${tw_data[j]["items"][i]["item_name"]}</td>
+                                    <td>${tw_data[j]["items"][i]["item_class"]}</td>           
+                                </tr>`;
+            }
+            table.append(tb);
+            p_table.append(tp);
+            for (var i = 0; i < en_data[j]["items"].length; ++i) {
+                var img = `<img src="${tw_data[j]['items'][i]['image_url']}">`;
+                $(`#i_img_${tw_data[j]["items"][i]["defindex"]}`).popover({ content: img, html: true });
+            }
+        }
 
+        var utable = $("#u_table");
+        var tb = '';
+        for (var i = 0; i < en_unusual.length; ++i) {
+            tb += `
+                            <tr>
+                                <td>${en_unusual[i]["id"]}</td>            
+                                <td><a href="javascript:void(0)" id="u_img_${en_unusual[i]["id"]}" title="${en_unusual[i]["name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en_unusual[i]["name"]}</a></td>           
+                                <td>${tw_unusual[i]["name"]}</td>
+                                <td>${en_unusual[i]["system"]}</td>           
+                            </tr>`;
+        }
+        utable.append(tb);
+        for (var i = 0; i < en_unusual.length; ++i) {
+            var img = `<img src="imgs/${en_unusual[i]["id"]}.png">`;
+            $(`#u_img_${en_unusual[i]["id"]}`).popover({ content: img, html: true });
+        }
+    }
 </script>
 
 <body style="margin:20px">
     <div class="jumbotron text-center">
         <h1>Item defindex</h1>
-        
-      </div>
-      <div class="container">
+
+    </div>
+    <div class="container">
         <div class="row">
             <ul class="nav nav-tabs">
-                        <li class="active"><a data-toggle="tab" href="#Item">Item</a></li>
-                        <li><a data-toggle="tab" href="#menu1">Unusual</a></li>
-                        <li><a data-toggle="tab" href="#menu2">Paint Can</a></li>
-                        <li><a data-toggle="tab" href="#menu3">Metal Calculator</a></li>
+                <li class="active">
+                    <a data-toggle="tab" href="#Item">Item</a>
+                </li>
+                <li>
+                    <a data-toggle="tab" href="#menu1">Unusual</a>
+                </li>
+                <li>
+                    <a data-toggle="tab" href="#menu2">Paint Can</a>
+                </li>
+                <li>
+                    <a data-toggle="tab" href="#menu3">Metal Calculator</a>
+                </li>
             </ul>
             <div class="tab-content">
-                    <div id="Item" class="tab-pane fade in active">
-                        <br>
-                            <input type="text" id="Input">
-                            <table class="table table-hover">
-                                <thead>
-                                  <tr>
-                                    <th>Index</th>
-                                    <th>Name(en)</th>
-                                    <th>Name(zh-TW)</th>
-                                    <th>Class</th>
-                                  </tr>
-                                </thead>
-                                <tbody id="table">
-                                  
-                                </tbody>
-                              </table>
-                    </div>
-                    <div id="menu1" class="tab-pane fade">
-                            <table class="table table-hover">
-                                    <thead>
-                                      <tr>
-                                        <th>Index</th>
-                                        <th>Name(en)</th>
-                                        <th>Name(zh-TW)</th>
-                                        <th>System</th>
-                                      </tr>
-                                    </thead>
-                                    <tbody id="u_table">
-                                      
-                                    </tbody>
-                                  </table>
-                    </div>
-                    <div id="menu2" class="tab-pane fade">
-                        <table class="table table-hover">
-                            <thead>
-                                <tr>
-                                    <th>Index</th>
-                                    <th>Name(en)</th>
-                                    <th>Name(zh-TW)</th>
-                                    <th>Color Code (Red)</th>
-                                    <th>Color Code (Blue)</th>
-                                </tr>
-                            </thead>
-                            <tbody id="p_table">
-                                
-                            </tbody>
-                    
-                        </table>
-                    </div>
-                    <div id="menu3" class="tab-pane fade">
-                      <h3>Metal Calculator</h3>
-                      <div class="row">
+                <div id="Item" class="tab-pane fade in active">
+                    <br>
+                    <input type="text" id="Input">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Index</th>
+                                <th>Name(en)</th>
+                                <th>Name(zh-TW)</th>
+                                <th>Class</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table">
+
+                        </tbody>
+                    </table>
+                </div>
+                <div id="menu1" class="tab-pane fade">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Index</th>
+                                <th>Name(en)</th>
+                                <th>Name(zh-TW)</th>
+                                <th>System</th>
+                            </tr>
+                        </thead>
+                        <tbody id="u_table">
+
+                        </tbody>
+                    </table>
+                </div>
+                <div id="menu2" class="tab-pane fade">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Index</th>
+                                <th>Name(en)</th>
+                                <th>Name(zh-TW)</th>
+                                <th>Color Code (Red)</th>
+                                <th>Color Code (Blue)</th>
+                            </tr>
+                        </thead>
+                        <tbody id="p_table">
+
+                        </tbody>
+
+                    </table>
+                </div>
+                <div id="menu3" class="tab-pane fade">
+                    <h3>Metal Calculator</h3>
+                    <div class="row">
                         <div class="col-lg-4">
-                            <label for="cal_input" >Price:</label>
+                            <label for="cal_input">Price:</label>
                             <textarea class="form-control" rows="20" id="cal_input" onchange="update()"></textarea>
                         </div>
                         <div class="col-lg-8">
@@ -322,12 +397,13 @@
                             <h3 id="c_scrap">Scrap Metal : 0</h3>
                         </div>
                     </div>
-                    </div>
-                    
-                  </div>
-            
-         
+                </div>
+
+            </div>
+
+
         </div>
-      </div> 
+    </div>
 </body>
-</html> 
+
+</html>
