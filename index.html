@@ -74,6 +74,7 @@
         for(var i = 0;i<5;++i){
             $.get(`./en_${i+1}.json`,
             function (data, status) {
+                console.log(data['result']);
                 en_data[i] = data['result'];
                 if(checkdata()){
                     showdata();
@@ -83,8 +84,8 @@
         for(var i = 0;i<5;++i){
             $.get(`./zh-TW_${i+1}.json`,
             function (data, status) {
-                en_data[i] = data['result'];
-                data_conut+=1;
+                console.log(data['result']);
+                tw_data[i] = data['result'];
                 if(checkdata()){
                     showdata();
                 }
@@ -93,7 +94,6 @@
         $.get(`./en_schema.json`,
             function (data, status) {
                 en_unusual = data['result'];
-                data_conut+=1;
                 if(checkdata()){
                     showdata();
                 }
@@ -101,7 +101,6 @@
         $.get(`./zh-tw_schema.json`,
             function (data, status) {
                 tw_unusual = data['result'];
-                data_conut+=1;
                 if(checkdata()){
                     showdata();
                 }
