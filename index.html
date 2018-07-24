@@ -72,6 +72,35 @@
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
             });
         });
+        $.when( $.getJSON( "./en_1.json"), 
+                $.getJSON( "./en_2.json"),
+                $.getJSON( "./en_3.json"),
+                $.getJSON( "./en_4.json"),
+                $.getJSON( "./en_5.json"),
+                $.getJSON(`./zh-TW_1.json`),
+                $.getJSON(`./zh-TW_2.json`),
+                $.getJSON(`./zh-TW_3.json`),
+                $.getJSON(`./zh-TW_4.json`),
+                $.getJSON(`./zh-TW_5.json`),
+                $.getJSON(`./en_schema.json`),
+                $.getJSON(`./tw_schema.json`)
+                
+                ).done(function ( en1, en2,en3,en4,en5,tw1,tw2,tw3,tw4,tw5,ens,tws ) {
+                    en_data[0] = en1['result'];
+                    en_data[1] = en2['result'];
+                    en_data[2] = en3['result'];
+                    en_data[3] = en4['result'];
+                    en_data[4] = en5['result'];
+                    tw_data[0] = tw1['result'];
+                    tw_data[1] = tw2['result'];
+                    tw_data[2] = tw3['result'];
+                    tw_data[3] = tw4['result'];
+                    tw_data[4] = tw5['result'];
+                    en_unusual = ens['result']['attribute_controlled_attached_particles'];
+                    tw_unusual = tws['result']['attribute_controlled_attached_particles'];
+                    showdata();
+        });
+        /*
         $.get(`./en_1.json`,
             function (data, status) {
                 en_data[0] = data['result'];
@@ -156,7 +185,7 @@
                     setTimeout(showdata,200);
                 }
             });
-        
+        */
     });
     function showdata() {
         var table = $("#table");
