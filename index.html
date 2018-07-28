@@ -132,11 +132,27 @@
                                     `;
                     }
                 }
+                var cls = '';
+                if(tw_data[j]["items"][i]["used_by_classes"]!==undefined){
+                    if(tw_data[j]["items"][i]["used_by_classes"].length==0){
+                        cls = 'All Class';
+                    }
+                    else{
+                        for(var k=0;k<tw_data[j]["items"][i]["used_by_classes"].length;++k){
+                            cls += `<img src="./class_imgs/${tw_data[j]["items"][i]["used_by_classes"][k]}.png" width="25" height="25">`
+                        }
+                    }
+                }
+                else{
+                    cls = 'All Class';
+                }
+
                 tb += `
                                 <tr>  
                                     <td>${tw_data[j]["items"][i]["defindex"]}</td>            
                                     <td><a href="javascript:void(0)" id="i_img_${tw_data[j]["items"][i]["defindex"]}" title="${en_data[j]["items"][i]["item_name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en_data[j]["items"][i]["item_name"]}</a></td>           
                                     <td>${tw_data[j]["items"][i]["item_name"]}</td>
+                                    <td>${cls}</td>
                                     <td>${tw_data[j]["items"][i]["item_class"]}</td>           
                                 </tr>`;
             }
@@ -169,7 +185,7 @@
 
 <body style="margin:20px">
     <div class="jumbotron text-center">
-        <h1>Item defindex</h1>
+        <h1>TF2 Item List</h1>
 
     </div>
     <div class="container">
@@ -199,10 +215,10 @@
                                 <th>Name(en)</th>
                                 <th>Name(zh-TW)</th>
                                 <th>Class</th>
+                                <th>Item Class</th>
                             </tr>
                         </thead>
                         <tbody id="table">
-
                         </tbody>
                     </table>
                 </div>
@@ -213,11 +229,10 @@
                                 <th>Index</th>
                                 <th>Name(en)</th>
                                 <th>Name(zh-TW)</th>
-                                <th>System</th>
+                                <th>Particle System</th>
                             </tr>
                         </thead>
                         <tbody id="u_table">
-
                         </tbody>
                     </table>
                 </div>
@@ -233,9 +248,7 @@
                             </tr>
                         </thead>
                         <tbody id="p_table">
-
                         </tbody>
-
                     </table>
                 </div>
                 <div id="menu3" class="tab-pane fade">
@@ -252,10 +265,7 @@
                         </div>
                     </div>
                 </div>
-
             </div>
-
-
         </div>
     </div>
 </body>
