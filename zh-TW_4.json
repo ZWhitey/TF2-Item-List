@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.3509d8c3628b52c4eca3a192d4a2a2090025bfdc.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d857c9f34442156ea348eb4a34037b9dd670e0c6.txt",
 		"items": [
 			{
 				"name": "ozfortress Open 2nd Place Season 18",
@@ -29157,6 +29157,246 @@
 				
 			},
 			{
+				"name": "Essentials Monthly First Place",
+				"defindex": 9942,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Essentials.TF Monthly Tournament Gold Medal",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/essentials_monthly_gold/essentials_monthly_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/essentials_monthly_gold/essentials_monthly_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/essentials_monthly_gold.78b84e6986fb2507fe07cddebadf280b888d278e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/essentials_monthly_gold_large.2704da5ca9e419aa8d44eb7714df0089a4f51001.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Essentials Monthly Second Place",
+				"defindex": 9943,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Essentials.TF Monthly Tournament Silver Medal",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/essentials_monthly_silver/essentials_monthly_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/essentials_monthly_silver/essentials_monthly_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/essentials_monthly_silver.16a96514da71be0b0e03ace7511b967cf50e4d63.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/essentials_monthly_silver_large.8e1708713974ceba71b167e620952b9a62fd5368.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Essentials Monthly Third Place",
+				"defindex": 9944,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Essentials.TF Monthly Tournament Bronze Medal",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/essentials_monthly_bronze/essentials_monthly_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/essentials_monthly_bronze/essentials_monthly_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/essentials_monthly_bronze.582b513bafa6ac4e0cead7877319f97da44627f5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/essentials_monthly_bronze_large.738c239dcc5b9dc0a83c9a276da91a9b5a0f92de.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Essentials Monthly Participant",
+				"defindex": 9945,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Essentials.TF Monthly Tournament Participant",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/essentials_monthly_participant/essentials_monthly_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/essentials_monthly_participant/essentials_monthly_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/essentials_monthly_participant.3681ebe29802bf2eda110e6b8516d7478cf7c98a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/essentials_monthly_participant_large.e75600026662b2ac89d0097047dcb3b74b591ef3.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Essentials Monthly Contributor",
+				"defindex": 9946,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Essentials.TF Monthly Tournament Contributor",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/essentials_monthly_contributor/essentials_monthly_contributor_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/essentials_monthly_contributor/essentials_monthly_contributor",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/essentials_monthly_contributor.722c3cf4d9adde94621b36be3f4d85bf9c266f6d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/essentials_monthly_contributor_large.27ebb4e1185db8131877a8790c589d80a2c40c3e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
 				"name": "RGLgg Invite Champions Season 3",
 				"defindex": 9947,
 				"item_class": "tf_wearable",
@@ -33236,6 +33476,3179 @@
 				"craft_material_type": "",
 				"capabilities": {
 					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL 6v6 1st Place Season 4",
+				"defindex": 10034,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL 6v6 冠軍",
+				"item_description": "第四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_gold/tfcl_medal_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_gold/tfcl_medal_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_gold.a738950eb8e259bd42d40fe2c4dbdc5223c89bfe.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_gold_large.e8f897fe3ebabaf265ac920e77e4ac35b0ef3dec.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL 6v6 2nd Place Season 4",
+				"defindex": 10035,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL 6v6 亞軍",
+				"item_description": "第四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_silver/tfcl_medal_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_silver/tfcl_medal_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_silver.4d19f4a32fae456842a6fd7f736f39063cd1933a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_silver_large.2a8441031f641b7a707f4a925baaee9fde88d620.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL 6v6 3rd Place Season 4",
+				"defindex": 10036,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL 6v6 季軍",
+				"item_description": "第四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_bronze/tfcl_medal_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_bronze/tfcl_medal_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_bronze.93c7e54594b2f05263371fab1a7bb0ecb4defa0f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_bronze_large.f260a6e0b9f95a2846f225dd2e046bd9b7de0547.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL 6v6 Participant Season 4",
+				"defindex": 10037,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL 6v6 參賽者",
+				"item_description": "第四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_participant/tfcl_medal_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_participant/tfcl_medal_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_participant.445ba93bdaad0643fc8a85b40ef41d37083ad7e9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_participant_large.3b25e5ba053f68c4ff74bc2157ea9c4d0ec3da62.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Ultiduo 1st Place Season 5",
+				"defindex": 10038,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Ultiduo 冠軍",
+				"item_description": "第五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_gold/tfcl_medal_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_gold/tfcl_medal_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_gold.a738950eb8e259bd42d40fe2c4dbdc5223c89bfe.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_gold_large.e8f897fe3ebabaf265ac920e77e4ac35b0ef3dec.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Ultiduo 2nd Place Season 5",
+				"defindex": 10039,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Ultiduo 亞軍",
+				"item_description": "第五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_silver/tfcl_medal_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_silver/tfcl_medal_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_silver.4d19f4a32fae456842a6fd7f736f39063cd1933a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_silver_large.2a8441031f641b7a707f4a925baaee9fde88d620.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Ultiduo 3rd Place Season 5",
+				"defindex": 10040,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Ultiduo 季軍",
+				"item_description": "第五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_bronze/tfcl_medal_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_bronze/tfcl_medal_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_bronze.93c7e54594b2f05263371fab1a7bb0ecb4defa0f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_bronze_large.f260a6e0b9f95a2846f225dd2e046bd9b7de0547.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Ultiduo Participant Season 5",
+				"defindex": 10041,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Ultiduo 參賽者",
+				"item_description": "第五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_participant/tfcl_medal_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_participant/tfcl_medal_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_participant.445ba93bdaad0643fc8a85b40ef41d37083ad7e9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_participant_large.3b25e5ba053f68c4ff74bc2157ea9c4d0ec3da62.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Highlander 1st Place Season 2",
+				"defindex": 10042,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Highlander 1st Place",
+				"item_description": "第二季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_gold/tfcl_medal_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_gold/tfcl_medal_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_gold.a738950eb8e259bd42d40fe2c4dbdc5223c89bfe.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_gold_large.e8f897fe3ebabaf265ac920e77e4ac35b0ef3dec.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Highlander 2nd Place Season 2",
+				"defindex": 10043,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Highlander 2nd Place",
+				"item_description": "第二季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_silver/tfcl_medal_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_silver/tfcl_medal_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_silver.4d19f4a32fae456842a6fd7f736f39063cd1933a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_silver_large.2a8441031f641b7a707f4a925baaee9fde88d620.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Highlander 3rd Place Season 2",
+				"defindex": 10044,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Highlander 3rd Place",
+				"item_description": "第二季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_bronze/tfcl_medal_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_bronze/tfcl_medal_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_bronze.93c7e54594b2f05263371fab1a7bb0ecb4defa0f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_bronze_large.f260a6e0b9f95a2846f225dd2e046bd9b7de0547.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TFCL Highlander Participant Season 2",
+				"defindex": 10045,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "TFCL Highlander Participant",
+				"item_description": "第二季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/tfcl_medal_participant/tfcl_medal_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/tfcl_medal_participant/tfcl_medal_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/tfcl_medal_participant.445ba93bdaad0643fc8a85b40ef41d37083ad7e9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/tfcl_medal_participant_large.3b25e5ba053f68c4ff74bc2157ea9c4d0ec3da62.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TF2Maps 72hr TF2Jam Summer Participant 2018",
+				"defindex": 10046,
+				"item_class": "tf_wearable",
+				"item_type_name": "社群勳章",
+				"item_name": "TF2Maps 72hr TF2Jam 夏季參加者",
+				"item_description": "2018",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/72hr_jimijam/72hr_jimijam_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/72hr_jimijam/72hr_jimijam",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/72hr_jimijam.598e64b389413c06fbf6a3f8349e13ab1ecb516a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/72hr_jimijam_large.cab806302e4dd32f2b3c1a9ca5c5831f36159db5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "勳章"
+					},
+					{
+						"name": "胸針"
+					}
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Insomnia 63 First Place Medal",
+				"defindex": 10047,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Insomnia 63 First Place",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/iseries_gold/iseries_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/iseries_gold/iseries_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/iseries_gold.c726613a8ccc629ed89bbb90245ea416c6b5c523.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/iseries_gold_large.bc4d53ba3eaabd3909484561242d85c1ddff4fca.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Insomnia 63 Second Place Medal",
+				"defindex": 10048,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Insomnia 63 Second Place",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/iseries_silver/iseries_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/iseries_silver/iseries_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/iseries_silver.38a361826ba3e900ddefa402e0a1346e2d84a985.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/iseries_silver_large.882791766294c98fbe3e8567b85553183daf170a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Insomnia 63 Third Place Medal",
+				"defindex": 10049,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Insomnia 63 Third Place",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/iseries_bronze/iseries_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/iseries_bronze/iseries_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/iseries_bronze.1a20cd1ecaf0b27cc1f06af2568748396fa8be68.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/iseries_bronze_large.dc0c6bfeb42eb06a0494251f13e11b99f6e3db96.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Insomnia 63 Participant Medal",
+				"defindex": 10050,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Insomnia 63 Participant",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/iseries_participant/iseries_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/iseries_participant/iseries_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/iseries_participant.93c8984bdb48b38dd863c98f43c74b9869753cda.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/iseries_participant_large.98f82765bdba31f69ed6431166fe4154c8dbb6ee.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Insomnia 63 Contributor Medal",
+				"defindex": 10051,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "Insomnia 63 Contributor",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/iseries_contributor/iseries_contributor_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/iseries_contributor/iseries_contributor",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/iseries_contributor.cd308e2f4be0591988c032af74dbbeeab665952e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/iseries_contributor_large.d668c9ffbb6f3c4cb1703f1c33aea8d835faa84e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 1st Place Platinum Season 24",
+				"defindex": 10052,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組冠軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place.60b1a01b2c9f6e056f5ab333ad983999ea9bc5af.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place_large.a4195dc93ba870c10195a706b4f0843da320286f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 2nd Place Platinum Season 24",
+				"defindex": 10053,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組亞軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place.bd70ca370ae150c7aacfed792c9de40f46d9037b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place_large.25177f53868b86ff4709af7104c609ddc3e1fc59.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 3rd Place Platinum Season 24",
+				"defindex": 10054,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組季軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place.55c0d524aa888cd230299cc8a94690a07544a9ea.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place_large.b5899d1c338da600aa53998b20abee30bfd8e1da.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Platinum Participant Season 24",
+				"defindex": 10055,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組參賽者",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant.8b9685fbe7d27ba113aa5406589d43bb5ca95f58.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant_large.3f792a600940a2540227acbbcd03105eff83c037.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 1st Place Silver Season 24",
+				"defindex": 10056,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組冠軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_1st_place.bee2e5a0b3c1f0e65460585071cc3a372b1c8430.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_1st_place_large.ec34cd802d0f98416ad76c796994c3784f30ab5e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 2nd Place Silver Season 24",
+				"defindex": 10057,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組亞軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_2nd_place.8daecdfee51d344c2a1305ce32e5ef5182ca4b3a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_2nd_place_large.9c49864f82c8573e121ea18a05bb793abecf50b1.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 3rd Place Silver Season 24",
+				"defindex": 10058,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組季軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_3rd_place.aec7ecd03ada345e2570cc27b5ef571440e7c44c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_3rd_place_large.ffda6211da47e8e57c842e8b6146f6beab5ab810.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Silver Participant Season 24",
+				"defindex": 10059,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組參賽者",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant.a95b61420f3b3a587837f32f7f92366250237e51.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant_large.768cd79bc6e4a8bc871a079aefe1a99a0af510fd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 1st Place Steel Season 24",
+				"defindex": 10060,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組冠軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_1st_place.385600bbe9da6cc624bea801df720587a58f8af3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_1st_place_large.bec6e6c0d7bb0be7d7cf89acdeb5142fd7aedd05.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 2nd Place Steel Season 24",
+				"defindex": 10061,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組亞軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_2nd_place.7b70cbe4eef66fc9804c5b552645c429b739e950.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_2nd_place_large.fda8e32202a8de7f25fd84abe4e1c9dc6d8d016a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 3rd Place Steel Season 24",
+				"defindex": 10062,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組季軍",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_3rd_place.6f42c93002d4713dff85452328ef617af3e7af83.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_3rd_place_large.601d61f5903decbc400717a2c845a95482cf565f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Steel Participant Season 24",
+				"defindex": 10063,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組參賽者",
+				"item_description": "第二十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant.26cc3399ec2a730ae8bc198258e4c868c811e097.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant_large.8768aa55262b75fcb0f82aca268b8d96a59aadab.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 1st Place Platinum Season 26",
+				"defindex": 10064,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金冠軍",
+				"item_description": "第二十六季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place.60b1a01b2c9f6e056f5ab333ad983999ea9bc5af.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place_large.a4195dc93ba870c10195a706b4f0843da320286f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 2nd Place Platinum Season 26",
+				"defindex": 10065,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金亞軍",
+				"item_description": "第二十六季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place.bd70ca370ae150c7aacfed792c9de40f46d9037b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place_large.25177f53868b86ff4709af7104c609ddc3e1fc59.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 3rd Place Platinum Season 26",
+				"defindex": 10066,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金季軍",
+				"item_description": "第二十六季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place.55c0d524aa888cd230299cc8a94690a07544a9ea.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place_large.b5899d1c338da600aa53998b20abee30bfd8e1da.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 Platinum Participant Season 26",
+				"defindex": 10067,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金參賽者",
+				"item_description": "第二十六季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant.8b9685fbe7d27ba113aa5406589d43bb5ca95f58.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant_large.3f792a600940a2540227acbbcd03105eff83c037.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 Silver Participant Season 26",
+				"defindex": 10068,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 銀牌參賽者",
+				"item_description": "第二十六季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant.a95b61420f3b3a587837f32f7f92366250237e51.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant_large.768cd79bc6e4a8bc871a079aefe1a99a0af510fd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 Steel Participant Season 26",
+				"defindex": 10069,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 鐵牌參賽者",
+				"item_description": "第二十六季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant.26cc3399ec2a730ae8bc198258e4c868c811e097.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant_large.8768aa55262b75fcb0f82aca268b8d96a59aadab.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 1st Place Gold Season 13",
+				"defindex": 10070,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組冠軍",
+				"item_description": "第十三季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_1st_place.3e6735b67e324add4156dc67d5e139bea9693902.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_1st_place_large.7a89ef8386645bd21366cc735cc9bd30446b9fe0.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 2nd Place Gold Season 13",
+				"defindex": 10071,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組亞軍",
+				"item_description": "第十三季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_2nd_place.534929cde9669595222db9398d97205c6ccdfa54.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_2nd_place_large.70630e5f0bc59fcd393099e09d43c21dfe05318a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 3rd Place Gold Season 13",
+				"defindex": 10072,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組季軍",
+				"item_description": "第十三季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_3rd_place.88fbbd2135a21fde46a1578606b09281f81f9465.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_3rd_place_large.9b3bd4ced69e560ac47f2b088d4a95812711412b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 Gold Participant Season 13",
+				"defindex": 10073,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組參賽者",
+				"item_description": "第十三季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_participant.4c71ddd1ea5aaedd2b0beb5c6b8a85aa2f920f13.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_participant_large.a3884a1c9232052e2be8cdb5a465e020998787f5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 Silver Participant Season 13",
+				"defindex": 10074,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 銀牌參加獎",
+				"item_description": "第十三季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant.a95b61420f3b3a587837f32f7f92366250237e51.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant_large.768cd79bc6e4a8bc871a079aefe1a99a0af510fd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 Steel Participant Season 13",
+				"defindex": 10075,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 鐵牌參加獎",
+				"item_description": "第十三季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant.26cc3399ec2a730ae8bc198258e4c868c811e097.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant_large.8768aa55262b75fcb0f82aca268b8d96a59aadab.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 1st Place Platinum Season 25",
+				"defindex": 10076,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組冠軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place.60b1a01b2c9f6e056f5ab333ad983999ea9bc5af.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place_large.a4195dc93ba870c10195a706b4f0843da320286f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 2nd Place Platinum Season 25",
+				"defindex": 10077,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組亞軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place.bd70ca370ae150c7aacfed792c9de40f46d9037b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place_large.25177f53868b86ff4709af7104c609ddc3e1fc59.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 3rd Place Platinum Season 25",
+				"defindex": 10078,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組季軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place.55c0d524aa888cd230299cc8a94690a07544a9ea.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place_large.b5899d1c338da600aa53998b20abee30bfd8e1da.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Platinum Participant Season 25",
+				"defindex": 10079,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白金組參賽者",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant.8b9685fbe7d27ba113aa5406589d43bb5ca95f58.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant_large.3f792a600940a2540227acbbcd03105eff83c037.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 1st Place Silver Season 25",
+				"defindex": 10080,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組冠軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_1st_place.bee2e5a0b3c1f0e65460585071cc3a372b1c8430.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_1st_place_large.ec34cd802d0f98416ad76c796994c3784f30ab5e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 2nd Place Silver Season 25",
+				"defindex": 10081,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組亞軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_2nd_place.8daecdfee51d344c2a1305ce32e5ef5182ca4b3a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_2nd_place_large.9c49864f82c8573e121ea18a05bb793abecf50b1.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 3rd Place Silver Season 25",
+				"defindex": 10082,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組季軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_3rd_place.aec7ecd03ada345e2570cc27b5ef571440e7c44c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_3rd_place_large.ffda6211da47e8e57c842e8b6146f6beab5ab810.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Silver Participant Season 25",
+				"defindex": 10083,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 白銀組參賽者",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant.a95b61420f3b3a587837f32f7f92366250237e51.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant_large.768cd79bc6e4a8bc871a079aefe1a99a0af510fd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 1st Place Steel Season 25",
+				"defindex": 10084,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組冠軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_1st_place.385600bbe9da6cc624bea801df720587a58f8af3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_1st_place_large.bec6e6c0d7bb0be7d7cf89acdeb5142fd7aedd05.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 2nd Place Steel Season 25",
+				"defindex": 10085,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組亞軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_2nd_place.7b70cbe4eef66fc9804c5b552645c429b739e950.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_2nd_place_large.fda8e32202a8de7f25fd84abe4e1c9dc6d8d016a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander 3rd Place Steel Season 25",
+				"defindex": 10086,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組季軍",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_3rd_place.6f42c93002d4713dff85452328ef617af3e7af83.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_3rd_place_large.601d61f5903decbc400717a2c845a95482cf565f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Steel Participant Season 25",
+				"defindex": 10087,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC Highlander 鋼鐵組參賽者",
+				"item_description": "第二十五季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant.26cc3399ec2a730ae8bc198258e4c868c811e097.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant_large.8768aa55262b75fcb0f82aca268b8d96a59aadab.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 1st Place Platinum Season 27",
+				"defindex": 10088,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金冠軍",
+				"item_description": "第二十七季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place.60b1a01b2c9f6e056f5ab333ad983999ea9bc5af.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_1st_place_large.a4195dc93ba870c10195a706b4f0843da320286f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 2nd Place Platinum Season 27",
+				"defindex": 10089,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金亞軍",
+				"item_description": "第二十七季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place.bd70ca370ae150c7aacfed792c9de40f46d9037b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_2nd_place_large.25177f53868b86ff4709af7104c609ddc3e1fc59.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 3rd Place Platinum Season 27",
+				"defindex": 10090,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金季軍",
+				"item_description": "第二十七季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place.55c0d524aa888cd230299cc8a94690a07544a9ea.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_3rd_place_large.b5899d1c338da600aa53998b20abee30bfd8e1da.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 Platinum Participant Season 27",
+				"defindex": 10091,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 白金參賽者",
+				"item_description": "第二十七季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_platinum_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_platinum_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant.8b9685fbe7d27ba113aa5406589d43bb5ca95f58.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_platinum_participant_large.3f792a600940a2540227acbbcd03105eff83c037.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 Silver Participant Season 27",
+				"defindex": 10092,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 銀牌參賽者",
+				"item_description": "第二十七季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant.a95b61420f3b3a587837f32f7f92366250237e51.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant_large.768cd79bc6e4a8bc871a079aefe1a99a0af510fd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 6vs6 Steel Participant Season 27",
+				"defindex": 10093,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 6vs6 鐵牌參賽者",
+				"item_description": "第二十七季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant.26cc3399ec2a730ae8bc198258e4c868c811e097.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant_large.8768aa55262b75fcb0f82aca268b8d96a59aadab.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 1st Place Gold Season 14",
+				"defindex": 10094,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組冠軍",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_1st_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_1st_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_1st_place.3e6735b67e324add4156dc67d5e139bea9693902.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_1st_place_large.7a89ef8386645bd21366cc735cc9bd30446b9fe0.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 2nd Place Gold Season 14",
+				"defindex": 10095,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組亞軍",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_2nd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_2nd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_2nd_place.534929cde9669595222db9398d97205c6ccdfa54.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_2nd_place_large.70630e5f0bc59fcd393099e09d43c21dfe05318a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 3rd Place Gold Season 14",
+				"defindex": 10096,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組季軍",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_3rd_place.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_3rd_place",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_3rd_place.88fbbd2135a21fde46a1578606b09281f81f9465.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_3rd_place_large.9b3bd4ced69e560ac47f2b088d4a95812711412b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 Gold Participant Season 14",
+				"defindex": 10097,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 黃金組參賽者",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_gold_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_participant.4c71ddd1ea5aaedd2b0beb5c6b8a85aa2f920f13.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_gold_participant_large.a3884a1c9232052e2be8cdb5a465e020998787f5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 Silver Participant Season 14",
+				"defindex": 10098,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 銀牌參加獎",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_silver_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant.a95b61420f3b3a587837f32f7f92366250237e51.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_silver_participant_large.768cd79bc6e4a8bc871a079aefe1a99a0af510fd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC 4vs4 Steel Participant Season 14",
+				"defindex": 10099,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "UGC 4vs4 鐵牌參加獎",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ugc_wingy_medal/ugc_wingy_medal_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ugc_wingy_medal/ugc_medal_steel_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant.26cc3399ec2a730ae8bc198258e4c868c811e097.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_medal_steel_participant_large.8768aa55262b75fcb0f82aca268b8d96a59aadab.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -43291,2623 +46704,9 @@
 
 				]
 				
-			},
-			{
-				"name": "quest25006",
-				"defindex": 25006,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25007",
-				"defindex": 25007,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25008",
-				"defindex": 25008,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25009",
-				"defindex": 25009,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25010",
-				"defindex": 25010,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25011",
-				"defindex": 25011,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25012",
-				"defindex": 25012,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25013",
-				"defindex": 25013,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25014",
-				"defindex": 25014,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25015",
-				"defindex": 25015,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25016",
-				"defindex": 25016,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25017",
-				"defindex": 25017,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25018",
-				"defindex": 25018,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25019",
-				"defindex": 25019,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25020",
-				"defindex": 25020,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25021",
-				"defindex": 25021,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25022",
-				"defindex": 25022,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25023",
-				"defindex": 25023,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25024",
-				"defindex": 25024,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25025",
-				"defindex": 25025,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25026",
-				"defindex": 25026,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25027",
-				"defindex": 25027,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25028",
-				"defindex": 25028,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25029",
-				"defindex": 25029,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25030",
-				"defindex": 25030,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25031",
-				"defindex": 25031,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25032",
-				"defindex": 25032,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25033",
-				"defindex": 25033,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25034",
-				"defindex": 25034,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25035",
-				"defindex": 25035,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25036",
-				"defindex": 25036,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25037",
-				"defindex": 25037,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25038",
-				"defindex": 25038,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25039",
-				"defindex": 25039,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25040",
-				"defindex": 25040,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25041",
-				"defindex": 25041,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25042",
-				"defindex": 25042,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25043",
-				"defindex": 25043,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25044",
-				"defindex": 25044,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25045",
-				"defindex": 25045,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25046",
-				"defindex": 25046,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25047",
-				"defindex": 25047,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25048",
-				"defindex": 25048,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25049",
-				"defindex": 25049,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25050",
-				"defindex": 25050,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25051",
-				"defindex": 25051,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "quest25052",
-				"defindex": 25052,
-				"item_class": "tool",
-				"item_type_name": "",
-				"item_name": "",
-				"proper_name": false,
-				"model_player": null,
-				"item_quality": 255,
-				"image_inventory": null,
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": null,
-				"image_url_large": null,
-				"craft_class": "tool",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-
-				]
-				
-			},
-			{
-				"name": "The Electric Badge-aloo",
-				"defindex": 30000,
-				"item_class": "tf_wearable",
-				"item_type_name": "獎章",
-				"item_name": "機器電流勳章",
-				"item_description": "這個勳章戴的單片眼鏡讓你知道它看不見；手杖讓你知道它已經一腳踏進棺材；而高帽則讓你知道它超富有！快趕在其他淘金客湧上來搶之前把這勳章娶回家吧！",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/robo_all_bomb_badge/robo_all_bomb_badge_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_bomb_badge/robo_all_bomb_badge",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_bomb_badge.66b31df027dfe0087521b4e2f20ccdec2df9c1b5.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_bomb_badge_large.7dc0cbbdf46d9694bb1b401e90cc3aac6106f5df.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Modest Metal Pile of Scrap",
-				"defindex": 30001,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "小灰廢鐵帽",
-				"item_description": "茫茫帽海中這頂謙遜的小帽向全世界昭告還有比錢更重要的事情，比方說沒錢。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/robo_all_modest_pile/robo_all_modest_pile_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_modest_pile/robo_all_modest_pile",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_modest_pile.7dff299c23db306c19a8d8833729928aa7eb63e8.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_modest_pile_large.52f49272fcc81fb38fde7340b5b24298fecaedea.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Letch's LED",
-				"defindex": 30002,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "清算者的LED",
-				"item_description": "這帽子附有可看透別人衣物、同時發出警報以警告他人你將他們看光的X光眼鏡組。對監獄有著狂熱喜好，但是卻不知道該怎麼進去的人來說是絕佳配備喔。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/sniper/robo_sniper_liquidator/robo_sniper_liquidator.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/sniper/robo_sniper_liquidator/robo_sniper_liquidator",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_sniper_liquidator.02bb6cd16e132fb4490e149235a848f080979f1f.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_sniper_liquidator_large.503f3d43c4c804842502d1937a91ed7c70903c2e.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Galvanized Gibus",
-				"defindex": 30003,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "鍍鋅大禮帽",
-				"item_description": "優雅、簡約、復古的魅力與甲醇混汽油的致命劇毒香氣的完美結合。請勿在不通風的場所配戴。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/robo_all_gibus/robo_all_gibus_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_gibus/robo_all_gibus",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_gibus.f0ec7d3daa73dd1849d1b26c24b7892431bc820b.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_gibus_large.84b53c674082330aa7716ea578af159024b73d41.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Soldered Sensei",
-				"defindex": 30004,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "焊接的黃頭帶",
-				"item_description": "空手道大師讓你以為沒有比黑帶更高的段位了。但如果我們告訴你其實黑帶以上還有一條鮮為人知的金屬帶，能讓你把黑帶大師打得滿地找牙呢？無怪乎黑帶的傢伙們幾年來一直對這件事情三緘其口。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/sniper/robo_sniper_soldered_sensei/robo_sniper_soldered_sensei.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/sniper/robo_sniper_soldered_sensei/robo_sniper_soldered_sensei",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_sniper_soldered_sensei.043a24031de776674e342d9058b24d7b0e255af3.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_sniper_soldered_sensei_large.6eda26f9f5656dd8fd1e81af90e8d437a118fed9.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Shooter's Tin Topi",
-				"defindex": 30005,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "射手錫製遮陽帽",
-				"item_description": "這頂狩獵頭盔是用從上一個獵場收集來的，濺上鮮血的吉普車、步槍、彈殼、填充物等殘骸焊接而成。請時時戴著這頂帽子，作為提醒自己不要做任何和打獵一樣蠢的蠢事。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/sniper/robo_sniper_solar_topi/robo_sniper_solar_topi.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/sniper/robo_sniper_solar_topi/robo_sniper_solar_topi",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_sniper_solar_topi.ca0b8ce3b27091461373abca0995cb240d9d823d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_sniper_solar_topi_large.667f1dde6d964c053eb20a2d355e40c18218524b.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Noble Nickel Amassment of Hats",
-				"defindex": 30006,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "貴族大鎳帽",
-				"item_description": "有些帽塔出生卑微，經過一番帽子的奮鬥後才爬得上貴族的位階。至於其他的帽塔，比方說這一頂，已經有個在惠普擔任業務發展總監的有錢老爸們了。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/robo_all_noble_amassment/robo_all_noble_amassment_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_noble_amassment/robo_all_noble_amassment",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_noble_amassment.9d4fa932eeaa44b3021e1729bda5dc8db0111f1a.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_noble_amassment_large.e995f7323b5c73345c4919695dbd7ad9a8f361f2.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Base Metal Billycock",
-				"defindex": 30007,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "金屬氈帽",
-				"item_description": "用機器人的外貌來模仿你最喜歡的戴圓帽的虛構角色，諸如《蝙蝠俠》裡的謎天大聖、《發條橘子》裡的艾利克斯，還有英格蘭的溫斯頓・邱吉爾。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/spy/robo_spy_backbiter_billycock/robo_spy_backbiter_billycock.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/spy/robo_spy_backbiter_billycock/robo_spy_backbiter_billycock",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_spy_backbiter_billycock.e0178053fe35cf76ee62fe72d97d583b18e5056d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_spy_backbiter_billycock_large.84ab071ef32401458ffcb2e5dd80830a2968f8cf.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Towering Titanium Pillar of Hats",
-				"defindex": 30008,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "錫帽塔",
-				"item_description": "艾西莫夫的機器人學三大法則分別是：一、機器人不可傷害人類，二、機器人必須服從人類，以及三、這帽子看起來棒極了。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/robo_all_towering_pillar/robo_all_towering_pillar_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_towering_pillar/robo_all_towering_pillar",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_towering_pillar.7fe22f4679c2f202800a931e190c627983cc958f.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_towering_pillar_large.5b6a514601f3fa6bb6ade791efcd9f993e6e6b28.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Megapixel Beard",
-				"defindex": 30009,
-				"item_class": "tf_wearable",
-				"item_type_name": "鬍子",
-				"item_name": "百萬畫素鬍",
-				"item_description": "適合在你所有的性感約會中拍照，而現在你又有了一副機器鬍子。如果要說有什麼讓女士們難以抗拒的話，請寫信過來並告訴我們，我們會把它栓到這個好操耐用的機器上。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/spy/robo_spy_camera_beard/robo_spy_camera_beard.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/spy/robo_spy_camera_beard/robo_spy_camera_beard",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_spy_camera_beard.561af6a319399944177cd46dc8b92cf3c14085c3.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_spy_camera_beard_large.c8aeabfa786f4aa8a0064b276ee0032dd3d1355a.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The HDMI Patch",
-				"defindex": 30010,
-				"item_class": "tf_wearable",
-				"item_type_name": "照片",
-				"item_name": "高畫質義眼",
-				"item_description": "購買這產品後，還會贈送許多有關眼球的電影（《大開眼戒》、《魔山２隔山有眼》和另外三部），讓你的朋友可輕鬆地從你的臉上享受這幾部作品。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/robo_demo_pupil/robo_demo_pupil.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_pupil/robo_demo_pupil",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_pupil.98495a251064dd53a12758e6f656814d411294fe.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_pupil_large.d5a5d86c3ab3883c55bf4e222d1cd0e246b872d6.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Bolted Bombardier",
-				"defindex": 30011,
-				"item_class": "tf_wearable",
-				"item_type_name": "鬍子",
-				"item_name": "大螺栓炸彈客",
-				"item_description": "記得你遇見世上最聰明的機器人的那一刻嗎？就是你還把他的鬍鬚和蠢菸斗一同扯下來的那次？記得吧？那麼，警察想找你聊聊。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/robo_demo_beard_bombardier/robo_demo_beard_bombardier.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_beard_bombardier/robo_demo_beard_bombardier",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_beard_bombardier.6143ee3e84f93d33628eec047e4571a74d326974.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_beard_bombardier_large.7ab7532952be531ed1765c4592acf78cd577c7a7.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Titanium Towel",
-				"defindex": 30012,
-				"item_class": "tf_wearable",
-				"item_type_name": "服裝",
-				"item_name": "鈦金屬毛巾",
-				"item_description": "是啊，一般毛巾要處理水很容易，但是如果你現在全身都被磁鐵覆蓋了呢？你的一般毛巾還能怎樣？你只能被磁力慢慢地折磨死啦，就是這樣。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/robo_heavy_boltedscraptowel/robo_heavy_boltedscraptowel.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/robo_heavy_boltedscraptowel/robo_heavy_boltedscraptowel",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_heavy_boltedscraptowel.db29647a4b69d8d351b10dec81a5ecce42c3ff6e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_heavy_boltedscraptowel_large.826a5fcd815fbf5b14e366294c427b40ced9415e.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Gridiron Guardian",
-				"defindex": 30013,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "鐵架頭盔",
-				"item_description": "這頂頭盔是設計來紀念加拿大機器人聯賽中，蒙特婁運動員隊和他們的宿敵－來自曼尼托巴省溫尼伯市的沙斯卡區灣隊之間的那場傳奇對決。你說我在唬爛？隨便找個加拿大人問問吧！",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/robo_heavy_football_helmet/robo_heavy_football_helmet.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/robo_heavy_football_helmet/robo_heavy_football_helmet",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_heavy_football_helmet.4d4553668d698562c4f5d92328108d7c5aaa9515.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_heavy_football_helmet_large.845d74dbf0b404c31426ab4187afffe9ebc0abfc.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Tyrantium Helmet",
-				"defindex": 30014,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "暴金屬頭盔",
-				"item_description": "這頂帽子超屌，屌到能把你頂到另一個維京人全變成了機器人的平行世界。自求多福吧！",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/soldier/robo_soldier_tyrantium/robo_soldier_tyrantium.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/soldier/robo_soldier_tyrantium/robo_soldier_tyrantium",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_soldier_tyrantium.0f4df271e009c202ed41d3eb06acaed115f3a112.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_soldier_tyrantium_large.b77513f1aad86a08b6db84ca679e8e1d26f2f4ba.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Battery Canteens",
-				"defindex": 30015,
-				"item_class": "tf_powerup_bottle",
-				"item_type_name": "可用物品",
-				"item_name": "電力升級水壺",
-				"item_description": "別讓名稱誤導你了：這根本不是個真正的電池水壺，也沒辦法將儲存的化學能量轉為電子能量。它們只是個跟你的水壺外表完全一樣的普通水壺，裡面裝的則是強酸電解液。",
-				"proper_name": false,
-				"item_slot": "action",
-				"model_player": "models/workshop/player/items/scout/robo_all_mvm_canteen/robo_all_mvm_canteen.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/robo_all_mvm_canteen/robo_all_mvm_canteen",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_mvm_canteen.0349cd88483ee23d511082c98393b25292cc4897.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_mvm_canteen_large.94adaaded06ab2a331e07d18c6313a27570f4c06.png",
-				"craft_class": "",
-				"capabilities": {
-					"nameable": true,
-					"usable": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"tool": {
-					"type": "powerup_bottle"
-				},
-				"attributes": [
-					{
-						"name": "powerup charges",
-						"class": "powerup_charges",
-						"value": 0
-					},
-					{
-						"name": "powerup max charges",
-						"class": "powerup_max_charges",
-						"value": 3
-					},
-					{
-						"name": "powerup duration",
-						"class": "powerup_duration",
-						"value": 5
-					},
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 109
-					}
-				]
-				
-			},
-			{
-				"name": "The FR-0",
-				"defindex": 30016,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "爆炸頭零號機",
-				"item_description": "七零年代經典電影《布拉科斯頓海爾對決黑海爾九千型》的獨一無二紀念品。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/robo_demo_fro/robo_demo_fro.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_fro/robo_demo_fro",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_fro.fa0fe9e467a30232f7bc867f07b85df812ca80ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_fro_large.ffc86151d9ef7bfebfbf18e2e8d7ea50ba436e27.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Steel Shako",
-				"defindex": 30017,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "維多利亞鐵盔",
-				"item_description": "這頂帽子結合了柴可夫斯基《胡桃鉗》的華麗宏偉，以及柴可夫斯基《機械胡桃鉗大戰泰山》的大膽未來風格。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/soldier/robo_soldier_shako/robo_soldier_shako.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/soldier/robo_soldier_shako/robo_soldier_shako",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_soldier_shako.fbecdd7189060d9ab34f6599e9e78fcf4cf0ad68.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_soldier_shako_large.57bad2ae384867f406b8e37af3f2e8deae10dd55.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Bot Dogger",
-				"defindex": 30018,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "熱狗販賣機",
-				"item_description": "無可避免地，機器熱狗帽總有一天會變成全世界最流行的配件。當它變得受歡迎後，所有人一定都會宣稱他們「在這東西變超酷前就喜歡它了」。感謝這台熱狗販賣機，全世界只有「你」才能證明剛才那句話所言不假。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/robo_dogger/robo_dogger_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/robo_dogger/robo_dogger",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_dogger.0d55781757074a1cc74347cff6d9f7105672f68f.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_dogger_large.24115a4d027836edd960038a1dace46424d596de.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Ye Oiled Baker Boy",
-				"defindex": 30019,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "老式機油帽",
-				"item_description": "就如同這頂帽子從1899年的鋼鐵倫敦城裡，一具渾身佈滿髒兮兮鐵鏽的兒童尺寸機器人的金屬小腦袋上滾了下來，掉進時光隧道，並流落到你的現代背包中。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/robo_scout_baker_boy/robo_scout_baker_boy.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/robo_scout_baker_boy/robo_scout_baker_boy",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_scout_baker_boy.22762ca5b7d416b06248c69d8114f0bbec731d0b.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_scout_baker_boy_large.c7e9e92cdbae24187a50042a3402eaabb7129c80.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Scrap Sack",
-				"defindex": 30020,
-				"item_class": "tf_wearable",
-				"item_type_name": "背包",
-				"item_name": "隨身廢鐵組合包",
-				"item_description": "擔心你工作時會有一堆偷盜者從你的垃圾堆中挖寶走人嗎？有了這廢鐵包就不用操心了，因為這東西可讓你無時無刻關注你那堆充滿秘密的垃圾喔。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/pyro/robo_pyro_pyrobotic_tote/robo_pyro_pyrobotic_tote.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_pyrobotic_tote/robo_pyro_pyrobotic_tote",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_pyrobotic_tote.8ce475dd42257a549a89dfe7976a562b9d457b08.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_pyrobotic_tote_large.6449bda0bba690ba21586cbc1b39b77b3dc6bafd.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Pure Tin Capotain",
-				"defindex": 30021,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "純錫的朝聖帽",
-				"item_description": "獵殺女巫：必要、但費時。如果我們告訴你，有種帽子可以讓你連根手指都不必動，一天內就能燒死五名女巫呢？在此向您介紹純錫朝聖帽，自電動開罐器之後最棒的省時新發明。",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/robo_demo_capotain/robo_demo_capotain.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_capotain/robo_demo_capotain",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_capotain.6f2ef2a0b17c8c2af517a2c6239abc8cd6b2239e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_capotain_large.dc366daae6b8006b93610b9a6f115c218b7d50ad.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Plumber's Pipe",
-				"defindex": 30022,
-				"item_class": "tf_wearable",
-				"item_type_name": "頭飾",
-				"item_name": "水管工的水管",
-				"item_description": "利用這套簡單好上手的家庭水管工組合包來學習藉由滲透作用疏通水管吧！內容物包含一段水管與一長條金屬線。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/pyro/robo_pyro_prancers_pride/robo_pyro_prancers_pride.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_prancers_pride/robo_pyro_prancers_pride",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_prancers_pride.be58dd12eb8231bd054bdb02554653eceb905dad.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_prancers_pride_large.f360cac2862123862a649a49f65a48fc43a73ef4.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Teddy Robobelt",
-				"defindex": 30023,
-				"item_class": "tf_wearable",
-				"item_type_name": "口袋小夥伴",
-				"item_name": "羅斯福機器熊",
-				"item_description": "這隻機器小熊曾經是總統。現在他則是住在你的口袋裡。為什麼這麼偉大的存在會落得這副田地呢？[做出喝的動作] 咕嚕咕嚕、眨眼眨眼。",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/robo_engineer_teddy/robo_engineer_teddy.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/robo_engineer_teddy/robo_engineer_teddy",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/robo_engineer_teddy.19923baed203089ee3ecaeb7c27f513c5bbd2f6d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_engineer_teddy_large.825eb452c04dbf438210e0f8b35fec57cc87790f.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 30024
+		"next": 25006
 	}
 }
