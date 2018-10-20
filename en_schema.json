@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d857c9f34442156ea348eb4a34037b9dd670e0c6.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -7936,7 +7936,7 @@
 		,
 		"item_sets": [
 			{
-				"item_set": "ai_pack",
+				"item_set": "Á±ïq\u0003î‡\\]¯í-\u0005\u001a›jXÿçÀÊ6ƒ°YY,Á\u001dê\u0014²3–1ô¡£\u0003ÓûZ\nö§\u001eJ³Mâml_ÿB—YOR\u001cK>”cmƒ6‰˜\u001e\u0006\nNÏ\tSşqWpû¿™OÆÖªÊµ>«nŞlQ’kuG\u0003\u0001µO‡Ä\"o",
 				"name": "The Isolationist Pack",
 				"items": [
 					"The Alien Cranium",
@@ -7959,7 +7959,7 @@
 				
 			},
 			{
-				"item_set": "airborne_armaments",
+				"item_set": "§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Airborne Armaments",
 				"items": [
 					"The Liberty Launcher",
@@ -7970,7 +7970,7 @@
 				
 			},
 			{
-				"item_set": "alien_isolation_merc_set",
+				"item_set": ">«nŞlQ’kuG\u0003\u0001µO‡Ä\"o",
 				"name": "The Isolated Merc",
 				"items": [
 					"The MK 50",
@@ -7992,7 +7992,7 @@
 				
 			},
 			{
-				"item_set": "bak_sixties_sidekick",
+				"item_set": "ÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "Sixties Sidekick",
 				"items": [
 					"Sidekick's Side Slick",
@@ -8002,7 +8002,7 @@
 				
 			},
 			{
-				"item_set": "black_market",
+				"item_set": "«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "Black Market Business",
 				"items": [
 					"Tomislav",
@@ -8013,7 +8013,7 @@
 				
 			},
 			{
-				"item_set": "bonk_fan",
+				"item_set": "\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The #1 Fan",
 				"items": [
 					"The Soda Popper",
@@ -8024,7 +8024,7 @@
 				
 			},
 			{
-				"item_set": "demo_halloween_2011",
+				"item_set": "¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Highland Hound",
 				"items": [
 					"Hair of the Dog",
@@ -8034,7 +8034,7 @@
 				
 			},
 			{
-				"item_set": "desert_demo",
+				"item_set": "¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "One Thousand and One Demoknights",
 				"items": [
 					"The Persian Persuader",
@@ -8045,7 +8045,7 @@
 				
 			},
 			{
-				"item_set": "desert_sniper",
+				"item_set": "iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "Lawrence of Australia",
 				"items": [
 					"The Bazaar Bargain",
@@ -8055,7 +8055,7 @@
 				
 			},
 			{
-				"item_set": "drg_brainiac",
+				"item_set": "°uZï¨ñäN Ğ±m®Ş1è-p+Ì›y7\u001cJ\u0003ínyx£AtÁrãÔ-ÓÉ\u0017µî:ÉŞ\u0006&\u0014§Î\u0016©¬AÙy¸~\u0014‡9n\u001cÌ§Æí€ØSJ€lß4¢Ñµ°”\u000bˆl—i¦{¼FjˆóÁÀ`\u000fUŸ$o\u0013Ø^â¡ÃëÌŞn¿üh²§?Mv÷1€C\u001aY4\u001b\u0013UŸÜ=¸Q\u0007Áªl\\É³á¶™që±\u0016qLĞ_\u001b×\u001a½õ\u000fyqšŸ¥Ó]ÜOJ\u001còK¾\u0007;*4ŸÌ€u\u0013çƒúŞµS'82õnâ^\u001b{\nS—\r¯\u0008\u000c¾YÂêÊÆ{i´èŞR±ø’˜ıãowõõÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Dr. Grordbort's Brainiac Pack",
 				"items": [
 					"The Eureka Effect",
@@ -8066,7 +8066,7 @@
 				
 			},
 			{
-				"item_set": "drg_moonman",
+				"item_set": "®Ş1è-p+Ì›y7\u001cJ\u0003ínyx£AtÁrãÔ-ÓÉ\u0017µî:ÉŞ\u0006&\u0014§Î\u0016©¬AÙy¸~\u0014‡9n\u001cÌ§Æí€ØSJ€lß4¢Ñµ°”\u000bˆl—i¦{¼FjˆóÁÀ`\u000fUŸ$o\u0013Ø^â¡ÃëÌŞn¿üh²§?Mv÷1€C\u001aY4\u001b\u0013UŸÜ=¸Q\u0007Áªl\\É³á¶™që±\u0016qLĞ_\u001b×\u001a½õ\u000fyqšŸ¥Ó]ÜOJ\u001còK¾\u0007;*4ŸÌ€u\u0013çƒúŞµS'82õnâ^\u001b{\nS—\r¯\u0008\u000c¾YÂêÊÆ{i´èŞR±ø’˜ıãowõõÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Dr. Grordbort's Moonman Pack",
 				"items": [
 					"The Phlogistinator",
@@ -8078,7 +8078,7 @@
 				
 			},
 			{
-				"item_set": "drg_victory",
+				"item_set": "¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "Dr. Grordbort's Victory Pack",
 				"items": [
 					"The Cow Mangler 5000",
@@ -8089,7 +8089,7 @@
 				
 			},
 			{
-				"item_set": "engineer_halloween_2011",
+				"item_set": "xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Brundle Bundle",
 				"items": [
 					"Buzz Killer",
@@ -8107,7 +8107,7 @@
 				
 			},
 			{
-				"item_set": "experts_ordnance",
+				"item_set": "Ìñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Expert's Ordnance",
 				"store_bundle": "Expert's Ordnance Bundle",
 				"items": [
@@ -8118,7 +8118,7 @@
 				
 			},
 			{
-				"item_set": "gangland_spy",
+				"item_set": "şéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Man of Honor",
 				"items": [
 					"The Enforcer",
@@ -8129,7 +8129,7 @@
 				
 			},
 			{
-				"item_set": "general_suit",
+				"item_set": "Âkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The General's Formals",
 				"items": [
 					"The Mantreads",
@@ -8140,7 +8140,7 @@
 				
 			},
 			{
-				"item_set": "heavy_fairy",
+				"item_set": "ôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Grand Duchess",
 				"items": [
 					"The Grand Duchess Tutu",
@@ -8150,7 +8150,7 @@
 				
 			},
 			{
-				"item_set": "heavy_halloween_2011",
+				"item_set": "\u001cª.|¤4@\u0005ÌW‚‚pºHÊ®‹·£Ğ^jÃ\u0005\u0010œ$÷ÊêExV&ÖŸšÒ>Ó×xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The FrankenHeavy",
 				"items": [
 					"Can Opener",
@@ -8160,7 +8160,7 @@
 				
 			},
 			{
-				"item_set": "hibernating_bear",
+				"item_set": "\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Hibernating Bear",
 				"store_bundle": "Hibernating Bear Bundle",
 				"items": [
@@ -8172,7 +8172,7 @@
 				
 			},
 			{
-				"item_set": "hidden_applearrow_set",
+				"item_set": "Ğ_\u001b×\u001a½õ\u000fyqšŸ¥Ó]ÜOJ\u001còK¾\u0007;*4ŸÌ€u\u0013çƒúŞµS'82õnâ^\u001b{\nS—\r¯\u0008\u000c¾YÂêÊÆ{i´èŞR±ø’˜ıãowõõÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Dual-Purpose Fruit",
 				"items": [
 					"The Huntsman",
@@ -8189,7 +8189,7 @@
 				
 			},
 			{
-				"item_set": "hidden_detective_set",
+				"item_set": "Ş\u0006&\u0014§Î\u0016©¬AÙy¸~\u0014‡9n\u001cÌ§Æí€ØSJ€lß4¢Ñµ°”\u000bˆl—i¦{¼FjˆóÁÀ`\u000fUŸ$o\u0013Ø^â¡ÃëÌŞn¿üh²§?Mv÷1€C\u001aY4\u001b\u0013UŸÜ=¸Q\u0007Áªl\\É³á¶™që±\u0016qLĞ_\u001b×\u001a½õ\u000fyqšŸ¥Ó]ÜOJ\u001còK¾\u0007;*4ŸÌ€u\u0013çƒúŞµS'82õnâ^\u001b{\nS—\r¯\u0008\u000c¾YÂêÊÆ{i´èŞR±ø’˜ıãowõõÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Eliminating The Impossible",
 				"items": [
 					"Private Eye",
@@ -8206,7 +8206,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_demo_squidpirate",
+				"item_set": "îşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Cursed Captain",
 				"items": [
 					"The Squid's Lid",
@@ -8215,7 +8215,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_demo_vampire",
+				"item_set": "tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Count Tavish",
 				"items": [
 					"The Transylvania Top",
@@ -8224,7 +8224,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_medic_space_surgeon",
+				"item_set": "à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Doctor Galactic",
 				"items": [
 					"The Lo-Grav Loafers",
@@ -8233,7 +8233,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_medic_sun_king",
+				"item_set": "x!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Sun King",
 				"items": [
 					"Teutonkahmun",
@@ -8242,7 +8242,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_pyro_lake_monster",
+				"item_set": "Éw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Murky Lurker",
 				"items": [
 					"The Abhorrent Appendages",
@@ -8251,7 +8251,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_pyro_malice",
+				"item_set": "õÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Malice in Pyroland",
 				"items": [
 					"The Crispy Golden Locks",
@@ -8260,7 +8260,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_pyro_pyrosaur",
+				"item_set": "s“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Burny The Pyrosaur",
 				"items": [
 					"Burny's Boney Bonnet",
@@ -8270,7 +8270,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_scout_dog",
+				"item_set": "aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Boston Bulldog",
 				"items": [
 					"The Terrier Trousers",
@@ -8279,7 +8279,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_soldier_rocket_ranger",
+				"item_set": "ÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Rocket Ranger",
 				"items": [
 					"The Hardium Helm",
@@ -8289,7 +8289,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_soldier_shaolin",
+				"item_set": "agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Terracotta Trooper",
 				"items": [
 					"The Hidden Dragon",
@@ -8299,7 +8299,7 @@
 				
 			},
 			{
-				"item_set": "hw2013_spy_blood_banker_alt",
+				"item_set": "®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Gravelpit Emperor",
 				"items": [
 					"The Candyman's Cap",
@@ -8309,7 +8309,7 @@
 				
 			},
 			{
-				"item_set": "medic_halloween_2011",
+				"item_set": "~/yÒJLQ`µÖŸoej)SUV¡QvÄm,}`çO\u000c–Í¥\u0002ˆmïäÊÕ!¯H\u001fKx\u0003•–ìnxm¿˜×j—Â\u001cª.|¤4@\u0005ÌW‚‚pºHÊ®‹·£Ğ^jÃ\u0005\u0010œ$÷ÊêExV&ÖŸšÒ>Ó×xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Mad Doktor",
 				"items": [
 					"Einstein",
@@ -8319,7 +8319,7 @@
 				
 			},
 			{
-				"item_set": "medieval_medic",
+				"item_set": "q¦¤_Ø8Ò|‘\u0002\"ü\u0004G\u0001\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Medieval Medic",
 				"store_bundle": "Medieval Medic Bundle",
 				"items": [
@@ -8330,7 +8330,7 @@
 				
 			},
 			{
-				"item_set": "monster_mash_up",
+				"item_set": "ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Monster Mash-Up Pack",
 				"items": [
 					"Yeti_Head",
@@ -8340,7 +8340,7 @@
 				
 			},
 			{
-				"item_set": "polycount_pyro",
+				"item_set": "&“‹‚SéÇ+¼PHc¥Ó¨Ãç]&Z\u001e^b\u0004yİFL?a™’]JZP±£N.ŸÌâùB®¡\u000e\n6XLô”U\u0019¾–2¥™…\u00179D\u0011İ|i¬”}#²›Õ<Q6Ç>\u0012v®^?‹øÑW‰\u001c\u0017Ÿ@£™éíÒğvø¢™©\t•¤õQ··ŞÜ:âYÀ£å<¬ûûµ\u0011T\u0008ç!d$r™\u001a_…(½G\"‡p–TJ\u000e‘fFƒ\u001bœ¢DE\\É\tq¦¤_Ø8Ò|‘\u0002\"ü\u0004G\u0001\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Gas Jockey's Gear",
 				"store_bundle": "Polycount Pyro Bundle",
 				"items": [
@@ -8359,7 +8359,7 @@
 				
 			},
 			{
-				"item_set": "polycount_scout",
+				"item_set": "–TJ\u000e‘fFƒ\u001bœ¢DE\\É\tq¦¤_Ø8Ò|‘\u0002\"ü\u0004G\u0001\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Special Delivery",
 				"store_bundle": "Polycount Scout Bundle",
 				"items": [
@@ -8379,7 +8379,7 @@
 				
 			},
 			{
-				"item_set": "polycount_sniper",
+				"item_set": "\u0008ç!d$r™\u001a_…(½G\"‡p–TJ\u000e‘fFƒ\u001bœ¢DE\\É\tq¦¤_Ø8Ò|‘\u0002\"ü\u0004G\u0001\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Croc-o-Style Kit",
 				"store_bundle": "Polycount Sniper Bundle",
 				"items": [
@@ -8399,7 +8399,7 @@
 				
 			},
 			{
-				"item_set": "polycount_soldier",
+				"item_set": "Q··ŞÜ:âYÀ£å<¬ûûµ\u0011T\u0008ç!d$r™\u001a_…(½G\"‡p–TJ\u000e‘fFƒ\u001bœ¢DE\\É\tq¦¤_Ø8Ò|‘\u0002\"ü\u0004G\u0001\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Tank Buster",
 				"store_bundle": "Polycount Soldier Bundle",
 				"items": [
@@ -8418,7 +8418,7 @@
 				
 			},
 			{
-				"item_set": "polycount_spy",
+				"item_set": "¥™…\u00179D\u0011İ|i¬”}#²›Õ<Q6Ç>\u0012v®^?‹øÑW‰\u001c\u0017Ÿ@£™éíÒğvø¢™©\t•¤õQ··ŞÜ:âYÀ£å<¬ûûµ\u0011T\u0008ç!d$r™\u001a_…(½G\"‡p–TJ\u000e‘fFƒ\u001bœ¢DE\\É\tq¦¤_Ø8Ò|‘\u0002\"ü\u0004G\u0001\u0015nBû“ùõ-\u001c|\u001eg/áB=èÌñ\u0004.äş?Y\u0004ÇYAİ¹©iã#&\u0017!x.ßõZ›£…¡Cà\u0003ÏÆ¸ÍëÏ!^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Saharan Spy",
 				"store_bundle": "Polycount Spy Bundle",
 				"items": [
@@ -8437,7 +8437,7 @@
 				
 			},
 			{
-				"item_set": "pyro_halloween_2011",
+				"item_set": "ûOè¿íøl\u0010÷\"F* 5–\u000f_¿\u0013~/yÒJLQ`µÖŸoej)SUV¡QvÄm,}`çO\u000c–Í¥\u0002ˆmïäÊÕ!¯H\u001fKx\u0003•–ìnxm¿˜×j—Â\u001cª.|¤4@\u0005ÌW‚‚pºHÊ®‹·£Ğ^jÃ\u0005\u0010œ$÷ÊêExV&ÖŸšÒ>Ó×xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Infernal Imp",
 				"items": [
 					"Blazing Bull",
@@ -8447,7 +8447,7 @@
 				
 			},
 			{
-				"item_set": "rapid_repair",
+				"item_set": "^!À÷Ny\u000f\u00047á'‘\u000e§¨m\u00127ƒ¯×~Z`ùŠ¢&Õwb«XÌÖ÷\u0010\u0004ŸLÒÛÅ\u001bdRVÖı.ÅÂkd²<\u001f¤Â‹\u0012˜¼\tşéœ”v_K‰¼¡şÕá¡\u001cSiÄc»õÈù\nüÛ¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "Clinical Trial",
 				"items": [
 					"The Quick-Fix",
@@ -8457,7 +8457,7 @@
 				
 			},
 			{
-				"item_set": "scout_halloween_2011",
+				"item_set": "\u0016@á\u0010Í­\u0017\u0019",
 				"name": "The Curse-a-Nature",
 				"items": [
 					"Wrap Battler",
@@ -8467,7 +8467,7 @@
 				
 			},
 			{
-				"item_set": "scout_public_enemy",
+				"item_set": "—Ò®@Qì\\wÆmã'R7\\è¬\n\u001b°uZï¨ñäN Ğ±m®Ş1è-p+Ì›y7\u001cJ\u0003ínyx£AtÁrãÔ-ÓÉ\u0017µî:ÉŞ\u0006&\u0014§Î\u0016©¬AÙy¸~\u0014‡9n\u001cÌ§Æí€ØSJ€lß4¢Ñµ°”\u000bˆl—i¦{¼FjˆóÁÀ`\u000fUŸ$o\u0013Ø^â¡ÃëÌŞn¿üh²§?Mv÷1€C\u001aY4\u001b\u0013UŸÜ=¸Q\u0007Áªl\\É³á¶™që±\u0016qLĞ_\u001b×\u001a½õ\u000fyqšŸ¥Ó]ÜOJ\u001còK¾\u0007;*4ŸÌ€u\u0013çƒúŞµS'82õnâ^\u001b{\nS—\r¯\u0008\u000c¾YÂêÊÆ{i´èŞR±ø’˜ıãowõõÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Public Enemy",
 				"items": [
 					"Baby Face's Blaster",
@@ -8478,7 +8478,7 @@
 				
 			},
 			{
-				"item_set": "sf14_demo_skeleton",
+				"item_set": "Dq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Forgotten King",
 				"items": [
 					"Forgotten King's Restless Head",
@@ -8487,7 +8487,7 @@
 				
 			},
 			{
-				"item_set": "sf14_heavy_minotaur",
+				"item_set": "I\u000b#ád¾G*üëÙãÈìŞ<¤ªB©YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Minsk Beast",
 				"items": [
 					"Minsk Beef",
@@ -8497,7 +8497,7 @@
 				
 			},
 			{
-				"item_set": "sf14_medic_dog",
+				"item_set": "¯ßıÔ+i\u0014×ıGÍ™²$0ô¹7Äi\u0017\u001avd\u001d;õn³ĞI™öRüu´÷­‹\tö\u0019-Œkß«™å\u0011¨\u0010Š\r}›ÿQ\u0015Í\u0018îÔ]İ0PÄ\u0008ãq\u0005.[µ^ÓB†c®iãGˆã;N^\u0008B/”Gg›MèI\u000b#ád¾G*üëÙãÈìŞ<¤ªB©YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "Canis Ex Machina",
 				"items": [
 					"Hundekopf",
@@ -8507,7 +8507,7 @@
 				
 			},
 			{
-				"item_set": "sf14_medic_templar",
+				"item_set": "ô¹7Äi\u0017\u001avd\u001d;õn³ĞI™öRüu´÷­‹\tö\u0019-Œkß«™å\u0011¨\u0010Š\r}›ÿQ\u0015Í\u0018îÔ]İ0PÄ\u0008ãq\u0005.[µ^ÓB†c®iãGˆã;N^\u0008B/”Gg›MèI\u000b#ád¾G*üëÙãÈìŞ<¤ªB©YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Templar",
 				"items": [
 					"Templar's Spirit",
@@ -8516,7 +8516,7 @@
 				
 			},
 			{
-				"item_set": "sf14_medic_vampire",
+				"item_set": "AmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "Dr. Acula",
 				"items": [
 					"Transylvanian Toupe",
@@ -8525,7 +8525,7 @@
 				
 			},
 			{
-				"item_set": "sf14_pyro_robot",
+				"item_set": "¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Automated Abnormality",
 				"items": [
 					"Moccasin Machinery",
@@ -8534,7 +8534,7 @@
 				
 			},
 			{
-				"item_set": "sf14_scout_chicken",
+				"item_set": "\u0011¨\u0010Š\r}›ÿQ\u0015Í\u0018îÔ]İ0PÄ\u0008ãq\u0005.[µ^ÓB†c®iãGˆã;N^\u0008B/”Gg›MèI\u000b#ád¾G*üëÙãÈìŞ<¤ªB©YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Deep-Fried Dummy",
 				"items": [
 					"Nugget Noggin",
@@ -8544,7 +8544,7 @@
 				
 			},
 			{
-				"item_set": "sf14_scout_hunter",
+				"item_set": "üu´÷­‹\tö\u0019-Œkß«™å\u0011¨\u0010Š\r}›ÿQ\u0015Í\u0018îÔ]İ0PÄ\u0008ãq\u0005.[µ^ÓB†c®iãGˆã;N^\u0008B/”Gg›MèI\u000b#ád¾G*üëÙãÈìŞ<¤ªB©YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Rooftop Rebel",
 				"items": [
 					"Head Hunter",
@@ -8554,7 +8554,7 @@
 				
 			},
 			{
-				"item_set": "sf14_sniper_kangaroo",
+				"item_set": "YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Manngaroo",
 				"items": [
 					"Marsupial Muzzle",
@@ -8564,7 +8564,7 @@
 				
 			},
 			{
-				"item_set": "sf14_sniper_lizard",
+				"item_set": "¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Reptiloid",
 				"items": [
 					"Skinless Slashers",
@@ -8573,7 +8573,7 @@
 				
 			},
 			{
-				"item_set": "sf14_soldier_supernatural_hunter",
+				"item_set": "PÄ\u0008ãq\u0005.[µ^ÓB†c®iãGˆã;N^\u0008B/”Gg›MèI\u000b#ád¾G*üëÙãÈìŞ<¤ªB©YÂ-ô\u0015a3ÔälK\u001bms’CN+\u0013%¡±½Ö]¶j\"\u00029\u000b\u000fà×Ùì\u0007¼ÒO|¦{ó™\u0005\u0019À×&9àšDq|«Mç˜x×Atnz×y!zYAmIÔõTÕHmnkL<h‹nèPÏeT:“ˆVM'I\u0001aÈëd\u0011Ú))Ò>ÕÒŸP¼›s\u0010ÙE\u0019}é\u0018ùd\u0019e?lxª|B bWLš‹º\nŞŒ—K£ƒn~\u001eî1k·EpuRÎMƒ2Y}A\u0002Ú\\òİ®È¡æˆz\u000fGÄzËv'tK;ˆd²\u000f\u0016)işCg\\vB¥ı%ÖC\u0017­\rZ‹‰&-¡—à\u000b]µ*Ä\u000f¯9~êî—äÊõ–T¤\\Œ“¾WIhŸeS•9Ûñˆ´_Ù³c»Øc=µÍè\\•ŸÎ) ì\u000eĞÇô‚‹3ËÅT\u0008]©›tq\u001eÜ¢s³xÖ\u0016\u0001\u001d—¸Ä#\u001aÂ¹ëŸU¢ªƒ!œf’%=\rMœU\u000c\u0017ÊE•Z¯Ğ|rşC\u0007H>{õ‡ÒQÆ\u0004i7¾/Ø~®g6êWWT¦µ9øQ´Õ•%(>’\u0001Õş‡ÚN8óF£¸&œ n şgÄ\u001f\r¿j\u0013Í¿w\u0016+PM÷\u0001~&ÉX˜Uõğ\u000e e.\u0019Ğ\u001d¤õ,±ûH²Õ‘ú\u0011C{¼átHU¯®÷LD©A\u001bí?Tu\u0007ôÜ\u0005©\u0012F¹‚G¤&—JyÇ¬P\u001etfº¼„?ñ™û­¥òÓMr",
 				"name": "The Sgt. Helsing",
 				"items": [
 					"Hellhunter's Headpiece",
@@ -8583,7 +8583,7 @@
 				
 			},
 			{
-				"item_set": "short2014_demo_drinking",
+				"item_set": "¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The South of the Border Pack",
 				"items": [
 					"The Allbrero",
@@ -8593,7 +8593,7 @@
 				
 			},
 			{
-				"item_set": "short2014_engineer_pack1",
+				"item_set": "°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Builder's Basics Kit",
 				"items": [
 					"The Tools of the Trade",
@@ -8602,7 +8602,7 @@
 				
 			},
 			{
-				"item_set": "short2014_engineer_pack2",
+				"item_set": "5Dg{3@8ss:£‡Ğÿ\u0008´5ÛÜæİ¼\u0001×Ô»\u001d±,!aèÅV/û\u001eŒ>½ÏH2ö_¢B\u001cèÔ„\u0001Á\u0013N†yÖ[/5\u0006}ù%ÑÕ†5nBBÅÙO‚\u001dÍM×”˜˜…D8Á±ïq\u0003î‡\\]¯í-\u0005\u001a›jXÿçÀÊ6ƒ°YY,Á\u001dê\u0014²3–1ô¡£\u0003ÓûZ\nö§\u001eJ³Mâml_ÿB—YOR\u001cK>”cmƒ6‰˜\u001e\u0006\nNÏ\tSşqWpû¿™OÆÖªÊµ>«nŞlQ’kuG\u0003\u0001µO‡Ä\"o",
 				"name": "The Texas Tech-hand",
 				"items": [
 					"The Level Three Chin",
@@ -8612,7 +8612,7 @@
 				
 			},
 			{
-				"item_set": "short2014_pyro_pack1",
+				"item_set": "Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Ronin Roaster Pack",
 				"items": [
 					"The Combustible Kabuto",
@@ -8621,7 +8621,7 @@
 				
 			},
 			{
-				"item_set": "short2014_pyro_pack2",
+				"item_set": "é¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Sons of Arsonry Pack",
 				"items": [
 					"The Gas Guzzler",
@@ -8631,7 +8631,7 @@
 				
 			},
 			{
-				"item_set": "short2014_pyro_pack3",
+				"item_set": "×Ô»\u001d±,!aèÅV/û\u001eŒ>½ÏH2ö_¢B\u001cèÔ„\u0001Á\u0013N†yÖ[/5\u0006}ù%ÑÕ†5nBBÅÙO‚\u001dÍM×”˜˜…D8Á±ïq\u0003î‡\\]¯í-\u0005\u001a›jXÿçÀÊ6ƒ°YY,Á\u001dê\u0014²3–1ô¡£\u0003ÓûZ\nö§\u001eJ³Mâml_ÿB—YOR\u001cK>”cmƒ6‰˜\u001e\u0006\nNÏ\tSşqWpû¿™OÆÖªÊµ>«nŞlQ’kuG\u0003\u0001µO‡Ä\"o",
 				"name": "The Fast Food Firestarter Pack",
 				"items": [
 					"Employee of the Mmmph",
@@ -8640,7 +8640,7 @@
 				
 			},
 			{
-				"item_set": "short2014_scout_fancy",
+				"item_set": "Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Retro Rebel Pack",
 				"items": [
 					"The Pomade Prince",
@@ -8650,7 +8650,7 @@
 				
 			},
 			{
-				"item_set": "short2014_scout_pack",
+				"item_set": "ÑÕ†5nBBÅÙO‚\u001dÍM×”˜˜…D8Á±ïq\u0003î‡\\]¯í-\u0005\u001a›jXÿçÀÊ6ƒ°YY,Á\u001dê\u0014²3–1ô¡£\u0003ÓûZ\nö§\u001eJ³Mâml_ÿB—YOR\u001cK>”cmƒ6‰˜\u001e\u0006\nNÏ\tSşqWpû¿™OÆÖªÊµ>«nŞlQ’kuG\u0003\u0001µO‡Ä\"o",
 				"name": "The Wicked Good Ninja Pack",
 				"items": [
 					"The Frickin' Sweet Ninja Hood",
@@ -8660,7 +8660,7 @@
 				
 			},
 			{
-				"item_set": "short2014_sniper_pack",
+				"item_set": "ö_¢B\u001cèÔ„\u0001Á\u0013N†yÖ[/5\u0006}ù%ÑÕ†5nBBÅÙO‚\u001dÍM×”˜˜…D8Á±ïq\u0003î‡\\]¯í-\u0005\u001a›jXÿçÀÊ6ƒ°YY,Á\u001dê\u0014²3–1ô¡£\u0003ÓûZ\nö§\u001eJ³Mâml_ÿB—YOR\u001cK>”cmƒ6‰˜\u001e\u0006\nNÏ\tSşqWpû¿™OÆÖªÊµ>«nŞlQ’kuG\u0003\u0001µO‡Ä\"o",
 				"name": "The Straight Shooter Pack",
 				"items": [
 					"The Scoper's Smoke",
@@ -8669,7 +8669,7 @@
 				
 			},
 			{
-				"item_set": "short2014_soldier_pack",
+				"item_set": "…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "The Federal Express Pack",
 				"items": [
 					"The Spook Specs",
@@ -8679,7 +8679,7 @@
 				
 			},
 			{
-				"item_set": "short2014_spy_pack",
+				"item_set": "ı\u0018\u001cÏëI‰ş¹„ÒXJÅkÆ",
 				"name": "The Automatic Pilot Pack",
 				"items": [
 					"The Aviator Assassin",
@@ -8688,7 +8688,7 @@
 				
 			},
 			{
-				"item_set": "sniper_halloween_2011",
+				"item_set": "Ğ^jÃ\u0005\u0010œ$÷ÊêExV&ÖŸšÒ>Ó×xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Camper Van Helsing",
 				"items": [
 					"Holy Hunter",
@@ -8698,7 +8698,7 @@
 				
 			},
 			{
-				"item_set": "sniper_urban_professional",
+				"item_set": "‰‰3b×š¸Z%s",
 				"name": "The Urban Professional",
 				"items": [
 					"The Hitman's Heatmaker",
@@ -8708,7 +8708,7 @@
 				
 			},
 			{
-				"item_set": "soldier_dumpster_diver",
+				"item_set": "êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Dumpster Diver",
 				"items": [
 					"The Beggar's Bazooka",
@@ -8718,7 +8718,7 @@
 				
 			},
 			{
-				"item_set": "soldier_halloween_2011",
+				"item_set": "QvÄm,}`çO\u000c–Í¥\u0002ˆmïäÊÕ!¯H\u001fKx\u0003•–ìnxm¿˜×j—Â\u001cª.|¤4@\u0005ÌW‚‚pºHÊ®‹·£Ğ^jÃ\u0005\u0010œ$÷ÊêExV&ÖŸšÒ>Ó×xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Tin Soldier",
 				"items": [
 					"Idiot Box",
@@ -8728,7 +8728,7 @@
 				
 			},
 			{
-				"item_set": "spy_halloween_2011",
+				"item_set": "!¯H\u001fKx\u0003•–ìnxm¿˜×j—Â\u001cª.|¤4@\u0005ÌW‚‚pºHÊ®‹·£Ğ^jÃ\u0005\u0010œ$÷ÊêExV&ÖŸšÒ>Ó×xü1:\u000fZŞS%\u000cø\u0001q2wÄÆ\n\u0006£Åo\u000b\u0019y§!\u001dtËJ¶yÀ¶=U2ÓÙ\u000fÁôÕÅüöôÌ\u0019\u0014Æ\u0007–¹+GÇ¤êP*ä˜©ÊmQ Ó\u000fQ¢\u0003Ò†i!Öø’­‰‰3b×š¸Z%s",
 				"name": "The Invisible Rogue",
 				"items": [
 					"Under Cover",
@@ -8738,7 +8738,7 @@
 				
 			},
 			{
-				"item_set": "swashbucklers_swag",
+				"item_set": "Û¨‚ââ-È\u000e©ò Ù‹ê\u0014N¸l\u001f9\rÒäõq\u0005İ#—Ò—lˆ®‹ÓPŒz\u0007\u000cŠNèZz\u0008Y²¶bø0éƒºû“ñ“.ğÅ½#\\a¥©.Æ¤ßYÏéo“å\u000cÑøşs*S+2Ú\u0001\u0016@á\u0010Í­\u0017\u0019",
 				"name": "Swashbuckler's Swag",
 				"items": [
 					"The Scottish Handshake",
@@ -8749,7 +8749,7 @@
 				
 			},
 			{
-				"item_set": "winter2011_scout_elf",
+				"item_set": "J\u0003ínyx£AtÁrãÔ-ÓÉ\u0017µî:ÉŞ\u0006&\u0014§Î\u0016©¬AÙy¸~\u0014‡9n\u001cÌ§Æí€ØSJ€lß4¢Ñµ°”\u000bˆl—i¦{¼FjˆóÁÀ`\u000fUŸ$o\u0013Ø^â¡ÃëÌŞn¿üh²§?Mv÷1€C\u001aY4\u001b\u0013UŸÜ=¸Q\u0007Áªl\\É³á¶™që±\u0016qLĞ_\u001b×\u001a½õ\u000fyqšŸ¥Ó]ÜOJ\u001còK¾\u0007;*4ŸÌ€u\u0013çƒúŞµS'82õnâ^\u001b{\nS—\r¯\u0008\u000c¾YÂêÊÆ{i´èŞR±ø’˜ıãowõõÒ²´šR$Öüœy<nsò\u0002;[à<\n\u001f­¨\u0003ØÓáÆƒNÆ ©IÂ—\u00029±ßÅöÚN@ß\u0019K•×\u000bÙ\u0018©ë~“”\u000f†¥\u000fg‚¶\rœ<\u0007ò\nÉw³á-ùí¼:oríš¿£Ê6\n\u0003W¬wJw®Ä\u0010gÄO\u0001\u0004)m\\j¶ÆãäSŸ®yx§\u0019ÇüùW2agL\u0012\u0003Ûû\u0013\u001fù‚i#læt[—*cğãx!@áı'>À\u001c4Û5+ÜJ\u0004%•Ã_÷\u0004aU2[Ÿ=¦¯\u0017™2²\u0005Z=ÛÓs“\"_ÍÃâú8^Ã\"1Ù\"@t£\u0008]ÿîşÇ¹\u001aÈ‘‹Iw»—„¡ŠĞ\u001dí\\òq€\u0001tMÑ`Ş\u0004ßşdä<ÑıCxMº\u0001K¿¶3¿Œ#ÖZ-Îoe…'\u0016¹_Q·g€ìÂ=Ç¥\u001eª²\u0017Trÿu\u001eO4YKù`[@*\u0008¦…\u0017Ê¹åP—\u0018;ä©%3ôø$Ñ¤NëÙ\\Ôo\u0005ãQDÍÔË—ı\u000fòU\u001aë¹³¼àlé¹\rŸ¼¨Áã¹ÛÕ´’Oè,8>n@ø°»\u000cd{\u0002§ÏÕ\u0013…\u0012VAW",
 				"name": "Santa's Little Accomplice",
 				"items": [
 					"The Wrap Assassin",
@@ -9398,6 +9398,83 @@
 				"name": "Starstorm Slumber"
 			},
 			{
+				"system": "unusual_bubble_mess_parent_green",
+				"id": 111,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Brain Drain"
+			},
+			{
+				"system": "unusual_bubble_mess_parent_orange",
+				"id": 112,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Open Mind"
+			},
+			{
+				"system": "unusual_bubble_mess_parent_purple",
+				"id": 113,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Head of Steam"
+			},
+			{
+				"system": "unusual_constellations_blue",
+				"id": 114,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Galactic Gateway"
+			},
+			{
+				"system": "unusual_constellations_pink",
+				"id": 115,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "The Eldritch Opening"
+			},
+			{
+				"system": "unusual_constellations_purple",
+				"id": 116,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "The Dark Doorway"
+			},
+			{
+				"system": "unusual_symbols_parent_fire",
+				"id": 117,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Ring of Fire"
+			},
+			{
+				"system": "unusual_symbols_parent_dead",
+				"id": 118,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Vicious Circle"
+			},
+			{
+				"system": "unusual_symbols_parent_lightning",
+				"id": 119,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "White Lightning"
+			},
+			{
+				"system": "unusual_crystalball",
+				"id": 120,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Omniscient Orb"
+			},
+			{
+				"system": "unusual_psychic_eye",
+				"id": 121,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Clairvoyance"
+			},
+			{
 				"system": "weapon_unusual_hot",
 				"id": 701,
 				"attach_to_rootbone": false,
@@ -9568,6 +9645,42 @@
 				"id": 3016,
 				"attach_to_rootbone": false,
 				"name": "Infernal Smoke"
+			},
+			{
+				"system": "utaunt_bubbles_glow_green_parent",
+				"id": 3017,
+				"attach_to_rootbone": false,
+				"name": "Acidic Bubbles of Envy"
+			},
+			{
+				"system": "utaunt_bubbles_glow_orange_parent",
+				"id": 3018,
+				"attach_to_rootbone": false,
+				"name": "Flammable Bubbles of Attraction"
+			},
+			{
+				"system": "utaunt_bubbles_glow_purple_parent",
+				"id": 3019,
+				"attach_to_rootbone": false,
+				"name": "Poisonous Bubbles of Regret"
+			},
+			{
+				"system": "utaunt_firework_dragon_parent",
+				"id": 3020,
+				"attach_to_rootbone": false,
+				"name": "Roaring Rockets"
+			},
+			{
+				"system": "utaunt_smoke_moon_parent",
+				"id": 3021,
+				"attach_to_rootbone": false,
+				"name": "Spooky Night"
+			},
+			{
+				"system": "utaunt_smoke_moon_green_parent",
+				"id": 3022,
+				"attach_to_rootbone": false,
+				"name": "Ominous Night"
 			},
 			{
 				"system": "killstreak_eyeglow_4_teamcolor_red",

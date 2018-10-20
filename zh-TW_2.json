@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d857c9f34442156ea348eb4a34037b9dd670e0c6.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -2159,6 +2159,162 @@
 				
 			},
 			{
+				"name": "Taunt: Panzer Pants",
+				"defindex": 1196,
+				"item_class": "no_entity",
+				"item_type_name": "特殊的嘲笑動作",
+				"item_name": "Taunt: Panzer Pants",
+				"item_description": "Soldier Taunt",
+				"proper_name": false,
+				"item_slot": "taunt",
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/taunt_tank",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/taunt_tank.3faa16fffd940e0dd56f082223eca64a40c74162.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/taunt_tank_large.607b58e90cd29f22fe89045d240d739cc26bbf99.png",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true,
+					"can_unusualify": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 100
+					},
+					{
+						"name": "taunt move speed",
+						"class": "taunt_move_speed",
+						"value": 65
+					},
+					{
+						"name": "taunt force move forward",
+						"class": "taunt_force_move_forward",
+						"value": 1
+					},
+					{
+						"name": "taunt is press and hold",
+						"class": "enable_misc2_holdtaunt",
+						"value": 1
+					},
+					{
+						"name": "taunt move acceleration time",
+						"class": "taunt_move_acceleration_time",
+						"value": 1
+					},
+					{
+						"name": "taunt turn speed",
+						"class": "taunt_turn_speed",
+						"value": 60
+					},
+					{
+						"name": "taunt turn acceleration time",
+						"class": "taunt_turn_acceleration_time",
+						"value": 0.200000002980232239
+					},
+					{
+						"name": "taunt success sound loop",
+						"class": "taunt_success_sound_loop",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Taunt: The Scooty Scoot",
+				"defindex": 1197,
+				"item_class": "no_entity",
+				"item_type_name": "特殊的嘲笑動作",
+				"item_name": "Taunt: The Scooty Scoot",
+				"item_description": "Scout Taunt",
+				"proper_name": false,
+				"item_slot": "taunt",
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/taunt_moped",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/taunt_moped.6e30cf62a7b5fe216c748b55ebf5056d9cb9aa9d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/taunt_moped_large.8b7411abd3d6fdfb7e8d0ec63ec1940abb8be519.png",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true,
+					"can_unusualify": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 100
+					},
+					{
+						"name": "taunt move speed",
+						"class": "taunt_move_speed",
+						"value": 100
+					},
+					{
+						"name": "taunt force move forward",
+						"class": "taunt_force_move_forward",
+						"value": 1
+					},
+					{
+						"name": "taunt is press and hold",
+						"class": "enable_misc2_holdtaunt",
+						"value": 1
+					},
+					{
+						"name": "taunt move acceleration time",
+						"class": "taunt_move_acceleration_time",
+						"value": 1
+					},
+					{
+						"name": "taunt turn speed",
+						"class": "taunt_turn_speed",
+						"value": 60
+					},
+					{
+						"name": "taunt turn acceleration time",
+						"class": "taunt_turn_acceleration_time",
+						"value": 0.200000002980232239
+					},
+					{
+						"name": "taunt success sound loop",
+						"class": "taunt_success_sound_loop",
+						"value": 0
+					}
+				]
+				
+			},
+			{
 				"name": "World Traveler",
 				"defindex": 1899,
 				"item_class": "tf_wearable",
@@ -3683,6 +3839,161 @@
 				"max_ilevel": 50,
 				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_brazil.f94857d39b2b8346e27ddf3d4e5cd62897e915e8.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_brazil_large.b47f01285a7b738dfabf3c9fa0fc4d5145fbc6f8.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Bagel Event",
+				"defindex": 1948,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Cauldron",
+				"item_description": "A King of the Hill Map\n\nMade by Lauren 'Yrrzy' Godfrey\nHarlen 'UEAKCrash' Linke\nZach 'Exactol' Matuson\nSebastian 'Seba' Grus\nRebecca 'Phi' Ailes\nand Freyja\n\nPurchasing this item directly supports the creators of the Cauldron community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_bagel_event",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_bagel_event.5ba0cc01faa8392bc9db5ef5284f5f0870d543e7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_bagel_event_large.f60fbf2c6bb74ce2b43c9397ace3965874151357.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Rumble Event",
+				"defindex": 1949,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Gravestone",
+				"item_description": "A Payload Map\n\nMade by Tomi 'ICS' Uurainen\nRiley 'Sheltr' Aanestad\nMichał 'AsG_Alligator' Byczko\nZach 'Exactol' Matuson\nand Liam 'Diva Dan' Moffitt\n\nPurchasing this item directly supports the creators of the Gravestone community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_rumble_event",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_rumble_event.cac9828d1ac2183c3176b95ff249f524a606691f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_rumble_event_large.48350b74ebc571fbf2308127f6b48811f5b68fe8.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Monster Bash",
+				"defindex": 1950,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Monster Bash",
+				"item_description": "A Player Destruction Map\n\nMade by Aeon 'Void' Bollig\nFuzzymellow\nPEAR\nDonhonk\nHarlen 'UEAKCrash' Linke\nTim 'SediSocks' BL\nLiam 'Diva Dan' Moffitt\nJennifer 'NeoDement' Burnett\nand Erik Colteh\n\nPurchasing this item directly supports the creators of the Monster Bash community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_monster_bash",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_monster_bash.89371bc8ae62d1816ec95ef27990e39c93235299.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_monster_bash_large.f9625cd9fba4105296aa56a58e6637e61e4c16ab.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Slasher",
+				"defindex": 1951,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Slasher",
+				"item_description": "A King of the Hill Map\n\nMade by Aeon 'Void' Bollig\nFuzzymellow\nTim 'SediSocks' BL\nKillohurtz\nMartin 'Chaofanatic' Ellis\nLauren 'Yrrzy' Godfrey\nand Andrew 'Rogue13' Risch\n\nPurchasing this item directly supports the creators of the Slasher community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_slasher",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_slasher.f53462d293d6144744c91dc28d434c03bbbea5c1.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_slasher_large.5eeeac53727c199a4a63baf70264622d7728f7f2.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Cursed Cove",
+				"defindex": 1952,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Cursed Cove",
+				"item_description": "A Player Destruction Map\n\nMade by Louie 'bakscratch' Turner\nJuha 'Jusa' Kuoppala\nSean 'boomsta' Troehler\nJordan 'Hex' LeBlanc\nEmNudge\nZach 'Exactol' Matuson\nNick 'Bobby BodyOdor' Baker\nDuncan 'Magnus' Welch\nNathan 'Yacan1' Dadey\nRoniña 'Py-Bun' Rodriguez\nStiffy360\nand Deacon\n\nPurchasing this item directly supports the creators of the Cursed Cove community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_cursed_cove",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove.e3af379e819cfc000fa2f24a0e834b8e90ea8b31.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove_large.37209f8d09d8678ee5cba9e0255b444dbf61fbe3.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
 					"can_gift_wrap": true,
@@ -8852,6 +9163,37 @@
 						"class": "set_elevated_quality",
 						"value": 1
 					}
+				]
+				
+			},
+			{
+				"name": "Map Token Bundle 14",
+				"defindex": 2162,
+				"item_class": "bundle",
+				"item_type_name": "套裝物品",
+				"item_name": "地圖集郵組",
+				"item_description": "包括每一張由社群玩家製作地圖的郵票。",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_collection",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_collection.a14caabdd3bc9a3067f002be1dd39bbbdc90c0da.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_collection_large.6b5aca38042b977a3fc0356d5606c7f83f674aa7.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
 				]
 				
 			},
@@ -20996,6 +21338,12 @@
 					"type": "",
 					"restriction": "halloween2016"
 				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
 				"used_by_classes": [
 
 				]
@@ -22112,6 +22460,220 @@
 					}
 				]
 				,
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Halloween 2018 Case",
+				"defindex": 5894,
+				"item_class": "supply_crate",
+				"item_type_name": "補給箱",
+				"item_name": "Violet Vermin Case",
+				"item_description": "This Case is locked and requires a\nViolet Vermin Key to open.\n\nContains a community made item\nfrom the Violet Vermin Collection.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/halloween_case.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/halloween2018_case",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/halloween2018_case.1f12abdd8409cbf24ddf838278dc4436918529a7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/halloween2018_case_large.397ca67f2e0e661ce6e46587e9c6c92bb563d4f9.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "halloween2018"
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Halloween 2018 Key",
+				"defindex": 5895,
+				"item_class": "tool",
+				"item_type_name": "工具",
+				"item_name": "Violet Vermin Key",
+				"item_description": "Used to Open the Violet Vermin Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/halloween2018_key",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/halloween2018_key.f55e1f35b0defd0a952de75c115a9bae38396e4f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/halloween2018_key_large.85159f8cbc091921038d1ac3fe99e2dccc5dab8e.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "halloween2018",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Halloween 2018 Collection Dummy",
+				"defindex": 5896,
+				"item_class": "craft_item",
+				"item_type_name": "",
+				"item_name": "Violet Vermin Collection",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": "backpack/crafting/pile_of_junk",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/pile_of_junk.bedea9fa9bf454daf3472361408e742a00f676ab.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Scream Fortress 2018 War Paint Case",
+				"defindex": 5897,
+				"item_class": "supply_crate",
+				"item_type_name": "補給箱",
+				"item_name": "Scream Fortress X War Paint Case",
+				"item_description": "Paint your master piece with one of these community-made War Paints.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/weapons_case.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/weapons_case_workshop_paintkit_halloween2018",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2018.8d97699f1528009b5f9855c7cb11878d517a5693.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2018_large.53d2453deef46d6a2fa031a6cae4274dba3ce36e.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "halloween2018paintkit"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Scream Fortress 2018 War Paint Key",
+				"defindex": 5898,
+				"item_class": "tool",
+				"item_type_name": "工具",
+				"item_name": "Scream Fortress X War Paint Key",
+				"item_description": "Used to Open a Scream Fortress X War Paint Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/weapon_case_key_halloween2018",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/weapon_case_key_halloween2018.4298a18335341aa23fedd3d3b3c338cb9df897a6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/weapon_case_key_halloween2018_large.fc6e351b496c2ce756933b08329cf5f3eaea5a94.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "halloween2018paintkit",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Scream Fortress 2018 War Paint Dummy",
+				"defindex": 5899,
+				"item_class": "craft_item",
+				"item_type_name": "",
+				"item_name": "Scream Fortress X Collection",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": "backpack/crafting/pile_of_junk",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/pile_of_junk.bedea9fa9bf454daf3472361408e742a00f676ab.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
 				"used_by_classes": [
 
 				]
@@ -26795,6 +27357,186 @@
 				"max_ilevel": 1,
 				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_brazil.96f0193819cc8eb6bd811bbca3c62ffdddc82f55.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_brazil_large.c76fd52aee91f19cfe591ed4d0dc4dc2cc66a50b.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Bagel Event (Community)",
+				"defindex": 6565,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Cauldron (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Cauldron.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_bagel_event",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_bagel_event.aa676db9defd4dc742f90bac7312df548776fa7d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_bagel_event_large.72103aee493a7a3459ad740db4e0303931d6d548.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Rumble Event (Community)",
+				"defindex": 6566,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Gravestone (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Gravestone.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_rumble_event",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_rumble_event.b63bed62f1455dfc31bdaaf34d5332039f4e9bf3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_rumble_event_large.e4c1fffafa5ec37a4ac74f0f551fecf0ab53b1f5.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Monster Bash (Community)",
+				"defindex": 6567,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Monster Bash (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Monster Bash.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_monster_bash",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_monster_bash.17be096b119ff7a4d3c5d61a67776fe9af3cf8b4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_monster_bash_large.100f2712ceeb55059fca885dc085217410bc05f4.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Slasher (Community)",
+				"defindex": 6568,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Slasher (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Slasher.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_slasher",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_slasher.db34428ddc93644be8b2e8d60f5ecbed5661efd0.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_slasher_large.4ab7d6aad269630e1552f34a209d563f3807cae1.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Cursed Cove (Community)",
+				"defindex": 6569,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Cursed Cove (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Cursed Cove.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_cursed_cove",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_cursed_cove.c84679171e6047060c28bf0937ee4985057aad60.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_cursed_cove_large.fae2fd81e9573b6510d5df0878c5d9b799373177.png",
 				"capabilities": {
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
@@ -42449,1251 +43191,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "ETF2L 6v6 Premier Division Participation Medal Season 14",
-				"defindex": 8284,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 特別組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 1 Participation Medal Season 14",
-				"defindex": 8285,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第一組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 2 Participation Medal Season 14",
-				"defindex": 8286,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第二組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 3 Participation Medal Season 14",
-				"defindex": 8287,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第三組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 4 Participation Medal Season 14",
-				"defindex": 8288,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第四組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 5 Participation Medal Season 14",
-				"defindex": 8289,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第五組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 6 Participation Medal Season 14",
-				"defindex": 8290,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第六組參加獎",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012.138acc22fa7324800da99f5be826017bb90d3f39.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_participant_2012_large.98d41dff32a2a72aa73c57740f2ccaedf52960a0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Premier Division Gold Medal Season 4",
-				"defindex": 8291,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 特別組金牌",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_placement_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_placement_2012_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_placement_2012_gold.a580c33052f9be5c97a7f29ff4adf547a9de13ca.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_placement_2012_gold_large.acf31467dd640cfedb10d4af687122a3db13772e.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Premier Division Silver Medal Season 4",
-				"defindex": 8292,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 特別組銀牌",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_placement_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_placement_2012_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_placement_2012_silver.d7cbedb55569b6ab93348d1d84277ba35d23f91d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_placement_2012_silver_large.7eab1a5993e568c1d53b06dc04a9814c6250c912.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Premier Division Bronze Medal Season 4",
-				"defindex": 8293,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 特別組銅牌",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_placement_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_placement_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_placement_2012.2a93b59ade9feccc07738e82a9519e0e828513b0.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_placement_2012_large.e70f1105a459612c4fe91d5ec69853f0c16ff8d9.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 1 Group Winner Season 4",
-				"defindex": 8294,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第一組團隊贏家",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012.096a8d9df5c75517b6a020273fe7f1eecf2608d2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012_large.a622c57be9b3010885d2b386f714c903e1db4199.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 2 Group Winner Season 4",
-				"defindex": 8295,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第二組團隊贏家",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012.096a8d9df5c75517b6a020273fe7f1eecf2608d2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012_large.a622c57be9b3010885d2b386f714c903e1db4199.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 3 Group Winner Season 4",
-				"defindex": 8296,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第三組團隊贏家",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012.096a8d9df5c75517b6a020273fe7f1eecf2608d2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012_large.a622c57be9b3010885d2b386f714c903e1db4199.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 4 Group Winner Season 4",
-				"defindex": 8297,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第四組團隊贏家",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012.096a8d9df5c75517b6a020273fe7f1eecf2608d2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012_large.a622c57be9b3010885d2b386f714c903e1db4199.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 5 Group Winner Season 4",
-				"defindex": 8298,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第五組團隊贏家",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012.096a8d9df5c75517b6a020273fe7f1eecf2608d2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012_large.a622c57be9b3010885d2b386f714c903e1db4199.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 6 Group Winner Season 4",
-				"defindex": 8299,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第六組團隊贏家",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012.096a8d9df5c75517b6a020273fe7f1eecf2608d2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_winner_2012_large.a622c57be9b3010885d2b386f714c903e1db4199.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Premier Division Participation Medal Season 4",
-				"defindex": 8300,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 特別組參加獎",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_participant_2012.9d82617f86a954cad04d4556f25863967b888d07.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_participant_2012_large.357b127cd460734d353c462416ccff9e606b7ac0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 1 Participation Medal Season 4",
-				"defindex": 8301,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第一組參加獎",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_participant_2012.9d82617f86a954cad04d4556f25863967b888d07.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_participant_2012_large.357b127cd460734d353c462416ccff9e606b7ac0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L Highlander Division 2 Participation Medal Season 4",
-				"defindex": 8302,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L Highlander 第二組參加獎",
-				"item_description": "第四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_highlander_participant_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_highlander_participant_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_participant_2012.9d82617f86a954cad04d4556f25863967b888d07.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_participant_2012_large.357b127cd460734d353c462416ccff9e606b7ac0.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "ETF2L"
-					},
-					{
-						"name": "Demoman"
-					},
-					{
-						"name": "Engineer"
-					},
-					{
-						"name": "Heavy"
-					},
-					{
-						"name": "Medic"
-					},
-					{
-						"name": "Pyro"
-					},
-					{
-						"name": "Scout"
-					},
-					{
-						"name": "Sniper"
-					},
-					{
-						"name": "Soldier"
-					},
-					{
-						"name": "Spy"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 8303
+		"next": 8284
 	}
 }
