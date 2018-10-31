@@ -4,12 +4,17 @@
 <head>
     <title>Item Name</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
         crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href="./css/clusterize.css" rel="stylesheet">
-    <script src="./js/clusterize.min.js"></script>
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+    <script src="./js/paint.js"></script>
 </head>
 <script>
     var en_data = [-1, -1, -1, -1, -1];
@@ -17,16 +22,6 @@
     var en_unusual = null;
     var tw_unusual = null;
     var data_conut = 0;
-    var paints = [5027, 5028, 5029, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 5040, 5046, 5051, 5052, 5053, 5054, 5055, 5056, 5060, 5061, 5062, 5063, 5064, 5065, 5076, 5077];
-    var paints_rgb = {
-        5027: '#729E42', 5028: '#424F3B', 5029: '#51384A', 5030: '#D8BED8', 5031: '#7D4071',
-        5032: '#CF7336', 5033: '#A57545', 5034: '#C5AF91', 5035: '#694D3A', 5036: '#7C6C57',
-        5037: '#E7B53B', 5038: '#7E7E7E', 5039: '#E6E6E6', 5040: '#141414', 5046: ['#B8383B', '#5885A2'],
-        5051: '#FF69B4', 5052: '#2F4F4F', 5053: '#808000', 5054: '#32CD32', 5055: '#F0E68C',
-        5056: '#E9967A', 5060: ['#483838', '#384248'], 5061: ['#A89A8C', '#839FA3'],
-        5062: ['#3B1F23', '#18233D'], 5063: ['#654740', '#28394D'], 5064: ['#803020', '#256D8D'],
-        5065: ['#C36C2D', '#B88035'], 5076: '#BCDDB3', 5077: '#2D2D24'
-    };
     var table_data = [];
     var clusterize;
     function update() {
@@ -35,7 +30,7 @@
         var lines = input.split('\n');
         var data = [];
         for (var i = 0; i < lines.length; ++i) {
-            if(lines[i].length == 0)
+            if (lines[i].length == 0)
                 continue;
             if (/^[0-9]*(\.[0-9]{2})?$/g.test(lines[i])) {
                 data.push(lines[i]);
@@ -63,53 +58,41 @@
         $("#c_rec").text(`Reclaimed Metal : ${rec}`);
         $("#c_scrap").text(`Scrap Metal : ${scrap}`);
     }
-    function checkdata() {
-        var tw = tw_data.indexOf(-1);
-        var en = en_data.indexOf(-1);
-        if (en_unusual != null && tw_unusual != null && tw != -1 && en != -1)
-            return true;
-        else
-            return false;
-    }
     $(function () {
-        clusterize = new Clusterize({
-            rows: table_data,
-            scrollId: 'scrollArea',
-            contentId: 'table'
-          });
+
         $("#Input").on("keyup", function () {
             var value = $(this).val().toLowerCase();
             $("#table tr").filter(function () {
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
             });
         });
-        $.when( $.getJSON( "./item_data/en_1.json"), 
-                $.getJSON( "./item_data/en_2.json"),
-                $.getJSON( "./item_data/en_3.json"),
-                $.getJSON( "./item_data/en_4.json"),
-                $.getJSON( "./item_data/en_5.json"),
-                $.getJSON(`./item_data/zh-TW_1.json`),
-                $.getJSON(`./item_data/zh-TW_2.json`),
-                $.getJSON(`./item_data/zh-TW_3.json`),
-                $.getJSON(`./item_data/zh-TW_4.json`),
-                $.getJSON(`./item_data/zh-TW_5.json`),
-                $.getJSON(`./item_data/en_schema.json`),
-                $.getJSON(`./item_data/zh-tw_schema.json`)
-                
-                ).done(function ( en1, en2,en3,en4,en5,tw1,tw2,tw3,tw4,tw5,ens,tws ) {
-                    en_data[0] = en1[0]['result'];
-                    en_data[1] = en2[0]['result'];
-                    en_data[2] = en3[0]['result'];
-                    en_data[3] = en4[0]['result'];
-                    en_data[4] = en5[0]['result'];
-                    tw_data[0] = tw1[0]['result'];
-                    tw_data[1] = tw2[0]['result'];
-                    tw_data[2] = tw3[0]['result'];
-                    tw_data[3] = tw4[0]['result'];
-                    tw_data[4] = tw5[0]['result'];
-                    en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
-                    tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
-                    showdata();
+        $.when($.getJSON("./item_data/en_1.json"),
+            $.getJSON("./item_data/en_2.json"),
+            $.getJSON("./item_data/en_3.json"),
+            $.getJSON("./item_data/en_4.json"),
+            $.getJSON("./item_data/en_5.json"),
+            $.getJSON(`./item_data/zh-TW_1.json`),
+            $.getJSON(`./item_data/zh-TW_2.json`),
+            $.getJSON(`./item_data/zh-TW_3.json`),
+            $.getJSON(`./item_data/zh-TW_4.json`),
+            $.getJSON(`./item_data/zh-TW_5.json`),
+            $.getJSON(`./item_data/en_schema.json`),
+            $.getJSON(`./item_data/zh-tw_schema.json`)
+
+        ).done(function (en1, en2, en3, en4, en5, tw1, tw2, tw3, tw4, tw5, ens, tws) {
+            en_data[0] = en1[0]['result'];
+            en_data[1] = en2[0]['result'];
+            en_data[2] = en3[0]['result'];
+            en_data[3] = en4[0]['result'];
+            en_data[4] = en5[0]['result'];
+            tw_data[0] = tw1[0]['result'];
+            tw_data[1] = tw2[0]['result'];
+            tw_data[2] = tw3[0]['result'];
+            tw_data[3] = tw4[0]['result'];
+            tw_data[4] = tw5[0]['result'];
+            en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
+            tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
+            showdata();
         });
     });
     function showdata() {
@@ -144,17 +127,17 @@
                     }
                 }
                 var cls = '';
-                if(tw_data[j]["items"][i]["used_by_classes"]!==undefined){
-                    if(tw_data[j]["items"][i]["used_by_classes"].length==0){
+                if (tw_data[j]["items"][i]["used_by_classes"] !== undefined) {
+                    if (tw_data[j]["items"][i]["used_by_classes"].length == 0) {
                         cls = 'All Class';
                     }
-                    else{
-                        for(var k=0;k<tw_data[j]["items"][i]["used_by_classes"].length;++k){
+                    else {
+                        for (var k = 0; k < tw_data[j]["items"][i]["used_by_classes"].length; ++k) {
                             cls += `<img src="./class_imgs/${tw_data[j]["items"][i]["used_by_classes"][k]}.png" width="25" height="25">`
                         }
                     }
                 }
-                else{
+                else {
                     cls = 'All Class';
                 }
 
@@ -195,95 +178,92 @@
     }
 </script>
 
-<body style="margin:20px">
-    <div class="jumbotron text-center">
-        <h1>TF2 Item List</h1>
-
+<body>
+    <div class="jumbotron">
+        <h1>Team Fortress 2 Item List</h1>
     </div>
     <div class="container">
-        <div class="row">
-            <ul class="nav nav-tabs">
-                <li class="active">
-                    <a data-toggle="tab" href="#Item">Item</a>
-                </li>
-                <li>
-                    <a data-toggle="tab" href="#menu1">Unusual</a>
-                </li>
-                <li>
-                    <a data-toggle="tab" href="#menu2">Paint Can</a>
-                </li>
-                <li>
-                    <a data-toggle="tab" href="#menu3">Metal Calculator</a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div id="Item" class="tab-pane fade in active">
-                    <br>
-                    <input type="text" id="Input">
-                    <div class="clusterize">
-                        <table class="table table-hover">
-                            <thead>
-                                <tr>
-                                    <th>Index</th>
-                                    <th>Name(en)</th>
-                                    <th>Name(zh-TW)</th>
-                                    <th>Class</th>
-                                    <th>Item Class</th>
-                                </tr>
-                            </thead>
-                            <div>
-                                <div id="scrollArea" class="clusterize-scroll">
-                                    <tbody id="table" class="clusterize-content">
-                                        <tr class="clusterize-no-data">
-                                            <td>Loading data…</td>
-                                        </tr>
-                                    </tbody>
-                                </div>
-                            </div>
-                        </table>
-                    </div>
+
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#Item">Item List</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#menu1">Unusual</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#menu2">Paint Can</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#menu3">Metal Calculator</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div id="Item" class="tab-pane active container"><br>
+                <br>
+                <input type="text" id="Input">
+                <div class="clusterize">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Index</th>
+                                <th>Name(en)</th>
+                                <th>Name(zh-TW)</th>
+                                <th>Class</th>
+                                <th>Item Class</th>
+                            </tr>
+                        </thead>
+                        <div>
+                                <tbody id="table">
+                                    <tr>
+                                       
+                                    </tr>
+                                </tbody>
+                            
+                        </div>
+                    </table>
+                </div>
             </div>
-                <div id="menu1" class="tab-pane fade">
-                    <table class="table table-hover">
-                        <thead>
-                            <tr>
-                                <th>Index</th>
-                                <th>Name(en)</th>
-                                <th>Name(zh-TW)</th>
-                                <th>Particle System</th>
-                            </tr>
-                        </thead>
-                        <tbody id="u_table">
-                        </tbody>
-                    </table>
-                </div>
-                <div id="menu2" class="tab-pane fade">
-                    <table class="table table-hover">
-                        <thead>
-                            <tr>
-                                <th>Index</th>
-                                <th>Name(en)</th>
-                                <th>Name(zh-TW)</th>
-                                <th>Color Code (Red)</th>
-                                <th>Color Code (Blue)</th>
-                            </tr>
-                        </thead>
-                        <tbody id="p_table">
-                        </tbody>
-                    </table>
-                </div>
-                <div id="menu3" class="tab-pane fade">
-                    <h3>Metal Calculator</h3>
-                    <div class="row">
-                        <div class="col-lg-4">
-                            <label for="cal_input">Price:</label>
-                            <textarea class="form-control" rows="20" id="cal_input" onchange="update()"></textarea>
-                        </div>
-                        <div class="col-lg-8">
-                            <h3 id="c_ref">Refine Metal : 0</h3>
-                            <h3 id="c_rec">Reclaimed Metal : 0</h3>
-                            <h3 id="c_scrap">Scrap Metal : 0</h3>
-                        </div>
+            <div id="menu1" class="tab-pane fade container"><br>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Index</th>
+                            <th>Name(en)</th>
+                            <th>Name(zh-TW)</th>
+                            <th>Particle System</th>
+                        </tr>
+                    </thead>
+                    <tbody id="u_table">
+                    </tbody>
+                </table>
+            </div>
+            <div id="menu2" class="tab-pane fade container"><br>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Index</th>
+                            <th>Name(en)</th>
+                            <th>Name(zh-TW)</th>
+                            <th>Color Code (Red)</th>
+                            <th>Color Code (Blue)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="p_table">
+                    </tbody>
+                </table>
+            </div>
+            <div id="menu3" class="tab-pane fade container"><br>
+                <h3>Metal Calculator</h3>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="cal_input">Price:</label>
+                        <textarea class="form-control" rows="20" id="cal_input" onchange="update()"></textarea>
+                    </div>
+                    <div class="col-lg-8">
+                        <h3 id="c_ref">Refine Metal : 0</h3>
+                        <h3 id="c_rec">Reclaimed Metal : 0</h3>
+                        <h3 id="c_scrap">Scrap Metal : 0</h3>
                     </div>
                 </div>
             </div>
