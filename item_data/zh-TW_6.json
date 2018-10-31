@@ -1,8 +1,813 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.17cdad4772df5c4f429d1d94ddf2411db5d14b8e.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
 		"items": [
+			{
+				"name": "Taunt: The Headcase",
+				"defindex": 30876,
+				"item_class": "no_entity",
+				"item_type_name": "特殊的嘲笑動作",
+				"item_name": "嘲諷：頭等饗宴",
+				"item_description": "社群創作的火焰兵嘲諷\n朋友，讓我們為這位獻身成為美食的人默哀一秒。",
+				"proper_name": false,
+				"item_slot": "taunt",
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/taunt_the_grilled_gunman/taunt_the_grilled_gunman",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/taunt_the_grilled_gunman.eb8f7e8f722f96ff2e7e775e7859f04242a82dfa.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/taunt_the_grilled_gunman_large.5521f4132e7230113dc91101a991f59d1b9fa179.png",
+				"craft_class": "",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true,
+					"can_unusualify": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 100
+					}
+				]
+				
+			},
+			{
+				"name": "The Hunter in Darkness",
+				"defindex": 30877,
+				"item_class": "tf_wearable",
+				"item_type_name": "頭飾",
+				"item_name": "黑暗獵手",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_jungle_ops/fall17_jungle_ops_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_jungle_ops/fall17_jungle_ops",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_jungle_ops.8897edd71eafb101b9209410271f40768d125d50.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_jungle_ops_large.9cab55dfda1cbb3188de0f1eed3a49b6167929d4.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Quizzical Quetzal",
+				"defindex": 30878,
+				"item_class": "tf_wearable",
+				"item_type_name": "吉祥物",
+				"item_name": "古怪的格查爾鳥",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_quizzical_quetzal/fall17_quizzical_quetzal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_quizzical_quetzal/fall17_quizzical_quetzal",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_quizzical_quetzal.9ade4dec8f95f8a09a5e727a5ad309619fd72fc8.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_quizzical_quetzal_large.1207db93a04a8ae5a433df900918a7780860fa39.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "The Aztec Warrior",
+				"defindex": 30879,
+				"item_class": "tf_wearable",
+				"item_type_name": "頭飾",
+				"item_name": "Aztec Warrior",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_aztec_warrior/fall17_aztec_warrior_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_aztec_warrior/fall17_aztec_warrior",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_aztec_warrior.c316c60471f6d768fb655eee8f11a74a7b87f482.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_aztec_warrior_large.8c599e816423a942deafd38150f9d2b813c340c8.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Pocket Saxton",
+				"defindex": 30880,
+				"item_class": "tf_wearable",
+				"item_type_name": "口袋小夥伴",
+				"item_name": "Pocket Saxton",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_pocket_saxton/fall17_pocket_saxton_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_pocket_saxton/fall17_pocket_saxton",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_pocket_saxton.def6fe3abf1dc7d9a9fabe8623c774649f6cede4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_pocket_saxton_large.bdbb2bc075b7c7994ef28f1336de1f23afabfafc.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "The Croaking Hazard",
+				"defindex": 30881,
+				"item_class": "tf_wearable",
+				"item_type_name": "吉祥物",
+				"item_name": "呱呱危機",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_croaking_hazard/fall17_croaking_hazard_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_croaking_hazard/fall17_croaking_hazard",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_croaking_hazard.9e9db8bc23f9eddbcc980aee08d0e200bc4d2f98.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_croaking_hazard_large.6a1f33a042ff44d125d893410143e1222dce0365.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Jungle Wreath",
+				"defindex": 30882,
+				"item_class": "tf_wearable",
+				"item_type_name": "頭飾",
+				"item_name": "叢林草圈",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_jungle_wreath/fall17_jungle_wreath_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_jungle_wreath/fall17_jungle_wreath",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_jungle_wreath.1777142464b9a0eb9936b17710b9851a02da60f6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_jungle_wreath_large.d1002729a13cad70685c85585598197ce17b73d5.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Slithering Scarf",
+				"defindex": 30883,
+				"item_class": "tf_wearable",
+				"item_type_name": "吉祥物",
+				"item_name": "嘶嘶作響圍巾",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_slithering_scarf/fall17_slithering_scarf_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_slithering_scarf/fall17_slithering_scarf",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_slithering_scarf.e8790945dd12cb7057655006815404bc1c18ec37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_slithering_scarf_large.bc381e08002fc3b0af140d0e0f715b5d50ef0a2c.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Aloha Apparel",
+				"defindex": 30884,
+				"item_class": "tf_wearable",
+				"item_type_name": "服裝",
+				"item_name": "夏威夷襯衫",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_aloha_apparel/fall17_aloha_apparel_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_aloha_apparel/fall17_aloha_apparel",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_aloha_apparel.c944a3d80f70cd88875d0a5602e395936754ef31.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_aloha_apparel_large.e876d3c6a2534c1e0cd1bf20d07b1c2bebd0e9f2.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout",
+					"Spy",
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Nuke",
+				"defindex": 30885,
+				"item_class": "tf_wearable",
+				"item_type_name": "假髮",
+				"item_name": "公爵髮式",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_nuke/fall17_nuke_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_nuke/fall17_nuke",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_nuke.49f7feb27746b0fa63879a84a4c53df407593830.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_nuke_large.6a97a11b8690a5cfe0153d77d6bc31ca554c9b91.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier",
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Bananades",
+				"defindex": 30886,
+				"item_class": "tf_wearable",
+				"item_type_name": "裝飾用炸彈",
+				"item_name": "Bananades",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_bananades/fall17_bananades_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_bananades/fall17_bananades",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_bananades.dd5a1e319a067a2fcc9df8fa1ec42c95c52f595d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_bananades_large.322c4e23b9011866256fcb1113f1ab9910397e95.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier",
+					"Demoman",
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The War Eagle",
+				"defindex": 30887,
+				"item_class": "tf_wearable",
+				"item_type_name": "頭飾",
+				"item_name": "War Eagle",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/fall17_war_eagle/fall17_war_eagle_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/fall17_war_eagle/fall17_war_eagle",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_war_eagle.1750d378b5a0cb0faf1f1ac152794dabd53cbfc9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_war_eagle_large.7edf5d09937ab239f0428feb68386ecddd26b756.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier",
+					"Demoman",
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Jungle Jersey",
+				"defindex": 30888,
+				"item_class": "tf_wearable",
+				"item_type_name": "服裝",
+				"item_name": "叢林毛線衫",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/fall17_jungle_jersey/fall17_jungle_jersey.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/fall17_jungle_jersey/fall17_jungle_jersey",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_jungle_jersey.2c3017ee6b3bfad3e88c13daa18c65c084ab6fd2.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_jungle_jersey_large.24d5191e7dd0d99782e0021d05fed0e0f0f5a542.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Transparent Trousers",
+				"defindex": 30889,
+				"item_class": "tf_wearable",
+				"item_type_name": "褲子",
+				"item_name": "顯而易見的迷彩褲",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/fall17_transparent_trousers/fall17_transparent_trousers.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/fall17_transparent_trousers/fall17_transparent_trousers",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_transparent_trousers.2ff5e349e594359799032777468dcfd72123461a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_transparent_trousers_large.399fa4e011cceff19fce98b76e27ba0536016bce.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Forest Footwear",
+				"defindex": 30890,
+				"item_class": "tf_wearable",
+				"item_type_name": "靴子",
+				"item_name": "叢林靴",
+				"item_description": "　",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/fall17_forest_footwear/fall17_forest_footwear.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/fall17_forest_footwear/fall17_forest_footwear",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_forest_footwear.16c9db72e664b20981ad2caf88471035678185ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_forest_footwear_large.e499ebc85d3426b35b4d9c48ac4598e5c3258d0a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Cammy Jammies",
+				"defindex": 30891,
+				"item_class": "tf_wearable",
+				"item_type_name": "褲子",
+				"item_name": "迷彩褲",
+				"item_description": "　",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/sniper/fall17_cammy_jammies/fall17_cammy_jammies.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/sniper/fall17_cammy_jammies/fall17_cammy_jammies",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_cammy_jammies.7369a9b3b220bd6ac0eda18b7c99534b963fa8a8.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_cammy_jammies_large.049beb9e9ff33cdcdbea65abba6e69f443e0c611.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
 			{
 				"name": "The Conspicuous Camouflage",
 				"defindex": 30892,
@@ -3966,6 +4771,7 @@
 				"craft_class": "",
 				"craft_material_type": "hat",
 				"capabilities": {
+					"paintable": true,
 					"nameable": true,
 					"can_craft_if_purchased": true,
 					"can_gift_wrap": true,

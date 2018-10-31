@@ -1,8 +1,714 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.17cdad4772df5c4f429d1d94ddf2411db5d14b8e.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
 		"items": [
+			{
+				"name": "concealedkiller_stickybomblauncher_carpetbomber",
+				"defindex": 15012,
+				"item_class": "tf_weapon_pipebomblauncher",
+				"item_type_name": "Stickybomb Launcher",
+				"item_name": "Stickybomb Launcher",
+				"item_description": "Alt-Fire: Detonate all stickybombs",
+				"proper_name": true,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "concealedkiller_pistol_redrockroscoe",
+				"defindex": 15013,
+				"item_class": "tf_weapon_pistol",
+				"item_type_name": "Pistol",
+				"item_name": "Pistol",
+				"proper_name": true,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/c_models/c_pistol",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Scout",
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "concealedkiller_rocketlauncher_sandcannon",
+				"defindex": 15014,
+				"item_class": "tf_weapon_rocketlauncher",
+				"item_type_name": "Rocket Launcher",
+				"item_name": "Rocket Launcher",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_rocketlauncher",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher.0d0d3821f600a5065d5fd95dadd5ce56a8b0f802.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher_large.376e56473114d28a687759b568bbfb03cac12823.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_scattergun_tartantorpedo",
+				"defindex": 15015,
+				"item_class": "tf_weapon_scattergun",
+				"item_type_name": "Scattergun",
+				"item_name": "Scattergun",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_scattergun.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/c_models/c_scattergun",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_shotgun_rusticruiner",
+				"defindex": 15016,
+				"item_class": "tf_weapon_shotgun",
+				"item_type_name": "Shotgun",
+				"item_name": "Shotgun",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_shotgun/c_shotgun.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_shotgun",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_shotgun.781e0a03e8536215731d276a911c5753e42901d4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_shotgun_large.9d8d23d241e3e1cc543154f2d7f43a850da25e02.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier",
+					"Heavy",
+					"Pyro",
+					"Engineer"
+				]
+				,
+				"per_class_loadout_slots": {
+					"Soldier": "secondary",
+					"Heavy": "secondary",
+					"Pyro": "secondary",
+					"Engineer": "primary"
+				},
+				"attributes": [
+					{
+						"name": "special taunt",
+						"class": "special_taunt",
+						"value": 1
+					},
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_flamethrower_barnburner",
+				"defindex": 15017,
+				"item_class": "tf_weapon_flamethrower",
+				"item_type_name": "Flame Thrower",
+				"item_name": "Flame Thrower",
+				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_pistol_homemadeheater",
+				"defindex": 15018,
+				"item_class": "tf_weapon_pistol",
+				"item_type_name": "Pistol",
+				"item_name": "Pistol",
+				"proper_name": true,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/c_models/c_pistol",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Scout",
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_sniperrifle_lumberfromdownunder",
+				"defindex": 15019,
+				"item_class": "tf_weapon_sniperrifle",
+				"item_type_name": "Sniper Rifle",
+				"item_name": "Sniper Rifle",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_minigun_ironwood",
+				"defindex": 15020,
+				"item_class": "tf_weapon_minigun",
+				"item_type_name": "Minigun",
+				"item_name": "Minigun",
+				"proper_name": false,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_minigun",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_scattergun_countrycrusher",
+				"defindex": 15021,
+				"item_class": "tf_weapon_scattergun",
+				"item_type_name": "Scattergun",
+				"item_name": "Scattergun",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_scattergun.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/c_models/c_scattergun",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_smg_plaidpotshotter",
+				"defindex": 15022,
+				"item_class": "tf_weapon_smg",
+				"item_type_name": "SMG",
+				"item_name": "SMG",
+				"proper_name": true,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_smg/c_smg.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_smg",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_smg.a3610eb2082b665e0e924f1da14ed3429d789641.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_smg_large.60bdf2356f145300879d891dc3f993b57b817607.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					},
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_sniperrifle_shotinthedark",
+				"defindex": 15023,
+				"item_class": "tf_weapon_sniperrifle",
+				"item_type_name": "Sniper Rifle",
+				"item_name": "Sniper Rifle",
+				"proper_name": false,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_stickybomblauncher_blastedbombardier",
+				"defindex": 15024,
+				"item_class": "tf_weapon_pipebomblauncher",
+				"item_type_name": "Stickybomb Launcher",
+				"item_name": "Stickybomb Launcher",
+				"item_description": "Alt-Fire: Detonate all stickybombs",
+				"proper_name": true,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_medigun_reclaimedreanimator",
+				"defindex": 15025,
+				"item_class": "tf_weapon_medigun",
+				"item_type_name": "Medi Gun",
+				"item_name": "Medi Gun",
+				"proper_name": true,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 1
+					},
+					{
+						"name": "kill eater score type 2",
+						"class": "kill_eater_score_type_2",
+						"value": 2
+					},
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_minigun_antiqueannihilator",
+				"defindex": 15026,
+				"item_class": "tf_weapon_minigun",
+				"item_type_name": "Minigun",
+				"item_name": "Minigun",
+				"proper_name": true,
+				"item_slot": "primary",
+				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_minigun",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
+			{
+				"name": "craftsmann_revolver_oldcountry",
+				"defindex": 15027,
+				"item_class": "tf_weapon_revolver",
+				"item_type_name": "Revolver",
+				"item_name": "Revolver",
+				"proper_name": false,
+				"item_slot": "secondary",
+				"model_player": "models/weapons/c_models/c_revolver/c_revolver.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/weapons/w_models/w_revolver",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w_revolver.9b4a43c8ce5797a08d0dfb5d9d5bfb1b90928008.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_revolver_large.86226aa2ce07b33864b848add4a4e4f4771ffc18.png",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Spy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "set_item_texture_wear",
+						"class": "set_item_texture_wear",
+						"value": 0.400000005960464478
+					}
+				]
+				
+			},
 			{
 				"name": "craftsmann_rocketlauncher_americanpastoral",
 				"defindex": 15028,
@@ -47619,814 +48325,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "Taunt: The Headcase",
-				"defindex": 30876,
-				"item_class": "no_entity",
-				"item_type_name": "Special Taunt",
-				"item_name": "Taunt: The Headcase",
-				"item_description": "Community Created Pyro Taunt\nLet's get serious for a second, folks, with this heartfelt tribute to cannibalism.",
-				"proper_name": false,
-				"item_slot": "taunt",
-				"model_player": null,
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/pyro/taunt_the_grilled_gunman/taunt_the_grilled_gunman",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/taunt_the_grilled_gunman.eb8f7e8f722f96ff2e7e775e7859f04242a82dfa.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/taunt_the_grilled_gunman_large.5521f4132e7230113dc91101a991f59d1b9fa179.png",
-				"craft_class": "",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true,
-					"can_unusualify": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 100
-					}
-				]
-				
-			},
-			{
-				"name": "The Hunter in Darkness",
-				"defindex": 30877,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Hunter in Darkness",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_jungle_ops/fall17_jungle_ops_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_jungle_ops/fall17_jungle_ops",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_jungle_ops.8897edd71eafb101b9209410271f40768d125d50.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_jungle_ops_large.9cab55dfda1cbb3188de0f1eed3a49b6167929d4.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Quizzical Quetzal",
-				"defindex": 30878,
-				"item_class": "tf_wearable",
-				"item_type_name": "Mascot",
-				"item_name": "Quizzical Quetzal",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_quizzical_quetzal/fall17_quizzical_quetzal_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_quizzical_quetzal/fall17_quizzical_quetzal",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_quizzical_quetzal.9ade4dec8f95f8a09a5e727a5ad309619fd72fc8.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_quizzical_quetzal_large.1207db93a04a8ae5a433df900918a7780860fa39.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "The Aztec Warrior",
-				"defindex": 30879,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Aztec Warrior",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_aztec_warrior/fall17_aztec_warrior_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_aztec_warrior/fall17_aztec_warrior",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_aztec_warrior.c316c60471f6d768fb655eee8f11a74a7b87f482.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_aztec_warrior_large.8c599e816423a942deafd38150f9d2b813c340c8.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Pocket Saxton",
-				"defindex": 30880,
-				"item_class": "tf_wearable",
-				"item_type_name": "Pocket Buddy",
-				"item_name": "Pocket Saxton",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_pocket_saxton/fall17_pocket_saxton_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_pocket_saxton/fall17_pocket_saxton",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_pocket_saxton.def6fe3abf1dc7d9a9fabe8623c774649f6cede4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_pocket_saxton_large.bdbb2bc075b7c7994ef28f1336de1f23afabfafc.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "The Croaking Hazard",
-				"defindex": 30881,
-				"item_class": "tf_wearable",
-				"item_type_name": "Mascot",
-				"item_name": "Croaking Hazard",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_croaking_hazard/fall17_croaking_hazard_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_croaking_hazard/fall17_croaking_hazard",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_croaking_hazard.9e9db8bc23f9eddbcc980aee08d0e200bc4d2f98.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_croaking_hazard_large.6a1f33a042ff44d125d893410143e1222dce0365.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "Jungle Wreath",
-				"defindex": 30882,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Jungle Wreath",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_jungle_wreath/fall17_jungle_wreath_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_jungle_wreath/fall17_jungle_wreath",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_jungle_wreath.1777142464b9a0eb9936b17710b9851a02da60f6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_jungle_wreath_large.d1002729a13cad70685c85585598197ce17b73d5.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Slithering Scarf",
-				"defindex": 30883,
-				"item_class": "tf_wearable",
-				"item_type_name": "Mascot",
-				"item_name": "Slithering Scarf",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_slithering_scarf/fall17_slithering_scarf_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_slithering_scarf/fall17_slithering_scarf",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_slithering_scarf.e8790945dd12cb7057655006815404bc1c18ec37.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_slithering_scarf_large.bc381e08002fc3b0af140d0e0f715b5d50ef0a2c.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "Aloha Apparel",
-				"defindex": 30884,
-				"item_class": "tf_wearable",
-				"item_type_name": "Shirt",
-				"item_name": "Aloha Apparel",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_aloha_apparel/fall17_aloha_apparel_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_aloha_apparel/fall17_aloha_apparel",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_aloha_apparel.c944a3d80f70cd88875d0a5602e395936754ef31.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_aloha_apparel_large.e876d3c6a2534c1e0cd1bf20d07b1c2bebd0e9f2.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout",
-					"Spy",
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Nuke",
-				"defindex": 30885,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hair",
-				"item_name": "Nuke",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_nuke/fall17_nuke_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_nuke/fall17_nuke",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_nuke.49f7feb27746b0fa63879a84a4c53df407593830.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_nuke_large.6a97a11b8690a5cfe0153d77d6bc31ca554c9b91.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Bananades",
-				"defindex": 30886,
-				"item_class": "tf_wearable",
-				"item_type_name": "Decorative Bombs",
-				"item_name": "Bananades",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_bananades/fall17_bananades_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_bananades/fall17_bananades",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_bananades.dd5a1e319a067a2fcc9df8fa1ec42c95c52f595d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_bananades_large.322c4e23b9011866256fcb1113f1ab9910397e95.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Demoman",
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The War Eagle",
-				"defindex": 30887,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "War Eagle",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/fall17_war_eagle/fall17_war_eagle_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/fall17_war_eagle/fall17_war_eagle",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_war_eagle.1750d378b5a0cb0faf1f1ac152794dabd53cbfc9.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_war_eagle_large.7edf5d09937ab239f0428feb68386ecddd26b756.png",
-				"drop_type": "drop",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Demoman",
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Jungle Jersey",
-				"defindex": 30888,
-				"item_class": "tf_wearable",
-				"item_type_name": "Shirt",
-				"item_name": "Jungle Jersey",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/fall17_jungle_jersey/fall17_jungle_jersey.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/fall17_jungle_jersey/fall17_jungle_jersey",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_jungle_jersey.2c3017ee6b3bfad3e88c13daa18c65c084ab6fd2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_jungle_jersey_large.24d5191e7dd0d99782e0021d05fed0e0f0f5a542.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Transparent Trousers",
-				"defindex": 30889,
-				"item_class": "tf_wearable",
-				"item_type_name": "Pants",
-				"item_name": "Transparent Trousers",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/fall17_transparent_trousers/fall17_transparent_trousers.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/fall17_transparent_trousers/fall17_transparent_trousers",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_transparent_trousers.2ff5e349e594359799032777468dcfd72123461a.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_transparent_trousers_large.399fa4e011cceff19fce98b76e27ba0536016bce.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Forest Footwear",
-				"defindex": 30890,
-				"item_class": "tf_wearable",
-				"item_type_name": "Boots",
-				"item_name": "Forest Footwear",
-				"item_description": "",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/fall17_forest_footwear/fall17_forest_footwear.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/fall17_forest_footwear/fall17_forest_footwear",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_forest_footwear.16c9db72e664b20981ad2caf88471035678185ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_forest_footwear_large.e499ebc85d3426b35b4d9c48ac4598e5c3258d0a.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Cammy Jammies",
-				"defindex": 30891,
-				"item_class": "tf_wearable",
-				"item_type_name": "Pants",
-				"item_name": "Cammy Jammies",
-				"item_description": "",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/sniper/fall17_cammy_jammies/fall17_cammy_jammies.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/sniper/fall17_cammy_jammies/fall17_cammy_jammies",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/fall17_cammy_jammies.7369a9b3b220bd6ac0eda18b7c99534b963fa8a8.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/fall17_cammy_jammies_large.049beb9e9ff33cdcdbea65abba6e69f443e0c611.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 30892
+		"next": 30876
 	}
 }
