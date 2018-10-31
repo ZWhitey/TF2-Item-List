@@ -8,6 +8,8 @@
         crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="./css/clusterize.css" rel="stylesheet">
+    <script src="./js/clusterize.min.js"></script>
 </head>
 <script>
     var en_data = [-1, -1, -1, -1, -1];
@@ -25,6 +27,8 @@
         5062: ['#3B1F23', '#18233D'], 5063: ['#654740', '#28394D'], 5064: ['#803020', '#256D8D'],
         5065: ['#C36C2D', '#B88035'], 5076: '#BCDDB3', 5077: '#2D2D24'
     };
+    var table_data = [];
+    var clusterize;
     function update() {
         var n = document.getElementById("cal_input");
         var input = n.value;
@@ -68,24 +72,29 @@
             return false;
     }
     $(function () {
+        clusterize = new Clusterize({
+            rows: table_data,
+            scrollId: 'scrollArea',
+            contentId: 'table'
+          });
         $("#Input").on("keyup", function () {
             var value = $(this).val().toLowerCase();
             $("#table tr").filter(function () {
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
             });
         });
-        $.when( $.getJSON( "./en_1.json"), 
-                $.getJSON( "./en_2.json"),
-                $.getJSON( "./en_3.json"),
-                $.getJSON( "./en_4.json"),
-                $.getJSON( "./en_5.json"),
-                $.getJSON(`./zh-TW_1.json`),
-                $.getJSON(`./zh-TW_2.json`),
-                $.getJSON(`./zh-TW_3.json`),
-                $.getJSON(`./zh-TW_4.json`),
-                $.getJSON(`./zh-TW_5.json`),
-                $.getJSON(`./en_schema.json`),
-                $.getJSON(`./zh-tw_schema.json`)
+        $.when( $.getJSON( "./item_data/en_1.json"), 
+                $.getJSON( "./item_data/en_2.json"),
+                $.getJSON( "./item_data/en_3.json"),
+                $.getJSON( "./item_data/en_4.json"),
+                $.getJSON( "./item_data/en_5.json"),
+                $.getJSON(`./item_data/zh-TW_1.json`),
+                $.getJSON(`./item_data/zh-TW_2.json`),
+                $.getJSON(`./item_data/zh-TW_3.json`),
+                $.getJSON(`./item_data/zh-TW_4.json`),
+                $.getJSON(`./item_data/zh-TW_5.json`),
+                $.getJSON(`./item_data/en_schema.json`),
+                $.getJSON(`./item_data/zh-tw_schema.json`)
                 
                 ).done(function ( en1, en2,en3,en4,en5,tw1,tw2,tw3,tw4,tw5,ens,tws ) {
                     en_data[0] = en1[0]['result'];
@@ -159,6 +168,7 @@
                                 </tr>`;
             }
             table.append(tb);
+            table_data.append(tb);
             p_table.append(tp);
             for (var i = 0; i < en_data[j]["items"].length; ++i) {
                 var img = `<img src="${tw_data[j]['items'][i]['image_url']}">`;
@@ -210,20 +220,29 @@
                 <div id="Item" class="tab-pane fade in active">
                     <br>
                     <input type="text" id="Input">
-                    <table class="table table-hover">
-                        <thead>
-                            <tr>
-                                <th>Index</th>
-                                <th>Name(en)</th>
-                                <th>Name(zh-TW)</th>
-                                <th>Class</th>
-                                <th>Item Class</th>
-                            </tr>
-                        </thead>
-                        <tbody id="table">
-                        </tbody>
-                    </table>
-                </div>
+                    <div class="clusterize">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Index</th>
+                                    <th>Name(en)</th>
+                                    <th>Name(zh-TW)</th>
+                                    <th>Class</th>
+                                    <th>Item Class</th>
+                                </tr>
+                            </thead>
+                            <div>
+                                <div id="scrollArea" class="clusterize-scroll">
+                                    <tbody id="table" class="clusterize-content">
+                                        <tr class="clusterize-no-data">
+                                            <td>Loading data…</td>
+                                        </tr>
+                                    </tbody>
+                                </div>
+                            </div>
+                        </table>
+                    </div>
+            </div>
                 <div id="menu1" class="tab-pane fade">
                     <table class="table table-hover">
                         <thead>
