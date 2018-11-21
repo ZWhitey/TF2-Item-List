@@ -1,7 +1,11 @@
 {
 	"result": {
 		"status": 1,
+<<<<<<< HEAD:item_data/zh-TW_6.json
 		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+=======
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
+>>>>>>> parent of e7e87e8... update game data:zh-TW_6.json
 		"items": [
 			{
 				"name": "Taunt: The Headcase",
@@ -5314,11 +5318,11 @@
 				
 			},
 			{
-				"name": "Aim Assistant",
+				"name": "Mister Sentry",
 				"defindex": 31012,
 				"item_class": "tf_wearable",
 				"item_type_name": "吉祥物",
-				"item_name": "Aim Assistant",
+				"item_name": "Mister Sentry",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/hwn2018_aimbot_assistant/hwn2018_aimbot_assistant.mdl",

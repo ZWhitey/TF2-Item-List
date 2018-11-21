@@ -1,7 +1,11 @@
 {
 	"result": {
 		"status": 1,
+<<<<<<< HEAD:item_data/zh-TW_5.json
 		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+=======
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 		"items": [
 			{
 				"name": "concealedkiller_stickybomblauncher_carpetbomber",
@@ -11800,6 +11804,22 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "æ²’æœ‰å¸½å­",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					},
+					{
+						"name": "æœ‰å¸½å­"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Demoman"
 				]
@@ -13458,8 +13478,25 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
 				"used_by_classes": [
 					"Medic"
+=======
+				"styles": [
+					{
+						"name": "ç„¡å¸½",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
+						}
+					},
+					{
+						"name": "æ²’æœ‰å¸½å­å’Œè€³æ©Ÿ",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					}
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				]
 				,
 				"attributes": [
@@ -14494,6 +14531,22 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "æ²’æœ‰è€³æ©Ÿ",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					},
+					{
+						"name": "æœ‰è€³æ©Ÿ"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Pyro"
 				]
@@ -25582,6 +25635,30 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "æš—è‰² - éš±è—æ‰‹æ¦´å½ˆ",
+						"additional_hidden_bodygroups": {
+							"«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
+						}
+					},
+					{
+						"name": "äº®è‰² - éš±è—æ‰‹æ¦´å½ˆ",
+						"additional_hidden_bodygroups": {
+							"«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
+						}
+					},
+					{
+						"name": "æš—è‰²"
+					},
+					{
+						"name": "äº®è‰²"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"attributes": [
 					{
 						"name": "kill eater score type",
@@ -28487,6 +28564,21 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "é¡¯ç¤ºå¸½å­"
+					},
+					{
+						"name": "æ²’æœ‰å¸½å­",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
+						}
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Spy"
 				]
@@ -29976,6 +30068,21 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "ç„¡é ­ç›”",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
+						}
+					},
+					{
+						"name": "æˆ´ç›”"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Pyro"
 				]
@@ -36707,8 +36814,22 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
 				"used_by_classes": [
 					"Scout"
+=======
+				"styles": [
+					{
+						"name": "æœ‰å¸½"
+					},
+					{
+						"name": "ç„¡å¸½",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					}
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				]
 				,
 				"attributes": [
@@ -41831,6 +41952,21 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "æ¨£å¼ 1",
+						"additional_hidden_bodygroups": {
+							"i": 1
+						}
+					},
+					{
+						"name": "æ¨£å¼ 2"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Engineer"
 				]
@@ -42073,6 +42209,32 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "æ¨£å¼ 1 æ²’æœ‰å¸½å­",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					},
+					{
+						"name": "æ¨£å¼ 1 æœ‰å¸½å­"
+					},
+					{
+						"name": "æ¨£å¼ 2 æ²’æœ‰å¸½å­",
+						"additional_hidden_bodygroups": {
+							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ðŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					},
+					{
+						"name": "æ¨£å¼ 2 æœ‰å¸½å­"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Soldier"
 				]
@@ -42272,6 +42434,21 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
+=======
+				"styles": [
+					{
+						"name": "æ¨£å¼ 1",
+						"additional_hidden_bodygroups": {
+							"i": 1
+						}
+					},
+					{
+						"name": "æ¨£å¼ 2"
+					}
+				]
+				,
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"used_by_classes": [
 					"Scout"
 				]
@@ -42463,8 +42640,21 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+<<<<<<< HEAD:item_data/zh-TW_5.json
 				"used_by_classes": [
 					"Demoman"
+=======
+				"styles": [
+					{
+						"name": "æœ‰è€³æ©Ÿ"
+					},
+					{
+						"name": "æ²’æœ‰è€³æ©Ÿ",
+						"additional_hidden_bodygroups": {
+							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒðÜ€þK(þ}\rÝv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
+						}
+					}
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				]
 				,
 				"attributes": [
@@ -46014,9 +46204,15 @@
 				"name": "Mad Mask",
 				"defindex": 30815,
 				"item_class": "tf_wearable",
+<<<<<<< HEAD:item_data/zh-TW_5.json
 				"item_type_name": "é¢å…·",
 				"item_name": "ç˜‹ç‹‚é¢å…·",
 				"item_description": "",
+=======
+				"item_type_name": "é ­é£¾",
+				"item_name": "æš–æš–ç¾Šæ¯›å¸½",
+				"item_description": "ã€€",
+>>>>>>> parent of e7e87e8... update game data:zh-TW_5.json
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/heavy/hwn2016_mad_mask/hwn2016_mad_mask.mdl",
