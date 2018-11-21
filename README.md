@@ -1,6 +1,6 @@
 # Team Fortress 2 Item List
 
-## [Item List](https://zwhitey.github.io/TF2-Item-List/)
+[Item List](https://zwhitey.github.io/TF2-Item-List/)
 
 ## Features 
 
