@@ -1,11 +1,7 @@
 {
 	"result": {
 		"status": 1,
-<<<<<<< HEAD:item_data/en_3.json
 		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
-=======
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
->>>>>>> parent of e7e87e8... update game data:en_3.json
 		"items": [
 			{
 				"name": "ETF2L 6v6 Premier Division Participation Medal Season 14",

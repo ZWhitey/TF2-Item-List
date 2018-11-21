@@ -1,11 +1,7 @@
 {
 	"result": {
 		"status": 1,
-<<<<<<< HEAD:item_data/zh-TW_2.json
 		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
-=======
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
->>>>>>> parent of e7e87e8... update game data:zh-TW_2.json
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -3872,7 +3868,7 @@
 				"image_inventory": "backpack/player/items/all_class/stamp_bagel_event",
 				"min_ilevel": 50,
 				"max_ilevel": 50,
-				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_bagel_event.5ba0cc01faa8392bc9db5ef5284f5f0870d543e7.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_bagel_event.d28a3fdf348e0388cd387c3cb45f65cabe968af0.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_bagel_event_large.f60fbf2c6bb74ce2b43c9397ace3965874151357.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
@@ -3903,7 +3899,7 @@
 				"image_inventory": "backpack/player/items/all_class/stamp_rumble_event",
 				"min_ilevel": 50,
 				"max_ilevel": 50,
-				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_rumble_event.cac9828d1ac2183c3176b95ff249f524a606691f.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_rumble_event.235905bed0f0b72e5d488c70986143816cefaf15.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_rumble_event_large.48350b74ebc571fbf2308127f6b48811f5b68fe8.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
@@ -3934,7 +3930,7 @@
 				"image_inventory": "backpack/player/items/all_class/stamp_monster_bash",
 				"min_ilevel": 50,
 				"max_ilevel": 50,
-				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_monster_bash.89371bc8ae62d1816ec95ef27990e39c93235299.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_monster_bash.8db8c80146cbebcee0637dbcc3cc9eea067950bf.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_monster_bash_large.f9625cd9fba4105296aa56a58e6637e61e4c16ab.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
@@ -3965,7 +3961,7 @@
 				"image_inventory": "backpack/player/items/all_class/stamp_slasher",
 				"min_ilevel": 50,
 				"max_ilevel": 50,
-				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_slasher.f53462d293d6144744c91dc28d434c03bbbea5c1.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_slasher.799c2f416a4a30103cf381b5a41ae6d16f8b99c9.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_slasher_large.5eeeac53727c199a4a63baf70264622d7728f7f2.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
@@ -3996,7 +3992,7 @@
 				"image_inventory": "backpack/player/items/all_class/stamp_cursed_cove",
 				"min_ilevel": 50,
 				"max_ilevel": 50,
-				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove.e3af379e819cfc000fa2f24a0e834b8e90ea8b31.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove.b2acfae66e4b3c548ab5255970c4394dff9b81f9.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove_large.37209f8d09d8678ee5cba9e0255b444dbf61fbe3.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
@@ -22592,8 +22588,8 @@
 				"image_inventory": "backpack/player/items/crafting/weapons_case_workshop_paintkit_halloween2018",
 				"min_ilevel": 1,
 				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2018.8d97699f1528009b5f9855c7cb11878d517a5693.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2018_large.53d2453deef46d6a2fa031a6cae4274dba3ce36e.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2018.d8726f6d0535744620118bc86054d63240a6fa15.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2018_large.1d9cd1f77d6799a7488b9e0fdfb258e7b2471f03.png",
 				"craft_class": "supply_crate",
 				"craft_material_type": "supply_crate",
 				"capabilities": {

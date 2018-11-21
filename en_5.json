@@ -1,11 +1,7 @@
 {
 	"result": {
 		"status": 1,
-<<<<<<< HEAD:item_data/en_5.json
 		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
-=======
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.24bba2bf41d9f2202640c40a6b62a7c297fd8695.txt",
->>>>>>> parent of e7e87e8... update game data:en_5.json
 		"items": [
 			{
 				"name": "concealedkiller_stickybomblauncher_carpetbomber",
@@ -11804,22 +11800,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "No Hat",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					},
-					{
-						"name": "Hat"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Demoman"
 				]
@@ -13478,25 +13458,8 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
 				"used_by_classes": [
 					"Medic"
-=======
-				"styles": [
-					{
-						"name": "No Hat",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
-						}
-					},
-					{
-						"name": "No Hat and No Headphones",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					}
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				]
 				,
 				"attributes": [
@@ -14531,22 +14494,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "No Headset",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					},
-					{
-						"name": "Headset"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Pyro"
 				]
@@ -25635,30 +25582,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "Dark - Hide Grenades",
-						"additional_hidden_bodygroups": {
-							"«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
-						}
-					},
-					{
-						"name": "Light - Hide Grenades",
-						"additional_hidden_bodygroups": {
-							"«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
-						}
-					},
-					{
-						"name": "Dark"
-					},
-					{
-						"name": "Light"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"attributes": [
 					{
 						"name": "kill eater score type",
@@ -28564,21 +28487,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "Hat"
-					},
-					{
-						"name": "No Hat",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
-						}
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Spy"
 				]
@@ -30068,21 +29976,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "No Helmet",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1
-						}
-					},
-					{
-						"name": "Helmet"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Pyro"
 				]
@@ -36814,22 +36707,8 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
 				"used_by_classes": [
 					"Scout"
-=======
-				"styles": [
-					{
-						"name": "Hat"
-					},
-					{
-						"name": "No Hat",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					}
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				]
 				,
 				"attributes": [
@@ -41952,21 +41831,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "Style 1",
-						"additional_hidden_bodygroups": {
-							"i": 1
-						}
-					},
-					{
-						"name": "Style 2"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Engineer"
 				]
@@ -42209,32 +42073,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "Style 1 No Hat",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					},
-					{
-						"name": "Style 1 With Hat"
-					},
-					{
-						"name": "Style 2 No Hat",
-						"additional_hidden_bodygroups": {
-							":&\r\u0010­‹?45?4\u0010\u0010\u001b1µL:&ä<¹É8(\u0015—º²Èè?-6†KOQø×e\u000c\u0019@\u001e•Ç:-¤ê5|Õ«Ù#ÔÌËOä‚\u0006·’ê5ÿwø7«ê+:D³p€2îôÜIïøU\u0011\u0001\u000bH²Õ[Í\u001c-¯\u0008N8‹y\u0018!\u000eÁ¢\u000cNpõ»¤ÀÌ¤$¾œª\u0010KÎ³6\u0013…d­ÅÑqX\u000b\u001f–öà‘Õ\u0003ã\u0006À»Ê\u0001ØµåjX)¨?Îÿ#ÆLƒ/í®}…ï|Ë²\u001d\u000f¾j¾ğŒ‚hTŠK+móµ\u001cYj\n‰Ów \u0004": 1,
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					},
-					{
-						"name": "Style 2 With Hat"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Soldier"
 				]
@@ -42434,21 +42272,6 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
-=======
-				"styles": [
-					{
-						"name": "Style 1",
-						"additional_hidden_bodygroups": {
-							"i": 1
-						}
-					},
-					{
-						"name": "Style 2"
-					}
-				]
-				,
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				"used_by_classes": [
 					"Scout"
 				]
@@ -42640,21 +42463,8 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-<<<<<<< HEAD:item_data/en_5.json
 				"used_by_classes": [
 					"Demoman"
-=======
-				"styles": [
-					{
-						"name": "With Headphones"
-					},
-					{
-						"name": "Without Headphones",
-						"additional_hidden_bodygroups": {
-							"÷\u00033¸\u0005©­ì²©ñ”ø©h«©±…¯› æÂ›\u0017ØØ]+0fV9‘Ü÷=¡¡úŒğÜ€şK(ş}\rİv\u000fû\u001bŠÀhC3…ÓZØ 8Y\u001f-\u001f|L‚\u00106€ºµÍÏ•": 1
-						}
-					}
->>>>>>> parent of e7e87e8... update game data:en_5.json
 				]
 				,
 				"attributes": [
