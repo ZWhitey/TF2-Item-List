@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.45771e6b1ca1635bb07a21c83d51d7e5e7f5e989.txt",
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -22680,6 +22680,127 @@
 				
 			},
 			{
+				"name": "Self Gift - Stocking Stuffer 2018",
+				"defindex": 5900,
+				"item_class": "tf_wearable",
+				"item_type_name": "Gift",
+				"item_name": "Gift-Stuffed Stocking 2018",
+				"item_description": "Contains an assortment of goodies for good little Mercenaries.",
+				"proper_name": false,
+				"item_slot": "action",
+				"model_player": "",
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/winter2013_stocking_stuffer",
+				"min_ilevel": 13,
+				"max_ilevel": 13,
+				"image_url": "http://media.steampowered.com/apps/440/icons/winter2013_stocking_stuffer.a4e45c0fdf9632f5594fae637ed2e81ca4736fe7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/winter2013_stocking_stuffer_large.7bc765916da8be822184ad0c2c0025701971400a.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "gift"
+				},
+				"attributes": [
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Winter 2018 Cosmetic Key",
+				"defindex": 5901,
+				"item_class": "tool",
+				"item_type_name": "Tool",
+				"item_name": "Winter 2018 Cosmetic Key",
+				"item_description": "Used to open a Winter 2018 Cosmetic Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/cosmetic_case_key_xmas2018",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/cosmetic_case_key_xmas2018.b217ba0a95c6877eb4538ffba28c0b18a2bf36ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/cosmetic_case_key_xmas2018_large.ab1b2c42d9ac76bf7a2c8ee8b0f4442c0dd02527.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "winter2018",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Winter 2018 Cosmetic Case",
+				"defindex": 5902,
+				"item_class": "supply_crate",
+				"item_type_name": "Supply Crate",
+				"item_name": "Winter 2018 Cosmetic Case",
+				"item_description": "This case is locked and requires a\nWinter 2018 Cosmetic Key to open.\n\nContains a community made item\nfrom the Winter 2018 Cosmetic Collection.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/cosmetic_case_ribbon.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/smissmas_2018_case",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/smissmas_2018_case.793107c12a4e6330ab2e34e99c761d32753407e5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/smissmas_2018_case_large.b60a20335d2bca34fa959a8953508e45d752d9e5.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "winter2018"
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
 				"name": "Strange Part (Armory)",
 				"defindex": 5999,
 				"item_class": "tool",
@@ -43047,153 +43168,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "ETF2L 6v6 Division 4 Group Winner Season 14",
-				"defindex": 8281,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "ETF2L 6v6 Division 4 Group Winner",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 5 Group Winner Season 14",
-				"defindex": 8282,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "ETF2L 6v6 Division 5 Group Winner",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 6 Group Winner Season 14",
-				"defindex": 8283,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "ETF2L 6v6 Division 6 Group Winner",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 8284
+		"next": 8281
 	}
 }

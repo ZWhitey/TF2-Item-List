@@ -1,8 +1,152 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.45771e6b1ca1635bb07a21c83d51d7e5e7f5e989.txt",
 		"items": [
+			{
+				"name": "LBTF2 6v6 Access 2nd Place Season 14",
+				"defindex": 9314,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 6v6 Access 2nd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_2nd/lbtf2_6v6_2nd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_2nd/lbtf2_6v6_2nd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_2nd.c4899632bc9d345e0be6db48fa4698b3be16f216.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_2nd_large.8e5056870858a06435e2fe6b1f2aa1036419a563.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 6v6 Access 3rd Place Season 14",
+				"defindex": 9315,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 6v6 Access 3rd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_3rd/lbtf2_6v6_3rd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_3rd/lbtf2_6v6_3rd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_3rd.d126dca5cfd2683e491d268eef191d07bfbe885f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_3rd_large.c6d38c621387b1e0e7f73a2ac1cddac4f4005545.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 6v6 Access Participant Season 14",
+				"defindex": 9316,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 6v6 Access Participant",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_participant/lbtf2_6v6_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_participant/lbtf2_6v6_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_participant.6867b7806f563d89aa7d25696a0f6dd2604b7969.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_participant_large.346b7170fc90097fbf9dc04b9fa332d3a9951aa1.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
 			{
 				"name": "LBTF2 6v6 Open 1st Place Season 14",
 				"defindex": 9317,
@@ -47219,7 +47363,7 @@
 				"defindex": 10299,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Primeiro Lugar",
+				"item_name": "Brasil Fortress 6v6 1st Place",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47267,7 +47411,7 @@
 				"defindex": 10300,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Segundo Lugar",
+				"item_name": "Brasil Fortress 6v6 2nd Place",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47315,7 +47459,7 @@
 				"defindex": 10301,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Terceiro Lugar",
+				"item_name": "Brasil Fortress 6v6 3rd Place",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47363,7 +47507,7 @@
 				"defindex": 10302,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Participante",
+				"item_name": "Brasil Fortress 6v6 Participant",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47411,7 +47555,7 @@
 				"defindex": 10303,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Primeiro Lugar",
+				"item_name": "Brasil Fortress 6v6 1st Place",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47459,7 +47603,7 @@
 				"defindex": 10304,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Segundo Lugar",
+				"item_name": "Brasil Fortress 6v6 2nd Place",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47507,7 +47651,7 @@
 				"defindex": 10305,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Terceiro Lugar",
+				"item_name": "Brasil Fortress 6v6 3rd Place",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47555,7 +47699,7 @@
 				"defindex": 10306,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brasil Fortress 6v6 Participante",
+				"item_name": "Brasil Fortress 6v6 Participant",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47599,211 +47743,25 @@
 				
 			},
 			{
-				"name": "concealedkiller_sniperrifle_nightowl",
-				"defindex": 15000,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_smg_woodsywidowmaker",
-				"defindex": 15001,
-				"item_class": "tf_weapon_smg",
-				"item_type_name": "SMG",
-				"item_name": "SMG",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_smg/c_smg.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_smg",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_smg.a3610eb2082b665e0e924f1da14ed3429d789641.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_smg_large.60bdf2356f145300879d891dc3f993b57b817607.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					},
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_scattergun_nightterror",
-				"defindex": 15002,
-				"item_class": "tf_weapon_scattergun",
-				"item_type_name": "Scattergun",
-				"item_name": "Scattergun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_scattergun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_scattergun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_shotgun_backwoodsboomstick",
-				"defindex": 15003,
-				"item_class": "tf_weapon_shotgun",
-				"item_type_name": "Shotgun",
-				"item_name": "Shotgun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_shotgun/c_shotgun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_shotgun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_shotgun.781e0a03e8536215731d276a911c5753e42901d4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_shotgun_large.9d8d23d241e3e1cc543154f2d7f43a850da25e02.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Heavy",
-					"Pyro",
-					"Engineer"
-				]
-				,
-				"per_class_loadout_slots": {
-					"Soldier": "secondary",
-					"Heavy": "secondary",
-					"Pyro": "secondary",
-					"Engineer": "primary"
-				},
-				"attributes": [
-					{
-						"name": "special taunt",
-						"class": "special_taunt",
-						"value": 1
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_minigun_kingofthejungle",
-				"defindex": 15004,
-				"item_class": "tf_weapon_minigun",
-				"item_type_name": "Minigun",
-				"item_name": "Minigun",
+				"name": "AsiaFortress Cup Division 1 1st Place Season 14",
+				"defindex": 10307,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 1 1st Place",
+				"item_description": "Season 14",
 				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_minigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_gold/asiafortress_gold_demo.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_gold/asiafortress_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_gold.b2c904501a82d51a854626f05596c59ad693f35f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_gold_large.cba1b5c77b2832fa7290598b62d771edeed5f27e.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -47813,214 +47771,45 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_flamethrower_forestfire",
-				"defindex": 15005,
-				"item_class": "tf_weapon_flamethrower",
-				"item_type_name": "Flame Thrower",
-				"item_name": "Flame Thrower",
-				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_rocketlauncher_woodlandwarrior",
-				"defindex": 15006,
-				"item_class": "tf_weapon_rocketlauncher",
-				"item_type_name": "Rocket Launcher",
-				"item_name": "Rocket Launcher",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_rocketlauncher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher.0d0d3821f600a5065d5fd95dadd5ce56a8b0f802.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher_large.376e56473114d28a687759b568bbfb03cac12823.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_sniperrifle_purplerange",
-				"defindex": 15007,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_medigun_maskedmender",
-				"defindex": 15008,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
-					},
-					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
 					}
 				]
 				
 			},
 			{
-				"name": "concealedkiller_stickybomblauncher_suddenflurry",
-				"defindex": 15009,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
+				"name": "AsiaFortress Cup Division 1 2nd Place Season 14",
+				"defindex": 10308,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 1 2nd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_silver/asiafortress_silver_demo.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_silver/asiafortress_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_silver.bbf356280f49e12b98b41039357a4073ec5070c2.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_silver_large.f91dcba7805a530c94fea48db99c206134755aec.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -48030,89 +47819,45 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_medigun_wrappedreviver",
-				"defindex": 15010,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
-					},
-					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
 					}
 				]
 				
 			},
 			{
-				"name": "concealedkiller_revolver_psychedelicslugger",
-				"defindex": 15011,
-				"item_class": "tf_weapon_revolver",
-				"item_type_name": "Revolver",
-				"item_name": "Revolver",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_revolver/c_revolver.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_revolver",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_revolver.9b4a43c8ce5797a08d0dfb5d9d5bfb1b90928008.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_revolver_large.86226aa2ce07b33864b848add4a4e4f4771ffc18.png",
+				"name": "AsiaFortress Cup Division 1 3rd Place Season 14",
+				"defindex": 10309,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 1 3rd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_bronze/asiafortress_bronze_demo.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_bronze/asiafortress_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_bronze.9cde9b38b8b547c29aee14ee4dd8bfce516b7429.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_bronze_large.56bc875a3f418501b7d2129b055da9cae57fb842.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -48122,21 +47867,315 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
 				"attributes": [
 					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "AsiaFortress Cup Division 1 Participant Season 14",
+				"defindex": 10310,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 1 Participant",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_participant/asiafortress_participant_demo.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_participant/asiafortress_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_participant.fb283f6a3b6c2f840b80bfac51d0101b92198ab6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_participant_large.6f0cce5ff78d5a196adcc4e6d914e49aa7448dcc.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "AsiaFortress Cup Division 2 1st Place Season 14",
+				"defindex": 10311,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 2 1st Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division2_gold/asiafortress_cup_division2_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division2_gold/asiafortress_cup_division2_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_gold.2b470ef5aea198df4cdc30cc5033af8dd791eef6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_gold_large.b3a6b2d1eb451bca76814179e7ee4f353e703142.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "AsiaFortress Cup Division 2 2nd Place Season 14",
+				"defindex": 10312,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 2 2nd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division2_silver/asiafortress_cup_division2_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division2_silver/asiafortress_cup_division2_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_silver.124d6d3d974cfbead8794f106249c17a807ea1a7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_silver_large.2e417f75c4b16abe4a3ab038f55243abbf3a885f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "AsiaFortress Cup Division 2 3rd Place Season 14",
+				"defindex": 10313,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 2 3rd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division2_bronze/asiafortress_cup_division2_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division2_bronze/asiafortress_cup_division2_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_bronze.24054ade18e7923eb382ddb60e7720d9772e95d8.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_bronze_large.f5054bfaa6d3632c0b770999f9bbc3a76e240dd5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "AsiaFortress Cup Division 2 Participant Season 14",
+				"defindex": 10314,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 2 Participant",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_participant/asiafortress_participant_demo.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_participant/asiafortress_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_participant.fb283f6a3b6c2f840b80bfac51d0101b92198ab6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_participant_large.6f0cce5ff78d5a196adcc4e6d914e49aa7448dcc.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "AsiaFortress Cup Division 3 1st Place Season 14",
+				"defindex": 10315,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "AsiaFortress Cup Division 3 1st Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division3_gold/asiafortress_cup_division3_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division3_gold/asiafortress_cup_division3_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division3_gold.49b1ad4aaaab8736ed91bc706cddc6d468db202e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division3_gold_large.3263c463062ac06cf23a485b94cb333d3beac468.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
 					}
 				]
 				
 			}
 		]
 		,
-		"next": 15012
+		"next": 10316
 	}
 }

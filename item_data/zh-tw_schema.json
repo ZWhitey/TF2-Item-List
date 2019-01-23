@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.45771e6b1ca1635bb07a21c83d51d7e5e7f5e989.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -6976,7 +6976,7 @@
 				"name": "crit_dmg_falloff",
 				"defindex": 868,
 				"attribute_class": "crit_dmg_falloff",
-				"description_string": "Critical damage is affected by range",
+				"description_string": "爆擊傷害受距離影響",
 				"description_format": "value_is_additive",
 				"effect_type": "negative",
 				"hidden": false,
@@ -7006,7 +7006,7 @@
 				"name": "falling_impact_radius_stun",
 				"defindex": 871,
 				"attribute_class": "falling_impact_radius_stun",
-				"description_string": "Stun enemies when you land",
+				"description_string": "降落時暈眩敵人",
 				"description_format": "value_is_additive",
 				"effect_type": "positive",
 				"hidden": false,
@@ -7042,7 +7042,7 @@
 				"name": "explode_on_ignite",
 				"defindex": 875,
 				"attribute_class": "explode_on_ignite",
-				"description_string": "Ignited enemies explode",
+				"description_string": "被引燃的敵人爆炸",
 				"description_format": "value_is_additive",
 				"effect_type": "value_is_from_lookup_table",
 				"hidden": false,
@@ -7062,7 +7062,7 @@
 				"name": "speed_boost_on_hit_enemy",
 				"defindex": 877,
 				"attribute_class": "speed_boost_on_hit_enemy",
-				"description_string": "Gain a speed boost when you hit an enemy player",
+				"description_string": "當您擊中敵方玩家時加速",
 				"description_format": "value_is_additive",
 				"effect_type": "positive",
 				"hidden": false,
@@ -7072,7 +7072,7 @@
 				"name": "item_meter_starts_empty_DISPLAY_ONLY",
 				"defindex": 878,
 				"attribute_class": "item_meter_starts_empty_DISPLAY_ONLY",
-				"description_string": "Gas meter starts empty",
+				"description_string": "油表從零開始",
 				"description_format": "value_is_additive",
 				"effect_type": "negative",
 				"hidden": false,
@@ -9668,7 +9668,7 @@
 				"system": "utaunt_firework_dragon_parent",
 				"id": 3020,
 				"attach_to_rootbone": false,
-				"name": "Roaring Rockets"
+				"name": "喧鬧沖天炮"
 			},
 			{
 				"system": "utaunt_smoke_moon_parent",
@@ -10981,22 +10981,22 @@
 					{
 						"level": 0,
 						"required_score": 2500,
-						"name": "Gravel"
+						"name": "礫石"
 					},
 					{
 						"level": 1,
 						"required_score": 5000,
-						"name": "Bronze"
+						"name": "青銅"
 					},
 					{
 						"level": 2,
 						"required_score": 6840,
-						"name": "Silver"
+						"name": "白銀"
 					},
 					{
 						"level": 3,
 						"required_score": 6840,
-						"name": "Australium"
+						"name": "澳元素"
 					}
 				]
 				
@@ -11466,12 +11466,12 @@
 			},
 			{
 				"type": 110,
-				"type_name": "Contract Points Earned",
+				"type_name": "獲得合約點數",
 				"level_data": "KillEater_ContractPointsEarnedRank"
 			},
 			{
 				"type": 111,
-				"type_name": "Contract Points Contributed To Friends",
+				"type_name": "好友貢獻的合約點數",
 				"level_data": "KillEaterRank"
 			}
 		]

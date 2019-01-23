@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.45771e6b1ca1635bb07a21c83d51d7e5e7f5e989.txt",
 		"items": [
 			{
 				"name": "TF_WEAPON_BAT",
@@ -40651,7 +40651,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Hat",
 				"item_name": "Ghostly Gibus",
-				"item_description": "Dominate a player wearing any Gibus hat, collect the Ghostly Gibus, and take your rightful place on the Halloween-update-related-hat-throne.",
+				"item_description": "Dominate a player wearing any achievement Gibus hat, collect the Ghostly Gibus, and take your rightful place on the Halloween-update-related-hat-throne.",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ghostly_gibus_Scout.mdl",

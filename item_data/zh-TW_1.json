@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0b3fd222dc8d20975495117191f64452936a7d09.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.45771e6b1ca1635bb07a21c83d51d7e5e7f5e989.txt",
 		"items": [
 			{
 				"name": "TF_WEAPON_BAT",
@@ -40654,7 +40654,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "頭飾",
 				"item_name": "幽靈大禮帽",
-				"item_description": "壓制一名戴著任一種驚悚大禮帽的玩家，就可以獲得幽靈大禮帽，正正當當地將自己推向萬聖節更新相關頭飾的最高點。",
+				"item_description": "壓制一名戴著任一種成就取得的大禮帽的玩家，就可以獲得幽靈大禮帽，正正當當地將自己推向萬聖節更新相關頭飾的最高點。",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ghostly_gibus_Scout.mdl",
