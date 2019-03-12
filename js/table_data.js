@@ -29,7 +29,22 @@ class Data {
     }
 
     updateUnusualtable() {
-
+        let tb = '';
+        for (let i = 0; i < this.en_u.length; ++i) {
+            tb += `
+                <tr>
+                    <td>${this.en_u[i]["id"]}</td>            
+                    <td><a href="javascript:void(0)" id="u_img_${this.en_u[i]["id"]}" title="${this.en_u[i]["name"]}" data-toggle="popover" data-trigger="focus" data-content="">${this.en_u[i]["name"]}</a></td>           
+                    <td>${this.tw_u[i]["name"]}</td>
+                    <td>${this.en_u[i]["system"]}</td>           
+                </tr>
+            `;
+        }
+        this.u_table.append(tb);
+        for (let i = 0; i < this.en_u.length; ++i) {
+            let img = `<img src="imgs/${this.en_u[i]["id"]}.png">`;
+            $(`#u_img_${this.en_u[i]["id"]}`).popover({ content: img, html: true });
+        }
     }
     updatePaintTable() {
         let tp = '';
