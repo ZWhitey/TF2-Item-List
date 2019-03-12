@@ -8,6 +8,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="./js/table_data.js"></script>
     <script src="./js/paint.js"></script>
     <script src="./js/my_func.js"></script>
 </head>
@@ -19,6 +20,7 @@
     var en = [];
     var tw = [];
     var data_conut = 0;
+    var item_data;
     $(function () {
         $("#Input").on("keyup", function () {
             var value = $(this).val().toLowerCase();
@@ -52,9 +54,12 @@
             en = en.concat(en5[0]['result']['items']);
             en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
             tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
+            item_data = new Data(en, tw, en_unusual, tw_unusual, 'table', 'u_table', 'p_table');
+
             updateItemTable(0);
             showUTable();
-            showPaintTable();
+            //showPaintTable();
+            item_data.updatePaintTable();
         });
     });
 </script>
@@ -117,13 +122,13 @@
                 </div>
             </div>
             <div id="menu1" class="tab-pane fade container"><br>
-                <table class="table table-hover">
+                <table class="table table-hover table-sm">
                     <thead>
                         <tr>
                             <th>Index</th>
                             <th>Name(en)</th>
                             <th>Name(zh-TW)</th>
-                            <th>Particle System</th>
+                            <th>Particle Name</th>
                         </tr>
                     </thead>
                     <tbody id="u_table">
@@ -131,7 +136,7 @@
                 </table>
             </div>
             <div id="menu2" class="tab-pane fade container"><br>
-                <table class="table table-hover">
+                <table class="table table-hover table-sm">
                     <thead>
                         <tr>
                             <th>Index</th>
