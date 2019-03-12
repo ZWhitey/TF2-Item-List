@@ -13,13 +13,6 @@
     <script src="./js/my_func.js"></script>
 </head>
 <script>
-    var en_data = [-1, -1, -1, -1, -1];
-    var tw_data = [-1, -1, -1, -1, -1];
-    var en_unusual = null;
-    var tw_unusual = null;
-    var en = [];
-    var tw = [];
-    var data_conut = 0;
     var item_data;
     $(function () {
         $("#Input").on("keyup", function () {
@@ -54,9 +47,9 @@
             en = en.concat(en5[0]['result']['items']);
             en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
             tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
-            item_data = new Data(en, tw, en_unusual, tw_unusual, 'table', 'u_table', 'p_table');
 
-            updateItemTable(0);
+            item_data = new Data(en, tw, en_unusual, tw_unusual, 'table', 'u_table', 'p_table');
+            item_data.updateItemTable(0);
             item_data.updatePaintTable();
             item_data.updateUnusualtable();
         });
@@ -74,7 +67,7 @@
                 <a class="nav-link" data-toggle="tab" href="#Item">Item List</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu1">Unusual</a>
+                <a class="nav-link" data-toggle="tab" href="#menu1">Unusual Effect</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#menu2">Paint Can</a>
@@ -92,8 +85,8 @@
                         <thead>
                             <tr class="d-flex">
                                 <th class="col-1">Index</th>
-                                <th class="col-3">Name(en)</th>
-                                <th class="col-3">Name(zh-TW)</th>
+                                <th class="col-3">Name</th>
+                                <th class="col-3">名稱</th>
                                 <th class="col-3">Class</th>
                                 <th class="col-2">Item Class</th>
                             </tr>
@@ -125,8 +118,8 @@
                     <thead>
                         <tr>
                             <th>Index</th>
-                            <th>Name(en)</th>
-                            <th>Name(zh-TW)</th>
+                            <th>Name</th>
+                            <th>名稱</th>
                             <th>Particle Name</th>
                         </tr>
                     </thead>
@@ -139,8 +132,8 @@
                     <thead>
                         <tr>
                             <th>Index</th>
-                            <th>Name(en)</th>
-                            <th>Name(zh-TW)</th>
+                            <th>Name</th>
+                            <th>名稱</th>
                             <th>Color Code (Red)</th>
                             <th>Color Code (Blue)</th>
                         </tr>

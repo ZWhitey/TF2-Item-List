@@ -25,7 +25,41 @@ class Data {
         return pages;
     }
     updateItemTable(page) {
-
+        function getUseClass(classes){
+            var cls = '';
+            if (classes !== undefined) {
+                if (classes.length == 0) {
+                    cls = 'All Classes';
+                }
+                else {
+                    for (var k = 0; k < classes.length; ++k) {
+                        cls += `<img src="./class_imgs/${classes[k]}.png" width="25" height="25" class="text-nowrap">`
+                    }
+                }
+            }
+            else {
+                cls = 'All Classes';
+            }
+            return cls;
+        }
+        this.i_table.empty();
+        let cls = '';
+        for(let i=0;i<this.tw_i.length;++i){
+            if(i>= this.tw_i.length)
+                break;
+            cls = getUseClass(this.tw_i[i]["used_by_classes"]);
+            this.i_table.append( `
+                <tr class="d-flex">  
+                    <td class="col-1">${this.tw_i[i]["defindex"]}</td>            
+                    <td class="col-3"><a href="javascript:void(0)" id="i_img_${this.tw_i[i]["defindex"]}" title="${this.tw_i[i]["item_name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en[i]["item_name"]}</a></td>           
+                    <td class="col-3">${this.tw_i[i]["item_name"]}</td>
+                    <td class="col-3">${cls}</td>
+                    <td class="col-2">${this.tw_i[i]["item_class"]}</td>           
+                </tr>
+                `);
+            let img = `<img src="${this.tw_i[i]['image_url']}">`;
+            $(`#i_img_${this.tw_i[i]["defindex"]}`).popover({ content: img, html: true });
+        }  
     }
 
     updateUnusualtable() {
