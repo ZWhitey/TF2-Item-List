@@ -17,7 +17,7 @@ function update() {
         tmp = data[i].split('.');
         ref += parseInt(tmp[0]);
         if (tmp.length == 2) {
-            scrap += Math.round(parseInt(tmp[1]) / 11)
+            scrap += Math.round(parseInt(tmp[1], 10) / 11)
         }
     }
     if (scrap >= 9) {
@@ -28,8 +28,8 @@ function update() {
         rec += Math.floor(scrap / 3);
         scrap %= 3;
     }
-    $("#c_ref").text(`Refine Metal : ${ref}`);
-    $("#c_rec").text(`Reclaimed Metal : ${rec}`);
-    $("#c_scrap").text(`Scrap Metal : ${scrap}`);
+    $("#c_ref").text(`精煉金屬 : ${ref}`);
+    $("#c_rec").text(`回收金屬 : ${rec}`);
+    $("#c_scrap").text(`廢金屬 : ${scrap}`);
 }
 

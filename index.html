@@ -64,16 +64,16 @@
 
         <ul class="nav nav-tabs">
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#Item">Item List</a>
+                <a class="nav-link" data-toggle="tab" href="#Item">物品</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu1">Unusual Effect</a>
+                <a class="nav-link" data-toggle="tab" href="#menu1">異常效果</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu2">Paint Can</a>
+                <a class="nav-link" data-toggle="tab" href="#menu2">油漆</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu3">Metal Calculator</a>
+                <a class="nav-link" data-toggle="tab" href="#menu3">金屬計算機</a>
             </li>
         </ul>
         <div class="tab-content">
@@ -143,16 +143,20 @@
                 </table>
             </div>
             <div id="menu3" class="tab-pane fade container"><br>
-                <h3>Metal Calculator</h3>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="cal_input">Price:</label>
-                        <textarea class="form-control" rows="20" id="cal_input" onchange="update()"></textarea>
+                        <p>輸入物品價格自動計算金屬數量</p>
+                        
                     </div>
-                    <div class="col-lg-8">
-                        <h3 id="c_ref">Refine Metal : 0</h3>
-                        <h3 id="c_rec">Reclaimed Metal : 0</h3>
-                        <h3 id="c_scrap">Scrap Metal : 0</h3>
+                    <div class="col-lg-4">
+                        <label for="cal_input">物品價格:</label>
+                        <textarea class="form-control" rows="20" id="cal_input" onkeyup="update()"></textarea>
+                    </div>
+                    <div class="col-lg-4">
+                        <h1>總價：</h1>
+                        <h3 id="c_ref">精煉金屬 : 0 個</h3>
+                        <h3 id="c_rec">回收金屬 : 0 個</h3>
+                        <h3 id="c_scrap">廢金屬 : 0 個</h3>
                     </div>
                 </div>
             </div>
