@@ -40,7 +40,7 @@ function onClickPagination(page){
 function updatePagination(){
     var p = $('#pagination');
     p.empty();
-    var head = `<li class="page-item ${(item_data.getPage() == 1)?'disabled':''}">
+    var head = `<li class="page-item ${(item_data.getPage() <= 1)?'disabled':''}">
                     <a class="page-link" href="#" aria-label="Previous" onclick="onClickPagination(${item_data.getPage() - 1})">
                     <span aria-hidden="true">&laquo;</span>
                     <span class="sr-only">Previous</span>
@@ -48,7 +48,9 @@ function updatePagination(){
                 </li>`;
     p.append(head);
     var start = item_data.getPage();
-    if(start > 4)
+    if(start > item_data.getPageCount() - 7)
+        start = item_data.getPageCount() - 6;
+    else if(start > 4)
         start -= 3;
     else
         start = 1;
@@ -60,7 +62,7 @@ function updatePagination(){
         <a class="page-link" href="#" onclick="onClickPagination(${i})">${i}</a></li>
         `)
     }
-    var tail = `<li class="page-item" ${(item_data.getPage() == item_data.getPageCount())?'disabled':''}>
+    var tail = `<li class="page-item ${(item_data.getPage() >= item_data.getPageCount())?'disabled':'1'}">
                     <a class="page-link" href="#" aria-label="Next" onclick="onClickPagination(${item_data.getPage() + 1})">
                     <span aria-hidden="true">&raquo;</span>
                     <span class="sr-only">Next</span>

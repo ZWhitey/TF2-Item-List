@@ -19,7 +19,8 @@ class Data {
             5062: ['#3B1F23', '#18233D'], 5063: ['#654740', '#28394D'], 5064: ['#803020', '#256D8D'],
             5065: ['#C36C2D', '#B88035'], 5076: '#BCDDB3', 5077: '#2D2D24'
         };
-        this.pages = Math.ceil(en_i.length / 100);
+        this.maxInPage = 100;
+        this.pages = Math.ceil(en_i.length / this.maxInPage);
         this.currentPage = 0;
     }
     getItemData(){
@@ -34,9 +35,9 @@ class Data {
             });
         }
 
-        this.pages = Math.ceil(r.length / 100);
-        let start = this.currentPage * 100;
-        let end = start + 100;
+        this.pages = Math.ceil(r.length / this.maxInPage);
+        let start = this.currentPage * this.maxInPage;
+        let end = start + this.maxInPage;
         return r.slice(start, end);
     }
     getPageCount() {
