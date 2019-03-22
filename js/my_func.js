@@ -32,4 +32,39 @@ function update() {
     $("#c_rec").text(`回收金屬 : ${rec}`);
     $("#c_scrap").text(`廢金屬 : ${scrap}`);
 }
-
+function onClickPagination(page){
+    item_data.setPage(page);
+    item_data.updateItemTable();
+    updatePagination();
+}
+function updatePagination(){
+    var p = $('#pagination');
+    p.empty();
+    var head = `<li class="page-item ${(item_data.getPage() == 1)?'disabled':''}">
+                    <a class="page-link" href="#" aria-label="Previous" onclick="onClickPagination(${item_data.getPage() - 1})">
+                    <span aria-hidden="true">&laquo;</span>
+                    <span class="sr-only">Previous</span>
+                    </a>
+                </li>`;
+    p.append(head);
+    var start = item_data.getPage();
+    if(start > 4)
+        start -= 3;
+    else
+        start = 1;
+    for(let i = start;i < start + 7;++i){
+        if(i > item_data.getPageCount())
+            break;
+        p.append(`
+        <li class="page-item ${(item_data.getPage() == i)?'active':''}">
+        <a class="page-link" href="#" onclick="onClickPagination(${i})">${i}</a></li>
+        `)
+    }
+    var tail = `<li class="page-item" ${(item_data.getPage() == item_data.getPageCount())?'disabled':''}>
+                    <a class="page-link" href="#" aria-label="Next" onclick="onClickPagination(${item_data.getPage() + 1})">
+                    <span aria-hidden="true">&raquo;</span>
+                    <span class="sr-only">Next</span>
+                    </a>
+                </li>`;
+    p.append(tail);
+}

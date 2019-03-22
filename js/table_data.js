@@ -20,11 +20,35 @@ class Data {
             5065: ['#C36C2D', '#B88035'], 5076: '#BCDDB3', 5077: '#2D2D24'
         };
         this.pages = Math.ceil(en_i.length / 100);
+        this.currentPage = 0;
+    }
+    getItemData(){
+        let r = [];
+        for(let i = 0;i<this.tw_i.length;++i){
+            r.push({id:this.tw_i[i]["defindex"],
+            tw_name:this.tw_i[i]["item_name"],
+            en_name:this.en_i[i]["item_name"],
+            class:this.tw_i[i]["item_class"],
+            used_class:this.tw_i[i]["used_by_classes"],
+            img:this.tw_i[i]['image_url']
+            });
+        }
+
+        this.pages = Math.ceil(r.length / 100);
+        let start = this.currentPage * 100;
+        let end = start + 100;
+        return r.slice(start, end);
     }
     getPageCount() {
-        return pages;
+        return this.pages;
     }
-    updateItemTable(page) {
+    getPage(){
+        return this.currentPage + 1;
+    }
+    setPage(page){
+        this.currentPage = page - 1;
+    }
+    updateItemTable() {
         function getUseClass(classes){
             var cls = '';
             if (classes !== undefined) {
@@ -43,22 +67,22 @@ class Data {
             return cls;
         }
         this.i_table.empty();
+
         let cls = '';
-        for(let i=0;i<this.tw_i.length;++i){
-            if(i>= this.tw_i.length)
-                break;
-            cls = getUseClass(this.tw_i[i]["used_by_classes"]);
+        // for(let i=0;i<data.length;++i){
+        for(let data of this.getItemData()){
+            cls = getUseClass(data.used_class);
             this.i_table.append( `
                 <tr class="d-flex">  
-                    <td class="col-1">${this.tw_i[i]["defindex"]}</td>            
-                    <td class="col-3"><a href="javascript:void(0)" id="i_img_${this.tw_i[i]["defindex"]}" title="${this.tw_i[i]["item_name"]}" data-toggle="popover" data-trigger="focus" data-content="">${en[i]["item_name"]}</a></td>           
-                    <td class="col-3">${this.tw_i[i]["item_name"]}</td>
+                    <td class="col-1">${data.id}</td>            
+                    <td class="col-3"><a href="javascript:void(0)" id="i_img_${data.id}" title="${data.tw_name}" data-toggle="popover" data-trigger="focus" data-content="">${data.en_name}</a></td>           
+                    <td class="col-3">${data.tw_name}</td>
                     <td class="col-3">${cls}</td>
-                    <td class="col-2">${this.tw_i[i]["item_class"]}</td>           
+                    <td class="col-2">${data.class}</td>           
                 </tr>
                 `);
-            let img = `<img src="${this.tw_i[i]['image_url']}">`;
-            $(`#i_img_${this.tw_i[i]["defindex"]}`).popover({ content: img, html: true });
+            let img = `<img src="${data.img}">`;
+            $(`#i_img_${data.id}`).popover({ content: img, html: true });
         }  
     }
 
