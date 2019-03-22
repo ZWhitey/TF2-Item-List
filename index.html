@@ -15,12 +15,6 @@
 <script>
     var item_data;
     $(function () {
-        $("#Input").on("keyup", function () {
-            var value = $(this).val().toLowerCase();
-            $("#table tr").filter(function () {
-                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-            });
-        });
         $.when($.getJSON("./item_data/en_1.json"),
             $.getJSON("./item_data/en_2.json"),
             $.getJSON("./item_data/en_3.json"),
@@ -65,7 +59,7 @@
 
         <ul class="nav nav-tabs">
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#Item">物品</a>
+                <a class="nav-link active" data-toggle="tab" href="#Item">物品</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#menu1">異常效果</a>
@@ -80,8 +74,6 @@
         <div class="tab-content">
             <div id="Item" class="tab-pane active container"><br>
                 <br>
-                <input type="text" id="Input">
-                <div class="clusterize">
                     <table class="table table-hover table-sm">
                         <thead>
                             <tr class="d-flex">
@@ -98,7 +90,6 @@
                         <ul id="pagination" class="pagination justify-content-center">
                           
                         </ul>
-                </div>
             </div>
             <div id="menu1" class="tab-pane fade container"><br>
                 <table class="table table-hover table-sm">

@@ -54,7 +54,7 @@ class Data {
             var cls = '';
             if (classes !== undefined) {
                 if (classes.length == 0) {
-                    cls = 'All Classes';
+                    cls = '全職業';
                 }
                 else {
                     for (var k = 0; k < classes.length; ++k) {
@@ -63,7 +63,7 @@ class Data {
                 }
             }
             else {
-                cls = 'All Classes';
+                cls = '全職業';
             }
             return cls;
         }
