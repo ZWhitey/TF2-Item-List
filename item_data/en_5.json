@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f4ad61de0d909d97a7cecf24b877d3ef8ed696ab.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.03db5bb5208329242374e24a81033ec727124e0d.txt",
 		"items": [
 			{
 				"name": "AsiaFortress Cup Division 3 2nd Place Season 14",
@@ -15831,7 +15831,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
 				"item_name": "Second Spell",
-				"item_description": "In the dark of the night, powerfull spells were used to eliminate monsters and reach this remarkable place in Brasil Fortress Halloween 2018.",
+				"item_description": "In the dark of the night, powerful spells were used to eliminate monsters and reach this remarkable place in Brasil Fortress Halloween 2018.",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/brasil_fortress_halloween/brasil_fortress_halloween_Scout.mdl",
@@ -16022,7 +16022,7 @@
 				"defindex": 10647,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Curserd Assistant",
+				"item_name": "Cursed Assistant",
 				"item_description": "Hearing voices from the beyond all night long, you made Brasil Fortress Halloween 2018 happen. They won't touch you, but their curse won't let you rest in peace.",
 				"proper_name": true,
 				"item_slot": "misc",
@@ -16336,6 +16336,15 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+				"styles": [
+					{
+						"name": "Style 1"
+					},
+					{
+						"name": "Style 2"
+					}
+				]
+				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
@@ -16369,8 +16378,8 @@
 				"image_inventory": "backpack/workshop/player/items/all_class/mvm_memes_creator/mvm_memes_creator",
 				"min_ilevel": 25,
 				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/mvm_memes_creator.7f4ac33a5637f977b3fea7828e16df3a0f781549.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/mvm_memes_creator_large.615c5c16e27251eaf33c737e2670166871812e79.png",
+				"image_url": "http://media.steampowered.com/apps/440/icons/mvm_memes_creator.f5f897f65de52d6609ebe1dac9d834f870c6eb38.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/mvm_memes_creator_large.c4cc4d1882929789aac1bbebeefe5e648b368a69.png",
 				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
@@ -16386,6 +16395,15 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+				"styles": [
+					{
+						"name": "Style 1"
+					},
+					{
+						"name": "Style 2"
+					}
+				]
+				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
@@ -16982,12 +17000,12 @@
 				
 			},
 			{
-				"name": "TFArena 6v6 Arena Mode Cup Gold Season 1",
+				"name": "TFArena 6v6 Arena Mode Cup Gold",
 				"defindex": 10667,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "TFArena 6v6 Arena Mode Cup 1st Place",
-				"item_description": "Season 1",
+				"item_name": "TFArena Gold Medal",
+				"item_description": "TFArena 6v6 Arena Mode Cup 1st Place",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/tfarena_gold/tfarena_gold_Scout.mdl",
@@ -17030,12 +17048,12 @@
 				
 			},
 			{
-				"name": "TFArena 6v6 Arena Mode Cup Silver Season 1",
+				"name": "TFArena 6v6 Arena Mode Cup Silver",
 				"defindex": 10668,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "TFArena 6v6 Arena Mode Cup 2nd Place",
-				"item_description": "Season 1",
+				"item_name": "TFArena Silver Medal",
+				"item_description": "TFArena 6v6 Arena Mode Cup 2nd Place",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/tfarena_silver/tfarena_silver_Scout.mdl",
@@ -17078,12 +17096,12 @@
 				
 			},
 			{
-				"name": "TFArena 6v6 Arena Mode Cup Bronze Season 1",
+				"name": "TFArena 6v6 Arena Mode Cup Bronze",
 				"defindex": 10669,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "TFArena 6v6 Arena Mode Cup 3rd Place",
-				"item_description": "Season 1",
+				"item_name": "TFArena Bronze Medal",
+				"item_description": "TFArena 6v6 Arena Mode Cup 3rd Place",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/tfarena_bronze/tfarena_bronze_Scout.mdl",
@@ -17126,12 +17144,12 @@
 				
 			},
 			{
-				"name": "TFArena 6v6 Arena Mode Cup Participant Season 1",
+				"name": "TFArena 6v6 Arena Mode Cup Participant",
 				"defindex": 10670,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "TFArena 6v6 Arena Mode Cup Participant",
-				"item_description": "Season 1",
+				"item_name": "TFArena Participation Medal",
+				"item_description": "TFArena 6v6 Arena Mode Cup Participant",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/tfarena_participant/tfarena_participant_Scout.mdl",
@@ -17174,12 +17192,12 @@
 				
 			},
 			{
-				"name": "TFArena 6v6 Arena Mode Cup Helper Season 1",
+				"name": "TFArena 6v6 Arena Mode Cup Helper",
 				"defindex": 10671,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "TFArena 6v6 Arena Mode Cup Helper",
-				"item_description": "Season 1",
+				"item_name": "TFArena Helper Medal",
+				"item_description": "TFArena 6v6 Arena Mode Cup Contributor",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/tfarena_helper/tfarena_helper_Scout.mdl",
@@ -17585,6 +17603,1979 @@
 				"craft_material_type": "",
 				"capabilities": {
 					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Open 1st Place Season 4",
+				"defindex": 10680,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Open 1st Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_gold.3f9a427646169943a87890e37de680366348731e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_gold_large.7876cdb39422bfba011b5f6f45cc3086f725782c.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Open 2nd Place Season 4",
+				"defindex": 10681,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Open 2nd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_silver.2996ef7c0b8912f7f3a1f07e654ad2cf10cd892c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_silver_large.c382766b7806a1cbfb8268e0b982332711987383.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Open 3rd Place Season 4",
+				"defindex": 10682,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Open 3rd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_bronze.5520836a6b291158e79880f9895e57ec8a29bd33.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_bronze_large.3014b3e4ff945bd2eabee4d5f0ff28289ef19adb.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Open Participant Season 4",
+				"defindex": 10683,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Open Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_participant_new",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_participant_new.27b1fa7265358a2483396a3aeefb292104929cd5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_participant_new_large.3d3500eb66f18858b82d1da31f944f4d9f88a596.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Main 1st Place Season 4",
+				"defindex": 10684,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Main 1st Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_gold.3f9a427646169943a87890e37de680366348731e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_gold_large.7876cdb39422bfba011b5f6f45cc3086f725782c.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Main 2nd Place Season 4",
+				"defindex": 10685,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Main 2nd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_silver.2996ef7c0b8912f7f3a1f07e654ad2cf10cd892c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_silver_large.c382766b7806a1cbfb8268e0b982332711987383.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Main 3rd Place Season 4",
+				"defindex": 10686,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Main 3rd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_bronze.5520836a6b291158e79880f9895e57ec8a29bd33.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_bronze_large.3014b3e4ff945bd2eabee4d5f0ff28289ef19adb.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 Highlander Main Participant Season 4",
+				"defindex": 10687,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 Highlander Main Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_highlander/lbtf2_highlander_participant_new",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_participant_new.27b1fa7265358a2483396a3aeefb292104929cd5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_highlander_participant_new_large.3d3500eb66f18858b82d1da31f944f4d9f88a596.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Cap that Cup 1st Place",
+				"defindex": 10688,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Cap that Cup 1st Place",
+				"item_description": "The 12-year-old profession of stealing briefcases containing classified information, food recipes, and pictures of your mother has been done by many, you have proven to be the best at it.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ctc_1st/ctc_1st_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ctc_1st/ctc_1st",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ctc_1st.d6137edd7119b43eefe401c69cda8b1e51b298e4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ctc_1st_large.096d8fc9a4d2875444cb78be05030a8c26676e9c.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Cap that Cup 2nd Place",
+				"defindex": 10689,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Cap that Cup 2nd Place",
+				"item_description": "You fought hard, gave it your all and did your job well - you almost made it to the top! Although there were some that did it better, you still did one hell of a job!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ctc_2nd/ctc_2nd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ctc_2nd/ctc_2nd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ctc_2nd.41edea6f49ae9f0bf6dd93e580587adf9027096a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ctc_2nd_large.5a4c06e097f129f9f1db21adf673b3c28cc2789d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Cap that Cup 3rd Place",
+				"defindex": 10690,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Cap that Cup 3rd Place",
+				"item_description": "While some have been better at this job than you, you gave some of the biggest corporations lots of valuable information to smear their enemies with, and for that, your efforts have been rewarded!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ctc_3rd/ctc_3rd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ctc_3rd/ctc_3rd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ctc_3rd.1c26cefc3941956399f9e81415112adfdc6cdf75.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ctc_3rd_large.f0ebc5d886e3e648b4ce1bfab80dfb888df4191b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Cap that Cup Participant",
+				"defindex": 10691,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Cap that Cup Participant",
+				"item_description": "Not much can be said here - you were instructed to steal the briefcase, and you did what you were told to do.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ctc_participant/ctc_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ctc_participant/ctc_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ctc_participant.f20e6fe4714896862e2db64e34e73ebe76cfc33a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ctc_participant_large.42db1999c923d7c2f04ef766584a1e4baf49bd61.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Cap that Cup Staff",
+				"defindex": 10692,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Cap that Cup Staff",
+				"item_description": "What would work be without it being overseen by higher-ups? That's right, a battlefield - and that's what it was, but at least that battlefield was managed by someone from above.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ctc_staff/ctc_staff_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ctc_staff/ctc_staff",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ctc_staff.efced5e438fbd469460d22ff8ee3493f301dc1fc.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ctc_staff_large.ac0bb3aac9c1ce28a03bbd99120da7461b5a3c83.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Premier Gold Medal Season 1",
+				"defindex": 10693,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Premier Gold Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_gold/eurolander_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_gold/eurolander_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_gold.ed89e3d92dbd16e0d58f2503dd1e296427cb11ce.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_gold_large.2d32c5a5fa08ff6292c6e21625d8cfd0e9e3fcfe.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Premier Silver Medal Season 1",
+				"defindex": 10694,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Premier Silver Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_silver/eurolander_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_silver/eurolander_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_silver.61af791e3a7cb4e9a596d7f4c16c0be5cd4453b4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_silver_large.5234933205ff11018465dbc55fa9f34812c4d6b9.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Premier Bronze Medal Season 1",
+				"defindex": 10695,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Premier Bronze Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_bronze/eurolander_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_bronze/eurolander_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_bronze.f3adcecc05245f1ef104985c0e0ba5c73467301b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_bronze_large.3a3fdde892e0d6708533beec5e473a211a917579.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Premier Participant Season 1",
+				"defindex": 10696,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Premier Participant",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_participant/eurolander_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_participant/eurolander_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_participant.5337a79c2fb609b562535163ed1668d99006a2f9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_participant_large.dc544dac2826fcd3e387bb41c3ac0f776d38fc4d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Supporter",
+				"defindex": 10697,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Supporter",
+				"item_description": "Awarded to those who have helped support EuroLander",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_supporter/eurolander_supporter_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_supporter/eurolander_supporter",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_supporter.b155d9d6ebfa78c6c7cf9430566e34693be9b034.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_supporter_large.35d77276197582fdd958695446fd2ab18b94e86a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Main Gold Medal Season 1",
+				"defindex": 10698,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Main Gold Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_gold/eurolander_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_gold/eurolander_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_gold.ed89e3d92dbd16e0d58f2503dd1e296427cb11ce.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_gold_large.2d32c5a5fa08ff6292c6e21625d8cfd0e9e3fcfe.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Main Silver Medal Season 1",
+				"defindex": 10699,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Main Silver Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_silver/eurolander_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_silver/eurolander_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_silver.61af791e3a7cb4e9a596d7f4c16c0be5cd4453b4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_silver_large.5234933205ff11018465dbc55fa9f34812c4d6b9.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Main Bronze Medal Season 1",
+				"defindex": 10700,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Main Bronze Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_bronze/eurolander_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_bronze/eurolander_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_bronze.f3adcecc05245f1ef104985c0e0ba5c73467301b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_bronze_large.3a3fdde892e0d6708533beec5e473a211a917579.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Main Participant Season 1",
+				"defindex": 10701,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Main Participant",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_participant/eurolander_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_participant/eurolander_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_participant.5337a79c2fb609b562535163ed1668d99006a2f9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_participant_large.dc544dac2826fcd3e387bb41c3ac0f776d38fc4d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Open Gold Medal Season 1",
+				"defindex": 10702,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Open Gold Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_gold/eurolander_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_gold/eurolander_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_gold.ed89e3d92dbd16e0d58f2503dd1e296427cb11ce.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_gold_large.2d32c5a5fa08ff6292c6e21625d8cfd0e9e3fcfe.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Open Silver Medal Season 1",
+				"defindex": 10703,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Open Silver Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_silver/eurolander_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_silver/eurolander_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_silver.61af791e3a7cb4e9a596d7f4c16c0be5cd4453b4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_silver_large.5234933205ff11018465dbc55fa9f34812c4d6b9.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Open Bronze Medal Season 1",
+				"defindex": 10704,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Open Bronze Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_bronze/eurolander_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_bronze/eurolander_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_bronze.f3adcecc05245f1ef104985c0e0ba5c73467301b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_bronze_large.3a3fdde892e0d6708533beec5e473a211a917579.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EuroLander Open Participant Season 1",
+				"defindex": 10705,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EuroLander Open Participant",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/eurolander_participant/eurolander_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/eurolander_participant/eurolander_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/eurolander_participant.5337a79c2fb609b562535163ed1668d99006a2f9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/eurolander_participant_large.dc544dac2826fcd3e387bb41c3ac0f776d38fc4d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Classic MGE Cup Gold Medal Spring 2019",
+				"defindex": 10706,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Classic MGE Cup 1st Place",
+				"item_description": "Spring 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/mge_cup_gold/mge_cup_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/mge_cup_gold/mge_cup_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/mge_cup_gold.ca75fe4128f0c38278162ce13cdb1f6452f4c952.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/mge_cup_gold_large.1656f01c024d0d825d73e79ad8c1e547c8dbc9d6.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Classic MGE Cup Silver Medal Spring 2019",
+				"defindex": 10707,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Classic MGE Cup 2nd Place",
+				"item_description": "Spring 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/mge_cup_silver/mge_cup_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/mge_cup_silver/mge_cup_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/mge_cup_silver.7107f0a781e9607f7add5b66df114a79d9e181e1.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/mge_cup_silver_large.e0940777443c986c47d459ffaca8f2ab311a46e2.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Classic MGE Cup Bronze Medal Spring 2019",
+				"defindex": 10708,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Classic MGE Cup 3rd Place",
+				"item_description": "Spring 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/mge_cup_bronze/mge_cup_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/mge_cup_bronze/mge_cup_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/mge_cup_bronze.fdb5490a679e0d0cb10062b3bcd26f5795e9faf7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/mge_cup_bronze_large.4e8e577d57b616e6f31b5d89e48ce3d873e74e20.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Classic MGE Cup Participant Spring 2019",
+				"defindex": 10709,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Classic MGE Cup Participant",
+				"item_description": "Spring 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/mge_cup_participant/mge_cup_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/mge_cup_participant/mge_cup_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/mge_cup_participant.ae39171155fdf758aa33f467ff5a82ecde334d85.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/mge_cup_participant_large.d993ddc86edd3c7d9db412386d32e2df83c1ffdd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Classic MGE Cup Helper Spring 2019",
+				"defindex": 10710,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Classic MGE Cup Helper",
+				"item_description": "Spring 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/mge_cup_helper/mge_cup_helper_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/mge_cup_helper/mge_cup_helper",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/mge_cup_helper.92292027060d2834652bbe1adf72758dc45172b9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/mge_cup_helper_large.8fc6c37e53c5a13e68b766f0a04e7959186a5a22.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Late Night TF2 Cup Gold Medal Summer 2019",
+				"defindex": 10711,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Late Night TF2 Cup Gold Medal",
+				"item_description": "Summer 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/late_night_gold/late_night_gold_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/late_night_gold/late_night_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/late_night_gold.08392dfd06bc59ad1ae7b1eb8ed9c6216639c982.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/late_night_gold_large.2c3f57331303cfc88a247c03db68a652053046b9.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Late Night TF2 Cup Silver Medal Summer 2019",
+				"defindex": 10712,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Late Night TF2 Cup Silver Medal",
+				"item_description": "Summer 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/late_night_silver/late_night_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/late_night_silver/late_night_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/late_night_silver.098b8468b3a7257d340311ce2c74793159719888.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/late_night_silver_large.ff0d1f370c885d7daa68a6d55c681449f03135b1.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Late Night TF2 Cup Bronze Medal Summer 2019",
+				"defindex": 10713,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Late Night TF2 Cup Bronze Medal",
+				"item_description": "Summer 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/late_night_bronze/late_night_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/late_night_bronze/late_night_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/late_night_bronze.8237a20ff0cef42415610963ac61d298ec32d059.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/late_night_bronze_large.ad86f2e84c2099a8f86449bde50270c3639dc22d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Late Night TF2 Cup Participant Summer 2019",
+				"defindex": 10714,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Late Night TF2 Cup Participant",
+				"item_description": "Summer 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/late_night_participant/late_night_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/late_night_participant/late_night_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/late_night_participant.9ea94fae7d2b9ef09d20638f62215238a73380fb.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/late_night_participant_large.ac4da343e9aa01916fac4bb42f6a8d5140136874.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Late Night TF2 Cup Helper Summer 2019",
+				"defindex": 10715,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "Late Night TF2 Cup Helper",
+				"item_description": "Summer 2019",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/late_night_helper/late_night_helper_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/late_night_helper/late_night_helper",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/late_night_helper.e2683f17d7b282b42852322c4a3789367fac083c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/late_night_helper_large.c13bbd30a0728233f42998ebda48cb554a160e0f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EBL 1st Place Medal Season 1",
+				"defindex": 10716,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EBL 1st Place Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ebl_1st/ebl_1st_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ebl_1st/ebl_1st",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ebl_1st.86e4748ea2f31a8672d3cd18a0703f253daa6379.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ebl_1st_large.e25063f0090ce21729534ed3b6e3106097e06631.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EBL 2nd Place Medal Season 1",
+				"defindex": 10717,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EBL 2nd Place Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ebl_2nd/ebl_2nd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ebl_2nd/ebl_2nd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ebl_2nd.ae67b15b6b010176e787460258bea735facc9ddd.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ebl_2nd_large.09a18b15411bf09fb0389ae5a8a1a7ece8cc1869.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EBL 3rd Place Medal Season 1",
+				"defindex": 10718,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EBL 3rd Place Medal",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ebl_3rd/ebl_3rd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ebl_3rd/ebl_3rd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ebl_3rd.d0e2fba6f6aa6783fd9c4ebc6264db454e14c28c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ebl_3rd_large.58444d0999313451f61cadc55481135de70edb1b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EBL Participant Season 1",
+				"defindex": 10719,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EBL Participant",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ebl_participant/ebl_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ebl_participant/ebl_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ebl_participant.24722bea30e6bf36ee699eba815bc9a3bd8737ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ebl_participant_large.5658fa2d349c9913f1a333cadf2ff0f452df7184.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "EBL Staff Season 1",
+				"defindex": 10720,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EBL Staff",
+				"item_description": "Season 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ebl_staff/ebl_staff_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ebl_staff/ebl_staff",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ebl_staff.0aaa220c8faab96126d86f619e1b4896228cb705.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ebl_staff_large.93bec3f5e15f2d7b77d2d306d95bd0dc6858398d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -44849,2070 +46840,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "The Mann of Reason",
-				"defindex": 30318,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Mann of Reason",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/medic/xms2013_medic_knecht_hat/xms2013_medic_knecht_hat.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/medic/xms2013_medic_knecht_hat/xms2013_medic_knecht_hat",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_medic_knecht_hat.5ade63047c3356eabc6e4e318a9404ca9113b02f.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_medic_knecht_hat_large.ae3aedcfe9932918c06e9e0f03e1a39bfff3237e.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Mann of the House",
-				"defindex": 30319,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Mann of the House",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/xms2013_heavy_pants/xms2013_heavy_pants.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/xms2013_heavy_pants/xms2013_heavy_pants",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_heavy_pants.3a9ff5b18353fd4636c3d3aa1fbcd40cb6357b0e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_heavy_pants_large.4ed9930b8441c5cdda44ce6c10e0cff87c7db872.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Chucklenuts",
-				"defindex": 30320,
-				"item_class": "tf_wearable",
-				"item_type_name": "Mascot",
-				"item_name": "Chucklenuts",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/xms2013_scout_squirrel/xms2013_scout_squirrel.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/xms2013_scout_squirrel/xms2013_scout_squirrel",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_scout_squirrel.7c18a65b191272cbe044c05f9f4284665647056c.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_scout_squirrel_large.b2fb16c5ce2f71d72fecc2ca294b036f177bdb93.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "Tiny Timber",
-				"defindex": 30321,
-				"item_class": "tf_wearable",
-				"item_type_name": "Backpack",
-				"item_name": "Tiny Timber",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/pyro/xms2013_pyro_wood/xms2013_pyro_wood.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/pyro/xms2013_pyro_wood/xms2013_pyro_wood",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_pyro_wood.b197a95a51d77ba3785763ad486f44e65d95afe4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_pyro_wood_large.e71e48f5f8af7243682668e217909a52f59c30d8.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Face Full of Festive",
-				"defindex": 30322,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Face Full of Festive",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/xms2013_festive_beard/xms2013_festive_beard.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/xms2013_festive_beard/xms2013_festive_beard",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_festive_beard.2321a4bb160a01d8353d329292a011aed77e504a.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_festive_beard_large.0a348cf9e1edfcb7e4894b1fde2b69900db1d136.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Ruffled Ruprecht",
-				"defindex": 30323,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Ruffled Ruprecht",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/medic/xms2013_ruffled_beard/xms2013_ruffled_beard.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/medic/xms2013_ruffled_beard/xms2013_ruffled_beard",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_ruffled_beard.75e4819d38f47a944bd7ba8b8c752fc918608d96.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_ruffled_beard_large.9f8590d44e8117d4a7143edb19014c7a0ce85c56.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Golden Garment",
-				"defindex": 30324,
-				"item_class": "tf_wearable",
-				"item_type_name": "Coat",
-				"item_name": "Golden Garment",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/sniper/xms2013_sniper_golden_garment/xms2013_sniper_golden_garment.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/sniper/xms2013_sniper_golden_garment/xms2013_sniper_golden_garment",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_sniper_golden_garment.279ba7c0ed8009ecccd5dc039cd56ff0e8155bdc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_sniper_golden_garment_large.1e257c763082cc5919f93b10233dc6f884303a05.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Little Drummer Mann",
-				"defindex": 30325,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Little Drummer Mann",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/xms2013_scout_drummer_shirt/xms2013_scout_drummer_shirt.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/xms2013_scout_drummer_shirt/xms2013_scout_drummer_shirt",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_scout_drummer_shirt.d79ee0d568150b3b69da1c90e3cdbce778cbf3f4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_scout_drummer_shirt_large.3d2f7192ef3c0d55bc07dbeabfe0b1fd832ddd3f.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Scout Shako",
-				"defindex": 30326,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Scout Shako",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/xms2013_scout_drummer_hat/xms2013_scout_drummer_hat.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/xms2013_scout_drummer_hat/xms2013_scout_drummer_hat",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_scout_drummer_hat.3818c82cf68ca7625d093c89cc76f35bd429a596.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_scout_drummer_hat_large.f042d3b44f4663b70883a2c012d72c746dbad901.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Toy Tailor",
-				"defindex": 30327,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Toy Tailor",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/pyro/xms2013_pyro_tailor_hat/xms2013_pyro_tailor_hat.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/pyro/xms2013_pyro_tailor_hat/xms2013_pyro_tailor_hat",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_pyro_tailor_hat.e3a003039c589700387d4d5c2783e39ddbd9e3a2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_pyro_tailor_hat_large.3e14b0191cefe5ceabb9b307e7b64a06081956a3.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Extra Layer",
-				"defindex": 30328,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Extra Layer",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/sniper/xms2013_sniper_layer_vest/xms2013_sniper_layer_vest.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/sniper/xms2013_sniper_layer_vest/xms2013_sniper_layer_vest",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_sniper_layer_vest.ec1b1c75f8627dc77db0337ddeecd67b02420100.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_sniper_layer_vest_large.aa5c3259d7b14d6cf1e5cbe884db6d3e85ef4dc8.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Polar Pullover",
-				"defindex": 30329,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Polar Pullover",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/xms2013_polar_pullover/xms2013_polar_pullover_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/xms2013_polar_pullover/xms2013_polar_pullover",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_polar_pullover.f78eca28eeb5c9899be79313cbaa48b5d9831c51.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_polar_pullover_large.026e9cfb177a599401405e0a8eff968bc08f428d.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Dogfighter",
-				"defindex": 30330,
-				"item_class": "tf_wearable",
-				"item_type_name": "Coat",
-				"item_name": "Dogfighter",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/xms2013_dogfighter_jacket/xms2013_dogfighter_jacket.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/xms2013_dogfighter_jacket/xms2013_dogfighter_jacket",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_dogfighter_jacket.50b65aa5e771c9e5b2ccd0e6da341fecfde0e301.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_dogfighter_jacket_large.4b6e3c811cb9c3f4651151d290413a92fe499842.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Antarctic Parka",
-				"defindex": 30331,
-				"item_class": "tf_wearable",
-				"item_type_name": "Coat",
-				"item_name": "Antarctic Parka",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/soldier/xms2013_soldier_parka/xms2013_soldier_parka.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/soldier/xms2013_soldier_parka/xms2013_soldier_parka",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_soldier_parka.e38d3a64e409543493c0cb16fc23f03a5125e8a2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_soldier_parka_large.ff5cf1b82e701a4072a139538d1fb0320d81a48d.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Runner's Warm-Up",
-				"defindex": 30332,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Runner's Warm-Up",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/scout/xms2013_scout_skicap/xms2013_scout_skicap.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/scout/xms2013_scout_skicap/xms2013_scout_skicap",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_scout_skicap.caa672e6a713d3e8f23d6ad6a2955add2ba47c33.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_scout_skicap_large.5eec6b406dcea65820d02cfe03d20601bd73ee64.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Highland High Heels",
-				"defindex": 30333,
-				"item_class": "tf_wearable",
-				"item_type_name": "Boots",
-				"item_name": "Highland High Heels",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/xms2013_demo_plaid_boots/xms2013_demo_plaid_boots.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/xms2013_demo_plaid_boots/xms2013_demo_plaid_boots",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_demo_plaid_boots.9975116e75d1b06dd8a08d197fd1c4bca8aca5a7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_demo_plaid_boots_large.c87ff5bc5d30164c9eacdce08dc3d0728339634f.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Tartan Tyrolean",
-				"defindex": 30334,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Tartan Tyrolean",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/xms2013_demo_plaid_hat/xms2013_demo_plaid_hat.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/xms2013_demo_plaid_hat/xms2013_demo_plaid_hat",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_demo_plaid_hat.bd20e4f59c937c305cd321ee5c7d8b139d26256e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_demo_plaid_hat_large.6a4a46adc37899222248858d36626b5c3eb80a29.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Marshall's Mutton Chops",
-				"defindex": 30335,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Marshall's Mutton Chops",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/soldier/xms2013_soldier_marshal_beard/xms2013_soldier_marshal_beard.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/soldier/xms2013_soldier_marshal_beard/xms2013_soldier_marshal_beard",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/xms2013_soldier_marshal_beard.c4ac17a6064ff452eb30cca479ddac2d93912563.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/xms2013_soldier_marshal_beard_large.12b1cc5ce8d7c09e039951aff4df7b0a8704a85a.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Trencher's Topper",
-				"defindex": 30336,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Trencher's Topper",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/sbox2014_trenchers_topper/sbox2014_trenchers_topper.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/sbox2014_trenchers_topper/sbox2014_trenchers_topper",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_trenchers_topper.60eac3e68a08967ee8903fa347fbc886d24df2ce.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_trenchers_topper_large.7b49983181ee2858a1bfed0bfe4785a5a99593f6.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "Style 1"
-					},
-					{
-						"name": "Style 2"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Trencher's Tunic",
-				"defindex": 30337,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Trencher's Tunic",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/sbox2014_trenchers_tunic/sbox2014_trenchers_tunic.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/sbox2014_trenchers_tunic/sbox2014_trenchers_tunic",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_trenchers_tunic.17e4cbe8db33405a323fc04f240a3b5263b5e56b.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_trenchers_tunic_large.09d040520f88f2ce4f83bf9230a98a1401839e96.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Ground Control",
-				"defindex": 30338,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Ground Control",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/soldier/sbox2014_soldier_major/sbox2014_soldier_major.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/soldier/sbox2014_soldier_major/sbox2014_soldier_major",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_soldier_major.fe6933296ab0eb996c1280d58c8eb923ed946a0f.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_soldier_major_large.0cbfab2da0ad17f7b8e76ed5a1d90c4336690140.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Killer's Kit",
-				"defindex": 30339,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Killer's Kit",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/soldier/sbox2014_killers_kit/sbox2014_killers_kit.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/soldier/sbox2014_killers_kit/sbox2014_killers_kit",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_killers_kit.1a2d9c27da46145701c83633dd35d588558dd542.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_killers_kit_large.41f0882785c44b022925daed1112e6bbeb982dc9.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "Style 1"
-					},
-					{
-						"name": "Style 2"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Stylish DeGroot",
-				"defindex": 30340,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Stylish DeGroot",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/sbox2014_stylish_degroot/sbox2014_stylish_degroot.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/sbox2014_stylish_degroot/sbox2014_stylish_degroot",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_stylish_degroot.b1ac3473454a7a836d42aa84e5138a7eda3108ee.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_stylish_degroot_large.de85f1905ee633bc8b75f782bcc2d624045aabb3.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Ein",
-				"defindex": 30341,
-				"item_class": "tf_wearable",
-				"item_type_name": "Mascot",
-				"item_name": "Ein",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/sbox2014_einstein/sbox2014_einstein.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/sbox2014_einstein/sbox2014_einstein",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_einstein.c74b445c34377873396fb4ee40956f6cd9621cfa.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_einstein_large.7259d24bb99805ba16ec93edd5e2e59693e504d3.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "The Heavy Lifter",
-				"defindex": 30342,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Heavy Lifter",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/sbox2014_heavy_gunshow/sbox2014_heavy_gunshow.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/sbox2014_heavy_gunshow/sbox2014_heavy_gunshow",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_heavy_gunshow.7c793510340140e60d4648980933ab2e3fd98b07.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_heavy_gunshow_large.8cbbcde99b216ede616ad2f85d2561a436a89fd4.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Gone Commando",
-				"defindex": 30343,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Gone Commando",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/sbox2014_heavy_camopants/sbox2014_heavy_camopants.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/sbox2014_heavy_camopants/sbox2014_heavy_camopants",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_heavy_camopants.7fa828900c54e4d804da450860176971b5ce5e8e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_heavy_camopants_large.5d56dbac85ceea07ed5a03292b78e1f9fc04eaa5.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Bullet Buzz",
-				"defindex": 30344,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Bullet Buzz",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/sbox2014_heavy_buzzcut/sbox2014_heavy_buzzcut.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/sbox2014_heavy_buzzcut/sbox2014_heavy_buzzcut",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_heavy_buzzcut.fef1998b1b5c408c961672e168f3acdca98149aa.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_heavy_buzzcut_large.ba6d2c5d2baa95899da795de8477be7f5abcd5a3.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Leftover Trap",
-				"defindex": 30345,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Leftover Trap",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/sbox2014_leftover_trap/sbox2014_leftover_trap.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/sbox2014_leftover_trap/sbox2014_leftover_trap",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_leftover_trap.968f4945a57f8047ed791bc53ca93bbaae86cbcf.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_leftover_trap_large.3760f41454bda2be0ec3e96e6a18edb362fe3a2c.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Trash Man",
-				"defindex": 30346,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Trash Man",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/sbox2014_trash_man/sbox2014_trash_man.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/sbox2014_trash_man/sbox2014_trash_man",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_trash_man.760e5b6c9dd0d6e25d4f5e6439fb5361fe4d7eb3.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_trash_man_large.e9c0c32e6ff72f9382fd7251ff4630c172a3b5bc.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Scotch Saver",
-				"defindex": 30347,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Scotch Saver",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/engineer/sbox2014_scotch_saver/sbox2014_scotch_saver.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/engineer/sbox2014_scotch_saver/sbox2014_scotch_saver",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_scotch_saver.d94033f1128f5dac918e58c9aae3c04100a4e418.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_scotch_saver_large.6edfd27ca941120c39d33853d3e87e5218f61678.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Bushi-Dou",
-				"defindex": 30348,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Bushi-Dou",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/demo/sbox2014_demo_samurai_armour/sbox2014_demo_samurai_armour.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/demo/sbox2014_demo_samurai_armour/sbox2014_demo_samurai_armour",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_demo_samurai_armour.50e3fd51d1b14cd4422354846f877a38e5eb0f81.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_demo_samurai_armour_large.ca590597dabdcc6ad3b27a90339c4c54595b2c51.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Fashionable Megalomaniac",
-				"defindex": 30349,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Fashionable Megalomaniac",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/medic/sbox2014_fashionable_megalomaniac/sbox2014_fashionable_megalomaniac.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/medic/sbox2014_fashionable_megalomaniac/sbox2014_fashionable_megalomaniac",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_fashionable_megalomaniac.2be24c08442c53713254cbbb4906c986a6f02da0.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_fashionable_megalomaniac_large.059a886a34f64274271abd5303064a44ef029057.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Dough Puncher",
-				"defindex": 30350,
-				"item_class": "tf_wearable",
-				"item_type_name": "Apparel",
-				"item_name": "Dough Puncher",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/medic/sbox2014_chefs_coat/sbox2014_chefs_coat.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/medic/sbox2014_chefs_coat/sbox2014_chefs_coat",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_chefs_coat.2be36da2d5d97c0db121563457195475e192f55e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_chefs_coat_large.7e02958baae906bf9fc26cdb1b696f622abda2f2.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Teutonic Toque",
-				"defindex": 30351,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Teutonic Toque",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/medic/sbox2014_teutonic_toque/sbox2014_teutonic_toque.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/medic/sbox2014_teutonic_toque/sbox2014_teutonic_toque",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_teutonic_toque.bb5887966a7821b55fd6216d0c011f0ae90cdd7e.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_teutonic_toque_large.b063234dba300523f7340684d3e26452a39ead2e.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Mustachioed Mann",
-				"defindex": 30352,
-				"item_class": "tf_wearable",
-				"item_type_name": "Facial Hair",
-				"item_name": "Mustachioed Mann",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/sbox2014_mustachioed_mann/sbox2014_mustachioed_mann_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/sbox2014_mustachioed_mann/sbox2014_mustachioed_mann",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_mustachioed_mann.b38b6f32b0b97af79b9ee4a9cb92dc6586c55cdb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_mustachioed_mann_large.774b676efb678011dea456b83671c131e1123d2d.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "Style 1"
-					},
-					{
-						"name": "Style 2"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Backstabber's Boomslang",
-				"defindex": 30353,
-				"item_class": "tf_wearable",
-				"item_type_name": "Mascot",
-				"item_name": "Backstabber's Boomslang",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/spy/sbox2014_spy_snake/sbox2014_spy_snake.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/spy/sbox2014_spy_snake/sbox2014_spy_snake",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_spy_snake.582442bb7750fdacb91a33436e6b9017bc00c213.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_spy_snake_large.185c4f7bb58e6cae854485d9f26e798a1b8a61eb.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "counts as assister is some kind of pet this update is going to be awesome",
-						"class": "counts_as_assister",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "The Rat Stompers",
-				"defindex": 30354,
-				"item_class": "tf_wearable",
-				"item_type_name": "Boots",
-				"item_name": "Rat Stompers",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/heavy/sbox2014_rat_stompers/sbox2014_rat_stompers.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/heavy/sbox2014_rat_stompers/sbox2014_rat_stompers",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_rat_stompers.6f5292923105bc2ba3ac26a4aa2aafe43500b0fe.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_rat_stompers_large.0b1aff909190d905cba31e3020965e15a56044bb.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "Sole Mate",
-				"defindex": 30355,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Sole Mate",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/pyro/sbox2014_sole_mate/sbox2014_sole_mate.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/pyro/sbox2014_sole_mate/sbox2014_sole_mate",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_sole_mate.57de909b73d98332f641f7e98f3387c67752fb53.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_sole_mate_large.b96977e8528989fa2a148daa3e306455224a764c.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Heat of Winter",
-				"defindex": 30356,
-				"item_class": "tf_wearable",
-				"item_type_name": "Coat",
-				"item_name": "Heat of Winter",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/medic/sbxo2014_medic_wintergarb_coat/sbxo2014_medic_wintergarb_coat.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/medic/sbxo2014_medic_wintergarb_coat/sbxo2014_medic_wintergarb_coat",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbxo2014_medic_wintergarb_coat.b461eed54762256fb8318657b33cfa9311206c1b.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbxo2014_medic_wintergarb_coat_large.edf0f67540482b50b274cd02b6bcbf78bb9ce6fc.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Dark Falkirk Helm",
-				"defindex": 30357,
-				"item_class": "tf_wearable",
-				"item_type_name": "Hat",
-				"item_name": "Dark Falkirk Helm",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/sbox2014_knight_helmet/sbox2014_knight_helmet_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/sbox2014_knight_helmet/sbox2014_knight_helmet",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_knight_helmet.09604d4a8a32164ce266e8c894a0fe846393acb1.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_knight_helmet_large.9ca72cb8244ea004a203cfeeecfcd458245c8cd4.png",
-				"drop_type": "drop",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"paintable": true,
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "Open"
-					},
-					{
-						"name": "Closed"
-					}
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
-			},
-			{
-				"name": "The Sole Saviors",
-				"defindex": 30358,
-				"item_class": "tf_wearable",
-				"item_type_name": "Boots",
-				"item_name": "Sole Saviors",
-				"proper_name": true,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/sbox2014_armor_shoes/sbox2014_armor_shoes_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/sbox2014_armor_shoes/sbox2014_armor_shoes",
-				"min_ilevel": 1,
-				"max_ilevel": 100,
-				"image_url": "http://media.steampowered.com/apps/440/icons/sbox2014_armor_shoes.6e28f6eab8914007b79562c229c3439a8c2454b5.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/sbox2014_armor_shoes_large.3f524810cc0476bd1edfdadd71476729813da0e6.png",
-				"drop_type": "none",
-				"craft_class": "hat",
-				"craft_material_type": "hat",
-				"capabilities": {
-					"nameable": true,
-					"can_craft_if_purchased": true,
-					"can_gift_wrap": true,
-					"can_craft_count": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout",
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 30359
+		"next": 30318
 	}
 }
