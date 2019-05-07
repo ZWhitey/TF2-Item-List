@@ -48,14 +48,16 @@ function updatePagination(){
                 </li>`;
     p.append(head);
     var start = item_data.getPage();
-    if(start > item_data.getPageCount() - 7)
+    if(item_data.getPageCount() < 7)
+        start = 1;
+    else if(start > item_data.getPageCount() - 7)
         start = item_data.getPageCount() - 6;
     else if(start > 4)
         start -= 3;
     else
         start = 1;
     for(let i = start;i < start + 7;++i){
-        if(i > item_data.getPageCount())
+        if(i >= item_data.getPageCount())
             break;
         p.append(`
         <li class="page-item ${(item_data.getPage() == i)?'active':''}">
@@ -69,4 +71,10 @@ function updatePagination(){
                     </a>
                 </li>`;
     p.append(tail);
+}
+function setFilter(){
+    var filter = $('#filter').val();
+    item_data.setFilter(filter);
+    item_data.updateItemTable();
+    updatePagination();
 }

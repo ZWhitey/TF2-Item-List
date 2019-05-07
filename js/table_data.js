@@ -22,17 +22,21 @@ class Data {
         this.maxInPage = 100;
         this.pages = Math.ceil(en_i.length / this.maxInPage);
         this.currentPage = 0;
+        this.filter = '';
     }
+
     getItemData(){
         let r = [];
         for(let i = 0;i<this.tw_i.length;++i){
-            r.push({id:this.tw_i[i]["defindex"],
-            tw_name:this.tw_i[i]["item_name"],
-            en_name:this.en_i[i]["item_name"],
-            class:this.tw_i[i]["item_class"],
-            used_class:this.tw_i[i]["used_by_classes"],
-            img:this.tw_i[i]['image_url']
-            });
+            if(this.tw_i[i]["item_name"].indexOf(this.filter) != -1 || this.en_i[i]["item_name"].indexOf(this.filter) != -1){
+                r.push({id:this.tw_i[i]["defindex"],
+                tw_name:this.tw_i[i]["item_name"],
+                en_name:this.en_i[i]["item_name"],
+                class:this.tw_i[i]["item_class"],
+                used_class:this.tw_i[i]["used_by_classes"],
+                img:this.tw_i[i]['image_url']
+                });
+            }
         }
 
         this.pages = Math.ceil(r.length / this.maxInPage);
@@ -48,6 +52,9 @@ class Data {
     }
     setPage(page){
         this.currentPage = page - 1;
+    }
+    setFilter(filter){
+        this.filter = filter;
     }
     updateItemTable() {
         function getUseClass(classes){
