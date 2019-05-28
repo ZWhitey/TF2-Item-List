@@ -20,25 +20,29 @@
             $.getJSON("./item_data/en_3.json"),
             $.getJSON("./item_data/en_4.json"),
             $.getJSON("./item_data/en_5.json"),
+            $.getJSON("./item_data/en_6.json"),
             $.getJSON(`./item_data/zh-TW_1.json`),
             $.getJSON(`./item_data/zh-TW_2.json`),
             $.getJSON(`./item_data/zh-TW_3.json`),
             $.getJSON(`./item_data/zh-TW_4.json`),
             $.getJSON(`./item_data/zh-TW_5.json`),
+            $.getJSON(`./item_data/zh-TW_6.json`),
             $.getJSON(`./item_data/en_schema.json`),
             $.getJSON(`./item_data/zh-tw_schema.json`)
 
-        ).done(function (en1, en2, en3, en4, en5, tw1, tw2, tw3, tw4, tw5, ens, tws) {
+        ).done(function (en1, en2, en3, en4, en5, en6, tw1, tw2, tw3, tw4, tw5, tw6, ens, tws) {
             tw = tw1[0]['result']['items'];
             tw = tw.concat(tw2[0]['result']['items']);
             tw = tw.concat(tw3[0]['result']['items']);
             tw = tw.concat(tw4[0]['result']['items']);
             tw = tw.concat(tw5[0]['result']['items']);
+            tw = tw.concat(tw6[0]['result']['items']);
             en = en1[0]['result']['items'];
             en = en.concat(en2[0]['result']['items']);
             en = en.concat(en3[0]['result']['items']);
             en = en.concat(en4[0]['result']['items']);
             en = en.concat(en5[0]['result']['items']);
+            en = en.concat(en6[0]['result']['items']);
             en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
             tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
 
