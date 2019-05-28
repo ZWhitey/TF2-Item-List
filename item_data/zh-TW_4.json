@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.03db5bb5208329242374e24a81033ec727124e0d.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.a66393e0ef112df82753e847c388af906350cad0.txt",
 		"items": [
 			{
 				"name": "LBTF2 6v6 Access 2nd Place Season 14",
@@ -25495,12 +25495,12 @@
 				
 			},
 			{
-				"name": "RGLgg One Day Prolander Cup North America Winter 2018",
+				"name": "RGLgg One Day Prolander Cup North America Winter 2017",
 				"defindex": 9844,
 				"item_class": "tf_wearable",
 				"item_type_name": "錦標賽獎章",
 				"item_name": "RGL.gg One Day Prolander Cup - North America",
-				"item_description": "2018 冬季",
+				"item_description": "Winter 2017",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/rglgg_prolander_one_day_cup/rglgg_prolander_one_day_cup_Scout.mdl",
@@ -25543,12 +25543,12 @@
 				
 			},
 			{
-				"name": "RGLgg One Day Prolander Cup Europe Winter 2018",
+				"name": "RGLgg One Day Prolander Cup Europe Winter 2017",
 				"defindex": 9845,
 				"item_class": "tf_wearable",
 				"item_type_name": "錦標賽獎章",
 				"item_name": "RGL.gg One Day Prolander Cup - Europe",
-				"item_description": "2018 冬季",
+				"item_description": "Winter 2017",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/rglgg_prolander_one_day_cup/rglgg_prolander_one_day_cup_Scout.mdl",
