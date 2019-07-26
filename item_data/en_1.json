@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.a66393e0ef112df82753e847c388af906350cad0.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0d9c84213b14cf99d0524f40d556238d650190d9.txt",
 		"items": [
 			{
 				"name": "TF_WEAPON_BAT",
@@ -5972,7 +5972,7 @@
 				"item_class": "no_entity",
 				"item_type_name": "Special Taunt",
 				"item_name": "Taunt: The High Five!",
-				"item_description": "Don't leave your friends hanging.\n\nThis is a partner taunt. Press the action slot key to toggle.",
+				"item_description": "Don't leave your friends hanging.\n\nThis is a partner taunt. Press the Action slot key to toggle.",
 				"proper_name": false,
 				"item_slot": "taunt",
 				"model_player": null,

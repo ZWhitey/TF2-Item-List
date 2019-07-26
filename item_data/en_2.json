@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.a66393e0ef112df82753e847c388af906350cad0.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0d9c84213b14cf99d0524f40d556238d650190d9.txt",
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -476,7 +476,7 @@
 				"item_class": "saxxy",
 				"item_type_name": "",
 				"item_name": "Powerup: King",
-				"item_description": "Area team buff\nKing and nearby team mates gain health regeneration and increased attack and reload speed",
+				"item_description": "Area team buff\nKing and nearby teammates gain health regeneration and increased attack and reload speed",
 				"proper_name": false,
 				"model_player": null,
 				"item_quality": 255,
@@ -22801,6 +22801,87 @@
 				
 			},
 			{
+				"name": "Summer 2019 Cosmetic Key",
+				"defindex": 5903,
+				"item_class": "tool",
+				"item_type_name": "Tool",
+				"item_name": "Summer 2019 Cosmetic Key",
+				"item_description": "Used to open a Summer 2019 Cosmetic Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/community_cosmetic_key_summer2019",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/community_cosmetic_key_summer2019.44bb8b6aec0c4f6324f2a656c8fa9eda64700144.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/community_cosmetic_key_summer2019_large.0f1c67dd88550264b42eb26dc149c78c3569be63.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "summer2019",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Summer 2019 Cosmetic Case",
+				"defindex": 5904,
+				"item_class": "supply_crate",
+				"item_type_name": "Supply Crate",
+				"item_name": "Summer 2019 Cosmetic Case",
+				"item_description": "This case is locked and requires a\nSummer 2019 Cosmetic Key to open.\n\nContains a community made item\nfrom the Summer 2019 Cosmetic Collection.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/community_cosmetic_case.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/community_cosmetic_case_summer2019",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/community_cosmetic_case_summer2019.6470c96baaa84dcadf8e41e371a1e04e02d0a11c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/community_cosmetic_case_summer2019_large.0375fa0998694b3367178459cdb312aacc124bfa.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "summer2019"
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
 				"name": "Strange Part (Armory)",
 				"defindex": 5999,
 				"item_class": "tool",
@@ -43072,105 +43153,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "ETF2L 6v6 Division 2 Group Winner Season 14",
-				"defindex": 8279,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "ETF2L 6v6 Division 2 Group Winner",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 3 Group Winner Season 14",
-				"defindex": 8280,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "ETF2L 6v6 Division 3 Group Winner",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 8281
+		"next": 8279
 	}
 }

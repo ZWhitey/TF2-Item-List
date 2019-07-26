@@ -1,8 +1,104 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.a66393e0ef112df82753e847c388af906350cad0.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0d9c84213b14cf99d0524f40d556238d650190d9.txt",
 		"items": [
+			{
+				"name": "ETF2L 6v6 Division 2 Group Winner Season 14",
+				"defindex": 8279,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "ETF2L 6v6 第二組團隊贏家",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "ETF2L 6v6 Division 3 Group Winner Season 14",
+				"defindex": 8280,
+				"item_class": "tf_wearable",
+				"item_type_name": "錦標賽獎章",
+				"item_name": "ETF2L 6v6 第三組團隊贏家",
+				"item_description": "第十四季",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
 			{
 				"name": "ETF2L 6v6 Division 4 Group Winner Season 14",
 				"defindex": 8281,
@@ -49063,105 +49159,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "LBTF2 6v6 Elite Participant Season 14",
-				"defindex": 9312,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "LBTF2 6v6 精英組參賽者",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_participant/lbtf2_6v6_participant_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_participant/lbtf2_6v6_participant",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_participant.6867b7806f563d89aa7d25696a0f6dd2604b7969.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_participant_large.346b7170fc90097fbf9dc04b9fa332d3a9951aa1.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "LBTF2 6v6 Access 1st Place Season 14",
-				"defindex": 9313,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "LBTF2 6v6 晉級組冠軍",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_1st/lbtf2_6v6_1st_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_1st/lbtf2_6v6_1st",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_1st.f17cbfc54eae9f3ec928f102c17108d084282cd1.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_1st_large.b79e0a8e61c4ba4021c8eff71e6667877d2d7539.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 9314
+		"next": 9312
 	}
 }
