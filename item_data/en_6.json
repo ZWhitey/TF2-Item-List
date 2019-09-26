@@ -1,8 +1,3682 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0d9c84213b14cf99d0524f40d556238d650190d9.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.7628906c180b78434eea943ba19db4412f8c73c7.txt",
 		"items": [
+			{
+				"name": "quest25007",
+				"defindex": 25007,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25008",
+				"defindex": 25008,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25009",
+				"defindex": 25009,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25010",
+				"defindex": 25010,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25011",
+				"defindex": 25011,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25012",
+				"defindex": 25012,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25013",
+				"defindex": 25013,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25014",
+				"defindex": 25014,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25015",
+				"defindex": 25015,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25016",
+				"defindex": 25016,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25017",
+				"defindex": 25017,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25018",
+				"defindex": 25018,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25019",
+				"defindex": 25019,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25020",
+				"defindex": 25020,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25021",
+				"defindex": 25021,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25022",
+				"defindex": 25022,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25023",
+				"defindex": 25023,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25024",
+				"defindex": 25024,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25025",
+				"defindex": 25025,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25026",
+				"defindex": 25026,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25027",
+				"defindex": 25027,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25028",
+				"defindex": 25028,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25029",
+				"defindex": 25029,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25030",
+				"defindex": 25030,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25031",
+				"defindex": 25031,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25032",
+				"defindex": 25032,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25033",
+				"defindex": 25033,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25034",
+				"defindex": 25034,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25035",
+				"defindex": 25035,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25036",
+				"defindex": 25036,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25037",
+				"defindex": 25037,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25038",
+				"defindex": 25038,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25039",
+				"defindex": 25039,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25040",
+				"defindex": 25040,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25041",
+				"defindex": 25041,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25042",
+				"defindex": 25042,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25043",
+				"defindex": 25043,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25044",
+				"defindex": 25044,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25045",
+				"defindex": 25045,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25046",
+				"defindex": 25046,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25047",
+				"defindex": 25047,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25048",
+				"defindex": 25048,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25049",
+				"defindex": 25049,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25050",
+				"defindex": 25050,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25051",
+				"defindex": 25051,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25052",
+				"defindex": 25052,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "The Electric Badge-aloo",
+				"defindex": 30000,
+				"item_class": "tf_wearable",
+				"item_type_name": "Badge",
+				"item_name": "Electric Badge-aloo",
+				"item_description": "This badge's monocle lets you know it can't see, the cane tells you it's at death's door, and the top hat says it's rich! Marry this badge before some other gold digger snaps it up!",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/robo_all_bomb_badge/robo_all_bomb_badge_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_bomb_badge/robo_all_bomb_badge",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_bomb_badge.66b31df027dfe0087521b4e2f20ccdec2df9c1b5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_bomb_badge_large.7dc0cbbdf46d9694bb1b401e90cc3aac6106f5df.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Modest Metal Pile of Scrap",
+				"defindex": 30001,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Modest Metal Pile of Scrap",
+				"item_description": "This humble hat pile of one tells the world that there are more important things in life than money. Like for instance not having any.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/robo_all_modest_pile/robo_all_modest_pile_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_modest_pile/robo_all_modest_pile",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_modest_pile.7dff299c23db306c19a8d8833729928aa7eb63e8.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_modest_pile_large.52f49272fcc81fb38fde7340b5b24298fecaedea.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Letch's LED",
+				"defindex": 30002,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Letch's LED",
+				"item_description": "Comes with x-ray specs that let you see through people's clothes while alerting them with a siren and shouted warnings that you're doing it. Great for prison aficionados who want to go to jail but don't know how.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/sniper/robo_sniper_liquidator/robo_sniper_liquidator.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/sniper/robo_sniper_liquidator/robo_sniper_liquidator",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_sniper_liquidator.02bb6cd16e132fb4490e149235a848f080979f1f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_sniper_liquidator_large.503f3d43c4c804842502d1937a91ed7c70903c2e.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Galvanized Gibus",
+				"defindex": 30003,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Galvanized Gibus",
+				"item_description": "Elegant simplicity and old-world charm combine with the intoxicating aromas of methyl alcohol and gasoline. Do not wear in unventilated areas.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/robo_all_gibus/robo_all_gibus_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_gibus/robo_all_gibus",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_gibus.f0ec7d3daa73dd1849d1b26c24b7892431bc820b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_gibus_large.84b53c674082330aa7716ea578af159024b73d41.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Soldered Sensei",
+				"defindex": 30004,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Soldered Sensei",
+				"item_description": "Karate masters WANT you to think there's no belt higher than black. But what if we told you there was a secret metal belt ABOVE black that lets you kick a black belt's ass all over the place? Scared black belt guys have been trying to keep a lid on this for years.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/sniper/robo_sniper_soldered_sensei/robo_sniper_soldered_sensei.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/sniper/robo_sniper_soldered_sensei/robo_sniper_soldered_sensei",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_sniper_soldered_sensei.043a24031de776674e342d9058b24d7b0e255af3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_sniper_soldered_sensei_large.6eda26f9f5656dd8fd1e81af90e8d437a118fed9.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Shooter's Tin Topi",
+				"defindex": 30005,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Shooter's Tin Topi",
+				"item_description": "This safari helmet was welded together from actual blood-spattered scraps of jeeps, rifles, shells and fillings discovered at the mauling sites of previous safaris. Wear it as a constant reminder never to do anything as stupid as go on safari.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/sniper/robo_sniper_solar_topi/robo_sniper_solar_topi.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/sniper/robo_sniper_solar_topi/robo_sniper_solar_topi",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_sniper_solar_topi.ca0b8ce3b27091461373abca0995cb240d9d823d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_sniper_solar_topi_large.667f1dde6d964c053eb20a2d355e40c18218524b.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Noble Nickel Amassment of Hats",
+				"defindex": 30006,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Noble Nickel Amassment of Hats",
+				"item_description": "Some hat towers come from humble beginnings, clawing their way to nobility one hat at a time. Other hat towers, like this one, just have rich dads who are the Chief Business Development Officer at Hewlett Packard.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/robo_all_noble_amassment/robo_all_noble_amassment_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_noble_amassment/robo_all_noble_amassment",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_noble_amassment.9d4fa932eeaa44b3021e1729bda5dc8db0111f1a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_noble_amassment_large.e995f7323b5c73345c4919695dbd7ad9a8f361f2.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Base Metal Billycock",
+				"defindex": 30007,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Base Metal Billycock",
+				"item_description": "Robo-impersonate your favorite fictional bowler-hatted characters, from Batman's Riddler to Clockwork Orange's Alex to England's Winston Churchill.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/spy/robo_spy_backbiter_billycock/robo_spy_backbiter_billycock.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/spy/robo_spy_backbiter_billycock/robo_spy_backbiter_billycock",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_spy_backbiter_billycock.e0178053fe35cf76ee62fe72d97d583b18e5056d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_spy_backbiter_billycock_large.84ab071ef32401458ffcb2e5dd80830a2968f8cf.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Spy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Towering Titanium Pillar of Hats",
+				"defindex": 30008,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Towering Titanium Pillar of Hats",
+				"item_description": "Asimov's Three Laws of Robotics state that 1. Robots can't harm humans and 2. Robots must obey humans, and 3. This hat looks great.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/robo_all_towering_pillar/robo_all_towering_pillar_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/robo_all_towering_pillar/robo_all_towering_pillar",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_towering_pillar.7fe22f4679c2f202800a931e190c627983cc958f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_towering_pillar_large.5b6a514601f3fa6bb6ade791efcd9f993e6e6b28.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Megapixel Beard",
+				"defindex": 30009,
+				"item_class": "tf_wearable",
+				"item_type_name": "Facial Hair",
+				"item_name": "Megapixel Beard",
+				"item_description": "Great for taking pictures of all the sexy make-outs you're going to have now that you've got a robot beard. If there's anything ladies find more irresistible, write in and tell us and we'll bolt it onto this perpetual make-out machine.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/spy/robo_spy_camera_beard/robo_spy_camera_beard.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/spy/robo_spy_camera_beard/robo_spy_camera_beard",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_spy_camera_beard.561af6a319399944177cd46dc8b92cf3c14085c3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_spy_camera_beard_large.c8aeabfa786f4aa8a0064b276ee0032dd3d1355a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Spy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The HDMI Patch",
+				"defindex": 30010,
+				"item_class": "tf_wearable",
+				"item_type_name": "Photograph",
+				"item_name": "HDMI Patch",
+				"item_description": "Bundled with a broad selection of eyeball-related movies (\"Eyes Wide Shut\", \"The Hills Have Eyes, Part II\" and three more) that your friends can enjoy from the comfort of your face.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_pupil/robo_demo_pupil.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_pupil/robo_demo_pupil",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_pupil.98495a251064dd53a12758e6f656814d411294fe.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_pupil_large.d5a5d86c3ab3883c55bf4e222d1cd0e246b872d6.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Bolted Bombardier",
+				"defindex": 30011,
+				"item_class": "tf_wearable",
+				"item_type_name": "Facial Hair",
+				"item_name": "Bolted Bombardier",
+				"item_description": "Remember that time you met the wisest robot in the world? And tore his beard off and stole his stupid pipe? Because the police are here and they want to talk to you.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_beard_bombardier/robo_demo_beard_bombardier.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_beard_bombardier/robo_demo_beard_bombardier",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_beard_bombardier.6143ee3e84f93d33628eec047e4571a74d326974.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_beard_bombardier_large.7ab7532952be531ed1765c4592acf78cd577c7a7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Titanium Towel",
+				"defindex": 30012,
+				"item_class": "tf_wearable",
+				"item_type_name": "Apparel",
+				"item_name": "Titanium Towel",
+				"item_description": "Sure, regular towels work fine for water, but what if you're covered in magnets? What's your regular towel doing for you now? Watching you slowly die of magnetism, that's what.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/heavy/robo_heavy_boltedscraptowel/robo_heavy_boltedscraptowel.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/heavy/robo_heavy_boltedscraptowel/robo_heavy_boltedscraptowel",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_heavy_boltedscraptowel.db29647a4b69d8d351b10dec81a5ecce42c3ff6e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_heavy_boltedscraptowel_large.826a5fcd815fbf5b14e366294c427b40ced9415e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Gridiron Guardian",
+				"defindex": 30013,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Gridiron Guardian",
+				"item_description": "This helmet commemorates the epic Canadian Robot Football League showdown between Les Montreal Footballiers and their Manitoban rivals the Winnepeg Saskatchewans. Don't believe us? Ask any Canadian!",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/heavy/robo_heavy_football_helmet/robo_heavy_football_helmet.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/heavy/robo_heavy_football_helmet/robo_heavy_football_helmet",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_heavy_football_helmet.4d4553668d698562c4f5d92328108d7c5aaa9515.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_heavy_football_helmet_large.845d74dbf0b404c31426ab4187afffe9ebc0abfc.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Tyrantium Helmet",
+				"defindex": 30014,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Tyrantium Helmet",
+				"item_description": "This hat kicks your ass so hard you'll fly into an alternate dimension where Vikings are robots. Deal with it!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/robo_soldier_tyrantium/robo_soldier_tyrantium.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/robo_soldier_tyrantium/robo_soldier_tyrantium",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_soldier_tyrantium.0f4df271e009c202ed41d3eb06acaed115f3a112.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_soldier_tyrantium_large.b77513f1aad86a08b6db84ca679e8e1d26f2f4ba.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Battery Canteens",
+				"defindex": 30015,
+				"item_class": "tf_powerup_bottle",
+				"item_type_name": "Usable Item",
+				"item_name": "Battery Canteens",
+				"item_description": "Don't let the name fool you: These aren't actual battery canteens capable of converting stored chemical energy into electrical energy. They're just regular canteens that look identical to your water canteen and are filled with battery acid.",
+				"proper_name": false,
+				"item_slot": "action",
+				"model_player": "models/workshop/player/items/scout/robo_all_mvm_canteen/robo_all_mvm_canteen.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/robo_all_mvm_canteen/robo_all_mvm_canteen",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_all_mvm_canteen.0349cd88483ee23d511082c98393b25292cc4897.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_all_mvm_canteen_large.94adaaded06ab2a331e07d18c6313a27570f4c06.png",
+				"craft_class": "",
+				"capabilities": {
+					"nameable": true,
+					"usable": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "powerup_bottle"
+				},
+				"attributes": [
+					{
+						"name": "powerup charges",
+						"class": "powerup_charges",
+						"value": 0
+					},
+					{
+						"name": "powerup max charges",
+						"class": "powerup_max_charges",
+						"value": 3
+					},
+					{
+						"name": "powerup duration",
+						"class": "powerup_duration",
+						"value": 5
+					},
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 109
+					}
+				]
+				
+			},
+			{
+				"name": "The FR-0",
+				"defindex": 30016,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "FR-0",
+				"item_description": "Own this one-of-a-kind piece of memorabilia from the classic '70s film \"Blaxton Hale vs. Black HAL 9000\".",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_fro/robo_demo_fro.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_fro/robo_demo_fro",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_fro.fa0fe9e467a30232f7bc867f07b85df812ca80ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_fro_large.ffc86151d9ef7bfebfbf18e2e8d7ea50ba436e27.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Steel Shako",
+				"defindex": 30017,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Steel Shako",
+				"item_description": "Combining the sublime pageantry of Tchaikovsky's \"Nutcracker\" with the bold futurism of Tchaikovsky's \"Robot Nutcracker vs. Tarzan\".",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/robo_soldier_shako/robo_soldier_shako.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/robo_soldier_shako/robo_soldier_shako",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_soldier_shako.fbecdd7189060d9ab34f6599e9e78fcf4cf0ad68.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_soldier_shako_large.57bad2ae384867f406b8e37af3f2e8deae10dd55.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Bot Dogger",
+				"defindex": 30018,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Bot Dogger",
+				"item_description": "It's inevitable that robot hot dog hats will someday become the most popular fashion accessory on the planet. And when they do, everyone will claim they liked them \"before they were cool.\" Thanks to the Bot Dogger, only YOU will be able to prove it.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/robo_dogger/robo_dogger_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/robo_dogger/robo_dogger",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_dogger.0d55781757074a1cc74347cff6d9f7105672f68f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_dogger_large.24115a4d027836edd960038a1dace46424d596de.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Ye Oiled Baker Boy",
+				"defindex": 30019,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Ye Oiled Baker Boy",
+				"item_description": "It's as if this hat fell off the tiny metal head of a dirt-stained urchinbot selling robonewspapers in 1899 Mecha-London, rolled through a time tunnel and into your modern backpack.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/robo_scout_baker_boy/robo_scout_baker_boy.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/robo_scout_baker_boy/robo_scout_baker_boy",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_scout_baker_boy.22762ca5b7d416b06248c69d8114f0bbec731d0b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_scout_baker_boy_large.c7e9e92cdbae24187a50042a3402eaabb7129c80.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Scrap Sack",
+				"defindex": 30020,
+				"item_class": "tf_wearable",
+				"item_type_name": "Backpack",
+				"item_name": "Scrap Sack",
+				"item_description": "Concerned about your many stalkers going through your garbage while you're at work? Rest easy with the Scrap Sack, which lets you keep an eye on your secret-filled trash at all times.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_pyrobotic_tote/robo_pyro_pyrobotic_tote.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_pyrobotic_tote/robo_pyro_pyrobotic_tote",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_pyrobotic_tote.8ce475dd42257a549a89dfe7976a562b9d457b08.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_pyrobotic_tote_large.6449bda0bba690ba21586cbc1b39b77b3dc6bafd.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Pure Tin Capotain",
+				"defindex": 30021,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Pure Tin Capotain",
+				"item_description": "Witch-hunting: necessary, but time-consuming. What if we told you you could burn up to five witches a day without lifting a finger? Introducing the Pure Tin Capotain, the greatest time-saving invention since the electric can opener.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_capotain/robo_demo_capotain.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_capotain/robo_demo_capotain",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_capotain.6f2ef2a0b17c8c2af517a2c6239abc8cd6b2239e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_capotain_large.dc366daae6b8006b93610b9a6f115c218b7d50ad.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Plumber's Pipe",
+				"defindex": 30022,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Plumber's Pipe",
+				"item_description": "Learn plumbing by osmosis with this handy Home Plumber's Kit! Comes with pipe, length of wire.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_prancers_pride/robo_pyro_prancers_pride.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_prancers_pride/robo_pyro_prancers_pride",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_prancers_pride.be58dd12eb8231bd054bdb02554653eceb905dad.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_prancers_pride_large.f360cac2862123862a649a49f65a48fc43a73ef4.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Teddy Robobelt",
+				"defindex": 30023,
+				"item_class": "tf_wearable",
+				"item_type_name": "Pocket Buddy",
+				"item_name": "Teddy Robobelt",
+				"item_description": "This tiny robotic bear used to be the President. Now he lives in your pocket. How could the mighty have fallen so far? [makes drinking gesture] Glug glug wink wink.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/engineer/robo_engineer_teddy/robo_engineer_teddy.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/engineer/robo_engineer_teddy/robo_engineer_teddy",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_engineer_teddy.19923baed203089ee3ecaeb7c27f513c5bbd2f6d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_engineer_teddy_large.825eb452c04dbf438210e0f8b35fec57cc87790f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "The Cyborg Stunt Helmet",
+				"defindex": 30024,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Cyborg Stunt Helmet",
+				"item_description": "If you pause that big fight scene in the classic film \"Swinging Fists of Future Hercules\", you can tell that's not actually famous robot actor Kirk RoboDouglas, but a cyborg stuntman. Support the unsung heroes of the silver-plated screen with this limited edition stunt helmet.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_stuntman/robo_demo_stuntman.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_stuntman/robo_demo_stuntman",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_stuntman.8dcac1a5bf504b73ce0b8783ca7aacfd8e819ba0.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_stuntman_large.b1eacc73661343d3fb5e970ff76f24b6d65cfe4a.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Electric Escorter",
+				"defindex": 30025,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Electric Escorter",
+				"item_description": "\"And it seems to me you lived your life / with a lightbulb in your head / wishing you had cleaned the hole / as the cephalic tetanus spread.\" – Elton John (words by Bernie Taupin)",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_electric_escorter/robo_pyro_electric_escorter.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_electric_escorter/robo_pyro_electric_escorter",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_electric_escorter.a5eb08d0bbfe1c224a47237f497c2ea732829130.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_electric_escorter_large.7d5a21e9d48f95c5660f14afbbdc648ab85678bd.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Full Metal Drill Hat",
+				"defindex": 30026,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Full Metal Drill Hat",
+				"item_description": "What is your major malfunction, Private Robot? You had best defrag yourself or I will unscrew your head, access the CPU in your neck and fix your major malfunction!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/robo_soldier_fullmetaldrillhat/robo_soldier_fullmetaldrillhat.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/robo_soldier_fullmetaldrillhat/robo_soldier_fullmetaldrillhat",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_soldier_fullmetaldrillhat.cc1e0461ff78a82f985e043e1d84147568183883.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_soldier_fullmetaldrillhat_large.60c84af4c6241c85b034ed454f9dee9f70beca89.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Bolt Boy",
+				"defindex": 30027,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Bolt Boy",
+				"item_description": "That item was originally a make-believe superhero accessory tie-in to an imaginary soft drink enjoyed by a fictional character. Now it's also made of metal. There are so many layers of abstraction going on here even we don't know what to make of it.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/robo_scout_bolt_boy/robo_scout_bolt_boy.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/robo_scout_bolt_boy/robo_scout_bolt_boy",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_scout_bolt_boy.06046eb0dde8afe106f4bbd6f1240a6b7e93933a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_scout_bolt_boy_large.b836689bf9c6fbad1320d4697c28323efe686937.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "No Hat",
+						"additional_hidden_bodygroups": {
+							"hat": 1,
+							"headphones": 1
+						}
+					},
+					{
+						"name": "Hat"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Metal Slug",
+				"defindex": 30028,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Metal Slug",
+				"item_description": "They came from outer space. And they came to conquer. It was the perfect space crime. But there's just one problem. YOU. \"The Metal Slug\". Rated R. This Friday. On your HEAD.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_tribtrojan/robo_pyro_tribtrojan.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_tribtrojan/robo_pyro_tribtrojan",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_tribtrojan.cda96dab5267605da63c46a702252cb83b345e15.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_tribtrojan_large.52b1820f4230e40ae18ea6b9172a27bc22c31fb6.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 2
+					}
+				]
+				
+			},
+			{
+				"name": "The Broadband Bonnet",
+				"defindex": 30029,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Broadband Bonnet",
+				"item_description": "This brimless bonnet cap comes equipped with a satellite pom-pom that streams up-to-the-minute news relevant to the on-the-go Scotsman (golf scores, whiskey prices, when \"Braveheart\" is on).",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_glengarry_botnet/robo_demo_glengarry_botnet.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_glengarry_botnet/robo_demo_glengarry_botnet",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_glengarry_botnet.ea55cb7382687ee53cb71a64a5ef644b60db7474.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_glengarry_botnet_large.c158be8e2bd2e138ba343ef622f798c4a2ca7a91.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Bonk Leadwear",
+				"defindex": 30030,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Bonk Leadwear",
+				"item_description": "In 1792, Italian physicist Alessandro Volta invented the battery by mixing zinc, ammonium chloride and molten salt together. In 1932, American soft drink magnate Theophilus Bonk added sugar to this mixture and invented Bonk Cola.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/robo_scout_bonk_helm/robo_scout_bonk_helm.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/robo_scout_bonk_helm/robo_scout_bonk_helm",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_scout_bonk_helm.9d410c1fe3ba86634bf92c14eea47edd50cf1904.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_scout_bonk_helm_large.5e4f38eaa938c9e56ffaf15cce6a1b785d05109f.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Plug-In Prospector",
+				"defindex": 30031,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Plug-In Prospector",
+				"item_description": "Robo-future history comes alive! Pretend you're a grizzled, cantankerous robot prospector, drunk on teeny-tiny shots of nano-whiskey in the Olllld Cyber-West during the Great Battery Rush of 3047.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/engineer/robo_engineer_greaser/robo_engineer_greaser.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/engineer/robo_engineer_greaser/robo_engineer_greaser",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_engineer_greaser.aa43c5fd8e6d7fc4e410512a0837bf6adbeba3b9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_engineer_greaser_large.077e2f50216b0a505b71e4fe64ac155c6bce335a.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Rusty Reaper",
+				"defindex": 30032,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Rusty Reaper",
+				"item_description": "Are you the personification of death? Do you need to spraypaint something indoors? This skull-shaped rebreather has you covered.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_last_watt/robo_pyro_last_watt.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_last_watt/robo_pyro_last_watt",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_last_watt.15addc9316ee2afc9980422ae481f98016ae2971.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_last_watt_large.697407bc6990e9ec82423e461c56213eb2b62b1a.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Soldier's Sparkplug",
+				"defindex": 30033,
+				"item_class": "tf_wearable",
+				"item_type_name": "Cigar",
+				"item_name": "Soldier's Sparkplug",
+				"item_description": "Sometimes a cigar is just a cigar. Other times it is a sparkplug. Sometimes it is a boot. The important thing is that you have something in your mouth that is on fire.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/robo_soldier_sparkplug/robo_soldier_sparkplug.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/robo_soldier_sparkplug/robo_soldier_sparkplug",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_soldier_sparkplug.5560e915ce1daa5d79cd852d588003af2fa3991f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_soldier_sparkplug_large.d6aed72ea6aa1fccf22ad6a5c911f131b9193462.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "attach particle effect static",
+						"class": "set_attached_particle_static",
+						"value": 28
+					}
+				]
+				
+			},
+			{
+				"name": "The Bolted Bicorne",
+				"defindex": 30034,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Bolted Bicorne",
+				"item_description": "One little-known fact about parrots: They WILL peck a hole through a human pirate skull. But they can't peck through solid steel. And if they try? This baby's electrified to the tune of 10,000 volts. Your move, parrots.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_buccaneer_bicorne/robo_demo_buccaneer_bicorne.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_buccaneer_bicorne/robo_demo_buccaneer_bicorne",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_buccaneer_bicorne.343e7e8095ebdcaa8b748a474411cbb73991f6e2.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_buccaneer_bicorne_large.28f5aa998bfa893e70d4eb809fab6c8da23c2104.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Timeless Topper",
+				"defindex": 30035,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Timeless Topper",
+				"item_description": "Most hats are made of felt, canvas or other non-durable cloths that decompose after a mere 10,000 years. The Timeless Topper's built for the long haul, with an outer layer of scrap titanium and an inner core of plastic bags, foam cups and disposable diapers.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/engineer/robo_engineer_rustin/robo_engineer_rustin.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/engineer/robo_engineer_rustin/robo_engineer_rustin",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_engineer_rustin.9a9b4a343ad7024f0ae6114e2225f8c012d50320.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_engineer_rustin_large.11ed31df98108baa3d00540be1667d923eb80405.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Filamental",
+				"defindex": 30036,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Filamental",
+				"item_description": "Is your Pyro made up of alternating current or direct current? Only your electrician knows for sure!",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_figment_filament/robo_pyro_figment_filament.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_figment_filament/robo_pyro_figment_filament",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_figment_filament.1f752ba27b1bbcf720a5c7264fd143748ecbf470.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_figment_filament_large.a49ae08f582a06bc5a770849a0ca6c974ab40d4b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Strontium Stove Pipe",
+				"defindex": 30037,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Strontium Stove Pipe",
+				"item_description": "Beep boop! I am Old Railsplitter! Welcome to the Hall of Robopresidents! I did my homework on the back of a shovel! Now I must kill all humans with a shovel because I just now became sentient! Beep boop kill all humans!",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/robo_demo_scotsmans_stovepipe/robo_demo_scotsmans_stovepipe.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/robo_demo_scotsmans_stovepipe/robo_demo_scotsmans_stovepipe",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_demo_scotsmans_stovepipe.6e34da2c75bb9da57027f4cb31812e8ae294fac3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_demo_scotsmans_stovepipe_large.61fd4fd6edde4540cb9413016c2dc7b910f05105.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Firewall Helmet",
+				"defindex": 30038,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Firewall Helmet",
+				"item_description": "Learn the secret that firefighters guard fiercely: There is no better hat to wear while entering a burning building than a metal hat. Why? The metal will absorb 100% of the heat, leaving your bare skin cool and refreshed, probably.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_firewall_helmet/robo_pyro_firewall_helmet.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_firewall_helmet/robo_pyro_firewall_helmet",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_firewall_helmet.82b1f8e732fd96c5a531c641dcca380e012f778f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_firewall_helmet_large.6688fa115bfe76ae36e54fba3d4f79a608248507.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Respectless Robo-Glove",
+				"defindex": 30039,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Respectless Robo-Glove",
+				"item_description": "When that robot selflessly gave you its hand, it assumed you'd study it to advance the field of prosthetic medicine. Sucker. Hey, everybody check me out! I'm a metal chicken! Beep beep gobble boop!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_respectless_glove/robo_pyro_respectless_glove.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_respectless_glove/robo_pyro_respectless_glove",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_respectless_glove.efb0dff19d66b3e99a786fe2bdde01976e3739aa.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_respectless_glove_large.a89a697bf459bc13a168f2b0ccd8a4a6a8699b9d.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Pyro's Boron Beanie",
+				"defindex": 30040,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Pyro's Boron Beanie",
+				"item_description": "Friends and loved ones will call you stupid for wearing this hat. \"Hey, moron!\" your mother will say. But they won't think it's so funny when you win the Backwards Swimming competition at the Olympics, and are later stripped of your medal for cheating.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/robo_pyro_whirly_bird/robo_pyro_whirly_bird.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/robo_pyro_whirly_bird/robo_pyro_whirly_bird",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_pyro_whirly_bird.7a5a7dede50e1fae0df7741ee25a893c021fd207.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_pyro_whirly_bird_large.e1b177805185c8363c143e802fe64a27a9b1ad6b.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Halogen Head Lamp",
+				"defindex": 30041,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Halogen Head Lamp",
+				"item_description": "This medical marvel improves on the obsolete doctor's head mirror by replacing the mirror part with a 10,000 watt lamp part that can be seen from space. Peer inside your patients' disease-riddled ears, noses and throats from a safe distance.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/medic/robo_medic_otolaryngologists_mirror/robo_medic_otolaryngologists_mirror.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/medic/robo_medic_otolaryngologists_mirror/robo_medic_otolaryngologists_mirror",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_medic_otolaryngologists_mirror.07c21d1fe0918ccf7c5da9db64d915fecff81ff0.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_medic_otolaryngologists_mirror_large.fde9457c5be99d51c8136c08c759edac54119aed.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Platinum Pickelhaube",
+				"defindex": 30042,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Platinum Pickelhaube",
+				"item_description": "Invented by Nikolai Tesla in any one of his ten million appearances in crappy steampunk fiction, probably.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/medic/robo_medic_pickelhaube/robo_medic_pickelhaube.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/medic/robo_medic_pickelhaube/robo_medic_pickelhaube",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_medic_pickelhaube.05468020846b0ec8178cedc4e960516efa1e15b6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_medic_pickelhaube_large.b51b605d4b1caff80e64989ab183424643a3beef.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Virus Doctor",
+				"defindex": 30043,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Virus Doctor",
+				"item_description": "Whether you're a 17th century plague doctor, a professional wrestler, or a waiter at a plague-themed family restaurant, this hat lets you look the part while delivering last rites, a Tombstone Piledriver and/or plate after plate of bacon-wrapped jalapeño poppers.",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/medic/robo_medic_grimm_hatte/robo_medic_grimm_hatte.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/medic/robo_medic_grimm_hatte/robo_medic_grimm_hatte",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_medic_grimm_hatte.a371dda4b7df5ab23808039e9181ffc5e3256fec.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_medic_grimm_hatte_large.944310986cff88d0cf441f43e2a8f29605e096db.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Texas Tin-Gallon",
+				"defindex": 30044,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Texas Tin-Gallon",
+				"item_description": "It's a historical fact that in cowboy times, cloth was hard to come by. Creative cowpokes kept the sun out of their eyes by making hats out of what they had in abundance: sheet-metal trees and bolt cactuses.",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/engineer/robo_engineer_texastingallon/robo_engineer_texastingallon.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/engineer/robo_engineer_texastingallon/robo_engineer_texastingallon",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/robo_engineer_texastingallon.df46257b38f565ae6152fb4db1f15ed933e4411f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/robo_engineer_texastingallon_large.b73088186579f4b2a619013a25506124e72f1a05.png",
+				"drop_type": "drop",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
 			{
 				"name": "Titanium Tyrolean",
 				"defindex": 30045,
@@ -41747,6 +45421,15 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+				"styles": [
+					{
+						"name": "Bonk"
+					},
+					{
+						"name": "Crit-A-Cola"
+					}
+				]
+				,
 				"used_by_classes": [
 					"Scout"
 				]
@@ -42037,6 +45720,7 @@
 				"craft_class": "",
 				"craft_material_type": "hat",
 				"capabilities": {
+					"paintable": true,
 					"nameable": true,
 					"can_craft_if_purchased": true,
 					"can_gift_wrap": true,
@@ -42049,6 +45733,18 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
+				"styles": [
+					{
+						"name": "Paint: Rim"
+					},
+					{
+						"name": "Paint: Full"
+					},
+					{
+						"name": "Paint: Lens"
+					}
+				]
+				,
 				"used_by_classes": [
 					"Spy"
 				]

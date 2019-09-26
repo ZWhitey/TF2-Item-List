@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.0d9c84213b14cf99d0524f40d556238d650190d9.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.7628906c180b78434eea943ba19db4412f8c73c7.txt",
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -2652,7 +2652,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Map Stamp",
 				"item_name": "Map Stamp - Yukon",
-				"item_description": "A Control Point Map\n\nMade by Patrick 'MangyCarface' Mulholland and Joachim 'Acegikmo' Holmér\n\nPurchasing this item directly supports the creators of the Yukon community map.  Show your support today!",
+				"item_description": "A Control Point Map\n\nMade by Patrick 'MangyCarface' Mulholland and Freya 'Acegikmo' Holmér\n\nPurchasing this item directly supports the creators of the Yukon community map.  Show your support today!",
 				"proper_name": false,
 				"model_player": null,
 				"item_quality": 6,
