@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.7628906c180b78434eea943ba19db4412f8c73c7.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -9475,6 +9475,90 @@
 				"name": "Clairvoyance"
 			},
 			{
+				"system": "unusual_dimension_parent",
+				"id": 122,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Fifth Dimension"
+			},
+			{
+				"system": "unusual_aura_purple_parent",
+				"id": 123,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Vicious Vortex"
+			},
+			{
+				"system": "unusual_aura_green_parent",
+				"id": 124,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Menacing Miasma"
+			},
+			{
+				"system": "unusual_aura_red_parent",
+				"id": 125,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Abyssal Aura"
+			},
+			{
+				"system": "unusual_forest_scene_parent_purple",
+				"id": 126,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Wicked Wood"
+			},
+			{
+				"system": "unusual_forest_scene_parent_green",
+				"id": 127,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Ghastly Grove"
+			},
+			{
+				"system": "unusual_magicsmoke_purple_parent",
+				"id": 128,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Mystical Medley"
+			},
+			{
+				"system": "unusual_magicsmoke_green_parent",
+				"id": 129,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Ethereal Essence"
+			},
+			{
+				"system": "unusual_magicsmoke_blue_parent",
+				"id": 130,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Twisted Radiance"
+			},
+			{
+				"system": "unusual_vortex_energy_parent_p",
+				"id": 131,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Violet Vortex"
+			},
+			{
+				"system": "unusual_vortex_energy_parent_g",
+				"id": 132,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Verdant Vortex"
+			},
+			{
+				"system": "unusual_vortex_energy_parent_o",
+				"id": 133,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Valiant Vortex"
+			},
+			{
 				"system": "weapon_unusual_hot",
 				"id": 701,
 				"attach_to_rootbone": false,
@@ -9681,6 +9765,54 @@
 				"id": 3022,
 				"attach_to_rootbone": false,
 				"name": "Ominous Night"
+			},
+			{
+				"system": "utaunt_arcane_purple_parent",
+				"id": 3023,
+				"attach_to_rootbone": false,
+				"name": "Bewitched"
+			},
+			{
+				"system": "utaunt_arcane_green_parent",
+				"id": 3024,
+				"attach_to_rootbone": false,
+				"name": "Accursed"
+			},
+			{
+				"system": "utaunt_arcane_yellow_parent",
+				"id": 3025,
+				"attach_to_rootbone": false,
+				"name": "Enchanted"
+			},
+			{
+				"system": "utaunt_electric_mist_parent",
+				"id": 3026,
+				"attach_to_rootbone": false,
+				"name": "Static Mist"
+			},
+			{
+				"system": "utaunt_electricity_cloud_parent_WP",
+				"id": 3027,
+				"attach_to_rootbone": false,
+				"name": "Eerie Lightning"
+			},
+			{
+				"system": "utaunt_electricity_cloud_parent_WB",
+				"id": 3028,
+				"attach_to_rootbone": false,
+				"name": "Terrifying Thunder"
+			},
+			{
+				"system": "utaunt_electricity_cloud_parent_WY",
+				"id": 3029,
+				"attach_to_rootbone": false,
+				"name": "Jarate Shock"
+			},
+			{
+				"system": "utaunt_portalswirl_purple_parent",
+				"id": 3030,
+				"attach_to_rootbone": false,
+				"name": "Nether Void"
 			},
 			{
 				"system": "killstreak_eyeglow_4_teamcolor_red",

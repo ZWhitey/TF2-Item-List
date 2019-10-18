@@ -1,8 +1,2679 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.7628906c180b78434eea943ba19db4412f8c73c7.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
 		"items": [
+			{
+				"name": "Paintkit 302",
+				"defindex": 16302,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 303",
+				"defindex": 16303,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 304",
+				"defindex": 16304,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 305",
+				"defindex": 16305,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 306",
+				"defindex": 16306,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 307",
+				"defindex": 16307,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 308",
+				"defindex": 16308,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 309",
+				"defindex": 16309,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 310",
+				"defindex": 16310,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 390",
+				"defindex": 16390,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 391",
+				"defindex": 16391,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 200",
+				"defindex": 17200,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 201",
+				"defindex": 17201,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 202",
+				"defindex": 17202,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 203",
+				"defindex": 17203,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 204",
+				"defindex": 17204,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 205",
+				"defindex": 17205,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 206",
+				"defindex": 17206,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 207",
+				"defindex": 17207,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 208",
+				"defindex": 17208,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 209",
+				"defindex": 17209,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 210",
+				"defindex": 17210,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 211",
+				"defindex": 17211,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 212",
+				"defindex": 17212,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 213",
+				"defindex": 17213,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 214",
+				"defindex": 17214,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 215",
+				"defindex": 17215,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 217",
+				"defindex": 17217,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 218",
+				"defindex": 17218,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 220",
+				"defindex": 17220,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 221",
+				"defindex": 17221,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 223",
+				"defindex": 17223,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 224",
+				"defindex": 17224,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 225",
+				"defindex": 17225,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 226",
+				"defindex": 17226,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 228",
+				"defindex": 17228,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 230",
+				"defindex": 17230,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 232",
+				"defindex": 17232,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 234",
+				"defindex": 17234,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 235",
+				"defindex": 17235,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 236",
+				"defindex": 17236,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 237",
+				"defindex": 17237,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 238",
+				"defindex": 17238,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 239",
+				"defindex": 17239,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 240",
+				"defindex": 17240,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 241",
+				"defindex": 17241,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 242",
+				"defindex": 17242,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 243",
+				"defindex": 17243,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Paintkit 244",
+				"defindex": 17244,
+				"item_class": "tool",
+				"item_type_name": "War Paint",
+				"item_name": "War Paint",
+				"item_description": "Can be redeemed for an item with the same pattern.",
+				"proper_name": true,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 15,
+				"image_inventory": "backpack/items/paintkit_tool",
+				"min_ilevel": 99,
+				"max_ilevel": 99,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_tool.4b545466ce72a20215f43f63a1f6cd9e5f3331c5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_tool_large.4efe9f8f2da8270dbc526e13542967fe99a47506.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "paintkit",
+					"usage_capabilities": {
+						"can_killstreakify": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Warpaint Collection 1 Tier 1 Keyless Case",
+				"defindex": 18000,
+				"item_class": "supply_crate",
+				"item_type_name": "",
+				"item_name": "'Decorated War Hero' War Paint\nCivilian Grade Keyless Case",
+				"item_description": "A Civilian Grade or better War Paint from the Decorated War Hero Collection",
+				"proper_name": false,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/items/paintkit_bundle_01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_01.8e42675eb95aab91ade23dd19f1449aa20bf1a2b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_01_large.5488688656b74a0c4bac116497c48f9f77140a24.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "keyless_case",
+					"use_string": "Open"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Warpaint Collection 1 Tier 2 Keyless Case",
+				"defindex": 18001,
+				"item_class": "supply_crate",
+				"item_type_name": "",
+				"item_name": "'Decorated War Hero' War Paint\nFreelance Grade Keyless Case",
+				"item_description": "A Freelance Grade or better War Paint from the Decorated War Hero Collection",
+				"proper_name": false,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/items/paintkit_bundle_02",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_02.28b101f06aa9c35ec864e534f2bb66cb521de842.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_02_large.f1654f2d4a560dd7117ae7d9554f7893692c4bf5.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "keyless_case",
+					"use_string": "Open"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Warpaint Collection 1 Tier 3 Keyless Case",
+				"defindex": 18002,
+				"item_class": "supply_crate",
+				"item_type_name": "",
+				"item_name": "'Decorated War Hero' War Paint\nMercenary Grade Keyless Case",
+				"item_description": "A Mercenary Grade or better War Paint from the Decorated War Hero Collection",
+				"proper_name": false,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/items/paintkit_bundle_03",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_03.976bdd84ee70bcb62952cab80d824dac2652a216.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_03_large.ddea8e577bd4285cf5e6b9e9b112e8154e78ac76.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "keyless_case",
+					"use_string": "Open"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Warpaint Collection 2 Tier 1 Keyless Case",
+				"defindex": 18003,
+				"item_class": "supply_crate",
+				"item_type_name": "",
+				"item_name": "'Contract Campaigner' War Paint\nCivilian Grade Keyless Case",
+				"item_description": "A Civilian Grade or better War Paint from the Contract Campaigner Collection",
+				"proper_name": false,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/items/paintkit_bundle_01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_01.8e42675eb95aab91ade23dd19f1449aa20bf1a2b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_01_large.5488688656b74a0c4bac116497c48f9f77140a24.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "keyless_case",
+					"use_string": "Open"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Warpaint Collection 2 Tier 2 Keyless Case",
+				"defindex": 18004,
+				"item_class": "supply_crate",
+				"item_type_name": "",
+				"item_name": "'Contract Campaigner' War Paint\nFreelance Grade Keyless Case",
+				"item_description": "A Freelance Grade or better War Paint from the Contract Campaigner Collection",
+				"proper_name": false,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/items/paintkit_bundle_02",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_02.28b101f06aa9c35ec864e534f2bb66cb521de842.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_02_large.f1654f2d4a560dd7117ae7d9554f7893692c4bf5.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "keyless_case",
+					"use_string": "Open"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Warpaint Collection 2 Tier 3 Keyless Case",
+				"defindex": 18005,
+				"item_class": "supply_crate",
+				"item_type_name": "",
+				"item_name": "'Contract Campaigner' War Paint\nMercenary Grade Keyless Case",
+				"item_description": "A Mercenary Grade or better War Paint from the Contract Campaigner Collection",
+				"proper_name": false,
+				"model_player": "models/items/paintkit_tool.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/items/paintkit_bundle_03",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_03.976bdd84ee70bcb62952cab80d824dac2652a216.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/paintkit_bundle_03_large.ddea8e577bd4285cf5e6b9e9b112e8154e78ac76.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "keyless_case",
+					"use_string": "Open"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Cosmetic Strangifier Recipe 1",
+				"defindex": 20000,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				,
+				"attributes": [
+					{
+						"name": "series number",
+						"class": "series_number",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Cosmetic Strangifier Recipe 1 Rare",
+				"defindex": 20001,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "MvM Killstreak Recipe 1",
+				"defindex": 20002,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Fabricator",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/professional_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/professional_kit.4555e9d5b59365f40df4ee93510a42af597db9e0.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/professional_kit_large.386bfdf01ce69a0764aae7f2b7bc34137bc90a61.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "MvM Killstreak Recipe 2",
+				"defindex": 20003,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Fabricator",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/professional_kit_rare",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/professional_kit_rare.97f580303b4d77bfe95dda36615979508a5b0533.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/professional_kit_rare_large.c89a416a7b98eb2f4fc2d870dc5ad24825d794b5.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Cosmetic Strangifier Recipe 2",
+				"defindex": 20005,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				,
+				"attributes": [
+					{
+						"name": "series number",
+						"class": "series_number",
+						"value": 2
+					}
+				]
+				
+			},
+			{
+				"name": "Collector Recipe 1",
+				"defindex": 20006,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Festive Collector Recipe 2013",
+				"defindex": 20007,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Rebuild Strange Weapon Recipe",
+				"defindex": 20008,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Cosmetic Strangifier Recipe 3",
+				"defindex": 20009,
+				"item_class": "tool",
+				"item_type_name": "Recipe",
+				"item_name": "Chemistry Set",
+				"item_description": "This item has a set of inputs that, once fulfilled, will\nreward you with what's listed in its outputs.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/construction_kit",
+				"min_ilevel": 3,
+				"max_ilevel": 3,
+				"image_url": "http://media.steampowered.com/apps/440/icons/construction_kit.fdc5df204409bca571d7315ed7208c132a918570.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/construction_kit_large.8b486d8db3c6fd47e6ab0a9da9c90b648087770c.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "dynamic_recipe",
+					"use_string": "Inspect",
+					"usage_capabilities": {
+						"can_consume": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				,
+				"attributes": [
+					{
+						"name": "series number",
+						"class": "series_number",
+						"value": 3
+					},
+					{
+						"name": "recipe no partial complete",
+						"class": "recipe_no_partial_complete",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "quest25000",
+				"defindex": 25000,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25001",
+				"defindex": 25001,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25002",
+				"defindex": 25002,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25003",
+				"defindex": 25003,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25004",
+				"defindex": 25004,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25005",
+				"defindex": 25005,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "quest25006",
+				"defindex": 25006,
+				"item_class": "tool",
+				"item_type_name": "",
+				"item_name": "",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": null,
+				"image_url_large": null,
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
 			{
 				"name": "quest25007",
 				"defindex": 25007,
@@ -46233,8 +48904,831 @@
 					}
 				]
 				
+			},
+			{
+				"name": "Bat Hat",
+				"defindex": 31058,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Bat Hat",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_bat_hat/hwn2019_bat_hat_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_bat_hat/hwn2019_bat_hat",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_bat_hat.fa65d7f1799dc8a589d93b09385be7ce815e1aae.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_bat_hat_large.002f67be4093d93fcd0720168813202838981b9b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Mister Bones",
+				"defindex": 31059,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Mister Bones",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_mister_bones/hwn2019_mister_bones_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_mister_bones/hwn2019_mister_bones",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_mister_bones.3705e671618bea9669997679bd646228aa3deabc.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_mister_bones_large.b901df79690de81a90daef0d4612787cdae9c3e0.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Binoculus",
+				"defindex": 31060,
+				"item_class": "tf_wearable",
+				"item_type_name": "Eyes",
+				"item_name": "BINOCULUS!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_binoculus/hwn2019_binoculus_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_binoculus/hwn2019_binoculus",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_binoculus.fda6b3227a8c7ef29dd7e73b7e256e7000226f50.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_binoculus_large.b275276f5ec7f50377ad4a7305e34c276a7f43a7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "Paint Eyelid"
+					},
+					{
+						"name": "Paint Iris"
+					}
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Pocket Halloween Boss",
+				"defindex": 31061,
+				"item_class": "tf_wearable",
+				"item_type_name": "Pocket Buddy",
+				"item_name": "Pocket Halloween Boss",
+				"item_description": "Four bosses to choose from!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_pocket_merasmus/hwn2019_pocket_merasmus_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_pocket_merasmus/hwn2019_pocket_merasmus",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_pocket_merasmus.c0bbc5b1082da65ed70c5204ec4fc7d450221645.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_pocket_merasmus_large.bcb57a50404f16a4d18f45d4ee1cdaf2c264b391.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "Pocket Merasmus"
+					},
+					{
+						"name": "Pocket Zepheniah"
+					},
+					{
+						"name": "Pocket Monoculus"
+					},
+					{
+						"name": "Pocket Skeleton King"
+					}
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Bread Biter",
+				"defindex": 31062,
+				"item_class": "tf_wearable",
+				"item_type_name": "Bread",
+				"item_name": "Bread Biter",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_bread_biter/hwn2019_bread_biter_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_bread_biter/hwn2019_bread_biter",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_bread_biter.32c5e9f394a9753d397fae0d9a3ea9468bd62534.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_bread_biter_large.a266b48e15cd27af4c78361b130034b2de70c545.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Horrible Horns",
+				"defindex": 31063,
+				"item_class": "tf_wearable",
+				"item_type_name": "Horns",
+				"item_name": "Horrible Horns",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_horrible_horns/hwn2019_horrible_horns_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_horrible_horns/hwn2019_horrible_horns",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_horrible_horns.12b7a4f190bb13b7584c7b2ea05efd51eb926b07.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_horrible_horns_large.c221d91fcc0e622bd4de2bb95c2dcdd1ac856c33.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Trick Stabber",
+				"defindex": 31064,
+				"item_class": "tf_wearable",
+				"item_type_name": "Cosmetic Item",
+				"item_name": "Trick Stabber",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/hwn2019_trick_stabber/hwn2019_trick_stabber_pyro.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/hwn2019_trick_stabber/hwn2019_trick_stabber",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_trick_stabber.9ce2240d1986d8de070476ca16bf9a26fe73f5ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_trick_stabber_large.b7481f135b093b08cf7666259f4a8eea051dbe60.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro",
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Head of the Dead",
+				"defindex": 31065,
+				"item_class": "tf_wearable",
+				"item_type_name": "Costume Piece",
+				"item_name": "Head of the Dead",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/hwn2019_head_of_the_dead/hwn2019_head_of_the_dead.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/hwn2019_head_of_the_dead/hwn2019_head_of_the_dead",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_head_of_the_dead.fa287cf06a07ddd8fa6fe9fc5e00bbf3fb9b63b6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_head_of_the_dead_large.9aaadc85d39c65e733fd2663adefb018bdbdd9cc.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "Decorated"
+					},
+					{
+						"name": "Plain"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Skullbrero",
+				"defindex": 31066,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Skullbrero",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/hwn2019_skullbrero/hwn2019_skullbrero.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/hwn2019_skullbrero/hwn2019_skullbrero",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_skullbrero.7ba8397be907717c2b7a0ced8931a06c4e0d4f80.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_skullbrero_large.27f212968f48c0f69ee9a1c8239bbf5d97349e2f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Candy Cranium",
+				"defindex": 31067,
+				"item_class": "tf_wearable",
+				"item_type_name": "Costume Piece",
+				"item_name": "Candy Cranium",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/hwn2019_candycranium/hwn2019_candycranium.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/hwn2019_candycranium/hwn2019_candycranium",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_candycranium.298aa80aa702962a61291a0dd781e891fc1e7ee5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_candycranium_large.6f480320d3071eb1ebfc54646cd797b762affd30.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Pyro Shark",
+				"defindex": 31068,
+				"item_class": "tf_wearable",
+				"item_type_name": "Costume Piece",
+				"item_name": "Pyro Shark",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/hwn2019_pyro_shark/hwn2019_pyro_shark.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/hwn2019_pyro_shark/hwn2019_pyro_shark",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_pyro_shark.e8a6760bab8434b3024049d7f2e08f7788d34430.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_pyro_shark_large.6f7444d3fe36c50e723521f2ca2b671c7b0f2a27.png",
+				"drop_type": "none",
+				"holiday_restriction": "halloween_or_fullmoon",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "El Zapateador",
+				"defindex": 31069,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "El Zapateador",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/hwn2019_el_zapateador/hwn2019_el_zapateador.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/hwn2019_el_zapateador/hwn2019_el_zapateador",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_el_zapateador.f5a42dc657236eff8883e47c35bb1d013ada3eef.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_el_zapateador_large.0b8a39369c5da56a842ade7eeafe9118f7566ecb.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Party Poncho",
+				"defindex": 31070,
+				"item_class": "tf_wearable",
+				"item_type_name": "Poncho",
+				"item_name": "Party Poncho",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/hwn2019_party_poncho/hwn2019_party_poncho.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/hwn2019_party_poncho/hwn2019_party_poncho",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_party_poncho.f9f69a8bffb282dd36ab7f5ca0c9fc5559a6472d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_party_poncho_large.707cfa80e99cf821ef45144b4d8483b2ead76095.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Racc Mann",
+				"defindex": 31071,
+				"item_class": "tf_wearable",
+				"item_type_name": "Mask",
+				"item_name": "Racc Mann",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/hwn2019_racc_mann/hwn2019_racc_mann.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/hwn2019_racc_mann/hwn2019_racc_mann",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_racc_mann.fe9d26e5fc0c352f62b272cd350dd62594b0b9fe.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_racc_mann_large.bb3f39846507661c07bece932ee99d2a2ba1fbfe.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Voodoo Vizier",
+				"defindex": 31072,
+				"item_class": "tf_wearable",
+				"item_type_name": "Hat",
+				"item_name": "Voodoo Vizier",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/spy/hwn2019_voodoo_vizier/hwn2019_voodoo_vizier.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/spy/hwn2019_voodoo_vizier/hwn2019_voodoo_vizier",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_voodoo_vizier.3dee03cf594de7953cff5ea016996b24db484d2b.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_voodoo_vizier_large.3c1791015011b73341e9a61b4c200f3735826f9e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Spy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Avian Amante",
+				"defindex": 31073,
+				"item_class": "tf_wearable",
+				"item_type_name": "Costume Piece",
+				"item_name": "Avian Amante",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/spy/hwn2019_avian_amante/hwn2019_avian_amante.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/spy/hwn2019_avian_amante/hwn2019_avian_amante",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_avian_amante.ba3c11929197fc1c33dbd7099c38544d464d46e7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_avian_amante_large.0498c6ac9a401f221da194cc3200e8f725372be1.png",
+				"drop_type": "none",
+				"holiday_restriction": "halloween_or_fullmoon",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Spy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "attach particle effect static",
+						"class": "set_attached_particle_static",
+						"value": 28
+					}
+				]
+				
 			}
 		]
-		
+		,
+		"next": 31074
 	}
 }

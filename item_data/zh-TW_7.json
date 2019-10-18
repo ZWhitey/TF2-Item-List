@@ -1,0 +1,603 @@
+{
+	"result": {
+		"status": 1,
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
+		"items": [
+			{
+				"name": "El Mostacho",
+				"defindex": 31074,
+				"item_class": "tf_wearable",
+				"item_type_name": "頭飾",
+				"item_name": "El Mostacho",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/engineer/hwn2019_el_mostacho/hwn2019_el_mostacho.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/engineer/hwn2019_el_mostacho/hwn2019_el_mostacho",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_el_mostacho.41e0941e96cf29092437583d31b6b43d0013fbc8.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_el_mostacho_large.c8137564af5bde143dd2c342b8f03b34275d5340.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Eingineer",
+				"defindex": 31075,
+				"item_class": "tf_wearable",
+				"item_type_name": "服飾套件",
+				"item_name": "Eingineer",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/engineer/hwn2019_eingineer/hwn2019_eingineer.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/engineer/hwn2019_eingineer/hwn2019_eingineer",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_eingineer.fa0b13fbc5711c4d10d822f2b90ae7a500530a6a.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_eingineer_large.2a4454157a3f487b2febae94912338068f3d9f6f.png",
+				"drop_type": "none",
+				"holiday_restriction": "halloween_or_fullmoon",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Pyr'o Lantern",
+				"defindex": 31076,
+				"item_class": "tf_wearable",
+				"item_type_name": "服飾套件",
+				"item_name": "Pyr'o Lantern",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/hwn2019_pyro_lantern/hwn2019_pyro_lantern.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/hwn2019_pyro_lantern/hwn2019_pyro_lantern",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_pyro_lantern.4a3589e5a7f694837fd194efedf3a49a3033ea38.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_pyro_lantern_large.4bb2278672f7f4a9d0b0dba43379a9fa3cae61db.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Madmann's Muzzle",
+				"defindex": 31077,
+				"item_class": "tf_wearable",
+				"item_type_name": "Muzzle",
+				"item_name": "Madmann's Muzzle",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/medic/hwn2019_madmanns_muzzle/hwn2019_madmanns_muzzle.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/medic/hwn2019_madmanns_muzzle/hwn2019_madmanns_muzzle",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_madmanns_muzzle.7410e38630b3692205eee69e150987f794beb562.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_madmanns_muzzle_large.d2815b001ae25679bb776a10639749e9f3f4f7d7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Derangement Garment",
+				"defindex": 31078,
+				"item_class": "tf_wearable",
+				"item_type_name": "夾克",
+				"item_name": "Derangement Garment",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/medic/hwn2019_derangement_garment/hwn2019_derangement_garment.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/medic/hwn2019_derangement_garment/hwn2019_derangement_garment",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_derangement_garment.685e93ffdb827c48097154b7ccaafeb8d9e9533c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_derangement_garment_large.65f94b4933d34238a77dfb329b04596772ede5f2.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Soviet Strongmann",
+				"defindex": 31079,
+				"item_class": "tf_wearable",
+				"item_type_name": "刺青",
+				"item_name": "Soviet Strongmann",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/heavy/hwn2019_soviet_strongmann_style2/hwn2019_soviet_strongmann_style2.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/heavy/hwn2019_soviet_strongmann_style2/hwn2019_soviet_strongmann_style2",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_soviet_strongmann_style2.61a0b3404643bec297b65a2b5851c1f5e5257884.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_soviet_strongmann_style2_large.8ca9e82a98e58b96e12eb3d2a67bb3fa2e40707c.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "Barbed Wire"
+					},
+					{
+						"name": "Anchor"
+					},
+					{
+						"name": "Bare"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Convict Cap",
+				"defindex": 31080,
+				"item_class": "tf_wearable",
+				"item_type_name": "頭飾",
+				"item_name": "Convict Cap",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/heavy/hwn2019_convict_cap/hwn2019_convict_cap.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/heavy/hwn2019_convict_cap/hwn2019_convict_cap",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_convict_cap.54695f470d6362efb142ee970daae6df62ba75a2.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_convict_cap_large.204029a76c00fccd017112db819b5245c292564f.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "Scars"
+					},
+					{
+						"name": "No Scars"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "attach particle effect static",
+						"class": "set_attached_particle_static",
+						"value": 28
+					}
+				]
+				
+			},
+			{
+				"name": "Fuel Injector",
+				"defindex": 31081,
+				"item_class": "tf_wearable",
+				"item_type_name": "面具",
+				"item_name": "Fuel Injector",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/hwn2019_fuel_injector/hwn2019_fuel_injector.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/hwn2019_fuel_injector/hwn2019_fuel_injector",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_fuel_injector.3ac70c78af2dfcc2296a104e7a0a53d74c84a4c9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_fuel_injector_large.e4e73528f84aa1293a4187925949cdbc0b68ff66.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "Side-Valve"
+					},
+					{
+						"name": "Outta Gas"
+					},
+					{
+						"name": "Runnin On Fumes"
+					}
+				]
+				,
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Remorseless Raptor",
+				"defindex": 31082,
+				"item_class": "tf_wearable",
+				"item_type_name": "服飾套件",
+				"item_name": "Remorseless Raptor",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/hwn2019_remorseless_raptor/hwn2019_remorseless_raptor.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/hwn2019_remorseless_raptor/hwn2019_remorseless_raptor",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_remorseless_raptor.f53a83c3641a766a99fb3eabd694e02e317d9922.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_remorseless_raptor_large.3932a2df602d51ab439e34a07cafaf2d122b94f6.png",
+				"drop_type": "none",
+				"holiday_restriction": "halloween_or_fullmoon",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Wild Whip",
+				"defindex": 31083,
+				"item_class": "tf_wearable",
+				"item_type_name": "服飾套件",
+				"item_name": "Wild Whip",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/hwn2019_wild_whip/hwn2019_wild_whip.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/hwn2019_wild_whip/hwn2019_wild_whip",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_wild_whip.dc621b1bbef86d0864b5bacf19c5a21fc0907b6d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_wild_whip_large.85693c833072151dc149af1a0d210cec00835dc1.png",
+				"drop_type": "none",
+				"holiday_restriction": "halloween_or_fullmoon",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Elizabeth the Third",
+				"defindex": 31084,
+				"item_class": "tf_wearable",
+				"item_type_name": "吉祥物",
+				"item_name": "Elizabeth the Third",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/sniper/hwn2019_elizabeth_the_third/hwn2019_elizabeth_the_third.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/sniper/hwn2019_elizabeth_the_third/hwn2019_elizabeth_the_third",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn2019_elizabeth_the_third.2cc4426e0c8f4bd2bd728b9401e953b80e98eec4.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn2019_elizabeth_the_third_large.a18c455039f7f5348b3ac90ca6682b42fa0033e5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "counts as assister is some kind of pet this update is going to be awesome",
+						"class": "counts_as_assister",
+						"value": 1
+					}
+				]
+				
+			}
+		]
+		
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.7628906c180b78434eea943ba19db4412f8c73c7.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -3994,6 +3994,68 @@
 				"max_ilevel": 50,
 				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove.b2acfae66e4b3c548ab5255970c4394dff9b81f9.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_cursed_cove_large.37209f8d09d8678ee5cba9e0255b444dbf61fbe3.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Laughter",
+				"defindex": 1953,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Laughter",
+				"item_description": "A King of the Hill Map\n\nMade by Aeon 'Void' Bollig\nLiam 'Diva Dan' Moffitt\nFuzzymellow\nand Zoey 'Sexy Robot' Smith\n\nPurchasing this item directly supports the creators of the Laughter community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_laughter",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_laughter.74499acf48e5d448a739545cafc55fd771a77063.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_laughter_large.8485f26445207347effbe500f9abae379d812dfe.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Precipice",
+				"defindex": 1954,
+				"item_class": "map_token",
+				"item_type_name": "地圖郵票",
+				"item_name": "Map Stamp - Precipice",
+				"item_description": "A Payload Map\n\nMade by TheHorseStrangler\nand TanookiSuit3\n\nPurchasing this item directly supports the creators of the Precipice community map.  Show your support today!",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_precipice",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_precipice.b19b08d79cdf002eae11c609dcbedb422776cc25.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_precipice_large.0f6047d28bc8e7aeca01bcea583c6145a9d40eea.png",
 				"capabilities": {
 					"can_craft_if_purchased": true,
 					"can_gift_wrap": true,
@@ -9169,6 +9231,37 @@
 			{
 				"name": "Map Token Bundle 14",
 				"defindex": 2162,
+				"item_class": "bundle",
+				"item_type_name": "套裝物品",
+				"item_name": "地圖集郵組",
+				"item_description": "包括每一張由社群玩家製作地圖的郵票。",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/stamp_collection",
+				"min_ilevel": 50,
+				"max_ilevel": 50,
+				"image_url": "http://media.steampowered.com/apps/440/icons/stamp_collection.a14caabdd3bc9a3067f002be1dd39bbbdc90c0da.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/stamp_collection_large.6b5aca38042b977a3fc0356d5606c7f83f674aa7.png",
+				"capabilities": {
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Bundle 15",
+				"defindex": 2163,
 				"item_class": "bundle",
 				"item_type_name": "套裝物品",
 				"item_name": "地圖集郵組",
@@ -22882,6 +22975,116 @@
 				
 			},
 			{
+				"name": "Halloween 2019 Case",
+				"defindex": 5905,
+				"item_class": "supply_crate",
+				"item_type_name": "補給箱",
+				"item_name": "Spooky Spoils Case",
+				"item_description": "This Case is locked and requires a\nSpooky Spoils Key to open.\n\nContains a community made item\nfrom the Spooky Spoils Collection.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/halloween_case.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/halloween2019_case",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/halloween2019_case.dcc61405d34fe30b5f205d8f6fdb30479256892f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/halloween2019_case_large.4769250eba4cd275a80e7be17b48a65baecc4350.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "halloween2019"
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Halloween 2019 Key",
+				"defindex": 5906,
+				"item_class": "tool",
+				"item_type_name": "工具",
+				"item_name": "Spooky Spoils Key",
+				"item_description": "Used to Open the Spooky Spoils Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/halloween2019_key",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/halloween2019_key.c6f6a28a5b5bbe5d6d4de784530d3008a60bf9a1.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/halloween2019_key_large.77e7f91fd579b3e9c261b0f75edb1808ee3e0d3b.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "halloween2019",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Halloween 2019 Collection Dummy",
+				"defindex": 5907,
+				"item_class": "craft_item",
+				"item_type_name": "",
+				"item_name": "Spooky Spoils Collection",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 255,
+				"image_inventory": "backpack/crafting/pile_of_junk",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/pile_of_junk.bedea9fa9bf454daf3472361408e742a00f676ab.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
 				"name": "Strange Part (Armory)",
 				"defindex": 5999,
 				"item_class": "tool",
@@ -27739,6 +27942,78 @@
 				"max_ilevel": 1,
 				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_cursed_cove.c84679171e6047060c28bf0937ee4985057aad60.png",
 				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_cursed_cove_large.fae2fd81e9573b6510d5df0878c5d9b799373177.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Laughter (Community)",
+				"defindex": 6570,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Laughter (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Laughter.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_laughter",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_laughter.07d310e2bd821f636bc38cd06e567bb671aca0b3.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_laughter_large.18fdfb30414cca4c7aba2693b6c1952efcd3ab71.png",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "strange_part_restriction",
+					"usage_capabilities": {
+						"strange_parts": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Strange Filter: Precipice (Community)",
+				"defindex": 6571,
+				"item_class": "tool",
+				"item_type_name": "奇異過濾器",
+				"item_name": "Strange Filter: Precipice (Community)",
+				"item_description": "Adding this Strange Filter to a Strange-quality item and selecting one of the stats that it tracks will restrict that stat to only counting events on Precipice.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/strange_filter_precipice",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_precipice.5dceef310d4b69b5c4cc4b76a0abac81161a54f2.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/strange_filter_precipice_large.2d97d7ae27707811df3c43ac48b722aa607b17ed.png",
 				"capabilities": {
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
@@ -42769,393 +43044,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "UGC 6vs6 Platinum Participant Season 11",
-				"defindex": 8271,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "UGC 6vs6 白金參賽者",
-				"item_description": "第十一季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_gold.74b73608409048fdf3258dd0c5c93f25cbf76212.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_gold_large.28b4170f462a10e34b007fd9952e599ebfcb4326.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC 6vs6 Silver Participant Season 11",
-				"defindex": 8272,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "UGC 6vs6 銀牌參賽者",
-				"item_description": "第十一季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver.e5c6cfb45b708e44373d19d0e05e64a56c96ac4c.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver_large.172da2b4459de8c2cc3c1d6cc9974a730303f6dc.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC 6vs6 Steel Participant Season 11",
-				"defindex": 8273,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "UGC 6vs6 鐵牌參賽者",
-				"item_description": "第十一季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_steel",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_steel.152831dc47133d59e6e7b04f811fe08ebae4218d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_steel_large.7946e5a9e9cb8036df834d4ffabb2208917dd0ac.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC 6vs6 European Participant Season 11",
-				"defindex": 8274,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "UGC 6vs6 歐洲區參賽者",
-				"item_description": "第十一季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver.e5c6cfb45b708e44373d19d0e05e64a56c96ac4c.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver_large.172da2b4459de8c2cc3c1d6cc9974a730303f6dc.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Premier Division Gold Medal Season 14",
-				"defindex": 8275,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 特別組金牌",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_placement_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_placement_2012_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_placement_2012_gold.362e88901d061953ec25e2a9be9ce62b58e580f2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_placement_2012_gold_large.d4b79e13f2f834fc8870fc29afd09a249c871808.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Premier Division Silver Medal Season 14",
-				"defindex": 8276,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 特別組銀牌",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_placement_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_placement_2012_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_placement_2012_silver.86617cb5e6e9712d938baaaffc60b54a4929e92c.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_placement_2012_silver_large.93d8336726369717b4a0c8464232a8295a7cae45.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Premier Division Bronze Medal Season 14",
-				"defindex": 8277,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 特別組銅牌",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_placement_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_placement_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_placement_2012.412646f33cf26d2718ff0c0a4cfba4c4a49f1558.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_placement_2012_large.1decb24e8a1a9ec787132eb28efca2390ab1cee1.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ETF2L 6v6 Division 1 Group Winner Season 14",
-				"defindex": 8278,
-				"item_class": "tf_wearable",
-				"item_type_name": "錦標賽獎章",
-				"item_name": "ETF2L 6v6 第一組團隊贏家",
-				"item_description": "第十四季",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/etf2l_sixs_winner_2012.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/etf2l_sixs_winner_2012",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012.c25236b35db05816b4e1f97aed24503db09d72e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/etf2l_sixs_winner_2012_large.fba51b7219e51cef29f650e18317edfd60e28257.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 8279
+		"next": 8271
 	}
 }

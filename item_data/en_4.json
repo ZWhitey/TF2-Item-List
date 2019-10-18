@@ -1,8 +1,399 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.7628906c180b78434eea943ba19db4412f8c73c7.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
 		"items": [
+			{
+				"name": "ESA Rewind 2nd Place 2017",
+				"defindex": 9304,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "ESA Rewind 2nd Place",
+				"item_description": "2017",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rewind_lan_silver/rewind_lan_silver_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rewind_lan_silver/rewind_lan_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rewind_lan_silver.d821cb59c172a60bf756708c49755e240335fd36.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rewind_lan_silver_large.257021eb45e5792f443bbe0edbd9729acbc69d70.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "ESA Rewind 3rd Place 2017",
+				"defindex": 9305,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "ESA Rewind 3rd Place",
+				"item_description": "2017",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rewind_lan_bronze/rewind_lan_bronze_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rewind_lan_bronze/rewind_lan_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rewind_lan_bronze.4ba8927bdd855618774125fa2cf98cbede03c36d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rewind_lan_bronze_large.f885c5ed5b7f511b0ed988da4088d48622f23449.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "ESA Rewind Participant 2017",
+				"defindex": 9306,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "ESA Rewind Participant",
+				"item_description": "2017",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rewind_lan_participant/rewind_lan_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rewind_lan_participant/rewind_lan_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rewind_lan_participant.2d82e190cea223e6bc4d98ec7ed6616eb45c3476.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rewind_lan_participant_large.0edead09dcd29f6edaa06d4d3dbe69ad58f64b5d.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Special Snowflake 2016",
+				"defindex": 9307,
+				"item_class": "tf_wearable",
+				"item_type_name": "Community Medal",
+				"item_name": "Special Snowflake 2016",
+				"item_description": "Golden snow? No, no, don't worry, it's lemon! Awarded to the participants of the Workshop Wonderland 2016 community showcase!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/w2016_special_snowflake/w2016_special_snowflake_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/w2016_special_snowflake/w2016_special_snowflake",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w2016_special_snowflake.95221432981221d2af3b7356a2a92fda11425745.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w2016_special_snowflake_large.3231ebe2159a62a2c0c9c82eac4f04100bd62789.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Gift of Giving 2016",
+				"defindex": 9308,
+				"item_class": "tf_wearable",
+				"item_type_name": "Community Medal",
+				"item_name": "Gift of Giving 2016",
+				"item_description": "So everyone can game. For the charitable hearts of gold during the charity drive of the Workshop Wonderland 2016 community showcase!",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/w2016_gift_of_giving/w2016_gift_of_giving_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/w2016_gift_of_giving/w2016_gift_of_giving",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/w2016_gift_of_giving.bf3e25cb08ba5714a14930e999afd12d71dd2395.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/w2016_gift_of_giving_large.3f3149faa776f1a0eb7ef328fbc288299254e597.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 6v6 Elite 1st Place Season 14",
+				"defindex": 9309,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 6v6 Elite 1st Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_1st/lbtf2_6v6_1st_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_1st/lbtf2_6v6_1st",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_1st.f17cbfc54eae9f3ec928f102c17108d084282cd1.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_1st_large.b79e0a8e61c4ba4021c8eff71e6667877d2d7539.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 6v6 Elite 2nd Place Season 14",
+				"defindex": 9310,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 6v6 Elite 2nd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_2nd/lbtf2_6v6_2nd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_2nd/lbtf2_6v6_2nd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_2nd.c4899632bc9d345e0be6db48fa4698b3be16f216.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_2nd_large.8e5056870858a06435e2fe6b1f2aa1036419a563.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "LBTF2 6v6 Elite 3rd Place Season 14",
+				"defindex": 9311,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "LBTF2 6v6 Elite 3rd Place",
+				"item_description": "Season 14",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/lbtf2_6v6_3rd/lbtf2_6v6_3rd_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/lbtf2_6v6_3rd/lbtf2_6v6_3rd",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_3rd.d126dca5cfd2683e491d268eef191d07bfbe885f.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/lbtf2_6v6_3rd_large.c6d38c621387b1e0e7f73a2ac1cddac4f4005545.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
 			{
 				"name": "LBTF2 6v6 Elite Participant Season 14",
 				"defindex": 9312,
@@ -47460,7 +47851,7 @@
 				"defindex": 10299,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 1st Place",
+				"item_name": "Brazil Fortress 6v6 First Place",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47508,7 +47899,7 @@
 				"defindex": 10300,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 2nd Place",
+				"item_name": "Brazil Fortress 6v6 Second Place",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47556,7 +47947,7 @@
 				"defindex": 10301,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 3rd Place",
+				"item_name": "Brazil Fortress 6v6 Third Place",
 				"item_description": "Season 1",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47652,7 +48043,7 @@
 				"defindex": 10303,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 1st Place",
+				"item_name": "Brazil Fortress 6v6 First Place",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47700,7 +48091,7 @@
 				"defindex": 10304,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 2nd Place",
+				"item_name": "Brazil Fortress 6v6 Second Place",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47748,7 +48139,7 @@
 				"defindex": 10305,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 3rd Place",
+				"item_name": "Brazil Fortress 6v6 Third Place",
 				"item_description": "Season 2",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47790,393 +48181,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "Brazil Fortress 6v6 Participant Season 2",
-				"defindex": 10306,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "Brazil Fortress 6v6 Participant",
-				"item_description": "Season 2",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/brasil_fortress_6v6_participante/brasil_fortress_6v6_participante_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/brasil_fortress_6v6_participante/brasil_fortress_6v6_participante",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/brasil_fortress_6v6_participante.db7ee55e903f867a1fccf771a7a6551f6ef93f25.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/brasil_fortress_6v6_participante_large.d75e9ac251c6f8654765b43588060e3985b9206f.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 1 1st Place Season 14",
-				"defindex": 10307,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 1 1st Place",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_gold/asiafortress_gold_demo.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_gold/asiafortress_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_gold.b2c904501a82d51a854626f05596c59ad693f35f.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_gold_large.cba1b5c77b2832fa7290598b62d771edeed5f27e.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 1 2nd Place Season 14",
-				"defindex": 10308,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 1 2nd Place",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_silver/asiafortress_silver_demo.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_silver/asiafortress_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_silver.bbf356280f49e12b98b41039357a4073ec5070c2.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_silver_large.f91dcba7805a530c94fea48db99c206134755aec.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 1 3rd Place Season 14",
-				"defindex": 10309,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 1 3rd Place",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_bronze/asiafortress_bronze_demo.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_bronze/asiafortress_bronze",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_bronze.9cde9b38b8b547c29aee14ee4dd8bfce516b7429.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_bronze_large.56bc875a3f418501b7d2129b055da9cae57fb842.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 1 Participant Season 14",
-				"defindex": 10310,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 1 Participant",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_participant/asiafortress_participant_demo.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_participant/asiafortress_participant",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_participant.fb283f6a3b6c2f840b80bfac51d0101b92198ab6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_participant_large.6f0cce5ff78d5a196adcc4e6d914e49aa7448dcc.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 2 1st Place Season 14",
-				"defindex": 10311,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 2 1st Place",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division2_gold/asiafortress_cup_division2_gold_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division2_gold/asiafortress_cup_division2_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_gold.2b470ef5aea198df4cdc30cc5033af8dd791eef6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_gold_large.b3a6b2d1eb451bca76814179e7ee4f353e703142.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 2 2nd Place Season 14",
-				"defindex": 10312,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 2 2nd Place",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division2_silver/asiafortress_cup_division2_silver_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division2_silver/asiafortress_cup_division2_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_silver.124d6d3d974cfbead8794f106249c17a807ea1a7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_silver_large.2e417f75c4b16abe4a3ab038f55243abbf3a885f.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "AsiaFortress Cup Division 2 3rd Place Season 14",
-				"defindex": 10313,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "AsiaFortress Cup Division 2 3rd Place",
-				"item_description": "Season 14",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/asiafortress_cup_division2_bronze/asiafortress_cup_division2_bronze_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/asiafortress_cup_division2_bronze/asiafortress_cup_division2_bronze",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_bronze.24054ade18e7923eb382ddb60e7720d9772e95d8.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/asiafortress_cup_division2_bronze_large.f5054bfaa6d3632c0b770999f9bbc3a76e240dd5.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 10314
+		"next": 10306
 	}
 }
