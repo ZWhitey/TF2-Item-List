@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.9f281e5a9dd0c1ca93faaa6bdfc154812e91bffb.txt",
 		"items": [
 			{
 				"name": "The Quickiebomb Launcher",
@@ -23085,6 +23085,202 @@
 				
 			},
 			{
+				"name": "Winter 2019 Cosmetic Key",
+				"defindex": 5908,
+				"item_class": "tool",
+				"item_type_name": "Tool",
+				"item_name": "Winter 2019 Cosmetic Key",
+				"item_description": "Used to open a Winter 2019 Cosmetic Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/cosmetic_case_key_xmas2019",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/cosmetic_case_key_xmas2019.bf10714c483f8016b53af93afb01b7a69e2095ec.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/cosmetic_case_key_xmas2019_large.e559c76885462b0d3dda8d259084c4cdd56afd91.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "winter2019",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Winter 2019 Cosmetic Case",
+				"defindex": 5909,
+				"item_class": "supply_crate",
+				"item_type_name": "Supply Crate",
+				"item_name": "Winter 2019 Cosmetic Case",
+				"item_description": "This case is locked and requires a\nWinter 2019 Cosmetic Key to open.\n\nContains a community made item\nfrom the Winter 2019 Cosmetic Collection.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/cosmetic_case_ribbon.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/smissmas_2019_case",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/smissmas_2019_case.a6ea45ad2b78077a676b63a8869a156484a74508.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/smissmas_2019_case_large.c387eb8ce20b0aa7d51378c1b61c6cc64421f9ea.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "winter2019"
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Self Gift - Stocking Stuffer 2019",
+				"defindex": 5910,
+				"item_class": "tf_wearable",
+				"item_type_name": "Gift",
+				"item_name": "Gift-Stuffed Stocking 2019",
+				"item_description": "Contains an assortment of goodies for good little Mercenaries.",
+				"proper_name": false,
+				"item_slot": "action",
+				"model_player": "",
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/winter2013_stocking_stuffer",
+				"min_ilevel": 13,
+				"max_ilevel": 13,
+				"image_url": "http://media.steampowered.com/apps/440/icons/winter2013_stocking_stuffer.a4e45c0fdf9632f5594fae637ed2e81ca4736fe7.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/winter2013_stocking_stuffer_large.7bc765916da8be822184ad0c2c0025701971400a.png",
+				"capabilities": {
+					"usable_gc": true,
+					"can_gift_wrap": true,
+					"usable_out_of_game": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "gift"
+				},
+				"attributes": [
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Winter 2019 War Paint Key",
+				"defindex": 5911,
+				"item_class": "tool",
+				"item_type_name": "Tool",
+				"item_name": "Winter 2019 War Paint Key",
+				"item_description": "Used to Open a Winter 2019 War Paint Case",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/weapon_case_key_smissmas2019",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/weapon_case_key_smissmas2019.7ec2d4c334d5477c1a24e8dd91cfd4452bd671cc.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/weapon_case_key_smissmas2019_large.c3913041c9d35df5a1c6b45c4fbafde70b3d0967.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "winter2019paintkit",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
+				"name": "Winter 2019 War Paint Case",
+				"defindex": 5912,
+				"item_class": "supply_crate",
+				"item_type_name": "Supply Crate",
+				"item_name": "Winter 2019 War Paint Case",
+				"item_description": "Paint your master piece with one of these community-made War Paints.",
+				"proper_name": false,
+				"model_player": "models/player/items/crafting/weapons_case.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/crafting/weapons_case_workshop_paintkit_smissmas2019",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_smissmas2019.6206634ada5fc0222e107e941ed2df98e8698cf5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_smissmas2019_large.796e725271708fe7c71247b5b89546321b1a3174.png",
+				"craft_class": "supply_crate",
+				"craft_material_type": "supply_crate",
+				"capabilities": {
+					"decodable": true,
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "",
+					"restriction": "winter2019paintkit"
+				},
+				"used_by_classes": [
+
+				]
+				
+			},
+			{
 				"name": "Strange Part (Armory)",
 				"defindex": 5999,
 				"item_class": "tool",
@@ -42804,249 +43000,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "UGC Highlander Platinum Participant Season 9",
-				"defindex": 8266,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "UGC Highlander Platinum Participant",
-				"item_description": "Season 9",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_platinum",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_platinum.c936cec451be6eba9da9bad89080fabb4d192fa9.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_platinum_large.3f71c9c526c41e3e8ee206e5a4d6cb7800c25669.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC Highlander Gold Participant Season 9",
-				"defindex": 8267,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "UGC Highlander Gold Participant",
-				"item_description": "Season 9",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_gold.74b73608409048fdf3258dd0c5c93f25cbf76212.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_gold_large.28b4170f462a10e34b007fd9952e599ebfcb4326.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC Highlander Silver Participant Season 9",
-				"defindex": 8268,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "UGC Highlander Silver Participant",
-				"item_description": "Season 9",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver.e5c6cfb45b708e44373d19d0e05e64a56c96ac4c.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver_large.172da2b4459de8c2cc3c1d6cc9974a730303f6dc.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC Highlander Steel Participant Season 9",
-				"defindex": 8269,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "UGC Highlander Steel Participant",
-				"item_description": "Season 9",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_steel",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_steel.152831dc47133d59e6e7b04f811fe08ebae4218d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_steel_large.7946e5a9e9cb8036df834d4ffabb2208917dd0ac.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "UGC Highlander Iron Participant Season 9",
-				"defindex": 8270,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "UGC Highlander Iron Participant",
-				"item_description": "Season 9",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_iron",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_iron.3b06c72b80e048a52387547c67e53c5d69a761a9.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_iron_large.99afa616cbf5ba94f0f1c3a7a852776c17a4bbd9.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 8271
+		"next": 8266
 	}
 }

@@ -1,8 +1,248 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.9f281e5a9dd0c1ca93faaa6bdfc154812e91bffb.txt",
 		"items": [
+			{
+				"name": "UGC Highlander Platinum Participant Season 9",
+				"defindex": 8266,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "UGC Highlander Platinum Participant",
+				"item_description": "Season 9",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_platinum",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_platinum.c936cec451be6eba9da9bad89080fabb4d192fa9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_platinum_large.3f71c9c526c41e3e8ee206e5a4d6cb7800c25669.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Gold Participant Season 9",
+				"defindex": 8267,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "UGC Highlander Gold Participant",
+				"item_description": "Season 9",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_gold.74b73608409048fdf3258dd0c5c93f25cbf76212.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_gold_large.28b4170f462a10e34b007fd9952e599ebfcb4326.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Silver Participant Season 9",
+				"defindex": 8268,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "UGC Highlander Silver Participant",
+				"item_description": "Season 9",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver.e5c6cfb45b708e44373d19d0e05e64a56c96ac4c.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_silver_large.172da2b4459de8c2cc3c1d6cc9974a730303f6dc.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Steel Participant Season 9",
+				"defindex": 8269,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "UGC Highlander Steel Participant",
+				"item_description": "Season 9",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_steel",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_steel.152831dc47133d59e6e7b04f811fe08ebae4218d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_steel_large.7946e5a9e9cb8036df834d4ffabb2208917dd0ac.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "UGC Highlander Iron Participant Season 9",
+				"defindex": 8270,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "UGC Highlander Iron Participant",
+				"item_description": "Season 9",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/player/items/all_class/ugc_season9_participation_iron",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_iron.3b06c72b80e048a52387547c67e53c5d69a761a9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ugc_season9_participation_iron_large.99afa616cbf5ba94f0f1c3a7a852776c17a4bbd9.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
 			{
 				"name": "UGC 6vs6 Platinum Participant Season 11",
 				"defindex": 8271,
@@ -48910,251 +49150,9 @@
 					}
 				]
 				
-			},
-			{
-				"name": "Sjin's Generous Guise",
-				"defindex": 9299,
-				"item_class": "tf_wearable",
-				"item_type_name": "Community Medal",
-				"item_name": "Sjin's Generous Guise",
-				"item_description": "Yogscast Jingle Jam 2016 (Sjin edition)",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/jingle_jam_medal/jingle_jam_medal_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/jingle_jam_medal/jingle_jam_sjin",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/jingle_jam_sjin.17ca9712ef854af057a802b725629f3f2d90e52a.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/jingle_jam_sjin_large.7ef697e6dfc7de5350b91741e0be0bbb3b5e6610.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "PASS Time Tournament Gold Medal Season 1",
-				"defindex": 9300,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "PASS Time Tournament Gold Medal",
-				"item_description": "Season 1",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop_partner/player/items/all_class/passtime_medal/passtime_medal.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop_partner/player/items/all_class/passtime_medal/passtime_medal_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/passtime_medal_gold.76d2e526302833332bc05be1989506d29956b575.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/passtime_medal_gold_large.f230721d6a31a597ae1352d35cc9ef3c426bb2aa.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "PASS Time Tournament Silver Medal Season 1",
-				"defindex": 9301,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "PASS Time Tournament Silver Medal",
-				"item_description": "Season 1",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop_partner/player/items/all_class/passtime_medal/passtime_medal.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop_partner/player/items/all_class/passtime_medal/passtime_medal_silver",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/passtime_medal_silver.c74a3b92ae7ba038fd3eafa2f16982bf1949595d.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/passtime_medal_silver_large.91a5089c00c1b40229602e1320005a7f8057333c.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "PASS Time Tournament Bronze Medal Season 1",
-				"defindex": 9302,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "PASS Time Tournament Bronze Medal",
-				"item_description": "Season 1",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop_partner/player/items/all_class/passtime_medal/passtime_medal.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop_partner/player/items/all_class/passtime_medal/passtime_medal_bronze",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/passtime_medal_bronze.fd0c969f9ac3a92cbebb01ae0293b6849ad3b00b.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/passtime_medal_bronze_large.f616309c7e40d27c6308e747998edfc14fb3c76e.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
-			},
-			{
-				"name": "ESA Rewind 1st Place 2017",
-				"defindex": 9303,
-				"item_class": "tf_wearable",
-				"item_type_name": "Tournament Medal",
-				"item_name": "ESA Rewind 1st Place",
-				"item_description": "2017",
-				"proper_name": false,
-				"item_slot": "misc",
-				"model_player": "models/workshop/player/items/all_class/rewind_lan_gold/rewind_lan_gold_Scout.mdl",
-				"item_quality": 6,
-				"image_inventory": "backpack/workshop/player/items/all_class/rewind_lan_gold/rewind_lan_gold",
-				"min_ilevel": 25,
-				"max_ilevel": 25,
-				"image_url": "http://media.steampowered.com/apps/440/icons/rewind_lan_gold.15c8bcd9069cba50f3cf7bb0ba2cdab39b06b8e7.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/rewind_lan_gold_large.1eb366fbab985164e51eca7a0fceda572e4d485d.png",
-				"drop_type": "none",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"paintable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"attributes": [
-					{
-						"name": "kill eater score type",
-						"class": "kill_eater_score_type",
-						"value": 64
-					},
-					{
-						"name": "kill eater kill type",
-						"class": "kill_eater_kill_type",
-						"value": 64
-					},
-					{
-						"name": "cannot trade",
-						"class": "cannot_trade",
-						"value": 1
-					}
-				]
-				
 			}
 		]
 		,
-		"next": 9304
+		"next": 9299
 	}
 }

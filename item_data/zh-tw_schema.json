@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f69ec56c5710df4d5c1bd2ac893226ee4ed431cb.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.9f281e5a9dd0c1ca93faaa6bdfc154812e91bffb.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -9559,6 +9559,97 @@
 				"name": "Valiant Vortex"
 			},
 			{
+				"system": "unusual_sparkling_lights_parent02",
+				"id": 134,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Sparkling Lights"
+			},
+			{
+				"system": "unusual_icecave_parent",
+				"id": 135,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Frozen Icefall"
+			},
+			{
+				"system": "unusual_aurora_parent_green",
+				"id": 136,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Fragmented Gluons"
+			},
+			{
+				"system": "unusual_aurora_parent_orange",
+				"id": 137,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Fragmented Quarks"
+			},
+			{
+				"system": "unusual_aurora_parent_purple",
+				"id": 138,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Fragmented Photons"
+			},
+			{
+				"system": "unusual_polygon_teamcolor_red",
+				"id": 139,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Defragmenting Reality"
+			},
+			{
+				"system": "unusual_polygon_teamcolor_blue",
+				"id": 140,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Attrib_Particle140"
+			},
+			{
+				"system": "unusual_polygon_green",
+				"id": 141,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Fragmenting Reality"
+			},
+			{
+				"system": "unusual_polygon_amber",
+				"id": 142,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Refragmenting Reality"
+			},
+			{
+				"system": "unusual_snowfall_blue",
+				"id": 143,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Snowfallen"
+			},
+			{
+				"system": "unusual_snowfall_white",
+				"id": 144,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Snowblinded"
+			},
+			{
+				"system": "unusual_mayor_balloonicorn_teamcolor_red",
+				"id": 145,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Pyroland Daydream"
+			},
+			{
+				"system": "unusual_mayor_balloonicorn_teamcolor_blue",
+				"id": 146,
+				"attach_to_rootbone": true,
+				"attachment": "unusual",
+				"name": "Attrib_Particle146"
+			},
+			{
 				"system": "weapon_unusual_hot",
 				"id": 701,
 				"attach_to_rootbone": false,
@@ -9813,6 +9904,42 @@
 				"id": 3030,
 				"attach_to_rootbone": false,
 				"name": "Nether Void"
+			},
+			{
+				"system": "utaunt_present_parent",
+				"id": 3031,
+				"attach_to_rootbone": false,
+				"name": "Good-Hearted Goodies"
+			},
+			{
+				"system": "utaunt_snowring_icy_parent",
+				"id": 3032,
+				"attach_to_rootbone": false,
+				"name": "Wintery Wisp"
+			},
+			{
+				"system": "utaunt_snowring_space_parent",
+				"id": 3033,
+				"attach_to_rootbone": false,
+				"name": "Arctic Aurora"
+			},
+			{
+				"system": "utaunt_spirit_winter_parent",
+				"id": 3034,
+				"attach_to_rootbone": false,
+				"name": "Winter Spirit"
+			},
+			{
+				"system": "utaunt_spirit_festive_parent",
+				"id": 3035,
+				"attach_to_rootbone": false,
+				"name": "Festive Spirit"
+			},
+			{
+				"system": "utaunt_spirit_magical_parent",
+				"id": 3036,
+				"attach_to_rootbone": false,
+				"name": "Magical Spirit"
 			},
 			{
 				"system": "killstreak_eyeglow_4_teamcolor_red",
