@@ -1,156 +1,156 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <title>Item Name</title>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>My first BootstrapVue app</title>
+    <!-- Required Stylesheets -->
+    <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css" />
+
+    <!-- Load polyfills to support older browsers -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver"></script>
+
+    <!-- Required scripts -->
+    <script src="https://unpkg.com/vue@latest/dist/vue.js"></script>
+    <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="./js/table_data.js"></script>
-    <script src="./js/my_func.js"></script>
 </head>
-<script>
-    var item_data;
-    $(function () {
-        $.when($.getJSON("./item_data/en_1.json"),
-            $.getJSON("./item_data/en_2.json"),
-            $.getJSON("./item_data/en_3.json"),
-            $.getJSON("./item_data/en_4.json"),
-            $.getJSON("./item_data/en_5.json"),
-            $.getJSON("./item_data/en_6.json"),
-            $.getJSON("./item_data/en_7.json"),
-            $.getJSON(`./item_data/zh-TW_1.json`),
-            $.getJSON(`./item_data/zh-TW_2.json`),
-            $.getJSON(`./item_data/zh-TW_3.json`),
-            $.getJSON(`./item_data/zh-TW_4.json`),
-            $.getJSON(`./item_data/zh-TW_5.json`),
-            $.getJSON(`./item_data/zh-TW_6.json`),
-            $.getJSON(`./item_data/zh-TW_7.json`),
-            $.getJSON(`./item_data/en_schema.json`),
-            $.getJSON(`./item_data/zh-tw_schema.json`)
-
-        ).done(function (en1, en2, en3, en4, en5, en6, en7, tw1, tw2, tw3, tw4, tw5, tw6, tw7, ens, tws) {
-            tw = tw1[0]['result']['items'];
-            tw = tw.concat(tw2[0]['result']['items']);
-            tw = tw.concat(tw3[0]['result']['items']);
-            tw = tw.concat(tw4[0]['result']['items']);
-            tw = tw.concat(tw5[0]['result']['items']);
-            tw = tw.concat(tw6[0]['result']['items']);
-            tw = tw.concat(tw7[0]['result']['items']);
-            en = en1[0]['result']['items'];
-            en = en.concat(en2[0]['result']['items']);
-            en = en.concat(en3[0]['result']['items']);
-            en = en.concat(en4[0]['result']['items']);
-            en = en.concat(en5[0]['result']['items']);
-            en = en.concat(en6[0]['result']['items']);
-            n = en.concat(en7[0]['result']['items']);
-            en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
-            tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
-
-            item_data = new Data(en, tw, en_unusual, tw_unusual, 'table', 'u_table', 'p_table');
-            item_data.updateItemTable();
-            item_data.updatePaintTable();
-            item_data.updateUnusualtable();
-            updatePagination();
-        });
-    });
-</script>
 
 <body>
-    <div class="jumbotron">
-        <h1>Team Fortress 2 Item List</h1>
-    </div>
-    <div class="container">
+    <!-- Our application root element -->
+    <div id="nav">
+        <b-navbar toggleable="lg" type="dark" variant="dark">
+            <b-navbar-brand href="#">TF2 Items</b-navbar-brand>
 
-        <ul class="nav nav-tabs">
-            <li class="nav-item">
-                <a class="nav-link active" data-toggle="tab" href="#Item">物品</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu1">異常效果</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu2">油漆</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#menu3">金屬計算機</a>
-            </li>
-        </ul>
-        <div class="tab-content">
-            <div id="Item" class="tab-pane active container"><br>
-                <br>
-                    <div class="form-group">
-                        <label for="filter">Filter:</label>
-                        <input type="text" class="form-control" id="filter" onkeyup="setFilter()">
-                    </div>
-                    <table class="table table-hover table-sm">
-                        <thead>
-                            <tr class="d-flex">
-                                <th class="col-1">Index</th>
-                                <th class="col-3">Name</th>
-                                <th class="col-3">名稱</th>
-                                <th class="col-3">Class</th>
-                                <th class="col-2">Item Class</th>
-                            </tr>
-                        </thead>
-                        <tbody id="table">
-                        </tbody>
-                    </table>
-                        <ul id="pagination" class="pagination justify-content-center">
-                          
-                        </ul>
-            </div>
-            <div id="menu1" class="tab-pane fade container"><br>
-                <table class="table table-hover table-sm">
-                    <thead>
-                        <tr>
-                            <th>Index</th>
-                            <th>Name</th>
-                            <th>名稱</th>
-                            <th>Particle Name</th>
-                        </tr>
-                    </thead>
-                    <tbody id="u_table">
-                    </tbody>
-                </table>
-            </div>
-            <div id="menu2" class="tab-pane fade container"><br>
-                <table class="table table-hover table-sm">
-                    <thead>
-                        <tr>
-                            <th>Index</th>
-                            <th>Name</th>
-                            <th>名稱</th>
-                            <th>Color Code (Red)</th>
-                            <th>Color Code (Blue)</th>
-                        </tr>
-                    </thead>
-                    <tbody id="p_table">
-                    </tbody>
-                </table>
-            </div>
-            <div id="menu3" class="tab-pane fade container"><br>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <p>輸入物品價格自動計算金屬數量</p>
-                        
-                    </div>
-                    <div class="col-lg-4">
-                        <label for="cal_input">物品價格:</label>
-                        <textarea class="form-control" rows="20" id="cal_input" onkeyup="update()"></textarea>
-                    </div>
-                    <div class="col-lg-4">
-                        <h1>總價：</h1>
-                        <h3 id="c_ref">精煉金屬 : 0 個</h3>
-                        <h3 id="c_rec">回收金屬 : 0 個</h3>
-                        <h3 id="c_scrap">廢金屬 : 0 個</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
+            <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+            <b-collapse id="nav-collapse" is-nav>
+                <b-navbar-nav>
+                    <b-nav-item href="#">Link</b-nav-item>
+                    <b-nav-item href="#" disabled>Disabled</b-nav-item>
+                </b-navbar-nav>
+
+            </b-collapse>
+        </b-navbar>
     </div>
+    <div id="app">
+        <b-container>
+            <b-jumbotron header="TF2 Item Data" lead="Bootstrap v4 Components for Vue.js 2">
+            </b-jumbotron>
+            <b-row>
+                <b-form-group label="Using options array:">
+                    <b-form-checkbox-group id="checkbox-group-1" v-model="selected" :options="f_class" name="flavour-1">
+                    </b-form-checkbox-group>
+                </b-form-group>
+
+            </b-row>
+            <b-row>
+                <b-pagination v-model="currentPage" :total-rows="rows" :per-page="perPage" aria-controls="item-table"
+                    first-number last-number>
+                </b-pagination>
+            </b-row>
+            <b-row>
+                <b-col>
+                    <b-table id="item-table" striped hover :items="itemProvider" :per-page="perPage"
+                        :current-page="currentPage"></b-table>
+                </b-col>
+
+            </b-row>
+            <b-row>
+                <b-pagination v-model="currentPage" :total-rows="rows" :per-page="perPage" aria-controls="item-table"
+                    first-number last-number>
+                </b-pagination>
+            </b-row>
+
+        </b-container>
+    </div>
+
+    <!-- Start running your app -->
+    <script>
+        new Vue({
+            el: '#nav'
+        })
+        window.app = new Vue({
+            el: '#app',
+            data() {
+                return {
+                    name: '',
+                    f_class: [1, 2, 3, 4, 5, 6, 7, 8, 9],
+                    perPage: 50,
+                    currentPage: 1,
+                    en:[]
+                }
+            },
+            computed: {
+                rows() {
+                    return this.en.length
+                }
+            },
+            created: function () {
+                this.loadData();
+            },
+            methods: {
+                loadData: function () {
+                    var vm = this;
+                    $.when($.getJSON("./item_data/en_1.json"),
+                        $.getJSON("./item_data/en_2.json"),
+                        $.getJSON("./item_data/en_3.json"),
+                        $.getJSON("./item_data/en_4.json"),
+                        $.getJSON("./item_data/en_5.json"),
+                        $.getJSON("./item_data/en_6.json"),
+                        $.getJSON("./item_data/en_7.json"),
+                        $.getJSON(`./item_data/zh-TW_1.json`),
+                        $.getJSON(`./item_data/zh-TW_2.json`),
+                        $.getJSON(`./item_data/zh-TW_3.json`),
+                        $.getJSON(`./item_data/zh-TW_4.json`),
+                        $.getJSON(`./item_data/zh-TW_5.json`),
+                        $.getJSON(`./item_data/zh-TW_6.json`),
+                        $.getJSON(`./item_data/zh-TW_7.json`),
+                        $.getJSON(`./item_data/en_schema.json`),
+                        $.getJSON(`./item_data/zh-tw_schema.json`)
+                    ).done(function (en1, en2, en3, en4, en5, en6, en7, tw1, tw2, tw3, tw4, tw5, tw6, tw7, ens, tws) {
+                        tw = tw1[0]['result']['items'];
+                        tw = tw.concat(tw2[0]['result']['items']);
+                        tw = tw.concat(tw3[0]['result']['items']);
+                        tw = tw.concat(tw4[0]['result']['items']);
+                        tw = tw.concat(tw5[0]['result']['items']);
+                        tw = tw.concat(tw6[0]['result']['items']);
+                        tw = tw.concat(tw7[0]['result']['items']);
+                        en = en1[0]['result']['items'];
+                        en = en.concat(en2[0]['result']['items']);
+                        en = en.concat(en3[0]['result']['items']);
+                        en = en.concat(en4[0]['result']['items']);
+                        en = en.concat(en5[0]['result']['items']);
+                        en = en.concat(en6[0]['result']['items']);
+                        en = en.concat(en7[0]['result']['items']);
+                        en_unusual = ens[0]['result']['attribute_controlled_attached_particles'];
+                        tw_unusual = tws[0]['result']['attribute_controlled_attached_particles'];
+                        vm.tw = tw;
+                        vm.en = en;
+                        vm.$root.$emit('bv::refresh::table', 'item-table')
+                    });
+                },
+                itemProvider: function (ctx) {
+                    let items = [];
+                    let start = (ctx.currentPage - 1) * ctx.perPage;
+                    for (let i = start; i < start + ctx.perPage; ++i) {
+                        items.push({
+                            Index: this.en[i].defindex,
+                            Item_Name: this.en[i].item_name,
+                            名稱: this.tw[i].item_name,
+                            Item_Class: this.en[i].item_class
+                        })
+                    }
+                    return items || [];
+                }
+            }
+
+        })
+    </script>
 </body>
 
 </html>
