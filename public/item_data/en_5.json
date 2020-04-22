@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.9f281e5a9dd0c1ca93faaa6bdfc154812e91bffb.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.651277553ef2d3873c97e1746cce7d0d49770310.txt",
 		"items": [
 			{
 				"name": "Brazil Fortress 6v6 Third Place Season 1",
@@ -41060,6 +41060,54 @@
 				
 			},
 			{
+				"name": "EBL One Day Cup Participant Cup 1",
+				"defindex": 11155,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EBL One Day Cup Participant",
+				"item_description": "Cup 1",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/ebl_participant/ebl_participant_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/ebl_participant/ebl_participant",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/ebl_participant.24722bea30e6bf36ee699eba815bc9a3bd8737ba.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/ebl_participant_large.5658fa2d349c9913f1a333cadf2ff0f452df7184.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
 				"name": "LBTF2 Highlander Access 1st Place Season 5",
 				"defindex": 11171,
 				"item_class": "tf_wearable",
@@ -45812,211 +45860,25 @@
 				
 			},
 			{
-				"name": "concealedkiller_sniperrifle_nightowl",
-				"defindex": 15000,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_smg_woodsywidowmaker",
-				"defindex": 15001,
-				"item_class": "tf_weapon_smg",
-				"item_type_name": "SMG",
-				"item_name": "SMG",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_smg/c_smg.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_smg",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_smg.a3610eb2082b665e0e924f1da14ed3429d789641.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_smg_large.60bdf2356f145300879d891dc3f993b57b817607.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					},
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_scattergun_nightterror",
-				"defindex": 15002,
-				"item_class": "tf_weapon_scattergun",
-				"item_type_name": "Scattergun",
-				"item_name": "Scattergun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_scattergun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_scattergun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_shotgun_backwoodsboomstick",
-				"defindex": 15003,
-				"item_class": "tf_weapon_shotgun",
-				"item_type_name": "Shotgun",
-				"item_name": "Shotgun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_shotgun/c_shotgun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_shotgun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_shotgun.781e0a03e8536215731d276a911c5753e42901d4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_shotgun_large.9d8d23d241e3e1cc543154f2d7f43a850da25e02.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Heavy",
-					"Pyro",
-					"Engineer"
-				]
-				,
-				"per_class_loadout_slots": {
-					"Soldier": "secondary",
-					"Heavy": "secondary",
-					"Pyro": "secondary",
-					"Engineer": "primary"
-				},
-				"attributes": [
-					{
-						"name": "special taunt",
-						"class": "special_taunt",
-						"value": 1
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_minigun_kingofthejungle",
-				"defindex": 15004,
-				"item_class": "tf_weapon_minigun",
-				"item_type_name": "Minigun",
-				"item_name": "Minigun",
+				"name": "RGLgg Invite Champions EU Season 2",
+				"defindex": 11270,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite Champions",
+				"item_description": "Season 2",
 				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_minigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite_champion",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite_champion.408cebd6c471aa68f068fb12846e8549920eef5d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_champion_large.d9aa542828b162ddc7dbd2b39596bb3b5efd9dc7.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -46026,214 +45888,45 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_flamethrower_forestfire",
-				"defindex": 15005,
-				"item_class": "tf_weapon_flamethrower",
-				"item_type_name": "Flame Thrower",
-				"item_name": "Flame Thrower",
-				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_rocketlauncher_woodlandwarrior",
-				"defindex": 15006,
-				"item_class": "tf_weapon_rocketlauncher",
-				"item_type_name": "Rocket Launcher",
-				"item_name": "Rocket Launcher",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_rocketlauncher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher.0d0d3821f600a5065d5fd95dadd5ce56a8b0f802.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher_large.376e56473114d28a687759b568bbfb03cac12823.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_sniperrifle_purplerange",
-				"defindex": 15007,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_medigun_maskedmender",
-				"defindex": 15008,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
-					},
-					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
 					}
 				]
 				
 			},
 			{
-				"name": "concealedkiller_stickybomblauncher_suddenflurry",
-				"defindex": 15009,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
+				"name": "RGLgg Invite 2nd Place EU Season 2",
+				"defindex": 11271,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite 2nd Place",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -46243,488 +45936,45 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_medigun_wrappedreviver",
-				"defindex": 15010,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
-					},
-					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
 					}
 				]
 				
 			},
 			{
-				"name": "concealedkiller_revolver_psychedelicslugger",
-				"defindex": 15011,
-				"item_class": "tf_weapon_revolver",
-				"item_type_name": "Revolver",
-				"item_name": "Revolver",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_revolver/c_revolver.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_revolver",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_revolver.9b4a43c8ce5797a08d0dfb5d9d5bfb1b90928008.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_revolver_large.86226aa2ce07b33864b848add4a4e4f4771ffc18.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_stickybomblauncher_carpetbomber",
-				"defindex": 15012,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_pistol_redrockroscoe",
-				"defindex": 15013,
-				"item_class": "tf_weapon_pistol",
-				"item_type_name": "Pistol",
-				"item_name": "Pistol",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_pistol",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Scout",
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "concealedkiller_rocketlauncher_sandcannon",
-				"defindex": 15014,
-				"item_class": "tf_weapon_rocketlauncher",
-				"item_type_name": "Rocket Launcher",
-				"item_name": "Rocket Launcher",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_rocketlauncher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher.0d0d3821f600a5065d5fd95dadd5ce56a8b0f802.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher_large.376e56473114d28a687759b568bbfb03cac12823.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_scattergun_tartantorpedo",
-				"defindex": 15015,
-				"item_class": "tf_weapon_scattergun",
-				"item_type_name": "Scattergun",
-				"item_name": "Scattergun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_scattergun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_scattergun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_shotgun_rusticruiner",
-				"defindex": 15016,
-				"item_class": "tf_weapon_shotgun",
-				"item_type_name": "Shotgun",
-				"item_name": "Shotgun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_shotgun/c_shotgun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_shotgun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_shotgun.781e0a03e8536215731d276a911c5753e42901d4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_shotgun_large.9d8d23d241e3e1cc543154f2d7f43a850da25e02.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Heavy",
-					"Pyro",
-					"Engineer"
-				]
-				,
-				"per_class_loadout_slots": {
-					"Soldier": "secondary",
-					"Heavy": "secondary",
-					"Pyro": "secondary",
-					"Engineer": "primary"
-				},
-				"attributes": [
-					{
-						"name": "special taunt",
-						"class": "special_taunt",
-						"value": 1
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_flamethrower_barnburner",
-				"defindex": 15017,
-				"item_class": "tf_weapon_flamethrower",
-				"item_type_name": "Flame Thrower",
-				"item_name": "Flame Thrower",
-				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_pistol_homemadeheater",
-				"defindex": 15018,
-				"item_class": "tf_weapon_pistol",
-				"item_type_name": "Pistol",
-				"item_name": "Pistol",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_pistol",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Scout",
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_sniperrifle_lumberfromdownunder",
-				"defindex": 15019,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_minigun_ironwood",
-				"defindex": 15020,
-				"item_class": "tf_weapon_minigun",
-				"item_type_name": "Minigun",
-				"item_name": "Minigun",
+				"name": "RGLgg Invite 3rd Place EU Season 2",
+				"defindex": 11272,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite 3rd Place",
+				"item_description": "Season 2",
 				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_minigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -46734,304 +45984,45 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_scattergun_countrycrusher",
-				"defindex": 15021,
-				"item_class": "tf_weapon_scattergun",
-				"item_type_name": "Scattergun",
-				"item_name": "Scattergun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_scattergun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_scattergun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_smg_plaidpotshotter",
-				"defindex": 15022,
-				"item_class": "tf_weapon_smg",
-				"item_type_name": "SMG",
-				"item_name": "SMG",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_smg/c_smg.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_smg",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_smg.a3610eb2082b665e0e924f1da14ed3429d789641.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_smg_large.60bdf2356f145300879d891dc3f993b57b817607.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					},
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_sniperrifle_shotinthedark",
-				"defindex": 15023,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_stickybomblauncher_blastedbombardier",
-				"defindex": 15024,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_medigun_reclaimedreanimator",
-				"defindex": 15025,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
-					},
-					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
 					}
 				]
 				
 			},
 			{
-				"name": "craftsmann_minigun_antiqueannihilator",
-				"defindex": 15026,
-				"item_class": "tf_weapon_minigun",
-				"item_type_name": "Minigun",
-				"item_name": "Minigun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_minigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_revolver_oldcountry",
-				"defindex": 15027,
-				"item_class": "tf_weapon_revolver",
-				"item_type_name": "Revolver",
-				"item_name": "Revolver",
+				"name": "RGLgg Invite Participant EU Season 2",
+				"defindex": 11273,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite Participant",
+				"item_description": "Season 2",
 				"proper_name": false,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_revolver/c_revolver.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_revolver",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_revolver.9b4a43c8ce5797a08d0dfb5d9d5bfb1b90928008.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_revolver_large.86226aa2ce07b33864b848add4a4e4f4771ffc18.png",
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -47041,568 +46032,45 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_rocketlauncher_americanpastoral",
-				"defindex": 15028,
-				"item_class": "tf_weapon_rocketlauncher",
-				"item_type_name": "Rocket Launcher",
-				"item_name": "Rocket Launcher",
-				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_rocketlauncher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher.0d0d3821f600a5065d5fd95dadd5ce56a8b0f802.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher_large.376e56473114d28a687759b568bbfb03cac12823.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "craftsmann_scattergun_backcountryblaster",
-				"defindex": 15029,
-				"item_class": "tf_weapon_scattergun",
-				"item_type_name": "Scattergun",
-				"item_name": "Scattergun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_scattergun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_scattergun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_flamethrower_bovineblazemaker",
-				"defindex": 15030,
-				"item_class": "tf_weapon_flamethrower",
-				"item_type_name": "Flame Thrower",
-				"item_name": "Flame Thrower",
-				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_minigun_warroom",
-				"defindex": 15031,
-				"item_class": "tf_weapon_minigun",
-				"item_type_name": "Minigun",
-				"item_name": "Minigun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_minigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_smg_treadplatetormenter",
-				"defindex": 15032,
-				"item_class": "tf_weapon_smg",
-				"item_type_name": "SMG",
-				"item_name": "SMG",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_smg/c_smg.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_smg",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_smg.a3610eb2082b665e0e924f1da14ed3429d789641.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_smg_large.60bdf2356f145300879d891dc3f993b57b817607.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					},
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_sniperrifle_bogtrotter",
-				"defindex": 15033,
-				"item_class": "tf_weapon_sniperrifle",
-				"item_type_name": "Sniper Rifle",
-				"item_name": "Sniper Rifle",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_sniperrifle/c_sniperrifle.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_sniperrifle",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_sniperrifle.af3c429316a18fddf96dd6af03ab0c220d3cfe09.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_sniperrifle_large.32f175b26906edb5e44d8520b5feafac65ca97c9.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_flamethrower_earthskyandfire",
-				"defindex": 15034,
-				"item_class": "tf_weapon_flamethrower",
-				"item_type_name": "Flame Thrower",
-				"item_name": "Flame Thrower",
-				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
-				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_pistol_hickoryholepuncher",
-				"defindex": 15035,
-				"item_class": "tf_weapon_pistol",
-				"item_type_name": "Pistol",
-				"item_name": "Pistol",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_pistol",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Scout",
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_scattergun_sprucedeuce",
-				"defindex": 15036,
-				"item_class": "tf_weapon_scattergun",
-				"item_type_name": "Scattergun",
-				"item_name": "Scattergun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_scattergun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_scattergun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_scattergun.2e6a24f7733c70a7d688626c78c9116950a1e684.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_scattergun_large.510a91810888053a646b8889a0ed65024887dfed.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Scout"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_smg_teamsprayer",
-				"defindex": 15037,
-				"item_class": "tf_weapon_smg",
-				"item_type_name": "SMG",
-				"item_name": "SMG",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_smg/c_smg.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_smg",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_smg.a3610eb2082b665e0e924f1da14ed3429d789641.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_smg_large.60bdf2356f145300879d891dc3f993b57b817607.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					},
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Sniper"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_stickybomblauncher_rooftopwrangler",
-				"defindex": 15038,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_medigun_civilservant",
-				"defindex": 15039,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
-					},
-					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
 					}
 				]
 				
 			},
 			{
-				"name": "teufort_minigun_citizenpain",
-				"defindex": 15040,
-				"item_class": "tf_weapon_minigun",
-				"item_type_name": "Minigun",
-				"item_name": "Minigun",
+				"name": "RGLgg Div1 Champions EU Season 2",
+				"defindex": 11274,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 Champions",
+				"item_description": "Season 2",
 				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_minigun/c_minigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_minigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_minigun.92362e2a8d60b5dd050c0e85e911ee1499a7b559.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_minigun_large.8d94ccc2c7ea7d375d0398171e573871fc8d2563.png",
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
 				"craft_class": "",
 				"craft_material_type": "",
 				"capabilities": {
-					"nameable": true,
 					"can_gift_wrap": true,
 					"can_craft_mark": true,
 					"can_be_restored": true,
@@ -47612,486 +46080,2187 @@
 					"can_killstreakify": true,
 					"can_consume": true
 				},
-				"used_by_classes": [
-					"Heavy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_pistol_localhero",
-				"defindex": 15041,
-				"item_class": "tf_weapon_pistol",
-				"item_type_name": "Pistol",
-				"item_name": "Pistol",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_pistol",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Scout",
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_revolver_mayor",
-				"defindex": 15042,
-				"item_class": "tf_weapon_revolver",
-				"item_type_name": "Revolver",
-				"item_name": "Revolver",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_revolver/c_revolver.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_revolver",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_revolver.9b4a43c8ce5797a08d0dfb5d9d5bfb1b90928008.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_revolver_large.86226aa2ce07b33864b848add4a4e4f4771ffc18.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Spy"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_rocketlauncher_smalltownbringdown",
-				"defindex": 15043,
-				"item_class": "tf_weapon_rocketlauncher",
-				"item_type_name": "Rocket Launcher",
-				"item_name": "Rocket Launcher",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_rocketlauncher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher.0d0d3821f600a5065d5fd95dadd5ce56a8b0f802.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_rocketlauncher_large.376e56473114d28a687759b568bbfb03cac12823.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "teufort_shotgun_civicduty",
-				"defindex": 15044,
-				"item_class": "tf_weapon_shotgun",
-				"item_type_name": "Shotgun",
-				"item_name": "Shotgun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_shotgun/c_shotgun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_shotgun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_shotgun.781e0a03e8536215731d276a911c5753e42901d4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_shotgun_large.9d8d23d241e3e1cc543154f2d7f43a850da25e02.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Heavy",
-					"Pyro",
-					"Engineer"
-				]
-				,
-				"per_class_loadout_slots": {
-					"Soldier": "secondary",
-					"Heavy": "secondary",
-					"Pyro": "secondary",
-					"Engineer": "primary"
-				},
-				"attributes": [
-					{
-						"name": "special taunt",
-						"class": "special_taunt",
-						"value": 1
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "powerhouse_stickybomblauncher_liquidasset",
-				"defindex": 15045,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "powerhouse_pistol_blackdahlia",
-				"defindex": 15046,
-				"item_class": "tf_weapon_pistol",
-				"item_type_name": "Pistol",
-				"item_name": "Pistol",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_pistol/c_pistol.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_pistol",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_pistol.711237b0fb5861ce3151058a11f430109205d3ba.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_pistol_large.7d17878ac86e6ca15c5217f361cdf89f6afba301.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"styles": [
-					{
-						"name": "TF_UnknownStyle"
-					}
-				]
-				,
-				"used_by_classes": [
-					"Scout",
-					"Engineer"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "powerhouse_shotgun_lightningrod",
-				"defindex": 15047,
-				"item_class": "tf_weapon_shotgun",
-				"item_type_name": "Shotgun",
-				"item_name": "Shotgun",
-				"proper_name": true,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_shotgun/c_shotgun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_shotgun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_shotgun.781e0a03e8536215731d276a911c5753e42901d4.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_shotgun_large.9d8d23d241e3e1cc543154f2d7f43a850da25e02.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Soldier",
-					"Heavy",
-					"Pyro",
-					"Engineer"
-				]
-				,
-				"per_class_loadout_slots": {
-					"Soldier": "secondary",
-					"Heavy": "secondary",
-					"Pyro": "secondary",
-					"Engineer": "primary"
-				},
-				"attributes": [
-					{
-						"name": "special taunt",
-						"class": "special_taunt",
-						"value": 1
-					},
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "powerhouse_stickybomblauncher_pinkelephant",
-				"defindex": 15048,
-				"item_class": "tf_weapon_pipebomblauncher",
-				"item_type_name": "Stickybomb Launcher",
-				"item_name": "Stickybomb Launcher",
-				"item_description": "Alt-Fire: Detonate all stickybombs",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_stickybomb_launcher/c_stickybomb_launcher.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/w_models/w_stickybomb_launcher",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher.fec586622a8883019ef1acf2c3eb98a3a3b61bbc.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/w_stickybomb_launcher_large.ae44aadc5703600fa2c55bf774e665fca82bb063.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Demoman"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "powerhouse_flamethrower_flashfryer",
-				"defindex": 15049,
-				"item_class": "tf_weapon_flamethrower",
-				"item_type_name": "Flame Thrower",
-				"item_name": "Flame Thrower",
-				"item_description": "Afterburn reduces Medi Gun healing and resist shield effects.\nAlt-Fire: Release a blast of air that pushes enemies and projectiles and extinguishes teammates that are on fire.",
-				"proper_name": false,
-				"item_slot": "primary",
-				"model_player": "models/weapons/c_models/c_flamethrower/c_flamethrower.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_flamethrower/c_flamethrower",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_flamethrower.d344f780c361cba3138ec8c887b419917c9ef2b6.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_flamethrower_large.8e40da0e6d0cd29cf61714512207c90972c10a5f.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Pyro"
-				]
-				,
-				"attributes": [
-					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
-					}
-				]
-				
-			},
-			{
-				"name": "powerhouse_medigun_sparkoflife",
-				"defindex": 15050,
-				"item_class": "tf_weapon_medigun",
-				"item_type_name": "Medi Gun",
-				"item_name": "Medi Gun",
-				"proper_name": true,
-				"item_slot": "secondary",
-				"model_player": "models/weapons/c_models/c_medigun/c_medigun.mdl",
-				"item_quality": 15,
-				"image_inventory": "backpack/weapons/c_models/c_medigun/c_medigun",
-				"min_ilevel": 1,
-				"max_ilevel": 1,
-				"image_url": "http://media.steampowered.com/apps/440/icons/c_medigun.b2bcbd173ce0d73db1f14766b882e1e7288b54bb.png",
-				"image_url_large": "http://media.steampowered.com/apps/440/icons/c_medigun_large.e399cdaa4595e303b044e5b5bbe23dca48d8b9d1.png",
-				"craft_class": "",
-				"craft_material_type": "",
-				"capabilities": {
-					"nameable": true,
-					"can_gift_wrap": true,
-					"can_craft_mark": true,
-					"can_be_restored": true,
-					"strange_parts": true,
-					"can_card_upgrade": true,
-					"can_strangify": true,
-					"can_killstreakify": true,
-					"can_consume": true
-				},
-				"used_by_classes": [
-					"Medic"
-				]
-				,
 				"attributes": [
 					{
 						"name": "kill eater score type",
 						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
 						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 2nd Place EU Season 2",
+				"defindex": 11275,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 2nd Place",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
 					},
 					{
-						"name": "kill eater score type 2",
-						"class": "kill_eater_score_type_2",
-						"value": 2
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
 					},
 					{
-						"name": "set_item_texture_wear",
-						"class": "set_item_texture_wear",
-						"value": 0.400000005960464478
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 3rd Place EU Season 2",
+				"defindex": 11276,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 3rd Place",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 Participant EU Season 2",
+				"defindex": 11277,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 Participant",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 Champions EU Season 2",
+				"defindex": 11278,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 Champions",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 2nd Place EU Season 2",
+				"defindex": 11279,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 2nd Place",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 3rd Place EU Season 2",
+				"defindex": 11280,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 3rd Place",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 Participant EU Season 2",
+				"defindex": 11281,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 Participant",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Open Participant EU Season 2",
+				"defindex": 11282,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Open Participant",
+				"item_description": "Season 2",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite Champions EU Season 4",
+				"defindex": 11283,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite Champions",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite_champion",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite_champion.408cebd6c471aa68f068fb12846e8549920eef5d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_champion_large.d9aa542828b162ddc7dbd2b39596bb3b5efd9dc7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite 2nd Place EU Season 4",
+				"defindex": 11284,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite 2nd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite 3rd Place EU Season 4",
+				"defindex": 11285,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite 3rd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite Participant EU Season 4",
+				"defindex": 11286,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Invite Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 Champions EU Season 4",
+				"defindex": 11287,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 Champions",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 2nd Place EU Season 4",
+				"defindex": 11288,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 2nd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 3rd Place EU Season 4",
+				"defindex": 11289,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 3rd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 Participant EU Season 4",
+				"defindex": 11290,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div1 Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 Champions EU Season 4",
+				"defindex": 11291,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 Champions",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 2nd Place EU Season 4",
+				"defindex": 11292,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 2nd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 3rd Place EU Season 4",
+				"defindex": 11293,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 3rd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div2 Participant EU Season 4",
+				"defindex": 11294,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div2 Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div3 Champions EU Season 4",
+				"defindex": 11295,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div3 Champions",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div3 2nd Place EU Season 4",
+				"defindex": 11296,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div3 2nd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div3 3rd Place EU Season 4",
+				"defindex": 11297,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div3 3rd Place",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div3 Participant EU Season 4",
+				"defindex": 11298,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Div3 Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Open Participant EU Season 4",
+				"defindex": 11299,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "EU.RGL.gg - Open Participant",
+				"item_description": "Season 4",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite Champions Season 7",
+				"defindex": 11300,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Invite Champions",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite_champion",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite_champion.408cebd6c471aa68f068fb12846e8549920eef5d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_champion_large.d9aa542828b162ddc7dbd2b39596bb3b5efd9dc7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite 2nd Place Season 7",
+				"defindex": 11301,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Invite 2nd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite 3rd Place Season 7",
+				"defindex": 11302,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Invite 3rd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Invite Participant Season 7",
+				"defindex": 11303,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Invite Participant",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_invite",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_invite.7bf1870bba43c5739c609ad8ec4d9d264b983d02.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_invite_large.05b00f8b5d1d493a8d1e4aeb855b0dbf908ae42e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Advanced Champions Season 7",
+				"defindex": 11304,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Advanced Champions",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Advanced 2nd Place Season 7",
+				"defindex": 11305,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Advanced 2nd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Advanced 3rd Place Season 7",
+				"defindex": 11306,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Advanced 3rd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Advanced Participant Season 7",
+				"defindex": 11307,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Advanced Participant",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Main Champions Season 7",
+				"defindex": 11308,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Main Champions",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Main 2nd Place Season 7",
+				"defindex": 11309,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Main 2nd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Main 3rd Place Season 7",
+				"defindex": 11310,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Main 3rd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Main Participant Season 7",
+				"defindex": 11311,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Main Participant",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg IM Champions Season 7",
+				"defindex": 11312,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - IM Champions",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg IM 2nd Place Season 7",
+				"defindex": 11313,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - IM 2nd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg IM 3rd Place Season 7",
+				"defindex": 11314,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - IM 3rd Place",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg IM Participant Season 7",
+				"defindex": 11315,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - IM Participant",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Open Participant Season 7",
+				"defindex": 11316,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Open Participant",
+				"item_description": "Season 7",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_rec",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_rec.8c7c34f4b6056d641ea42e8b774da5300eb43f87.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_rec_large.10024076f8ad07249293173d7163844b775e29c5.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 Champions AU Season 3",
+				"defindex": 11317,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Div1 Champions AU",
+				"item_description": "Season 3",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 2nd Place AU Season 3",
+				"defindex": 11318,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Div1 2nd Place AU",
+				"item_description": "Season 3",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "RGLgg Div1 3rd Place AU Season 3",
+				"defindex": 11319,
+				"item_class": "tf_wearable",
+				"item_type_name": "Tournament Medal",
+				"item_name": "RGL.gg - Div1 3rd Place AU",
+				"item_description": "Season 3",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/rglgg_medal/rglgg_medal_Scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/rglgg_medal/rglgg_div1",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/rglgg_div1.a1118a08bf170430bb5d1bded57ce5f46477fa37.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/rglgg_div1_large.16a980b6c1208226ac0f3da1e5fb315cad46e8f7.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"can_gift_wrap": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
 					}
 				]
 				
 			}
 		]
 		,
-		"next": 15051
+		"next": 11320
 	}
 }
