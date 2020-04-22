@@ -9,7 +9,18 @@
         :fields="fields"
         :items="getTable"
       >
-
+        <template v-slot:cell(NameEN)="data" >
+          <a href="#" :id="`upov-${data.item.Id}`">{{data.item.NameEN}}</a>
+          <b-popover 
+            :target="`upov-${data.item.Id}`"
+            triggers="hover"
+            :title="`${data.item.NameEN}`"
+          >
+            <template v-slot:default>
+              <b-img-lazy :src="`imgs/particles/${data.item.Id}_188x188.png`"/>
+            </template>
+          </b-popover>
+        </template>
       </b-table>
 
     </div>

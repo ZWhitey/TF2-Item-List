@@ -25,8 +25,12 @@
           <b-popover 
             :target="`pov-${data.item.DefIndex}`"
             triggers="hover"
-            title="t"
-            />
+            :title="`${data.item.NameEN}`"
+          >
+            <template v-slot:default>
+              <b-img-lazy :src="data.item.ImageUrl"/>
+            </template>
+          </b-popover>
         </template>
       </b-table>
 
