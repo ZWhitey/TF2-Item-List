@@ -1,24 +1,10 @@
-# tf2-item-list
+# Team Fortress 2 Item List
 
-## Project setup
-```
-npm install
-```
+[物品清單](https://zwhitey.github.io/TF2-Item-List/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* 列出遊戲中所有物品資訊 (物品編號、英文名稱、中文名稱、可使用職業、物品種類）
+* 列出遊戲中所有異常效果 (含連殺效果) 的資訊 (效果編號、效果英文名稱、效果中文名稱、粒子效果名稱)
+* 列出遊戲中所有油漆資訊 (物品編號、英文名稱、中文名稱、屬性色碼、顏色預覽)
+* 金屬計算機
