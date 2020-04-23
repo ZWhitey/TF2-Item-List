@@ -9,8 +9,8 @@
         <br>
         <UnusualTable v-bind:ItemData="ItemData"/>
       </b-tab>
-      <b-tab title="油漆" disabled>
-        <p>I'm a disabled tab!</p>
+      <b-tab title="油漆">
+        <PaintTable v-bind:ItemData="ItemData"/>
       </b-tab>
       <b-tab title="金屬計算機" disabled>
         <p>I'm a disabled tab!</p>
@@ -24,11 +24,13 @@ import { Component, Prop, Vue } from "vue-property-decorator";
 import MyData from "../interface/myData";
 import ItemTable from "./itemTable.vue";
 import UnusualTable from './unusualTable.vue';
+import PaintTable from './painttable.vue';
 
 @Component({
   components: {
     ItemTable,
-    UnusualTable
+    UnusualTable,
+    PaintTable
   }
 })
 export default class MyTab extends Vue {

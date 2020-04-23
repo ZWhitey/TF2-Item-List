@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="ItemData.En.length != 0">
+    <div v-if="ItemData.Items.length != 0">
       <b-table
         id="itemTable"
         small
@@ -46,9 +46,9 @@
 </template>
 
 <script lang="ts">
-import { Component, Prop, Vue } from "vue-property-decorator";
-import MyData from "../interface/myData";
-import TableItem from "../interface/tableItems";
+import { Component, Prop, Vue } from 'vue-property-decorator';
+import MyData from '../interface/myData';
+import Item from '../interface/Item';
 
 @Component
 export default class ItemTable extends Vue {
@@ -63,30 +63,23 @@ export default class ItemTable extends Vue {
     {key:'UsedByClasses',label:'可用職業'}
   ]
   get rows() {
-    return this.ItemData.En.length;
+    return this.ItemData.Items.length;
   }
   get busy() {
-    return this.ItemData.En.length === 0;
+    return this.ItemData.Items.length === 0;
   }
 
   getImage(cls: string){
     return `imgs/classes/${cls}.png`;
   }
   getTable() {
-    const r = Array<TableItem>();
+    const r = Array<Item>();
 
     const start = (this.currentPage - 1) * this.perPage;
     let end = start + this.perPage;
-    if (end > this.ItemData.En.length - 1) end = this.ItemData.En.length - 1;
+    if (end > this.ItemData.Items.length - 1) end = this.ItemData.Items.length - 1;
     for (let i = start; i < end; ++i) {
-      r.push({
-        DefIndex: this.ItemData.En[i].DefIndex,
-        NameEN: this.ItemData.En[i].ItemName,
-        NameTW: this.ItemData.Tw[i].ItemName,
-        ItemClass: this.ItemData.En[i].ItemClass,
-        ImageUrl: this.ItemData.En[i].ImageUrl,
-        UsedByClasses: this.ItemData.En[i].UsedByClasses
-      });
+      r.push(this.ItemData.Items[i]);
     }
 
     return r;

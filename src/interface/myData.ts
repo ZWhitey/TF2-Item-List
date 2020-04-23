@@ -1,9 +1,10 @@
 import Item from './Item';
 import Unusual from './Unusual';
+import Paint from './paint'
 
 export default interface MyData{
-    En:Item[];
-    Tw:Item[];
+    Items: Item[];
+    Paints: Paint[]; 
     UnusualEn:Unusual[];
     UnusualTw:Unusual[];
 }

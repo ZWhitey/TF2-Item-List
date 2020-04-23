@@ -18,6 +18,7 @@ import axios from "axios";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
 import Item from "./interface/Item";
+import Paint from './interface/paint';
 import MyData from './interface/myData'
 import Unusual from './interface/Unusual';
 import Top from "./components/Top.vue";
@@ -33,9 +34,9 @@ Vue.use(IconsPlugin);
   }
 })
 export default class App extends Vue {
-  private ItemData = {
-      En : new Array<Item>(),
-      Tw : new Array<Item>(),
+  private ItemData: MyData = {
+      Items: new Array<Item>(),
+      Paints: new Array<Paint>(),
       UnusualEn : new Array<Unusual>(),
       UnusualTw : new Array<Unusual>()
     };
@@ -47,8 +48,8 @@ export default class App extends Vue {
 
   public async getData() {
     const data: MyData = {
-      En : new Array<Item>(),
-      Tw : new Array<Item>(),
+      Items : new Array<Item>(),
+      Paints: new Array<Paint>(),
       UnusualEn : new Array<Unusual>(),
       UnusualTw : new Array<Unusual>()
     };
@@ -56,31 +57,62 @@ export default class App extends Vue {
       const resEn = await axios.get(`item_data/en_${i}.json`);
       const resTw = await axios.get(`item_data/tw_${i}.json`);
 
-      for (const i of resEn.data.result.items) {
-        let cls = i.used_by_classes;
+      const resDataEn = resEn.data.result.items;
+      const resDataTw = resTw.data.result.items;
+
+      for(let i=0;i<resDataEn.length;++i){
+        let cls = resDataEn[i].used_by_classes;
         if(!cls){
           cls = ['Scout','Soldier','Pyro','Demoman','Heavy','Engineer','Medic','Sniper','Spy'];
         }
-        let img = i.image_url;
+        let img = resDataEn[i].image_url;
         if(!img){
           img = '';
         }
-        data.En.push({
-          DefIndex: i.defindex,
-          ItemClass: i.item_class,
-          ItemName: i.item_name,
+        data.Items.push({
+          DefIndex: resDataEn[i].defindex,
+          ItemClass: resDataEn[i].item_class,
+          NameEN: resDataEn[i].item_name,
+          NameTW: resDataTw[i].item_name,
           ImageUrl: img,
           UsedByClasses: cls
         });
-      }
-      for (const i of resTw.data.result.items) {
-        data.Tw.push({
-          DefIndex: i.defindex,
-          ItemClass: i.item_class,
-          ItemName: i.item_name,
-          ImageUrl: i.image_url,
-          UsedByClasses: i.used_by_classes
-        });
+        if(resDataEn[i].name.includes('Paint Can') && resDataEn[i].item_name !== 'Paint Can'){
+          const getColorHax = function(color: any){
+            const r = (color & 0xff0000) >>> 16;
+            const g = (color & 0x00ff00) >>> 8;
+            const b = (color & 0x0000ff) >>> 0;
+            const rs = (r.toString(16).length < 2)?`0${r.toString(16)}`:r.toString(16);
+            const gs = (g.toString(16).length < 2)?`0${g.toString(16)}`:g.toString(16);
+            const bs = (b.toString(16).length < 2)?`0${b.toString(16)}`:b.toString(16);
+            return `#${rs}${gs}${bs}`;
+          }
+          if(resDataEn[i].attributes.length < 2){
+            const cr = getColorHax(resDataEn[i].attributes[0].value);
+            data.Paints.push({
+              DefIndex: resDataEn[i].defindex,
+              NameEN: resDataEn[i].item_name,
+              NameTW: resDataTw[i].item_name,
+              ColorRed: cr,
+              ColorBlue: cr,
+              CodeRed: resDataEn[i].attributes[0].value,
+              CodeBlue: resDataEn[i].attributes[0].value
+            })
+          }
+          else{
+            const cr = getColorHax(resDataEn[i].attributes[0].value);
+            const cb = getColorHax(resDataEn[i].attributes[1].value);
+            data.Paints.push({
+              DefIndex: resDataEn[i].defindex,
+              NameEN: resDataEn[i].item_name,
+              NameTW: resDataTw[i].item_name,
+              ColorRed: cr,
+              ColorBlue: cb,
+              CodeRed: resDataEn[i].attributes[0].value,
+              CodeBlue: resDataEn[i].attributes[1].value
+            })
+          }
+        }
       }
     }
     const resUEn = await axios.get('item_data/en_schema.json');

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="ItemData.En.length != 0">
+    <div v-if="ItemData.UnusualEn.length != 0">
       <b-table
         id="itemTable"
         small
