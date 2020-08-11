@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.651277553ef2d3873c97e1746cce7d0d49770310.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.90ba90a2b296ffbc29ca9060282d691b49400b3d.txt",
 		"items": [
 			{
 				"name": "Sjin's Generous Guise",
@@ -47509,7 +47509,7 @@
 				"defindex": 10287,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "UDL 1st Place",
+				"item_name": "United Dodgeball League 1st Place",
 				"item_description": "2018",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47557,7 +47557,7 @@
 				"defindex": 10288,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "UDL 2nd Place",
+				"item_name": "United Dodgeball League 2nd Place",
 				"item_description": "2018",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47605,7 +47605,7 @@
 				"defindex": 10289,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "UDL 3rd Place",
+				"item_name": "United Dodgeball League 3rd Place",
 				"item_description": "2018",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -47653,7 +47653,7 @@
 				"defindex": 10290,
 				"item_class": "tf_wearable",
 				"item_type_name": "Tournament Medal",
-				"item_name": "UDL Participant",
+				"item_name": "United Dodgeball League Participant",
 				"item_description": "2018",
 				"proper_name": false,
 				"item_slot": "misc",

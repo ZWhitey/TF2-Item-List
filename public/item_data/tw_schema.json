@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.651277553ef2d3873c97e1746cce7d0d49770310.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.90ba90a2b296ffbc29ca9060282d691b49400b3d.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -7758,7 +7758,7 @@
 				"name": "attack_minicrits_and_consumes_burning",
 				"defindex": 2067,
 				"attribute_class": "attack_minicrits_and_consumes_burning",
-				"description_string": "Mini-crits burning targets and extinguishes them.\nDamage increases based on remaining duration of afterburn\nKilling blows on burning players grant a speed boost.",
+				"description_string": "擊中燃燒中的敵人會產生小爆擊並為其滅火。\n基於餘火的持續時間增加傷害\n擊殺燃燒中的敵人會得到速度加成。",
 				"description_format": "value_is_additive",
 				"effect_type": "positive",
 				"hidden": false,
@@ -9220,7 +9220,7 @@
 				"id": 85,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Ghastly Ghosts Jr"
+				"name": "驚悚鬼魂 Jr"
 			},
 			{
 				"system": "unusual_souls_green_parent",
@@ -9563,42 +9563,42 @@
 				"id": 134,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Sparkling Lights"
+				"name": "閃閃亮光"
 			},
 			{
 				"system": "unusual_icecave_parent",
 				"id": 135,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Frozen Icefall"
+				"name": "凍結冰瀑"
 			},
 			{
 				"system": "unusual_aurora_parent_green",
 				"id": 136,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Fragmented Gluons"
+				"name": "破碎膠子"
 			},
 			{
 				"system": "unusual_aurora_parent_orange",
 				"id": 137,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Fragmented Quarks"
+				"name": "破碎夸克"
 			},
 			{
 				"system": "unusual_aurora_parent_purple",
 				"id": 138,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Fragmented Photons"
+				"name": "破碎光子"
 			},
 			{
 				"system": "unusual_polygon_teamcolor_red",
 				"id": 139,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Defragmenting Reality"
+				"name": "現實重構"
 			},
 			{
 				"system": "unusual_polygon_teamcolor_blue",
@@ -9612,35 +9612,35 @@
 				"id": 141,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Fragmenting Reality"
+				"name": "現實解離"
 			},
 			{
 				"system": "unusual_polygon_amber",
 				"id": 142,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Refragmenting Reality"
+				"name": "重組現實"
 			},
 			{
 				"system": "unusual_snowfall_blue",
 				"id": 143,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Snowfallen"
+				"name": "降雪"
 			},
 			{
 				"system": "unusual_snowfall_white",
 				"id": 144,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Snowblinded"
+				"name": "雪盲"
 			},
 			{
 				"system": "unusual_mayor_balloonicorn_teamcolor_red",
 				"id": 145,
 				"attach_to_rootbone": true,
 				"attachment": "unusual",
-				"name": "Pyroland Daydream"
+				"name": "異想白日夢"
 			},
 			{
 				"system": "unusual_mayor_balloonicorn_teamcolor_blue",
@@ -9909,37 +9909,37 @@
 				"system": "utaunt_present_parent",
 				"id": 3031,
 				"attach_to_rootbone": false,
-				"name": "Good-Hearted Goodies"
+				"name": "善良的禮物"
 			},
 			{
 				"system": "utaunt_snowring_icy_parent",
 				"id": 3032,
 				"attach_to_rootbone": false,
-				"name": "Wintery Wisp"
+				"name": "冬季氣息"
 			},
 			{
 				"system": "utaunt_snowring_space_parent",
 				"id": 3033,
 				"attach_to_rootbone": false,
-				"name": "Arctic Aurora"
+				"name": "北境極光"
 			},
 			{
 				"system": "utaunt_spirit_winter_parent",
 				"id": 3034,
 				"attach_to_rootbone": false,
-				"name": "Winter Spirit"
+				"name": "冬日之魂"
 			},
 			{
 				"system": "utaunt_spirit_festive_parent",
 				"id": 3035,
 				"attach_to_rootbone": false,
-				"name": "Festive Spirit"
+				"name": "佳節之魂"
 			},
 			{
 				"system": "utaunt_spirit_magical_parent",
 				"id": 3036,
 				"attach_to_rootbone": false,
-				"name": "Magical Spirit"
+				"name": "魔法之魂"
 			},
 			{
 				"system": "killstreak_eyeglow_4_teamcolor_red",
