@@ -1,5 +1,7 @@
 # Team Fortress 2 Item List
 
+![](https://github.com/ZWhitey/TF2-Item-List/workflows/deploy%20gh-pages/badge.svg)
+
 [物品清單](https://zwhitey.github.io/TF2-Item-List/)
 
 ## Features 
