@@ -20,6 +20,7 @@ jobs:
     strategy:
       matrix:
         node-version: [12.x]
+        python-version: [3.6]
 
     steps:
     - uses: actions/checkout@v2
@@ -27,6 +28,14 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
     - name: build
       run: |
         npm ci
@@ -40,6 +49,9 @@ jobs:
         git status
         git remote add origin https://$MY_SECRET@github.com/$GITHUB_REPOSITORY.git
         git checkout -b gh-pages
+        cd item_data
+        python ../../getdata.py -key $STEAM_API_KEY
+        cd ..
         git add --all
         git commit -m "deploy to Github pages"
         git push origin gh-pages -f

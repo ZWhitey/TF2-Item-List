@@ -55,7 +55,7 @@ export default class App extends Vue {
     };
     for (let i = 1; i < 8; ++i) {
       const resEn = await axios.get(`item_data/en_${i}.json`);
-      const resTw = await axios.get(`item_data/tw_${i}.json`);
+      const resTw = await axios.get(`item_data/zh-TW_${i}.json`);
 
       const resDataEn = resEn.data.result.items;
       const resDataTw = resTw.data.result.items;
@@ -116,7 +116,7 @@ export default class App extends Vue {
       }
     }
     const resUEn = await axios.get('item_data/en_schema.json');
-    const resUTw = await axios.get('item_data/tw_schema.json');
+    const resUTw = await axios.get('item_data/zh-tw_schema.json');
     for (const i of resUEn.data.result.attribute_controlled_attached_particles) {
         data.UnusualEn.push({
           System: i.system,
