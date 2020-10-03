@@ -49,7 +49,7 @@ jobs:
         git status
         git remote add origin https://$MY_SECRET@github.com/$GITHUB_REPOSITORY.git
         git checkout -b gh-pages
-        cd item_data
+        cd ./item_data
         python ../../getdata.py -key $STEAM_API_KEY
         cd ..
         git add --all
