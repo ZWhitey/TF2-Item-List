@@ -51,7 +51,7 @@ jobs:
         git checkout -b gh-pages
         cd ./item_data
         pwd
-        python ../../scripts/getdata.py -key $STEAM_API_KEY
+        python ../../scripts/getdata.py -k $STEAM_API_KEY
         pwd
         cd ..
         git add --all

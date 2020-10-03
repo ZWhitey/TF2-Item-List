@@ -2,9 +2,9 @@ import requests
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-key", help="Steam API key", required=True)
+parser.add_argument("-k", help="Steam API key", required=True)
 
-Key = parser.parse_args().key
+Key = parser.parse_args().k
 print(f'Using API key {Key}')
 lang = ['en', 'zh-TW']
 for l in lang:
