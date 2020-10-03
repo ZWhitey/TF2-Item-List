@@ -13,6 +13,7 @@ jobs:
       MY_SECRET   : ${{secrets.commit_secret}}
       USER_NAME   : ${{secrets.user_name}}
       USER_EMAIL  : ${{secrets.email}}
+      STEAM_API_KEY : ${{secrets.STEAM_API_KEY}}
       PUBLISH_DIR : ./dist
 
     runs-on: ubuntu-latest
@@ -51,7 +52,7 @@ jobs:
         git checkout -b gh-pages
         cd ./item_data
         pwd
-        python ../../scripts/getdata.py -k $STEAM_API_KEY
+        python ../../scripts/getdata.py "-k $STEAM_API_KEY"
         pwd
         cd ..
         git add --all
