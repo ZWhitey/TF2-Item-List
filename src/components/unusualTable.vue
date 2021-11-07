@@ -17,7 +17,7 @@
             :title="`${data.item.NameEN}`"
           >
             <template v-slot:default>
-              <b-img-lazy :src="`imgs/particles/${data.item.Id}_188x188.png`"/>
+              <b-img-lazy :src="`https://backpack.tf/images/440/particles/${data.item.Id}_188x188.png`"/>
             </template>
           </b-popover>
         </template>
