@@ -16,7 +16,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: '/TF2-Item-List'
+			base: process.env.NODE_ENV === 'production' ? '/TF2-Item-List' : ''
 		}
 	}
 };

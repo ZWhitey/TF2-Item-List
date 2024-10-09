@@ -34,11 +34,11 @@
 	};
 
 	async function fetchUnusualData() {
-		const res = await fetch('/effects.json');
+		const res = await fetch('effects.json');
 		return await res.json();
 	}
 	async function fetchItemData() {
-		const res = await fetch(`/items.json`);
+		const res = await fetch(`items.json`);
 		const items: Item[] = await res.json();
 
 		_.forEach(items, (item) => {
@@ -126,7 +126,7 @@
 											<td class="table-cell-fit">
 												<div class="flex">
 													{#each row.used_by_classes ?? [] as cls}
-														<img src={`/imgs/classes/${cls}.png`} alt={cls} class="w-6 h-6" />
+														<img src={`imgs/classes/${cls}.png`} alt={cls} class="w-6 h-6" />
 													{/each}
 												</div>
 											</td>
