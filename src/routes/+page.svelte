@@ -2,6 +2,8 @@
 	import _ from 'lodash';
 	import { TabGroup, Tab, TabAnchor } from '@skeletonlabs/skeleton';
 	import { onMount } from 'svelte';
+
+	export const prerender = true;
 	let tabSet: number = 0;
 
 	type Item = {
