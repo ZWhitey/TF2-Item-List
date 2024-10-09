@@ -10,6 +10,8 @@
 		item_name: string;
 		item_name_zh: string;
 		used_by_classes: string[];
+		name: string;
+		attributes: any[];
 	};
 
 	type Unusual = {
@@ -30,58 +32,21 @@
 	};
 
 	async function fetchUnusualData() {
-		const res = await fetch('/item_data/en_schema.json');
-		const re2 = await fetch('/item_data/zh-tw_schema.json');
-
-		const data = await res.json();
-		const data2 = await re2.json();
-		console.log(data.result);
-
-		const items: Unusual[] = [];
-		for (const [effect, effectZh] of _.zip(
-			data.result.attribute_controlled_attached_particles,
-			data2.result.attribute_controlled_attached_particles
-		)) {
-			const it = _.pick(effect, ['id', 'name', 'system']);
-			it.name_zh = effectZh?.name ?? it.name;
-			items.push(it);
-		}
-		console.log(items);
-		return items;
+		const res = await fetch('/effects.json');
+		return await res.json();
 	}
 	async function fetchItemData() {
-		let itemsEn = [];
-		let itemsZh = [];
-		for (let i = 1; i <= 9; ++i) {
-			const res = await fetch(`/item_data/en_${i}.json`);
-			const res2 = await fetch(`/item_data/zh-TW_${i}.json`);
+		const res = await fetch(`/items.json`);
+		const items: Item[] = await res.json();
 
-			const data = await res.json();
-			const data2 = await res2.json();
-			itemsEn = [...itemsEn, ...data.result.items];
-			itemsZh = [...itemsZh, ...data2.result.items];
-		}
-
-		const items: Item[] = [];
-		// console.log(data.result.items);
-
-		for (const [item, itemZh] of _.zip(itemsEn, itemsZh)) {
-			const it = _.pick(item, [
-				'defindex',
-				'item_class',
-				'item_name',
-				'used_by_classes',
-				'image_url'
-			]);
-			it.item_name_zh = itemZh.item_name;
-			items.push(it);
+		_.forEach(items, (item) => {
 			if (item.name.includes('Paint Can') && item.item_name !== 'Paint Can') {
 				if (item.attributes.length < 2) {
 					const cr = getColorHax(item.attributes[0].value);
 					paintArr.push({
 						id: item.defindex,
 						name: item.item_name,
-						name_zh: itemZh.item_name,
+						name_zh: item.item_name_zh,
 						colorRed: cr,
 						colorBlue: cr,
 						codeRed: item.attributes[0].value,
@@ -93,7 +58,7 @@
 					paintArr.push({
 						id: item.defindex,
 						name: item.item_name,
-						name_zh: itemZh.item_name,
+						name_zh: item.item_name_zh,
 						colorRed: cr,
 						colorBlue: cb,
 						codeRed: item.attributes[0].value,
@@ -101,8 +66,7 @@
 					});
 				}
 			}
-		}
-		console.log(paintArr);
+		});
 		return items;
 	}
 	function getColorHax(color: any) {
