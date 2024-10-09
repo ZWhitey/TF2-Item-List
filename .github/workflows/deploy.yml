@@ -28,7 +28,7 @@ jobs:
         env: # Or as an environment variable
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       - run: npm i
-      - run: node ./scripts/fetchdata.cjs $STEAM_API_KEY
+      - run: node ./scripts/fetchdata.cjs
       - run: cp ./scripts/*.json ./static/
       - run: npm run build
 

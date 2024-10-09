@@ -1,7 +1,7 @@
 const fs = require('node:fs/promises');
 const _ = require('lodash');
 
-const key = process.argv[2];
+const key = process.argv[2] || process.env.STEAM_API_KEY;
 (async () => {
 	await Promise.all([getItems(), getUnusual()]);
 })();
