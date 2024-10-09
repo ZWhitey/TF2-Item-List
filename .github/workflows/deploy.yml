@@ -17,7 +17,8 @@ jobs:
       matrix:
         node-version: [20.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
+    env:
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - name: Use Node.js ${{ matrix.node-version }}
@@ -25,8 +26,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
-        env: # Or as an environment variable
-          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       - run: npm i
       - run: node ./scripts/fetchdata.cjs
       - run: cp ./scripts/*.json ./static/
