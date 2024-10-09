@@ -28,7 +28,7 @@ jobs:
           cache: 'npm'
       - run: npm i
       - run: node ./scripts/fetchdata.cjs
-      - run: cp ./scripts/*.json ./static/
+      - run: cp ./effects.json ./items.json ./static/
       - run: npm run build
 
       - name: Deploy
