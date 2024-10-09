@@ -1,0 +1,3140 @@
+[
+  {
+    "id": 1,
+    "name": "Particle 1",
+    "system": "burningplayer_red",
+    "name_zh": "粒子 1"
+  },
+  {
+    "id": 2,
+    "name": "Flying Bits",
+    "system": "burningplayer_flyingbits",
+    "name_zh": "飄舞的碎屑"
+  },
+  {
+    "id": 3,
+    "name": "Nemesis Burst",
+    "system": "particle_nemesis_burst_blue",
+    "name_zh": "復仇者爆破"
+  },
+  {
+    "id": 4,
+    "name": "Community Sparkle",
+    "system": "community_sparkle",
+    "name_zh": "社群閃光效果"
+  },
+  {
+    "id": 5,
+    "name": "Holy Glow",
+    "system": "halopoint",
+    "name_zh": "聖輝"
+  },
+  {
+    "id": 6,
+    "name": "Green Confetti",
+    "system": "superrare_confetti_green",
+    "name_zh": "綠色彩紙"
+  },
+  {
+    "id": 7,
+    "name": "Purple Confetti",
+    "system": "superrare_confetti_purple",
+    "name_zh": "紫色彩紙"
+  },
+  {
+    "id": 8,
+    "name": "Haunted Ghosts",
+    "system": "superrare_ghosts",
+    "name_zh": "遊魂"
+  },
+  {
+    "id": 9,
+    "name": "Green Energy",
+    "system": "superrare_greenenergy",
+    "name_zh": "綠色能量"
+  },
+  {
+    "id": 10,
+    "name": "Purple Energy",
+    "system": "superrare_purpleenergy",
+    "name_zh": "紫色能量"
+  },
+  {
+    "id": 11,
+    "name": "Circling TF Logo",
+    "system": "superrare_circling_tf",
+    "name_zh": "絕地要塞圖示"
+  },
+  {
+    "id": 12,
+    "name": "Massed Flies",
+    "system": "superrare_flies",
+    "name_zh": "群聚的蒼蠅"
+  },
+  {
+    "id": 13,
+    "name": "Burning Flames",
+    "system": "superrare_burning1",
+    "name_zh": "燃燒的火焰"
+  },
+  {
+    "id": 14,
+    "name": "Scorching Flames",
+    "system": "superrare_burning2",
+    "name_zh": "灼熱的火焰"
+  },
+  {
+    "id": 15,
+    "name": "Searing Plasma",
+    "system": "superrare_plasma1",
+    "name_zh": "熾熱電漿"
+  },
+  {
+    "id": 16,
+    "name": "Vivid Plasma",
+    "system": "superrare_plasma2",
+    "name_zh": "動感電漿"
+  },
+  {
+    "id": 17,
+    "name": "Sunbeams",
+    "system": "superrare_beams1",
+    "name_zh": "陽光"
+  },
+  {
+    "id": 18,
+    "name": "Circling Peace Sign",
+    "system": "superrare_circling_peacesign",
+    "name_zh": "和平標記"
+  },
+  {
+    "id": 19,
+    "name": "Circling Heart",
+    "system": "superrare_circling_heart",
+    "name_zh": "環狀心形"
+  },
+  {
+    "id": 20,
+    "name": "Map Stamps",
+    "system": "stamp_spin",
+    "name_zh": "地圖郵票"
+  },
+  {
+    "id": 28,
+    "name": "Genteel Smoke",
+    "system": "drg_pipe_smoke",
+    "name_zh": "高雅的煙霧"
+  },
+  {
+    "id": 29,
+    "name": "Stormy Storm",
+    "system": "unusual_storm",
+    "name_zh": "狂風暴雨"
+  },
+  {
+    "id": 30,
+    "name": "Blizzardy Storm",
+    "system": "unusual_blizzard",
+    "name_zh": "暴雪"
+  },
+  {
+    "id": 31,
+    "name": "Nuts n' Bolts",
+    "system": "unusual_orbit_nutsnbolts",
+    "name_zh": "螺帽和螺栓"
+  },
+  {
+    "id": 32,
+    "name": "Orbiting Planets",
+    "system": "unusual_orbit_planets",
+    "name_zh": "眾星拱月"
+  },
+  {
+    "id": 33,
+    "name": "Orbiting Fire",
+    "system": "unusual_orbit_fire",
+    "name_zh": "環繞火焰"
+  },
+  {
+    "id": 34,
+    "name": "Bubbling",
+    "system": "unusual_bubbles",
+    "name_zh": "泡泡"
+  },
+  {
+    "id": 35,
+    "name": "Smoking",
+    "system": "unusual_smoking",
+    "name_zh": "烏煙瘴氣"
+  },
+  {
+    "id": 36,
+    "name": "Steaming",
+    "system": "unusual_steaming",
+    "name_zh": "蒸氣"
+  },
+  {
+    "id": 37,
+    "name": "Flaming Lantern",
+    "system": "unusual_orbit_jack_flaming",
+    "name_zh": "烈焰南瓜燈"
+  },
+  {
+    "id": 38,
+    "name": "Cloudy Moon",
+    "system": "unusual_fullmoon_cloudy",
+    "name_zh": "灰暗滿月"
+  },
+  {
+    "id": 39,
+    "name": "Cauldron Bubbles",
+    "system": "unusual_bubbles_green",
+    "name_zh": "大釜綠泡"
+  },
+  {
+    "id": 40,
+    "name": "Eerie Orbiting Fire",
+    "system": "unusual_orbit_fire_dark",
+    "name_zh": "怪異鬼火"
+  },
+  {
+    "id": 43,
+    "name": "Knifestorm",
+    "system": "unusual_storm_knives",
+    "name_zh": "劍雨"
+  },
+  {
+    "id": 44,
+    "name": "Misty Skull",
+    "system": "unusual_skull_misty",
+    "name_zh": "霧中骷髏"
+  },
+  {
+    "id": 45,
+    "name": "Harvest Moon",
+    "system": "unusual_fullmoon_cloudy_green",
+    "name_zh": "豐收滿月"
+  },
+  {
+    "id": 46,
+    "name": "It's A Secret To Everybody",
+    "system": "unusual_fullmoon_cloudy_secret",
+    "name_zh": "這是秘密呦"
+  },
+  {
+    "id": 47,
+    "name": "Stormy 13th Hour",
+    "system": "unusual_storm_spooky",
+    "name_zh": "爆雨第十三小時"
+  },
+  {
+    "id": 55,
+    "name": "Attrib_Particle55",
+    "system": "unusual_orbit_cards_teamcolor_blue",
+    "name_zh": "Attrib_Particle55"
+  },
+  {
+    "id": 56,
+    "name": "Kill-a-Watt",
+    "system": "unusual_zap_yellow",
+    "name_zh": "致命瓦特"
+  },
+  {
+    "id": 57,
+    "name": "Terror-Watt",
+    "system": "unusual_zap_green",
+    "name_zh": "恐怖瓦特"
+  },
+  {
+    "id": 58,
+    "name": "Cloud 9",
+    "system": "unusual_hearts_bubbling",
+    "name_zh": "雲端九號"
+  },
+  {
+    "id": 59,
+    "name": "Aces High",
+    "system": "unusual_orbit_cards_teamcolor_red",
+    "name_zh": "撲克之神"
+  },
+  {
+    "id": 60,
+    "name": "Dead Presidents",
+    "system": "unusual_orbit_cash",
+    "name_zh": "建國先賢"
+  },
+  {
+    "id": 61,
+    "name": "Miami Nights",
+    "system": "unusual_crisp_spotlights",
+    "name_zh": "邁阿密之夜"
+  },
+  {
+    "id": 62,
+    "name": "Disco Beat Down",
+    "system": "unusual_spotlights",
+    "name_zh": "迪斯可閃光"
+  },
+  {
+    "id": 63,
+    "name": "Phosphorous",
+    "system": "unusual_robot_holo_glow_green",
+    "name_zh": "含磷綠光"
+  },
+  {
+    "id": 64,
+    "name": "Sulphurous",
+    "system": "unusual_robot_holo_glow_orange",
+    "name_zh": "硫磺橘光"
+  },
+  {
+    "id": 65,
+    "name": "Memory Leak",
+    "system": "unusual_robot_orbit_binary",
+    "name_zh": "記憶外洩"
+  },
+  {
+    "id": 66,
+    "name": "Overclocked",
+    "system": "unusual_robot_orbit_binary2",
+    "name_zh": "超頻"
+  },
+  {
+    "id": 67,
+    "name": "Electrostatic",
+    "system": "unusual_robot_orbiting_sparks",
+    "name_zh": "環繞黃電"
+  },
+  {
+    "id": 68,
+    "name": "Power Surge",
+    "system": "unusual_robot_orbiting_sparks2",
+    "name_zh": "環繞紫電"
+  },
+  {
+    "id": 69,
+    "name": "Anti-Freeze",
+    "system": "unusual_robot_radioactive",
+    "name_zh": "防凍液體"
+  },
+  {
+    "id": 70,
+    "name": "Time Warp",
+    "system": "unusual_robot_time_warp",
+    "name_zh": "時空扭曲"
+  },
+  {
+    "id": 71,
+    "name": "Green Black Hole",
+    "system": "unusual_robot_time_warp2",
+    "name_zh": "綠色黑洞"
+  },
+  {
+    "id": 72,
+    "name": "Roboactive",
+    "system": "unusual_robot_radioactive2",
+    "name_zh": "機械液體"
+  },
+  {
+    "id": 73,
+    "name": "Arcana",
+    "system": "unusual_spellbook_circle_green",
+    "name_zh": "奥秘之星"
+  },
+  {
+    "id": 74,
+    "name": "Spellbound",
+    "system": "unusual_spellbook_circle_purple",
+    "name_zh": "意亂情迷"
+  },
+  {
+    "id": 75,
+    "name": "Chiroptera Venenata",
+    "system": "unusual_bats_flaming_proxy_green",
+    "name_zh": "幽冥蝙蝠"
+  },
+  {
+    "id": 76,
+    "name": "Poisoned Shadows",
+    "system": "unusual_bats_flaming_proxy_purple",
+    "name_zh": "毒化陰影"
+  },
+  {
+    "id": 77,
+    "name": "Something Burning This Way Comes",
+    "system": "unusual_bats_flaming_proxy_orange",
+    "name_zh": "火魂來襲"
+  },
+  {
+    "id": 78,
+    "name": "Hellfire",
+    "system": "unusual_meteor_shower_parent_orange",
+    "name_zh": "地獄火"
+  },
+  {
+    "id": 79,
+    "name": "Darkblaze",
+    "system": "unusual_meteor_shower_parent_purple",
+    "name_zh": "陰闇火焰"
+  },
+  {
+    "id": 80,
+    "name": "Demonflame",
+    "system": "unusual_meteor_shower_parent_green",
+    "name_zh": "惡魔之焰"
+  },
+  {
+    "id": 81,
+    "name": "Bonzo The All-Gnawing",
+    "system": "unusual_tentmonster_purple_parent",
+    "name_zh": "啃蝕巨口"
+  },
+  {
+    "id": 82,
+    "name": "Amaranthine",
+    "system": "unusual_eyes_purple_parent",
+    "name_zh": "不朽靈魂"
+  },
+  {
+    "id": 83,
+    "name": "Stare From Beyond",
+    "system": "unusual_eyes_orange_parent",
+    "name_zh": "暗魂死盯"
+  },
+  {
+    "id": 84,
+    "name": "The Ooze",
+    "system": "unusual_eyes_green_parent",
+    "name_zh": "淤泥出眼"
+  },
+  {
+    "id": 85,
+    "name": "Ghastly Ghosts Jr",
+    "system": "unusual_souls_purple_parent",
+    "name_zh": "驚悚鬼魂 Jr"
+  },
+  {
+    "id": 86,
+    "name": "Haunted Phantasm Jr",
+    "system": "unusual_souls_green_parent",
+    "name_zh": "鬧鬼幻象"
+  },
+  {
+    "id": 87,
+    "name": "Frostbite",
+    "system": "unusual_eotl_frostbite",
+    "name_zh": "寒冰之氣"
+  },
+  {
+    "id": 88,
+    "name": "Molten Mallard",
+    "system": "unusual_eotl_oribiting_burning_duck_parent",
+    "name_zh": "溶化橡膠鴨"
+  },
+  {
+    "id": 89,
+    "name": "Morning Glory",
+    "system": "unusual_eotl_sunrise",
+    "name_zh": "朝陽之榮光"
+  },
+  {
+    "id": 90,
+    "name": "Death at Dusk",
+    "system": "unusual_eotl_sunset",
+    "name_zh": "死亡陰天"
+  },
+  {
+    "id": 91,
+    "name": "Abduction",
+    "system": "unusual_invasion_abduction",
+    "name_zh": "劫持"
+  },
+  {
+    "id": 92,
+    "name": "Atomic",
+    "system": "unusual_invasion_atomic",
+    "name_zh": "原子"
+  },
+  {
+    "id": 93,
+    "name": "Subatomic",
+    "system": "unusual_invasion_atomic_green",
+    "name_zh": "次原子"
+  },
+  {
+    "id": 94,
+    "name": "Electric Hat Protector",
+    "system": "unusual_invasion_boogaloop",
+    "name_zh": "電子帽防護"
+  },
+  {
+    "id": 95,
+    "name": "Magnetic Hat Protector",
+    "system": "unusual_invasion_boogaloop_2",
+    "name_zh": "磁帽防護"
+  },
+  {
+    "id": 96,
+    "name": "Voltaic Hat Protector",
+    "system": "unusual_invasion_boogaloop_3",
+    "name_zh": "電流帽防護"
+  },
+  {
+    "id": 97,
+    "name": "Galactic Codex",
+    "system": "unusual_invasion_codex",
+    "name_zh": "銀河斷片"
+  },
+  {
+    "id": 98,
+    "name": "Ancient Codex",
+    "system": "unusual_invasion_codex_2",
+    "name_zh": "斷簡殘片"
+  },
+  {
+    "id": 99,
+    "name": "Nebula",
+    "system": "unusual_invasion_nebula",
+    "name_zh": "星雲"
+  },
+  {
+    "id": 100,
+    "name": "Death by Disco",
+    "system": "unusual_hw_deathbydisco_parent",
+    "name_zh": "亡者迪斯可"
+  },
+  {
+    "id": 101,
+    "name": "It's a mystery to everyone",
+    "system": "unusual_mystery_parent",
+    "name_zh": "神秘怪譚"
+  },
+  {
+    "id": 102,
+    "name": "It's a puzzle to me",
+    "system": "unusual_mystery_parent_green",
+    "name_zh": "神秘謎團"
+  },
+  {
+    "id": 103,
+    "name": "Ether Trail",
+    "system": "unusual_nether_blue",
+    "name_zh": "蒼穹路"
+  },
+  {
+    "id": 104,
+    "name": "Nether Trail",
+    "system": "unusual_nether_pink",
+    "name_zh": "陰間路"
+  },
+  {
+    "id": 105,
+    "name": "Ancient Eldritch",
+    "system": "unusual_eldritch_flames_purple",
+    "name_zh": "古之惡鬼"
+  },
+  {
+    "id": 106,
+    "name": "Eldritch Flame",
+    "system": "unusual_eldritch_flames_orange",
+    "name_zh": "鬼怪焰靈"
+  },
+  {
+    "id": 107,
+    "name": "Neutron Star",
+    "system": "unusual_universe",
+    "name_zh": "熾白中子星"
+  },
+  {
+    "id": 108,
+    "name": "Tesla Coil",
+    "system": "unusual_tesla_flash",
+    "name_zh": "特斯拉電流"
+  },
+  {
+    "id": 109,
+    "name": "Starstorm Insomnia",
+    "system": "unusual_star_green_parent",
+    "name_zh": "不眠星塵"
+  },
+  {
+    "id": 110,
+    "name": "Starstorm Slumber",
+    "system": "unusual_star_purple_parent",
+    "name_zh": "靜寂星塵"
+  },
+  {
+    "id": 111,
+    "name": "Brain Drain",
+    "system": "unusual_bubble_mess_parent_green",
+    "name_zh": "Brain Drain"
+  },
+  {
+    "id": 112,
+    "name": "Open Mind",
+    "system": "unusual_bubble_mess_parent_orange",
+    "name_zh": "Open Mind"
+  },
+  {
+    "id": 113,
+    "name": "Head of Steam",
+    "system": "unusual_bubble_mess_parent_purple",
+    "name_zh": "Head of Steam"
+  },
+  {
+    "id": 114,
+    "name": "Galactic Gateway",
+    "system": "unusual_constellations_blue",
+    "name_zh": "Galactic Gateway"
+  },
+  {
+    "id": 115,
+    "name": "The Eldritch Opening",
+    "system": "unusual_constellations_pink",
+    "name_zh": "The Eldritch Opening"
+  },
+  {
+    "id": 116,
+    "name": "The Dark Doorway",
+    "system": "unusual_constellations_purple",
+    "name_zh": "The Dark Doorway"
+  },
+  {
+    "id": 117,
+    "name": "Ring of Fire",
+    "system": "unusual_symbols_parent_fire",
+    "name_zh": "Ring of Fire"
+  },
+  {
+    "id": 118,
+    "name": "Vicious Circle",
+    "system": "unusual_symbols_parent_dead",
+    "name_zh": "Vicious Circle"
+  },
+  {
+    "id": 119,
+    "name": "White Lightning",
+    "system": "unusual_symbols_parent_lightning",
+    "name_zh": "White Lightning"
+  },
+  {
+    "id": 120,
+    "name": "Omniscient Orb",
+    "system": "unusual_crystalball",
+    "name_zh": "Omniscient Orb"
+  },
+  {
+    "id": 121,
+    "name": "Clairvoyance",
+    "system": "unusual_psychic_eye",
+    "name_zh": "Clairvoyance"
+  },
+  {
+    "id": 122,
+    "name": "Fifth Dimension",
+    "system": "unusual_dimension_parent",
+    "name_zh": "Fifth Dimension"
+  },
+  {
+    "id": 123,
+    "name": "Vicious Vortex",
+    "system": "unusual_aura_purple_parent",
+    "name_zh": "Vicious Vortex"
+  },
+  {
+    "id": 124,
+    "name": "Menacing Miasma",
+    "system": "unusual_aura_green_parent",
+    "name_zh": "Menacing Miasma"
+  },
+  {
+    "id": 125,
+    "name": "Abyssal Aura",
+    "system": "unusual_aura_red_parent",
+    "name_zh": "Abyssal Aura"
+  },
+  {
+    "id": 126,
+    "name": "Wicked Wood",
+    "system": "unusual_forest_scene_parent_purple",
+    "name_zh": "Wicked Wood"
+  },
+  {
+    "id": 127,
+    "name": "Ghastly Grove",
+    "system": "unusual_forest_scene_parent_green",
+    "name_zh": "Ghastly Grove"
+  },
+  {
+    "id": 128,
+    "name": "Mystical Medley",
+    "system": "unusual_magicsmoke_purple_parent",
+    "name_zh": "Mystical Medley"
+  },
+  {
+    "id": 129,
+    "name": "Ethereal Essence",
+    "system": "unusual_magicsmoke_green_parent",
+    "name_zh": "Ethereal Essence"
+  },
+  {
+    "id": 130,
+    "name": "Twisted Radiance",
+    "system": "unusual_magicsmoke_blue_parent",
+    "name_zh": "Twisted Radiance"
+  },
+  {
+    "id": 131,
+    "name": "Violet Vortex",
+    "system": "unusual_vortex_energy_parent_p",
+    "name_zh": "Violet Vortex"
+  },
+  {
+    "id": 132,
+    "name": "Verdant Vortex",
+    "system": "unusual_vortex_energy_parent_g",
+    "name_zh": "Verdant Vortex"
+  },
+  {
+    "id": 133,
+    "name": "Valiant Vortex",
+    "system": "unusual_vortex_energy_parent_o",
+    "name_zh": "Valiant Vortex"
+  },
+  {
+    "id": 134,
+    "name": "Sparkling Lights",
+    "system": "unusual_sparkling_lights_parent02",
+    "name_zh": "閃閃亮光"
+  },
+  {
+    "id": 135,
+    "name": "Frozen Icefall",
+    "system": "unusual_icecave_parent",
+    "name_zh": "凍結冰瀑"
+  },
+  {
+    "id": 136,
+    "name": "Fragmented Gluons",
+    "system": "unusual_aurora_parent_green",
+    "name_zh": "破碎膠子"
+  },
+  {
+    "id": 137,
+    "name": "Fragmented Quarks",
+    "system": "unusual_aurora_parent_orange",
+    "name_zh": "破碎夸克"
+  },
+  {
+    "id": 138,
+    "name": "Fragmented Photons",
+    "system": "unusual_aurora_parent_purple",
+    "name_zh": "破碎光子"
+  },
+  {
+    "id": 139,
+    "name": "Defragmenting Reality",
+    "system": "unusual_polygon_teamcolor_red",
+    "name_zh": "現實重構"
+  },
+  {
+    "id": 140,
+    "name": "Attrib_Particle140",
+    "system": "unusual_polygon_teamcolor_blue",
+    "name_zh": "Attrib_Particle140"
+  },
+  {
+    "id": 141,
+    "name": "Fragmenting Reality",
+    "system": "unusual_polygon_green",
+    "name_zh": "現實解離"
+  },
+  {
+    "id": 142,
+    "name": "Refragmenting Reality",
+    "system": "unusual_polygon_amber",
+    "name_zh": "重組現實"
+  },
+  {
+    "id": 143,
+    "name": "Snowfallen",
+    "system": "unusual_snowfall_blue",
+    "name_zh": "降雪"
+  },
+  {
+    "id": 144,
+    "name": "Snowblinded",
+    "system": "unusual_snowfall_white",
+    "name_zh": "雪盲"
+  },
+  {
+    "id": 145,
+    "name": "Pyroland Daydream",
+    "system": "unusual_mayor_balloonicorn_teamcolor_red",
+    "name_zh": "異想白日夢"
+  },
+  {
+    "id": 146,
+    "name": "Attrib_Particle146",
+    "system": "unusual_mayor_balloonicorn_teamcolor_blue",
+    "name_zh": "Attrib_Particle146"
+  },
+  {
+    "id": 147,
+    "name": "Verdatica",
+    "system": "unusual_circling_spell_green_parent",
+    "name_zh": "Verdatica"
+  },
+  {
+    "id": 148,
+    "name": "Aromatica",
+    "system": "unusual_circling_spell_orange_parent",
+    "name_zh": "Aromatica"
+  },
+  {
+    "id": 149,
+    "name": "Chromatica",
+    "system": "unusual_circling_spell_purple_parent",
+    "name_zh": "Chromatica"
+  },
+  {
+    "id": 150,
+    "name": "Prismatica",
+    "system": "unusual_circling_spell_blue_parent",
+    "name_zh": "Prismatica"
+  },
+  {
+    "id": 151,
+    "name": "Bee Swarm",
+    "system": "unusual_bees",
+    "name_zh": "Bee Swarm"
+  },
+  {
+    "id": 152,
+    "name": "Frisky Fireflies",
+    "system": "unusual_playflies_green_parent",
+    "name_zh": "Frisky Fireflies"
+  },
+  {
+    "id": 153,
+    "name": "Smoldering Spirits",
+    "system": "unusual_playflies_orange_parent",
+    "name_zh": "Smoldering Spirits"
+  },
+  {
+    "id": 154,
+    "name": "Wandering Wisps",
+    "system": "unusual_playflies_purple_parent",
+    "name_zh": "Wandering Wisps"
+  },
+  {
+    "id": 155,
+    "name": "Kaleidoscope",
+    "system": "unusual_kaleido_scope_parent",
+    "name_zh": "Kaleidoscope"
+  },
+  {
+    "id": 156,
+    "name": "Green Giggler",
+    "system": "unusual_face_parent_G",
+    "name_zh": "Green Giggler"
+  },
+  {
+    "id": 157,
+    "name": "Laugh-O-Lantern",
+    "system": "unusual_face_parent_O",
+    "name_zh": "Laugh-O-Lantern"
+  },
+  {
+    "id": 158,
+    "name": "Plum Prankster",
+    "system": "unusual_face_parent_P",
+    "name_zh": "Plum Prankster"
+  },
+  {
+    "id": 159,
+    "name": "Pyroland Nightmare",
+    "system": "unusual_undead_mayor_balloonicorn",
+    "name_zh": "Pyroland Nightmare"
+  },
+  {
+    "id": 160,
+    "name": "Gravelly Ghoul",
+    "system": "unusual_gargoyle",
+    "name_zh": "Gravelly Ghoul"
+  },
+  {
+    "id": 161,
+    "name": "Vexed Volcanics",
+    "system": "unusual_gargoyle2",
+    "name_zh": "Vexed Volcanics"
+  },
+  {
+    "id": 162,
+    "name": "Gourdian Angel",
+    "system": "unusual_candy_parent",
+    "name_zh": "Gourdian Angel"
+  },
+  {
+    "id": 163,
+    "name": "Pumpkin Party",
+    "system": "unusual_pumpkinhead_parent",
+    "name_zh": "Pumpkin Party"
+  },
+  {
+    "id": 164,
+    "name": "Frozen Fractals",
+    "system": "unusual_froststorm_blue_parent",
+    "name_zh": "Frozen Fractals"
+  },
+  {
+    "id": 165,
+    "name": "Lavender Landfall",
+    "system": "unusual_froststorm_purple_parent",
+    "name_zh": "Lavender Landfall"
+  },
+  {
+    "id": 166,
+    "name": "Special Snowfall",
+    "system": "unusual_froststorm_yellow_parent",
+    "name_zh": "Special Snowfall"
+  },
+  {
+    "id": 167,
+    "name": "Divine Desire",
+    "system": "unusual_swirlybeams_goldpurple_parent",
+    "name_zh": "Divine Desire"
+  },
+  {
+    "id": 168,
+    "name": "Distant Dream",
+    "system": "unusual_swirlybeams_pinkblue_parent",
+    "name_zh": "Distant Dream"
+  },
+  {
+    "id": 169,
+    "name": "Violent Wintertide",
+    "system": "unusual_icetornado_blue_parent",
+    "name_zh": "Violent Wintertide"
+  },
+  {
+    "id": 170,
+    "name": "Blighted Snowstorm",
+    "system": "unusual_icetornado_purple_parent",
+    "name_zh": "Blighted Snowstorm"
+  },
+  {
+    "id": 171,
+    "name": "Pale Nimbus",
+    "system": "unusual_icetornado_white_parent",
+    "name_zh": "Pale Nimbus"
+  },
+  {
+    "id": 172,
+    "name": "Genus Plasmos",
+    "system": "unusual_genplasmos_parent",
+    "name_zh": "Genus Plasmos"
+  },
+  {
+    "id": 173,
+    "name": "Serenus Lumen",
+    "system": "unusual_genplasmos_b_parent",
+    "name_zh": "Serenus Lumen"
+  },
+  {
+    "id": 174,
+    "name": "Ventum Maris",
+    "system": "unusual_genplasmos_c_parent",
+    "name_zh": "Ventum Maris"
+  },
+  {
+    "id": 175,
+    "name": "Mirthful Mistletoe",
+    "system": "unusual_mistletoe_teamcolor_red",
+    "name_zh": "Mirthful Mistletoe"
+  },
+  {
+    "id": 176,
+    "name": "Attrib_Particle176",
+    "system": "unusual_mistletoe_teamcolor_blue",
+    "name_zh": "Attrib_Particle176"
+  },
+  {
+    "id": 177,
+    "name": "Resonation",
+    "system": "unusual_breaker_green_parent",
+    "name_zh": "Resonation"
+  },
+  {
+    "id": 178,
+    "name": "Aggradation",
+    "system": "unusual_breaker_orange_parent",
+    "name_zh": "Aggradation"
+  },
+  {
+    "id": 179,
+    "name": "Lucidation",
+    "system": "unusual_breaker_purple_parent",
+    "name_zh": "Lucidation"
+  },
+  {
+    "id": 180,
+    "name": "Stunning",
+    "system": "unusual_star_parent",
+    "name_zh": "Stunning"
+  },
+  {
+    "id": 181,
+    "name": "Ardentum Saturnalis",
+    "system": "unusual_magic_stingers_orange_parent",
+    "name_zh": "Ardentum Saturnalis"
+  },
+  {
+    "id": 182,
+    "name": "Fragrancium Elementalis",
+    "system": "unusual_magic_stingers_pink_parent",
+    "name_zh": "Fragrancium Elementalis"
+  },
+  {
+    "id": 183,
+    "name": "Reverium Irregularis",
+    "system": "unusual_magic_stingers_teamcolor_red",
+    "name_zh": "Reverium Irregularis"
+  },
+  {
+    "id": 184,
+    "name": "Attrib_Particle184",
+    "system": "unusual_magic_stingers_teamcolor_blue",
+    "name_zh": "Attrib_Particle184"
+  },
+  {
+    "id": 185,
+    "name": "Perennial Petals",
+    "system": "unusual_flowers_parent",
+    "name_zh": "Perennial Petals"
+  },
+  {
+    "id": 186,
+    "name": "Flavorsome Sunset",
+    "system": "unusual_bloomhead_orangepurple_parent",
+    "name_zh": "Flavorsome Sunset"
+  },
+  {
+    "id": 187,
+    "name": "Raspberry Bloom",
+    "system": "unusual_bloomhead_pinkgreen_parent",
+    "name_zh": "Raspberry Bloom"
+  },
+  {
+    "id": 188,
+    "name": "Iridescence",
+    "system": "unusual_magicalorb_parent",
+    "name_zh": "Iridescence"
+  },
+  {
+    "id": 189,
+    "name": "Tempered Thorns",
+    "system": "unusual_demonhorns_green_parent",
+    "name_zh": "Tempered Thorns"
+  },
+  {
+    "id": 190,
+    "name": "Devilish Diablo",
+    "system": "unusual_demonhorns_orange_parent",
+    "name_zh": "Devilish Diablo"
+  },
+  {
+    "id": 191,
+    "name": "Severed Serration",
+    "system": "unusual_demonhorns_purple_parent",
+    "name_zh": "Severed Serration"
+  },
+  {
+    "id": 192,
+    "name": "Shrieking Shades",
+    "system": "unusual_souls_shades_parent",
+    "name_zh": "Shrieking Shades"
+  },
+  {
+    "id": 193,
+    "name": "Restless Wraiths",
+    "system": "unusual_souls_teamcolor_red",
+    "name_zh": "Restless Wraiths"
+  },
+  {
+    "id": 194,
+    "name": "Restless Wraiths",
+    "system": "unusual_souls_teamcolor_blue",
+    "name_zh": "Restless Wraiths"
+  },
+  {
+    "id": 195,
+    "name": "Infernal Wraith",
+    "system": "unusual_phantomcrown_green_parent",
+    "name_zh": "Infernal Wraith"
+  },
+  {
+    "id": 196,
+    "name": "Phantom Crown",
+    "system": "unusual_phantomcrown_purple_parent",
+    "name_zh": "Phantom Crown"
+  },
+  {
+    "id": 197,
+    "name": "Ancient Specter",
+    "system": "unusual_phantomcrown_yellow_parent",
+    "name_zh": "Ancient Specter"
+  },
+  {
+    "id": 198,
+    "name": "Viridescent Peeper",
+    "system": "unusual_lurking_eyes_parent_g",
+    "name_zh": "Viridescent Peeper"
+  },
+  {
+    "id": 199,
+    "name": "Eyes of Molten",
+    "system": "unusual_lurking_eyes_parent_o",
+    "name_zh": "Eyes of Molten"
+  },
+  {
+    "id": 200,
+    "name": "Ominous Stare",
+    "system": "unusual_lurking_eyes_parent_p",
+    "name_zh": "Ominous Stare"
+  },
+  {
+    "id": 201,
+    "name": "Pumpkin Moon",
+    "system": "unusual_pumpkin_moon_parent",
+    "name_zh": "Pumpkin Moon"
+  },
+  {
+    "id": 202,
+    "name": "Frantic Spooker",
+    "system": "unusual_wacky_spooky_ghost_parent_g",
+    "name_zh": "Frantic Spooker"
+  },
+  {
+    "id": 203,
+    "name": "Frightened Poltergeist",
+    "system": "unusual_wacky_spooky_ghost_parent_o",
+    "name_zh": "Frightened Poltergeist"
+  },
+  {
+    "id": 204,
+    "name": "Energetic Haunter",
+    "system": "unusual_wacky_spooky_ghost_parent_p",
+    "name_zh": "Energetic Haunter"
+  },
+  {
+    "id": 205,
+    "name": "Smissmas Tree",
+    "system": "unusual_smissmas_tree_parent",
+    "name_zh": "Smissmas Tree"
+  },
+  {
+    "id": 206,
+    "name": "Hospitable Festivity",
+    "system": "unusual_tree3_yellow_parent",
+    "name_zh": "Hospitable Festivity"
+  },
+  {
+    "id": 207,
+    "name": "Condescending Embrace",
+    "system": "unusual_tree3_teamcolor_red",
+    "name_zh": "Condescending Embrace"
+  },
+  {
+    "id": 208,
+    "name": "Condescending Embrace",
+    "system": "unusual_tree3_teamcolor_blue",
+    "name_zh": "Condescending Embrace"
+  },
+  {
+    "id": 209,
+    "name": "Sparkling Spruce",
+    "system": "unusual_sparkletree_gold_parent",
+    "name_zh": "Sparkling Spruce"
+  },
+  {
+    "id": 210,
+    "name": "Glittering Juniper",
+    "system": "unusual_sparkletree_silver_parent",
+    "name_zh": "Glittering Juniper"
+  },
+  {
+    "id": 211,
+    "name": "Prismatic Pine",
+    "system": "unusual_sparkletree_RGB_parent",
+    "name_zh": "Prismatic Pine"
+  },
+  {
+    "id": 212,
+    "name": "Spiraling Lights",
+    "system": "unusual_fairylights_green_parent",
+    "name_zh": "Spiraling Lights"
+  },
+  {
+    "id": 213,
+    "name": "Twisting Lights",
+    "system": "unusual_fairylights_purple_parent",
+    "name_zh": "Twisting Lights"
+  },
+  {
+    "id": 214,
+    "name": "Stardust Pathway",
+    "system": "unusual_spire_star_parent",
+    "name_zh": "Stardust Pathway"
+  },
+  {
+    "id": 215,
+    "name": "Flurry Rush",
+    "system": "unusual_spire_snowball_parent",
+    "name_zh": "Flurry Rush"
+  },
+  {
+    "id": 216,
+    "name": "Spark of Smissmas",
+    "system": "unusual_spire_firework_teamcolor_red",
+    "name_zh": "Spark of Smissmas"
+  },
+  {
+    "id": 217,
+    "name": "Spark of Smissmas",
+    "system": "unusual_spire_firework_teamcolor_blue",
+    "name_zh": "Spark of Smissmas"
+  },
+  {
+    "id": 218,
+    "name": "Polar Forecast",
+    "system": "unusual_snowflake_parent",
+    "name_zh": "Polar Forecast"
+  },
+  {
+    "id": 219,
+    "name": "Shining Stag",
+    "system": "unusual_antlers_gold_parent",
+    "name_zh": "Shining Stag"
+  },
+  {
+    "id": 220,
+    "name": "Holiday Horns",
+    "system": "unusual_antlers_purple_parent",
+    "name_zh": "Holiday Horns"
+  },
+  {
+    "id": 221,
+    "name": "Ardent Antlers",
+    "system": "unusual_antlers_teamcolor_red",
+    "name_zh": "Ardent Antlers"
+  },
+  {
+    "id": 222,
+    "name": "Ardent Antlers",
+    "system": "unusual_antlers_teamcolor_blue",
+    "name_zh": "Ardent Antlers"
+  },
+  {
+    "id": 223,
+    "name": "Festive Lights",
+    "system": "unusual_festive_lights_lights1_parent",
+    "name_zh": "Festive Lights"
+  },
+  {
+    "id": 224,
+    "name": "Crustacean Sensation",
+    "system": "unusual_spycrabs_teamcolor_red",
+    "name_zh": "Crustacean Sensation"
+  },
+  {
+    "id": 225,
+    "name": "Crustacean Sensation",
+    "system": "unusual_spycrabs_teamcolor_blue",
+    "name_zh": "Crustacean Sensation"
+  },
+  {
+    "id": 226,
+    "name": "Frosted Decadence",
+    "system": "unusual_sprinkles_teamcolor_red",
+    "name_zh": "Frosted Decadence"
+  },
+  {
+    "id": 227,
+    "name": "Frosted Decadence",
+    "system": "unusual_sprinkles_teamcolor_blue",
+    "name_zh": "Frosted Decadence"
+  },
+  {
+    "id": 228,
+    "name": "Sprinkled Delights",
+    "system": "unusual_sprinkles_rainbow_parent",
+    "name_zh": "Sprinkled Delights"
+  },
+  {
+    "id": 229,
+    "name": "Terrestrial Favor",
+    "system": "unusual_liquidmagic_green_parent",
+    "name_zh": "Terrestrial Favor"
+  },
+  {
+    "id": 230,
+    "name": "Tropical Thrill",
+    "system": "unusual_liquidmagic_ocean_parent",
+    "name_zh": "Tropical Thrill"
+  },
+  {
+    "id": 231,
+    "name": "Flourishing Passion",
+    "system": "unusual_liquidmagic_pink_parent",
+    "name_zh": "Flourishing Passion"
+  },
+  {
+    "id": 232,
+    "name": "Dazzling Fireworks",
+    "system": "unusual_firework_blue_red_parent",
+    "name_zh": "Dazzling Fireworks"
+  },
+  {
+    "id": 233,
+    "name": "Blazing Fireworks",
+    "system": "unusual_firework_green_yellow_parent",
+    "name_zh": "Blazing Fireworks"
+  },
+  {
+    "id": 234,
+    "name": "Shimmering Fireworks",
+    "system": "unusual_firework_orange_yellow_parent",
+    "name_zh": "Shimmering Fireworks"
+  },
+  {
+    "id": 235,
+    "name": "Twinkling Fireworks",
+    "system": "unusual_firework_pgb_parent",
+    "name_zh": "Twinkling Fireworks"
+  },
+  {
+    "id": 236,
+    "name": "Sparkling Fireworks",
+    "system": "unusual_firework_purple_yellow_parent",
+    "name_zh": "Sparkling Fireworks"
+  },
+  {
+    "id": 237,
+    "name": "Glowing Fireworks",
+    "system": "unusual_firework_rainbow_parent",
+    "name_zh": "Glowing Fireworks"
+  },
+  {
+    "id": 238,
+    "name": "Glimmering Fireworks",
+    "system": "unusual_firework_wgb_parent",
+    "name_zh": "Glimmering Fireworks"
+  },
+  {
+    "id": 239,
+    "name": "Flying Lights",
+    "system": "unusual_lanterns_teamcolor_red",
+    "name_zh": "Flying Lights"
+  },
+  {
+    "id": 240,
+    "name": "Flying Lights",
+    "system": "unusual_lanterns_teamcolor_blue",
+    "name_zh": "Flying Lights"
+  },
+  {
+    "id": 241,
+    "name": "Limelight",
+    "system": "unusual_lanterns_green_parent",
+    "name_zh": "Limelight"
+  },
+  {
+    "id": 242,
+    "name": "Shining Star",
+    "system": "unusual_lanterns_yellow_parent",
+    "name_zh": "Shining Star"
+  },
+  {
+    "id": 243,
+    "name": "Cold Cosmos",
+    "system": "unusual_coldcosmos_parent",
+    "name_zh": "冰冷宇宙"
+  },
+  {
+    "id": 244,
+    "name": "Refracting Fractals",
+    "system": "unusual_helix_parent",
+    "name_zh": "Refracting Fractals"
+  },
+  {
+    "id": 245,
+    "name": "Startrance",
+    "system": "unusual_stardust_teamcolor_red",
+    "name_zh": "Startrance"
+  },
+  {
+    "id": 246,
+    "name": "Startrance",
+    "system": "unusual_stardust_teamcolor_blue",
+    "name_zh": "Startrance"
+  },
+  {
+    "id": 247,
+    "name": "Starlush",
+    "system": "unusual_stardust_green_parent",
+    "name_zh": "Starlush"
+  },
+  {
+    "id": 248,
+    "name": "Starfire",
+    "system": "unusual_stardust_orange_parent",
+    "name_zh": "Starfire"
+  },
+  {
+    "id": 249,
+    "name": "Stardust",
+    "system": "unusual_stardust_white_parent",
+    "name_zh": "Stardust"
+  },
+  {
+    "id": 250,
+    "name": "Contagious Eruption",
+    "system": "unusual_erupt_alien_parent",
+    "name_zh": "毒性噴發"
+  },
+  {
+    "id": 251,
+    "name": "Daydream Eruption",
+    "system": "unusual_erupt_daydream_parent",
+    "name_zh": "異想噴發"
+  },
+  {
+    "id": 252,
+    "name": "Volcanic Eruption",
+    "system": "unusual_erupt_volcan_parent",
+    "name_zh": "岩漿噴發"
+  },
+  {
+    "id": 253,
+    "name": "Divine Sunlight",
+    "system": "unusual_supernova_parent",
+    "name_zh": "Divine Sunlight"
+  },
+  {
+    "id": 254,
+    "name": "Audiophile",
+    "system": "unusual_audio_soundwave_green_parent",
+    "name_zh": "Audiophile"
+  },
+  {
+    "id": 255,
+    "name": "Soundwave",
+    "system": "unusual_audio_soundwave_orange_parent",
+    "name_zh": "Soundwave"
+  },
+  {
+    "id": 256,
+    "name": "Synesthesia",
+    "system": "unusual_audio_soundwave_purple_parent",
+    "name_zh": "Synesthesia"
+  },
+  {
+    "id": 257,
+    "name": "Haunted Kraken",
+    "system": "unusual_kraken_green_parent",
+    "name_zh": "Haunted Kraken"
+  },
+  {
+    "id": 258,
+    "name": "Eerie Kraken",
+    "system": "unusual_kraken_purple_parent",
+    "name_zh": "Eerie Kraken"
+  },
+  {
+    "id": 259,
+    "name": "Soulful Slice",
+    "system": "unusual_ghostaxe_parent_green",
+    "name_zh": "Soulful Slice"
+  },
+  {
+    "id": 260,
+    "name": "Horsemann's Hack",
+    "system": "unusual_ghostaxe_parent_purple",
+    "name_zh": "無頭騎士之斧"
+  },
+  {
+    "id": 261,
+    "name": "Haunted Forever!",
+    "system": "unusual_hauntedforever_teamcolor_red",
+    "name_zh": "永遠被鬼纏！"
+  },
+  {
+    "id": 262,
+    "name": "Haunted Forever!",
+    "system": "unusual_hauntedforever_teamcolor_blue",
+    "name_zh": "Haunted Forever!"
+  },
+  {
+    "id": 263,
+    "name": "Forever And Forever!",
+    "system": "unusual_hauntedforever_green_parent",
+    "name_zh": "Forever And Forever!"
+  },
+  {
+    "id": 264,
+    "name": "Cursed Forever!",
+    "system": "unusual_hauntedforever_purple_parent",
+    "name_zh": "Cursed Forever!"
+  },
+  {
+    "id": 265,
+    "name": "Moth Plague",
+    "system": "unusual_moths_parent",
+    "name_zh": "Moth Plague"
+  },
+  {
+    "id": 266,
+    "name": "Malevolent Monoculi",
+    "system": "unusual_eyeboss_parent",
+    "name_zh": "惡毒單眼怪"
+  },
+  {
+    "id": 267,
+    "name": "Haunted Wick",
+    "system": "unusual_ghostly_flame_teamcolor_red",
+    "name_zh": "Haunted Wick"
+  },
+  {
+    "id": 268,
+    "name": "Haunted Wick",
+    "system": "unusual_ghostly_flame_teamcolor_blue",
+    "name_zh": "Haunted Wick"
+  },
+  {
+    "id": 269,
+    "name": "Wicked Wick",
+    "system": "unusual_ghostly_flame_parent_orange",
+    "name_zh": "Wicked Wick"
+  },
+  {
+    "id": 270,
+    "name": "Spectral Wick",
+    "system": "unusual_ghostly_flame_parent_purple",
+    "name_zh": "Spectral Wick"
+  },
+  {
+    "id": 271,
+    "name": "Musical Maelstrom",
+    "system": "unusual_sheetmusic_gold_parent",
+    "name_zh": "音樂漩渦"
+  },
+  {
+    "id": 272,
+    "name": "Verdant Virtuoso",
+    "system": "unusual_sheetmusic_green_parent",
+    "name_zh": "綠意傑作"
+  },
+  {
+    "id": 273,
+    "name": "Silver Serenade",
+    "system": "unusual_sheetmusic_silver_parent",
+    "name_zh": "銀光小曲"
+  },
+  {
+    "id": 274,
+    "name": "Cosmic Constellations",
+    "system": "unusual_constellation_teamcolor_red",
+    "name_zh": "Cosmic Constellations"
+  },
+  {
+    "id": 275,
+    "name": "Cosmic Constellations",
+    "system": "unusual_constellation_teamcolor_blue",
+    "name_zh": "Cosmic Constellations"
+  },
+  {
+    "id": 276,
+    "name": "Dazzling Constellations",
+    "system": "unusual_constellation_green_parent",
+    "name_zh": "Dazzling Constellations"
+  },
+  {
+    "id": 277,
+    "name": "Tainted Frost",
+    "system": "unusual_blood_snow_parent",
+    "name_zh": "污染冰霜"
+  },
+  {
+    "id": 278,
+    "name": "Starlight Haze",
+    "system": "unusual_aestheticneons_parent",
+    "name_zh": "Starlight Haze"
+  },
+  {
+    "id": 279,
+    "name": "Hard Carry",
+    "system": "unusual_hardcarry_teamcolor_red",
+    "name_zh": "強硬殼箱"
+  },
+  {
+    "id": 280,
+    "name": "Hard Carry",
+    "system": "unusual_hardcarry_teamcolor_blue",
+    "name_zh": "強硬殼箱"
+  },
+  {
+    "id": 281,
+    "name": "Jellyfish Field",
+    "system": "unusual_jellyfish_teamcolor_red",
+    "name_zh": "Jellyfish Field"
+  },
+  {
+    "id": 282,
+    "name": "Jellyfish Field",
+    "system": "unusual_jellyfish_teamcolor_blue",
+    "name_zh": "Jellyfish Field"
+  },
+  {
+    "id": 283,
+    "name": "Jellyfish Hunter",
+    "system": "unusual_jellyfish_green_parent",
+    "name_zh": "Jellyfish Hunter"
+  },
+  {
+    "id": 284,
+    "name": "Jellyfish Jam",
+    "system": "unusual_jellyfish_purple_parent",
+    "name_zh": "Jellyfish Jam"
+  },
+  {
+    "id": 285,
+    "name": "Global Clusters",
+    "system": "unusual_shootingstar_green_parent",
+    "name_zh": "宇宙星團"
+  },
+  {
+    "id": 286,
+    "name": "Celestial Starburst",
+    "system": "unusual_shootingstar_purple_parent",
+    "name_zh": "天體星爆"
+  },
+  {
+    "id": 287,
+    "name": "Sylicone Succiduous",
+    "system": "unusual_shootingstar_orange_parent",
+    "name_zh": "殞落矽銅"
+  },
+  {
+    "id": 288,
+    "name": "Sakura Smoke Bomb",
+    "system": "unusual_sakura_smokebomb",
+    "name_zh": "Sakura Smoke Bomb"
+  },
+  {
+    "id": 289,
+    "name": "Treasure Trove",
+    "system": "unusual_australian_riches",
+    "name_zh": "無主寶藏"
+  },
+  {
+    "id": 290,
+    "name": "Bubble Breeze",
+    "system": "unusual_buble_parent",
+    "name_zh": "夢幻泡泡"
+  },
+  {
+    "id": 291,
+    "name": "Fireflies",
+    "system": "unusual_fireflies",
+    "name_zh": "Fireflies"
+  },
+  {
+    "id": 292,
+    "name": "Mountain Halo",
+    "system": "unusual_mountainhalo_parent",
+    "name_zh": "Mountain Halo"
+  },
+  {
+    "id": 293,
+    "name": "Celestial Summit",
+    "system": "unusual_risingstar_green_parent",
+    "name_zh": "頂上星辰"
+  },
+  {
+    "id": 294,
+    "name": "Stellar Ascent",
+    "system": "unusual_risingstar_purple_parent",
+    "name_zh": "飄升星體"
+  },
+  {
+    "id": 295,
+    "name": "Sapped",
+    "system": "unusual_sapper_teamcolor_red",
+    "name_zh": "電流"
+  },
+  {
+    "id": 296,
+    "name": "Sapped",
+    "system": "unusual_sapper_teamcolor_blue",
+    "name_zh": "Sapped"
+  },
+  {
+    "id": 297,
+    "name": "Hellspawned Horns",
+    "system": "unusual_devilish_teamcolor_red",
+    "name_zh": "Hellspawned Horns"
+  },
+  {
+    "id": 298,
+    "name": "Hellspawned Horns",
+    "system": "unusual_devilish_teamcolor_blue",
+    "name_zh": "Hellspawned Horns"
+  },
+  {
+    "id": 299,
+    "name": "Demonic Impaler",
+    "system": "unusual_devilish_green_parent",
+    "name_zh": "Demonic Impaler"
+  },
+  {
+    "id": 300,
+    "name": "Revenant's Rack",
+    "system": "unusual_devilish_purple_parent",
+    "name_zh": "Revenant's Rack"
+  },
+  {
+    "id": 301,
+    "name": "Sixth Sense",
+    "system": "unusual_sixthsense_teamcolor_red",
+    "name_zh": "Sixth Sense"
+  },
+  {
+    "id": 302,
+    "name": "Sixth Sense",
+    "system": "unusual_sixthsense_teamcolor_blue",
+    "name_zh": "Sixth Sense"
+  },
+  {
+    "id": 303,
+    "name": "Amygdala",
+    "system": "unusual_sixthsense_pink_parent",
+    "name_zh": "Amygdala"
+  },
+  {
+    "id": 304,
+    "name": "The Bone Zone",
+    "system": "unusual_skullhead_parent",
+    "name_zh": "The Bone Zone"
+  },
+  {
+    "id": 305,
+    "name": "Arachne's Web",
+    "system": "unusual_spiderweb_parent",
+    "name_zh": "Arachne's Web"
+  },
+  {
+    "id": 306,
+    "name": "Acidic Climate",
+    "system": "unusual_deepsmoke_parent_g",
+    "name_zh": "酸性氣候"
+  },
+  {
+    "id": 307,
+    "name": "Otherworldly Weather",
+    "system": "unusual_deepsmoke_parent_p",
+    "name_zh": "Otherworldly Weather"
+  },
+  {
+    "id": 308,
+    "name": "Nightmarish Storm",
+    "system": "unusual_deepsmoke_parent_o",
+    "name_zh": "惡夢雷雲"
+  },
+  {
+    "id": 309,
+    "name": "Icestruck",
+    "system": "unusual_icearrow_teamcolor_red",
+    "name_zh": "冰箭"
+  },
+  {
+    "id": 310,
+    "name": "Icestruck",
+    "system": "unusual_icearrow_teamcolor_blue",
+    "name_zh": "冰箭"
+  },
+  {
+    "id": 311,
+    "name": "Goldstruck",
+    "system": "unusual_goldarrow_parent",
+    "name_zh": "金箭"
+  },
+  {
+    "id": 312,
+    "name": "Radiant Rivalry",
+    "system": "unusual_aestheticsigns_teamcolor_red",
+    "name_zh": "閃亮出擊"
+  },
+  {
+    "id": 313,
+    "name": "Radiant Rivalry",
+    "system": "unusual_aestheticsigns_teamcolor_blue",
+    "name_zh": "閃亮出擊"
+  },
+  {
+    "id": 314,
+    "name": "Radiant Legacy",
+    "system": "unusual_aestheticsigns_mannco_parent",
+    "name_zh": "閃亮傳奇"
+  },
+  {
+    "id": 315,
+    "name": "Frosty Flavours",
+    "system": "unusual_frosty_flavours_teamcolor_red",
+    "name_zh": "雪花風味"
+  },
+  {
+    "id": 316,
+    "name": "Frosty Flavours",
+    "system": "unusual_frosty_flavours_teamcolor_blue",
+    "name_zh": "雪花風味"
+  },
+  {
+    "id": 317,
+    "name": "Mint Frost",
+    "system": "unusual_frosty_mint_glow_parent",
+    "name_zh": "薄荷雪花"
+  },
+  {
+    "id": 318,
+    "name": "North Star",
+    "system": "unusual_northstar_teamcolor_red",
+    "name_zh": "北極星"
+  },
+  {
+    "id": 319,
+    "name": "North Star",
+    "system": "unusual_northstar_teamcolor_blue",
+    "name_zh": "北極星"
+  },
+  {
+    "id": 320,
+    "name": "Prettiest Star",
+    "system": "unusual_northstar_parent_purple",
+    "name_zh": "極美之星"
+  },
+  {
+    "id": 321,
+    "name": "Festive Falling Star",
+    "system": "unusual_orbitingstar_parent",
+    "name_zh": "節慶流星"
+  },
+  {
+    "id": 322,
+    "name": "Lunar Lights",
+    "system": "unusual_firefly_teamcolor_red",
+    "name_zh": "月之光點"
+  },
+  {
+    "id": 323,
+    "name": "Lunar Lights",
+    "system": "unusual_firefly_teamcolor_blue",
+    "name_zh": "月之光點"
+  },
+  {
+    "id": 324,
+    "name": "Fairy Lights",
+    "system": "unusual_firefly_purple_parent",
+    "name_zh": "精靈光點"
+  },
+  {
+    "id": 325,
+    "name": "Natural Lights",
+    "system": "unusual_firefly_green_parent",
+    "name_zh": "自然光點"
+  },
+  {
+    "id": 327,
+    "name": "Loyalist's Coronet",
+    "system": "unusual_corrodedknight_teamcolor_red",
+    "name_zh": "效忠者之冠"
+  },
+  {
+    "id": 328,
+    "name": "Loyalist's Coronet",
+    "system": "unusual_corrodedknight_teamcolor_blue",
+    "name_zh": "效忠者之冠"
+  },
+  {
+    "id": 329,
+    "name": "Knight's Prideful Spirit",
+    "system": "unusual_corrodedknight_parent_silver",
+    "name_zh": "騎士之傲"
+  },
+  {
+    "id": 330,
+    "name": "Baron's Cherished Chaplet",
+    "system": "unusual_corrodedknight_parent_golden",
+    "name_zh": "男爵的愛袍"
+  },
+  {
+    "id": 331,
+    "name": "Lure of the Deep",
+    "system": "unusual_poseidon_teamcolor_red",
+    "name_zh": "深淵誘惑"
+  },
+  {
+    "id": 332,
+    "name": "Lure of the Deep",
+    "system": "unusual_poseidon_teamcolor_blue",
+    "name_zh": "深淵誘惑"
+  },
+  {
+    "id": 333,
+    "name": "Violent Viridian",
+    "system": "unusual_poseidon_parent_green",
+    "name_zh": "暴力綠"
+  },
+  {
+    "id": 334,
+    "name": "Magenta Monstrum",
+    "system": "unusual_poseidon_parent_purple",
+    "name_zh": "洋紅怪"
+  },
+  {
+    "id": 335,
+    "name": "Rainbow Reverie",
+    "system": "unusual_rainglow_parent",
+    "name_zh": "虹彩幻光"
+  },
+  {
+    "id": 336,
+    "name": "Cuban Smoke",
+    "system": "unusual_cubancigar_parent",
+    "name_zh": "古巴煙"
+  },
+  {
+    "id": 337,
+    "name": "Melting Mohawk",
+    "system": "unusual_mohawk_teamcolor_red",
+    "name_zh": "融化雞冠頭"
+  },
+  {
+    "id": 338,
+    "name": "Melting Mohawk",
+    "system": "unusual_mohawk_teamcolor_blue",
+    "name_zh": "融化雞冠頭"
+  },
+  {
+    "id": 339,
+    "name": "Scorched Scalp",
+    "system": "unusual_mohawk_parent_green",
+    "name_zh": "燒灼頭皮"
+  },
+  {
+    "id": 340,
+    "name": "Ignited Crest",
+    "system": "unusual_mohawk_parent_purple",
+    "name_zh": "燃火之徽"
+  },
+  {
+    "id": 341,
+    "name": "Rare Shine",
+    "system": "unusual_rare_shine_glow_parent",
+    "name_zh": "稀有光澤"
+  },
+  {
+    "id": 342,
+    "name": "Distant Drift",
+    "system": "unusual_horstars_teamcolor_red",
+    "name_zh": "遠方漂流"
+  },
+  {
+    "id": 343,
+    "name": "Distant Drift",
+    "system": "unusual_horstars_teamcolor_blue",
+    "name_zh": "遠方漂流"
+  },
+  {
+    "id": 344,
+    "name": "Warp Drive",
+    "system": "unusual_electric_parent_white",
+    "name_zh": "曲速光輝"
+  },
+  {
+    "id": 345,
+    "name": "Overdrive",
+    "system": "unusual_electric_parent_gold",
+    "name_zh": "超轉光輝"
+  },
+  {
+    "id": 346,
+    "name": "Butterfly Season",
+    "system": "unusual_butterflyhead_teamcolor_red",
+    "name_zh": "蝴蝶季節"
+  },
+  {
+    "id": 347,
+    "name": "Butterfly Season",
+    "system": "unusual_butterflyhead_teamcolor_blue",
+    "name_zh": "蝴蝶季節"
+  },
+  {
+    "id": 348,
+    "name": "Psycho-delic",
+    "system": "unusual_hippieaura_parent",
+    "name_zh": "精神迷幻"
+  },
+  {
+    "id": 349,
+    "name": "Bewitching Bugs",
+    "system": "unusual_butterfly_parent",
+    "name_zh": "蠱惑之蟲"
+  },
+  {
+    "id": 701,
+    "name": "Hot",
+    "system": "weapon_unusual_hot",
+    "name_zh": "炙熱化學"
+  },
+  {
+    "id": 702,
+    "name": "Isotope",
+    "system": "weapon_unusual_isotope",
+    "name_zh": "同位素"
+  },
+  {
+    "id": 703,
+    "name": "Cool",
+    "system": "weapon_unusual_cool",
+    "name_zh": "寒冷化學"
+  },
+  {
+    "id": 704,
+    "name": "Energy Orb",
+    "system": "weapon_unusual_energyorb",
+    "name_zh": "能量彈"
+  },
+  {
+    "id": 2001,
+    "name": "Attrib_Particle2001",
+    "system": "killstreak_eyeglow_1_teamcolor_red",
+    "name_zh": "Attrib_Particle2001"
+  },
+  {
+    "id": 2002,
+    "name": "Attrib_Particle2002",
+    "system": "killstreak_t1_lvl1",
+    "name_zh": "Attrib_Particle2002"
+  },
+  {
+    "id": 2003,
+    "name": "Attrib_Particle2003",
+    "system": "killstreak_t2_lvl1",
+    "name_zh": "Attrib_Particle2003"
+  },
+  {
+    "id": 2004,
+    "name": "Attrib_Particle2004",
+    "system": "killstreak_t3_lvl1",
+    "name_zh": "Attrib_Particle2004"
+  },
+  {
+    "id": 2005,
+    "name": "Attrib_Particle2005",
+    "system": "killstreak_t4_lvl1",
+    "name_zh": "Attrib_Particle2005"
+  },
+  {
+    "id": 2006,
+    "name": "Attrib_Particle2006",
+    "system": "killstreak_t5_lvl1",
+    "name_zh": "Attrib_Particle2006"
+  },
+  {
+    "id": 2007,
+    "name": "Attrib_Particle2007",
+    "system": "killstreak_t6_lvl1",
+    "name_zh": "Attrib_Particle2007"
+  },
+  {
+    "id": 2008,
+    "name": "Attrib_Particle2008",
+    "system": "killstreak_t7_lvl1",
+    "name_zh": "Attrib_Particle2008"
+  },
+  {
+    "id": 3001,
+    "name": "Showstopper",
+    "system": "utaunt_firework_teamcolor_red",
+    "name_zh": "攪局者"
+  },
+  {
+    "id": 3002,
+    "name": "Showstopper",
+    "system": "utaunt_firework_teamcolor_blue",
+    "name_zh": "攪局者"
+  },
+  {
+    "id": 3003,
+    "name": "Holy Grail",
+    "system": "utaunt_beams_yellow",
+    "name_zh": "聖杯"
+  },
+  {
+    "id": 3004,
+    "name": "'72",
+    "system": "utaunt_disco_party",
+    "name_zh": "'72"
+  },
+  {
+    "id": 3005,
+    "name": "Fountain of Delight",
+    "system": "utaunt_hearts_glow_parent",
+    "name_zh": "喜悅之泉"
+  },
+  {
+    "id": 3006,
+    "name": "Screaming Tiger",
+    "system": "utaunt_meteor_parent",
+    "name_zh": "猛虎咆嘯"
+  },
+  {
+    "id": 3007,
+    "name": "Skill Gotten Gains",
+    "system": "utaunt_cash_confetti",
+    "name_zh": "技術性所得"
+  },
+  {
+    "id": 3008,
+    "name": "Midnight Whirlwind",
+    "system": "utaunt_tornado_parent_black",
+    "name_zh": "午夜旋風"
+  },
+  {
+    "id": 3009,
+    "name": "Silver Cyclone",
+    "system": "utaunt_tornado_parent_white",
+    "name_zh": "銀色旋風"
+  },
+  {
+    "id": 3010,
+    "name": "Mega Strike",
+    "system": "utaunt_lightning_parent",
+    "name_zh": "雷神重擊"
+  },
+  {
+    "id": 3011,
+    "name": "Haunted Phantasm",
+    "system": "utaunt_souls_green_parent",
+    "name_zh": "鬧鬼幻象"
+  },
+  {
+    "id": 3012,
+    "name": "Ghastly Ghosts",
+    "system": "utaunt_souls_purple_parent",
+    "name_zh": "驚悚鬼魂"
+  },
+  {
+    "id": 3013,
+    "name": "Hellish Inferno",
+    "system": "utaunt_hellpit_parent",
+    "name_zh": "血紅地獄"
+  },
+  {
+    "id": 3014,
+    "name": "Spectral Swirl",
+    "system": "utaunt_hellswirl",
+    "name_zh": "幽魂漩流"
+  },
+  {
+    "id": 3015,
+    "name": "Infernal Flames",
+    "system": "utaunt_headless",
+    "name_zh": "地獄紫焰"
+  },
+  {
+    "id": 3016,
+    "name": "Infernal Smoke",
+    "system": "utaunt_merasmus",
+    "name_zh": "地獄綠煙"
+  },
+  {
+    "id": 3017,
+    "name": "Acidic Bubbles of Envy",
+    "system": "utaunt_bubbles_glow_green_parent",
+    "name_zh": "Acidic Bubbles of Envy"
+  },
+  {
+    "id": 3018,
+    "name": "Flammable Bubbles of Attraction",
+    "system": "utaunt_bubbles_glow_orange_parent",
+    "name_zh": "Flammable Bubbles of Attraction"
+  },
+  {
+    "id": 3019,
+    "name": "Poisonous Bubbles of Regret",
+    "system": "utaunt_bubbles_glow_purple_parent",
+    "name_zh": "Poisonous Bubbles of Regret"
+  },
+  {
+    "id": 3020,
+    "name": "Roaring Rockets",
+    "system": "utaunt_firework_dragon_parent",
+    "name_zh": "喧鬧沖天炮"
+  },
+  {
+    "id": 3021,
+    "name": "Spooky Night",
+    "system": "utaunt_smoke_moon_parent",
+    "name_zh": "Spooky Night"
+  },
+  {
+    "id": 3022,
+    "name": "Ominous Night",
+    "system": "utaunt_smoke_moon_green_parent",
+    "name_zh": "Ominous Night"
+  },
+  {
+    "id": 3023,
+    "name": "Bewitched",
+    "system": "utaunt_arcane_purple_parent",
+    "name_zh": "Bewitched"
+  },
+  {
+    "id": 3024,
+    "name": "Accursed",
+    "system": "utaunt_arcane_green_parent",
+    "name_zh": "Accursed"
+  },
+  {
+    "id": 3025,
+    "name": "Enchanted",
+    "system": "utaunt_arcane_yellow_parent",
+    "name_zh": "Enchanted"
+  },
+  {
+    "id": 3026,
+    "name": "Static Mist",
+    "system": "utaunt_electric_mist_parent",
+    "name_zh": "Static Mist"
+  },
+  {
+    "id": 3027,
+    "name": "Eerie Lightning",
+    "system": "utaunt_electricity_cloud_parent_WP",
+    "name_zh": "Eerie Lightning"
+  },
+  {
+    "id": 3028,
+    "name": "Terrifying Thunder",
+    "system": "utaunt_electricity_cloud_parent_WB",
+    "name_zh": "Terrifying Thunder"
+  },
+  {
+    "id": 3029,
+    "name": "Jarate Shock",
+    "system": "utaunt_electricity_cloud_parent_WY",
+    "name_zh": "Jarate Shock"
+  },
+  {
+    "id": 3030,
+    "name": "Nether Void",
+    "system": "utaunt_portalswirl_purple_parent",
+    "name_zh": "Nether Void"
+  },
+  {
+    "id": 3031,
+    "name": "Good-Hearted Goodies",
+    "system": "utaunt_present_parent",
+    "name_zh": "善良的禮物"
+  },
+  {
+    "id": 3032,
+    "name": "Wintery Wisp",
+    "system": "utaunt_snowring_icy_parent",
+    "name_zh": "冬季氣息"
+  },
+  {
+    "id": 3033,
+    "name": "Arctic Aurora",
+    "system": "utaunt_snowring_space_parent",
+    "name_zh": "北境極光"
+  },
+  {
+    "id": 3034,
+    "name": "Winter Spirit",
+    "system": "utaunt_spirit_winter_parent",
+    "name_zh": "冬日之魂"
+  },
+  {
+    "id": 3035,
+    "name": "Festive Spirit",
+    "system": "utaunt_spirit_festive_parent",
+    "name_zh": "佳節之魂"
+  },
+  {
+    "id": 3036,
+    "name": "Magical Spirit",
+    "system": "utaunt_spirit_magical_parent",
+    "name_zh": "魔法之魂"
+  },
+  {
+    "id": 3037,
+    "name": "Spectral Escort",
+    "system": "utaunt_astralbodies_greenorange_parent",
+    "name_zh": "Spectral Escort"
+  },
+  {
+    "id": 3038,
+    "name": "Astral Presence",
+    "system": "utaunt_astralbodies_tealpurple_parent",
+    "name_zh": "Astral Presence"
+  },
+  {
+    "id": 3039,
+    "name": "Arcane Assistance",
+    "system": "utaunt_astralbodies_teamcolor_red",
+    "name_zh": "Arcane Assistance"
+  },
+  {
+    "id": 3040,
+    "name": "Arcane Assistance",
+    "system": "utaunt_astralbodies_teamcolor_blue",
+    "name_zh": "Arcane Assistance"
+  },
+  {
+    "id": 3041,
+    "name": "Emerald Allurement",
+    "system": "utaunt_glowyplayer_green_parent",
+    "name_zh": "Emerald Allurement"
+  },
+  {
+    "id": 3042,
+    "name": "Pyrophoric Personality",
+    "system": "utaunt_glowyplayer_orange_parent",
+    "name_zh": "Pyrophoric Personality"
+  },
+  {
+    "id": 3043,
+    "name": "Spellbound Aspect",
+    "system": "utaunt_glowyplayer_purple_parent",
+    "name_zh": "Spellbound Aspect"
+  },
+  {
+    "id": 3044,
+    "name": "Static Shock",
+    "system": "utaunt_electricity_parent",
+    "name_zh": "Static Shock"
+  },
+  {
+    "id": 3045,
+    "name": "Veno Shock",
+    "system": "utaunt_electricity_purple_parent",
+    "name_zh": "Veno Shock"
+  },
+  {
+    "id": 3046,
+    "name": "Toxic Terrors",
+    "system": "utaunt_spider_green_parent",
+    "name_zh": "Toxic Terrors"
+  },
+  {
+    "id": 3047,
+    "name": "Arachnid Assault",
+    "system": "utaunt_spider_orange_parent",
+    "name_zh": "Arachnid Assault"
+  },
+  {
+    "id": 3048,
+    "name": "Creepy Crawlies",
+    "system": "utaunt_spider_purple_parent",
+    "name_zh": "Creepy Crawlies"
+  },
+  {
+    "id": 3049,
+    "name": "Delightful Star",
+    "system": "utaunt_tf2smissmas_tree_parent",
+    "name_zh": "Delightful Star"
+  },
+  {
+    "id": 3050,
+    "name": "Frosted Star",
+    "system": "utaunt_tf2smissmas_tree_parent_w",
+    "name_zh": "Frosted Star"
+  },
+  {
+    "id": 3051,
+    "name": "Apotheosis",
+    "system": "utaunt_spirits_blue_parent",
+    "name_zh": "Apotheosis"
+  },
+  {
+    "id": 3052,
+    "name": "Ascension",
+    "system": "utaunt_spirits_purple_parent",
+    "name_zh": "Ascension"
+  },
+  {
+    "id": 3053,
+    "name": "Reindoonicorn Rancher",
+    "system": "utaunt_balloonicorn_reindeer_teamcolor_red",
+    "name_zh": "Reindoonicorn Rancher"
+  },
+  {
+    "id": 3054,
+    "name": "Reindoonicorn Rancher",
+    "system": "utaunt_balloonicorn_reindeer_teamcolor_blue",
+    "name_zh": "Reindoonicorn Rancher"
+  },
+  {
+    "id": 3055,
+    "name": "Twinkling Lights",
+    "system": "utaunt_twinkling_rgb_parent",
+    "name_zh": "Twinkling Lights"
+  },
+  {
+    "id": 3056,
+    "name": "Shimmering Lights",
+    "system": "utaunt_twinkling_goldsilver_parent",
+    "name_zh": "Shimmering Lights"
+  },
+  {
+    "id": 3059,
+    "name": "Spectral Shackles",
+    "system": "utaunt_chain_green_parent",
+    "name_zh": "Spectral Shackles"
+  },
+  {
+    "id": 3060,
+    "name": "Cursed Confinement",
+    "system": "utaunt_chain_purple_parent",
+    "name_zh": "Cursed Confinement"
+  },
+  {
+    "id": 3061,
+    "name": "Cavalier de Carte",
+    "system": "utaunt_tarotcard_teamcolor_red",
+    "name_zh": "Cavalier de Carte"
+  },
+  {
+    "id": 3062,
+    "name": "Cavalier de Carte",
+    "system": "utaunt_tarotcard_teamcolor_blue",
+    "name_zh": "Cavalier de Carte"
+  },
+  {
+    "id": 3063,
+    "name": "Hollow Flourish",
+    "system": "utaunt_tarotcard_orange_parent",
+    "name_zh": "Hollow Flourish"
+  },
+  {
+    "id": 3064,
+    "name": "Magic Shuffle",
+    "system": "utaunt_tarotcard_purple_parent",
+    "name_zh": "Magic Shuffle"
+  },
+  {
+    "id": 3065,
+    "name": "Vigorous Pulse",
+    "system": "utaunt_elebound_green_parent",
+    "name_zh": "Vigorous Pulse"
+  },
+  {
+    "id": 3066,
+    "name": "Thundering Spirit",
+    "system": "utaunt_elebound_purple_parent",
+    "name_zh": "Thundering Spirit"
+  },
+  {
+    "id": 3067,
+    "name": "Galvanic Defiance",
+    "system": "utaunt_elebound_yellow_parent",
+    "name_zh": "Galvanic Defiance"
+  },
+  {
+    "id": 3068,
+    "name": "Wispy Halos",
+    "system": "utaunt_wispy_parent_g",
+    "name_zh": "Wispy Halos"
+  },
+  {
+    "id": 3069,
+    "name": "Nether Wisps",
+    "system": "utaunt_wispy_parent_p",
+    "name_zh": "Nether Wisps"
+  },
+  {
+    "id": 3070,
+    "name": "Aurora Borealis",
+    "system": "utaunt_auroraglow_green_parent",
+    "name_zh": "Aurora Borealis"
+  },
+  {
+    "id": 3071,
+    "name": "Aurora Australis",
+    "system": "utaunt_auroraglow_orange_parent",
+    "name_zh": "Aurora Australis"
+  },
+  {
+    "id": 3072,
+    "name": "Aurora Polaris",
+    "system": "utaunt_auroraglow_purple_parent",
+    "name_zh": "Aurora Polaris"
+  },
+  {
+    "id": 3073,
+    "name": "Amethyst Winds",
+    "system": "utaunt_snowswirl_purple_parent",
+    "name_zh": "Amethyst Winds"
+  },
+  {
+    "id": 3074,
+    "name": "Golden Gusts",
+    "system": "utaunt_snowswirl_yellow_parent",
+    "name_zh": "Golden Gusts"
+  },
+  {
+    "id": 3075,
+    "name": "Smissmas Swirls",
+    "system": "utaunt_snowswirl_teamcolor_red",
+    "name_zh": "Smissmas Swirls"
+  },
+  {
+    "id": 3076,
+    "name": "Smissmas Swirls",
+    "system": "utaunt_snowswirl_teamcolor_blue",
+    "name_zh": "Smissmas Swirls"
+  },
+  {
+    "id": 3077,
+    "name": "Minty Cypress",
+    "system": "utaunt_treespiral_green_parent",
+    "name_zh": "Minty Cypress"
+  },
+  {
+    "id": 3078,
+    "name": "Pristine Pine",
+    "system": "utaunt_treespiral_purple_parent",
+    "name_zh": "Pristine Pine"
+  },
+  {
+    "id": 3079,
+    "name": "Sparkly Spruce",
+    "system": "utaunt_treespiral_teamcolor_red",
+    "name_zh": "Sparkly Spruce"
+  },
+  {
+    "id": 3080,
+    "name": "Sparkly Spruce",
+    "system": "utaunt_treespiral_teamcolor_blue",
+    "name_zh": "Sparkly Spruce"
+  },
+  {
+    "id": 3081,
+    "name": "Festive Fever",
+    "system": "utaunt_gifts_teamcolor_red",
+    "name_zh": "Festive Fever"
+  },
+  {
+    "id": 3082,
+    "name": "Festive Fever",
+    "system": "utaunt_gifts_teamcolor_blue",
+    "name_zh": "Festive Fever"
+  },
+  {
+    "id": 3083,
+    "name": "Golden Glimmer",
+    "system": "utaunt_glitter_parent_gold",
+    "name_zh": "Golden Glimmer"
+  },
+  {
+    "id": 3084,
+    "name": "Frosty Silver",
+    "system": "utaunt_glitter_parent_silver",
+    "name_zh": "Frosty Silver"
+  },
+  {
+    "id": 3085,
+    "name": "Glamorous Dazzle",
+    "system": "utaunt_glitter_teamcolor_red",
+    "name_zh": "Glamorous Dazzle"
+  },
+  {
+    "id": 3086,
+    "name": "Glamorous Dazzle",
+    "system": "utaunt_glitter_teamcolor_blue",
+    "name_zh": "Glamorous Dazzle"
+  },
+  {
+    "id": 3087,
+    "name": "Sublime Snowstorm",
+    "system": "utaunt_ice_parent",
+    "name_zh": "Sublime Snowstorm"
+  },
+  {
+    "id": 3088,
+    "name": "Marigold Ritual",
+    "system": "utaunt_marigoldritual_teamcolor_red",
+    "name_zh": "Marigold Ritual"
+  },
+  {
+    "id": 3089,
+    "name": "Marigold Ritual",
+    "system": "utaunt_marigoldritual_teamcolor_blue",
+    "name_zh": "Marigold Ritual"
+  },
+  {
+    "id": 3090,
+    "name": "Pungent Poison",
+    "system": "utaunt_poison_parent_green",
+    "name_zh": "惡臭劇毒"
+  },
+  {
+    "id": 3091,
+    "name": "Blazed Brew",
+    "system": "utaunt_poison_parent_orange",
+    "name_zh": "Blazed Brew"
+  },
+  {
+    "id": 3092,
+    "name": "Mysterious Mixture",
+    "system": "utaunt_poison_parent_purple",
+    "name_zh": "Mysterious Mixture"
+  },
+  {
+    "id": 3093,
+    "name": "Linguistic Deviation",
+    "system": "utaunt_runeprison_green_parent",
+    "name_zh": "Linguistic Deviation"
+  },
+  {
+    "id": 3094,
+    "name": "Aurelian Seal",
+    "system": "utaunt_runeprison_yellow_parent",
+    "name_zh": "Aurelian Seal"
+  },
+  {
+    "id": 3095,
+    "name": "Runic Imprisonment",
+    "system": "utaunt_runeprison_teamcolor_red",
+    "name_zh": "Runic Imprisonment"
+  },
+  {
+    "id": 3096,
+    "name": "Runic Imprisonment",
+    "system": "utaunt_runeprison_teamcolor_blue",
+    "name_zh": "Runic Imprisonment"
+  },
+  {
+    "id": 3097,
+    "name": "Prismatic Haze",
+    "system": "utaunt_prismatichaze_parent",
+    "name_zh": "Prismatic Haze"
+  },
+  {
+    "id": 3098,
+    "name": "Rising Ritual",
+    "system": "utaunt_risingsprit_teamcolor_red",
+    "name_zh": "Rising Ritual"
+  },
+  {
+    "id": 3099,
+    "name": "Rising Ritual",
+    "system": "utaunt_risingsprit_teamcolor_blue",
+    "name_zh": "Rising Ritual"
+  },
+  {
+    "id": 3100,
+    "name": "Bloody Grip",
+    "system": "utaunt_hands_teamcolor_red",
+    "name_zh": "Bloody Grip"
+  },
+  {
+    "id": 3101,
+    "name": "Bloody Grip",
+    "system": "utaunt_hands_teamcolor_blue",
+    "name_zh": "Bloody Grip"
+  },
+  {
+    "id": 3102,
+    "name": "Toxic Grip",
+    "system": "utaunt_hands_green_parent",
+    "name_zh": "Toxic Grip"
+  },
+  {
+    "id": 3103,
+    "name": "Infernal Grip",
+    "system": "utaunt_hands_orange_parent",
+    "name_zh": "Infernal Grip"
+  },
+  {
+    "id": 3104,
+    "name": "Death Grip",
+    "system": "utaunt_hands_purple_parent",
+    "name_zh": "Death Grip"
+  },
+  {
+    "id": 3105,
+    "name": "Charged Arcane",
+    "system": "utaunt_storm_parent_g",
+    "name_zh": "Charged Arcane"
+  },
+  {
+    "id": 3106,
+    "name": "Thunderous Rage",
+    "system": "utaunt_storm_parent_k",
+    "name_zh": "Thunderous Rage"
+  },
+  {
+    "id": 3107,
+    "name": "Convulsive Fiery",
+    "system": "utaunt_storm_parent_o",
+    "name_zh": "Convulsive Fiery"
+  },
+  {
+    "id": 3108,
+    "name": "Festivized Formation",
+    "system": "utaunt_festivelights_teamcolor_red",
+    "name_zh": "Festivized Formation"
+  },
+  {
+    "id": 3109,
+    "name": "Festivized Formation",
+    "system": "utaunt_festivelights_teamcolor_blue",
+    "name_zh": "Festivized Formation"
+  },
+  {
+    "id": 3110,
+    "name": "Twirling Spirits",
+    "system": "utaunt_glow_spirit_parent_cr",
+    "name_zh": "Twirling Spirits"
+  },
+  {
+    "id": 3111,
+    "name": "Squash n' Twist",
+    "system": "utaunt_glow_spirit_parent_og",
+    "name_zh": "Squash n' Twist"
+  },
+  {
+    "id": 3112,
+    "name": "Midnight Sparklers",
+    "system": "utaunt_glow_spirit_parent_pp",
+    "name_zh": "Midnight Sparklers"
+  },
+  {
+    "id": 3113,
+    "name": "Boundless Blizzard",
+    "system": "utaunt_snowflakesaura_parent",
+    "name_zh": "Boundless Blizzard"
+  },
+  {
+    "id": 3114,
+    "name": "Solar Scorched",
+    "system": "utaunt_sun_sand_rays_parent",
+    "name_zh": "Solar Scorched"
+  },
+  {
+    "id": 3115,
+    "name": "Deepsea Rave",
+    "system": "utaunt_undersea_teamcolor_red",
+    "name_zh": "深海狂歡"
+  },
+  {
+    "id": 3116,
+    "name": "Deepsea Rave",
+    "system": "utaunt_undersea_teamcolor_blue",
+    "name_zh": "深海狂歡"
+  },
+  {
+    "id": 3117,
+    "name": "Blooming Beacon",
+    "system": "utaunt_lavalamp_green_parent",
+    "name_zh": "Blooming Beacon"
+  },
+  {
+    "id": 3118,
+    "name": "Beaming Beacon",
+    "system": "utaunt_lavalamp_purple_parent",
+    "name_zh": "Beaming Beacon"
+  },
+  {
+    "id": 3119,
+    "name": "Blazing Beacon",
+    "system": "utaunt_lavalamp_yellow_parent",
+    "name_zh": "Blazing Beacon"
+  },
+  {
+    "id": 3120,
+    "name": "Floppin' Frenzy",
+    "system": "utaunt_fish_parent",
+    "name_zh": "Floppin' Frenzy"
+  },
+  {
+    "id": 3121,
+    "name": "Pastel Trance",
+    "system": "utaunt_rainbow_teamcolor_red",
+    "name_zh": "幻彩飄揚"
+  },
+  {
+    "id": 3122,
+    "name": "Pastel Trance",
+    "system": "utaunt_rainbow_teamcolor_blue",
+    "name_zh": "幻彩飄揚"
+  },
+  {
+    "id": 3123,
+    "name": "Wildflower Meadows",
+    "system": "utaunt_wild_meadows_parent",
+    "name_zh": "野花草地"
+  },
+  {
+    "id": 3124,
+    "name": "Deep-sea Devourer",
+    "system": "utaunt_krakenmouth_green_parent",
+    "name_zh": "深海吞噬"
+  },
+  {
+    "id": 3125,
+    "name": "Eldritch Horror",
+    "system": "utaunt_krakenmouth_purple_parent",
+    "name_zh": "恐懼深淵"
+  },
+  {
+    "id": 3126,
+    "name": "Autumn Leaves",
+    "system": "utaunt_leaftaunt_parent",
+    "name_zh": "Autumn Leaves"
+  },
+  {
+    "id": 3127,
+    "name": "Dead Man's Party",
+    "system": "utaunt_graveparty_parent",
+    "name_zh": "死人派對"
+  },
+  {
+    "id": 3128,
+    "name": "Potion Explosion",
+    "system": "utaunt_spellsplash_parent",
+    "name_zh": "魔藥煙花"
+  },
+  {
+    "id": 3129,
+    "name": "Haunted Cremation",
+    "system": "utaunt_cremation_purple_parent",
+    "name_zh": "Haunted Cremation"
+  },
+  {
+    "id": 3130,
+    "name": "Cremation",
+    "system": "utaunt_cremation_black_parent",
+    "name_zh": "Cremation"
+  },
+  {
+    "id": 3131,
+    "name": "Snowfall",
+    "system": "utaunt_snowfall_parent",
+    "name_zh": "落雪"
+  },
+  {
+    "id": 3132,
+    "name": "Galactic Connection",
+    "system": "utaunt_constellations_teamcolor_red",
+    "name_zh": "銀河相連"
+  },
+  {
+    "id": 3133,
+    "name": "Galactic Connection",
+    "system": "utaunt_constellations_teamcolor_blue",
+    "name_zh": "銀河相連"
+  },
+  {
+    "id": 3134,
+    "name": "Dark Twilight",
+    "system": "utaunt_constellations_purple_parent",
+    "name_zh": "暮光時分"
+  },
+  {
+    "id": 3135,
+    "name": "Eldritch Rift",
+    "system": "utaunt_constellations_pink_parent",
+    "name_zh": "怪異裂隙"
+  },
+  {
+    "id": 3136,
+    "name": "Selfless Sensation",
+    "system": "utaunt_wispyworks_orangegreen_parent",
+    "name_zh": "無私的滋味"
+  },
+  {
+    "id": 3137,
+    "name": "Distant Desire",
+    "system": "utaunt_wispyworks_purpleblue_parent",
+    "name_zh": "遙遠渴望"
+  },
+  {
+    "id": 3138,
+    "name": "Glamorous Glance",
+    "system": "utaunt_wispyworks_yellowpurple_parent",
+    "name_zh": "迷人一瞥"
+  },
+  {
+    "id": 3139,
+    "name": "Permafrost Essence",
+    "system": "utaunt_innerblizzard_teamcolor_red",
+    "name_zh": "永凍精華"
+  },
+  {
+    "id": 3140,
+    "name": "Permafrost Essence",
+    "system": "utaunt_innerblizzard_teamcolor_blue",
+    "name_zh": "永凍精華"
+  },
+  {
+    "id": 3141,
+    "name": "Arctic Delight",
+    "system": "utaunt_innerblizzard_purple_parent",
+    "name_zh": "北極之樂"
+  },
+  {
+    "id": 3142,
+    "name": "Winning Spirit",
+    "system": "utaunt_spotlight_parent",
+    "name_zh": "勝利精神"
+  },
+  {
+    "id": 3143,
+    "name": "Petal Prance",
+    "system": "utaunt_pedalfly_teamcolor_red",
+    "name_zh": "花瓣飛舞"
+  },
+  {
+    "id": 3144,
+    "name": "Petal Prance",
+    "system": "utaunt_pedalfly_teamcolor_blue",
+    "name_zh": "花瓣飛舞"
+  },
+  {
+    "id": 3145,
+    "name": "Dragonflies' Embrace",
+    "system": "utaunt_dragonfly_teamcolor_red",
+    "name_zh": "熱擁蜻蜓"
+  },
+  {
+    "id": 3146,
+    "name": "Dragonflies' Embrace",
+    "system": "utaunt_dragonfly_teamcolor_blue",
+    "name_zh": "熱擁蜻蜓"
+  },
+  {
+    "id": 3147,
+    "name": "Dragonflies' Nature",
+    "system": "utaunt_dragonfly_green_parent",
+    "name_zh": "翠草蜻蜓"
+  },
+  {
+    "id": 3148,
+    "name": "Dragonflies' Lucent",
+    "system": "utaunt_dragonfly_purple_parent",
+    "name_zh": "月輝蜻蜓"
+  },
+  {
+    "id": 3149,
+    "name": "Electrocution",
+    "system": "utaunt_demigodery_teamcolor_red",
+    "name_zh": "電刑"
+  },
+  {
+    "id": 3150,
+    "name": "Electrocution",
+    "system": "utaunt_demigodery_teamcolor_blue",
+    "name_zh": "電刑"
+  },
+  {
+    "id": 3151,
+    "name": "Distress Signal",
+    "system": "utaunt_signalflares_teamcolor_red",
+    "name_zh": "求救訊號"
+  },
+  {
+    "id": 3152,
+    "name": "Distress Signal",
+    "system": "utaunt_signalflares_teamcolor_blue",
+    "name_zh": "求救訊號"
+  },
+  {
+    "id": 3153,
+    "name": "Carioca's Call",
+    "system": "utaunt_signalflares_green_parent",
+    "name_zh": "綠燈訊號"
+  },
+  {
+    "id": 3154,
+    "name": "Fiesta Royale",
+    "system": "utaunt_celebrationtime_teamcolor_red",
+    "name_zh": "盛大慶典"
+  },
+  {
+    "id": 3155,
+    "name": "Fiesta Royale",
+    "system": "utaunt_celebrationtime_teamcolor_blue",
+    "name_zh": "盛大慶典"
+  },
+  {
+    "id": 3156,
+    "name": "Grand Jubilee",
+    "system": "utaunt_celebrationtime_yellow_parent",
+    "name_zh": "精彩禧年"
+  },
+  {
+    "id": 3157,
+    "name": "Elemental",
+    "system": "utaunt_god_lava_teamcolor_red",
+    "name_zh": "元素級"
+  },
+  {
+    "id": 3158,
+    "name": "Elemental",
+    "system": "utaunt_god_lava_teamcolor_blue",
+    "name_zh": "元素級"
+  },
+  {
+    "id": 3159,
+    "name": "Godlike",
+    "system": "utaunt_god_gold_parent",
+    "name_zh": "神級"
+  },
+  {
+    "id": 3160,
+    "name": "Teamwork Valorance",
+    "system": "utaunt_aestheticlogo_teamcolor_red",
+    "name_zh": "團隊精神"
+  },
+  {
+    "id": 3161,
+    "name": "Teamwork Valorance",
+    "system": "utaunt_aestheticlogo_teamcolor_blue",
+    "name_zh": "團隊精神"
+  },
+  {
+    "id": 3162,
+    "name": "Legacy Logo",
+    "system": "utaunt_aestheticlogo_orange_parent",
+    "name_zh": "傳統標誌"
+  },
+  {
+    "id": 3163,
+    "name": "Desert Wind",
+    "system": "utaunt_desert_wind_parent",
+    "name_zh": "沙漠之風"
+  },
+  {
+    "id": 3164,
+    "name": "Monsoon Season",
+    "system": "utaunt_desert_monsoon_parent",
+    "name_zh": "季風時節"
+  },
+  {
+    "id": 3165,
+    "name": "Bountiful Riches",
+    "system": "utaunt_treasure_teamcolor_red",
+    "name_zh": "豐溢財富"
+  },
+  {
+    "id": 3166,
+    "name": "Bountiful Riches",
+    "system": "utaunt_treasure_teamcolor_blue",
+    "name_zh": "豐溢財富"
+  },
+  {
+    "id": 3167,
+    "name": "Luxurious Lover",
+    "system": "utaunt_hearttreasure_parent",
+    "name_zh": "奢華情人"
+  },
+  {
+    "id": 3168,
+    "name": "Amatory",
+    "system": "utaunt_wiggletube_teamcolor_red",
+    "name_zh": "情愛"
+  },
+  {
+    "id": 3169,
+    "name": "Amatory",
+    "system": "utaunt_wiggletube_teamcolor_blue",
+    "name_zh": "情愛"
+  },
+  {
+    "id": 3170,
+    "name": "Electrum",
+    "system": "utaunt_wiggletube_coffee_parent",
+    "name_zh": "金銀合金"
+  },
+  {
+    "id": 3171,
+    "name": "Sakura Blessings",
+    "system": "utaunt_flowerrain_teamcolor_red",
+    "name_zh": "櫻花祝福"
+  },
+  {
+    "id": 3172,
+    "name": "Sakura Blessings",
+    "system": "utaunt_flowerrain_teamcolor_blue",
+    "name_zh": "櫻花祝福"
+  },
+  {
+    "id": 3173,
+    "name": "Violent Violets",
+    "system": "utaunt_flowerrain_purple_parent",
+    "name_zh": "暴力紫羅蘭"
+  },
+  {
+    "id": 22001,
+    "name": "Attrib_Particle22001",
+    "system": "killstreak_eyeglow_4_teamcolor_red",
+    "name_zh": "Attrib_Particle22001"
+  },
+  {
+    "id": 22002,
+    "name": "Attrib_Particle22002",
+    "system": "killstreak_t1_lvl2",
+    "name_zh": "Attrib_Particle22002"
+  },
+  {
+    "id": 22003,
+    "name": "Attrib_Particle22003",
+    "system": "killstreak_t2_lvl2",
+    "name_zh": "Attrib_Particle22003"
+  },
+  {
+    "id": 22004,
+    "name": "Attrib_Particle22004",
+    "system": "killstreak_t3_lvl2",
+    "name_zh": "Attrib_Particle22004"
+  },
+  {
+    "id": 22005,
+    "name": "Attrib_Particle22005",
+    "system": "killstreak_t4_lvl2",
+    "name_zh": "Attrib_Particle22005"
+  },
+  {
+    "id": 22006,
+    "name": "Attrib_Particle22006",
+    "system": "killstreak_t5_lvl2",
+    "name_zh": "Attrib_Particle22006"
+  },
+  {
+    "id": 22007,
+    "name": "Attrib_Particle22007",
+    "system": "killstreak_t6_lvl2",
+    "name_zh": "Attrib_Particle22007"
+  },
+  {
+    "id": 22008,
+    "name": "Attrib_Particle22008",
+    "system": "killstreak_t7_lvl2",
+    "name_zh": "Attrib_Particle22008"
+  }
+]
