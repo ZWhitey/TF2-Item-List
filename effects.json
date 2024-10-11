@@ -1992,6 +1992,90 @@
     "name_zh": "蠱惑之蟲"
   },
   {
+    "id": 350,
+    "name": "Spectral Fire",
+    "system": "unusual_spectral_fire_parent",
+    "name_zh": "Spectral Fire"
+  },
+  {
+    "id": 351,
+    "name": "Galactic Flame",
+    "system": "unusual_galactic_fire_parent",
+    "name_zh": "Galactic Flame"
+  },
+  {
+    "id": 352,
+    "name": "Revived Recharge",
+    "system": "unusual_frank_green_parent",
+    "name_zh": "Revived Recharge"
+  },
+  {
+    "id": 353,
+    "name": "Undead Electricity",
+    "system": "unusual_frank_purple_parent",
+    "name_zh": "Undead Electricity"
+  },
+  {
+    "id": 354,
+    "name": "Frankencharged",
+    "system": "unusual_frank_yellow_parent",
+    "name_zh": "Frankencharged"
+  },
+  {
+    "id": 355,
+    "name": "Phantom Plague",
+    "system": "unusual_skullsmoke_green_parent",
+    "name_zh": "Phantom Plague"
+  },
+  {
+    "id": 356,
+    "name": "Haunting Haze",
+    "system": "unusual_skullsmoke_purple_parent",
+    "name_zh": "Haunting Haze"
+  },
+  {
+    "id": 357,
+    "name": "Bats",
+    "system": "unusual_pigeons_green_parent",
+    "name_zh": "Bats"
+  },
+  {
+    "id": 358,
+    "name": "Ravens",
+    "system": "unusual_pigeons_purple_parent",
+    "name_zh": "Ravens"
+  },
+  {
+    "id": 359,
+    "name": "Doves",
+    "system": "unusual_pigeons_white_parent",
+    "name_zh": "Doves"
+  },
+  {
+    "id": 360,
+    "name": "Searing Stove",
+    "system": "unusual_stove_teamcolor_red",
+    "name_zh": "Searing Stove"
+  },
+  {
+    "id": 361,
+    "name": "Searing Stove",
+    "system": "unusual_stove_teamcolor_blue",
+    "name_zh": "Searing Stove"
+  },
+  {
+    "id": 362,
+    "name": "Über Blaze",
+    "system": "unusual_electricfire_teamcolor_red",
+    "name_zh": "Über Blaze"
+  },
+  {
+    "id": 363,
+    "name": "Über Blaze",
+    "system": "unusual_electricfire_teamcolor_blue",
+    "name_zh": "Über Blaze"
+  },
+  {
     "id": 701,
     "name": "Hot",
     "system": "weapon_unusual_hot",
@@ -3088,6 +3172,72 @@
     "name": "Violent Violets",
     "system": "utaunt_flowerrain_purple_parent",
     "name_zh": "暴力紫羅蘭"
+  },
+  {
+    "id": 3174,
+    "name": "Power Pressure",
+    "system": "utaunt_poweraura_teamcolor_red",
+    "name_zh": "Power Pressure"
+  },
+  {
+    "id": 3175,
+    "name": "Power Pressure",
+    "system": "utaunt_poweraura_teamcolor_blue",
+    "name_zh": "Power Pressure"
+  },
+  {
+    "id": 3176,
+    "name": "Magnifying Momentum",
+    "system": "utaunt_poweraura_green_parent",
+    "name_zh": "Magnifying Momentum"
+  },
+  {
+    "id": 3177,
+    "name": "Charging Catalyst",
+    "system": "utaunt_poweraura_purple_parent",
+    "name_zh": "Charging Catalyst"
+  },
+  {
+    "id": 3178,
+    "name": "Amplifying Aura",
+    "system": "utaunt_poweraura_yellow_parent",
+    "name_zh": "Amplifying Aura"
+  },
+  {
+    "id": 3179,
+    "name": "Mystic Fusion",
+    "system": "utaunt_mysticfusion_parent",
+    "name_zh": "Mystic Fusion"
+  },
+  {
+    "id": 3180,
+    "name": "Obnoxious Confetti",
+    "system": "utaunt_confetti_gy_parent",
+    "name_zh": "Obnoxious Confetti"
+  },
+  {
+    "id": 3181,
+    "name": "Lovable Confetti",
+    "system": "utaunt_confetti_pp_parent",
+    "name_zh": "Lovable Confetti"
+  },
+  {
+    "id": 3182,
+    "name": "Confetti Celebration",
+    "system": "utaunt_confetti_yp_parent",
+    "name_zh": "Confetti Celebration"
+  },
+  {
+    "id": 3183,
+    "name": "Heavy Rain",
+    "system": "utaunt_heavyrain_parent",
+    "name_zh": "Heavy Rain"
+  },
+  {
+    "id": 3184,
+    "name": "Pumpkin Patch",
+    "system": "utaunt_field_parent",
+    "name_zh": "Pumpkin Patch"
   },
   {
     "id": 22001,
