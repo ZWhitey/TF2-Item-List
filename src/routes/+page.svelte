@@ -96,6 +96,7 @@
 	});
 
 	let tableArr: Item[] = [];
+	let filteredArr: Item[] = [];
 	let paintArr: Paint[] = [];
 	let unusualArr: Unusual[] = [];
 	let paginationSettings = {
@@ -104,10 +105,33 @@
 		size: tableArr.length,
 		amounts: [50]
 	};
-	$: paginatedSource = tableArr.slice(
+	$: paginatedSource = filteredArr.slice(
 		paginationSettings.page * paginationSettings.limit,
 		paginationSettings.page * paginationSettings.limit + paginationSettings.limit
 	);
+	let filterText = '';
+
+	function filterItems() {
+		if (filterText === '') {
+			paginationSettings = {
+				...paginationSettings,
+				size: tableArr.length
+			};
+			filteredArr = tableArr;
+		} else {
+			filteredArr = tableArr.filter((item) => {
+				return (
+					item.item_name.toLowerCase().includes(filterText.toLowerCase()) ||
+					item.item_name_zh.toLowerCase().includes(filterText.toLowerCase()) ||
+					item.item_class.toLowerCase().includes(filterText.toLowerCase())
+				);
+			});
+			paginationSettings = {
+				...paginationSettings,
+				size: filteredArr.length
+			};
+		}
+	}
 </script>
 
 <div class="w-4/5 h-full mx-auto my-10 flex justify-center items-center">
@@ -120,10 +144,18 @@
 			<!-- Tab Panels --->
 			<svelte:fragment slot="panel">
 				{#if tabSet === 0}
+					<label class="label">
+						<span>Filter</span>
+						<input
+							class="input"
+							type="text"
+							placeholder="Filter"
+							bind:value={filterText}
+							on:keyup={() => filterItems()}
+						/>
+					</label>
+					<Paginator bind:settings={paginationSettings} showNumerals maxNumerals={2}></Paginator>
 					<div class="table-container">
-						<!-- Native Table Element -->
-						<Paginator bind:settings={paginationSettings} showNumerals maxNumerals={2}></Paginator>
-
 						<table class="table table-hover">
 							<thead>
 								<tr>
