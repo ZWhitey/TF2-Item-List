@@ -1,6 +1,7 @@
 <script async script lang="ts">
 	import _ from 'lodash';
-	import { TabGroup, Tab, TabAnchor } from '@skeletonlabs/skeleton';
+	import { TabGroup, Tab } from '@skeletonlabs/skeleton';
+	import { Paginator } from '@skeletonlabs/skeleton';
 	import { onMount } from 'svelte';
 
 	export const prerender = true;
@@ -82,17 +83,35 @@
 	}
 
 	onMount(() => {
-		fetchItemData().then((data) => (tableArr = data));
+		fetchItemData().then((data) => {
+			tableArr = data;
+			paginationSettings = {
+				page: 0,
+				limit: 50,
+				size: tableArr.length,
+				amounts: [50]
+			};
+		});
 		fetchUnusualData().then((data) => (unusualArr = data));
 	});
 
 	let tableArr: Item[] = [];
 	let paintArr: Paint[] = [];
 	let unusualArr: Unusual[] = [];
+	let paginationSettings = {
+		page: 0,
+		limit: 50,
+		size: tableArr.length,
+		amounts: [50]
+	};
+	$: paginatedSource = tableArr.slice(
+		paginationSettings.page * paginationSettings.limit,
+		paginationSettings.page * paginationSettings.limit + paginationSettings.limit
+	);
 </script>
 
-<div class="w-2/3 h-full mx-auto my-10 flex justify-center items-center">
-	<div class="space-y-5">
+<div class="w-4/5 h-full mx-auto my-10 flex justify-center items-center">
+	<div class="space-y-5 w-full">
 		<h1 class="h1">Team Fortress 2 Item List</h1>
 		<TabGroup justify="justify-center">
 			<Tab bind:group={tabSet} name="tab1" value={0}>物品</Tab>
@@ -103,6 +122,8 @@
 				{#if tabSet === 0}
 					<div class="table-container">
 						<!-- Native Table Element -->
+						<Paginator bind:settings={paginationSettings} showNumerals maxNumerals={2}></Paginator>
+
 						<table class="table table-hover">
 							<thead>
 								<tr>
@@ -114,7 +135,7 @@
 								</tr>
 							</thead>
 							<tbody>
-								{#each tableArr as row, i}
+								{#each paginatedSource as row}
 									<tr>
 										<td class="table-cell-fit">{row.defindex}</td>
 										<td class="table-cell-fit">{row.item_name}</td>
@@ -135,6 +156,7 @@
 								{/each}
 							</tbody>
 						</table>
+						<Paginator bind:settings={paginationSettings} showNumerals maxNumerals={2}></Paginator>
 					</div>
 				{:else if tabSet === 1}
 					<div class="table-container">
