@@ -6208,7 +6208,7 @@
   {
     "defindex": 334,
     "item_class": "tf_wearable",
-    "item_name": "Hat of Undeniable Wealth And Respect",
+    "item_name": "Hat of Undeniable Wealth and Respect",
     "name": "Treasure Hat 3",
     "image_url": "http://media.steampowered.com/apps/440/icons/treasure_hat_oct.a23789eec62d48d665b9a6f4c7b53b82f172aa9e.png",
     "attributes": [
@@ -21091,7 +21091,7 @@
   {
     "defindex": 1015,
     "item_class": "no_entity",
-    "item_name": "Shred Alert",
+    "item_name": "Taunt: The Shred Alert",
     "name": "The Shred Alert",
     "image_url": "http://media.steampowered.com/apps/440/icons/brutal_guitar.ed61a8de042748f95959a9d2caf39a57f06595bf.png",
     "attributes": [
@@ -27464,7 +27464,7 @@
   {
     "defindex": 2129,
     "item_class": "bundle",
-    "item_name": "Love And War Taunts Bundle",
+    "item_name": "Love and War Taunts Bundle",
     "name": "Love & War Taunt Bundle",
     "image_url": "http://media.steampowered.com/apps/440/icons/bundle_of_taunts.cb6ede65a4e3050df87a217629380a3970f434b8.png",
     "item_name_zh": "愛與戰爭嘲諷組合包"
@@ -27472,7 +27472,7 @@
   {
     "defindex": 2130,
     "item_class": "bundle",
-    "item_name": "Love And War Weapons Bundle",
+    "item_name": "Love and War Weapons Bundle",
     "name": "Love & War Weapons Bundle",
     "used_by_classes": [
       "Scout",
@@ -27486,7 +27486,7 @@
   {
     "defindex": 2131,
     "item_class": "bundle",
-    "item_name": "Love And War Cosmetics Bundle",
+    "item_name": "Love and War Cosmetics Bundle",
     "name": "Love & War Cosmetics Bundle",
     "image_url": "http://media.steampowered.com/apps/440/icons/love_and_war_cosmetics_bundle.4a16dd5208ceb36f3ef67d68e99bfc55938f8aea.png",
     "item_name_zh": "愛與戰爭裝飾品組合包"
@@ -27651,7 +27651,7 @@
   {
     "defindex": 2145,
     "item_class": "bundle",
-    "item_name": "Love And War Cosmetics Bundle",
+    "item_name": "Love and War Cosmetics Bundle",
     "name": "Love & War Cosmetics Bundle New",
     "image_url": "http://media.steampowered.com/apps/440/icons/love_and_war_cosmetics_bundle.4a16dd5208ceb36f3ef67d68e99bfc55938f8aea.png",
     "item_name_zh": "愛與戰爭裝飾品組合包"
@@ -27964,6 +27964,15 @@
     "item_name_zh": "地圖集郵組"
   },
   {
+    "defindex": 2176,
+    "item_class": "bundle",
+    "item_name": "Map Stamps Collection",
+    "name": "Map Token Bundle 27",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_collection.a14caabdd3bc9a3067f002be1dd39bbbdc90c0da.png",
+    "item_name_zh": "地圖集郵組"
+  },
+  {
     "defindex": 2500,
     "item_class": "map_token",
     "item_name": "Map Stamp - Perks",
@@ -28258,7 +28267,7 @@
     "name": "Map Token Toxic",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_toxic.e4b8ff39197810ec60c9b97fb58c28a75b2a5a9a.png",
-    "item_name_zh": "Map Stamp - Toxic"
+    "item_name_zh": "地圖郵票 - Toxic"
   },
   {
     "defindex": 2533,
@@ -28267,7 +28276,7 @@
     "name": "Map Token Darkmarsh",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_darkmarsh.8f5279c4957a5847abab3c81ae926869596f1b5a.png",
-    "item_name_zh": "Map Stamp - Darkmarsh"
+    "item_name_zh": "地圖郵票 - Darkmarsh"
   },
   {
     "defindex": 2534,
@@ -28276,7 +28285,7 @@
     "name": "Map Token Freaky Fair",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_freaky_fair.506e46c15fbcd69f091189fecf3e099c54bdbe1c.png",
-    "item_name_zh": "Map Stamp - Freaky Fair"
+    "item_name_zh": "地圖郵票 - Freaky Fair"
   },
   {
     "defindex": 2535,
@@ -28285,7 +28294,7 @@
     "name": "Map Token Dynamite",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_dynamite.e32b06b8eef1c1858f40136f285f5846fdf65019.png",
-    "item_name_zh": "Map Stamp - Dynamite"
+    "item_name_zh": "地圖郵票 - Dynamite"
   },
   {
     "defindex": 2536,
@@ -28294,7 +28303,7 @@
     "name": "Map Token Circus",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_circus.48e22271274daab4d7ebcc074cbbfde4c065ff71.png",
-    "item_name_zh": "Map Stamp - Circus"
+    "item_name_zh": "地圖郵票 - Circus"
   },
   {
     "defindex": 2537,
@@ -28303,7 +28312,7 @@
     "name": "Map Token Outburst",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_outburst.b5a9d2f2aba76821055f417c7794601a6c41bebd.png",
-    "item_name_zh": "Map Stamp - Outburst"
+    "item_name_zh": "地圖郵票 - Outburst"
   },
   {
     "defindex": 2538,
@@ -28312,7 +28321,61 @@
     "name": "Map Token Blazehattan",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/stamp_blazehattan.912537faeeac079fd69c95c9f33e8e0aa1f83035.png",
-    "item_name_zh": "Map Stamp - Blazehattan"
+    "item_name_zh": "地圖郵票 - Blazehattan"
+  },
+  {
+    "defindex": 2539,
+    "item_class": "map_token",
+    "item_name": "Map Stamp - Overcast",
+    "name": "Map Token Overcast",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_overcast.a1723e66cce49613549ce5e55da42d2eae06361b.png",
+    "item_name_zh": "Map Stamp - Overcast"
+  },
+  {
+    "defindex": 2540,
+    "item_class": "map_token",
+    "item_name": "Map Stamp - Fortezza",
+    "name": "Map Token Fortezza",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_fortezza.88cf6c4fc206903c01042fa7fe732f50fefef235.png",
+    "item_name_zh": "Map Stamp - Fortezza"
+  },
+  {
+    "defindex": 2541,
+    "item_class": "map_token",
+    "item_name": "Map Stamp - Penguin Peak",
+    "name": "Map Token Penguin Peak",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_penguinpeak.9aab239f07eabd296afd2adfba8bb086ab1ae00e.png",
+    "item_name_zh": "Map Stamp - Penguin Peak"
+  },
+  {
+    "defindex": 2542,
+    "item_class": "map_token",
+    "item_name": "Map Stamp - Patagonia",
+    "name": "Map Token Patagonia",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_patagonia.699c66d103c29d3ee1bd89cca6e281ca383b4f4f.png",
+    "item_name_zh": "Map Stamp - Patagonia"
+  },
+  {
+    "defindex": 2543,
+    "item_class": "map_token",
+    "item_name": "Map Stamp - Cutter",
+    "name": "Map Token Cutter",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_cutter.26a8edaac4a1a732aab8420e90931f5bf7c7f919.png",
+    "item_name_zh": "Map Stamp - Cutter"
+  },
+  {
+    "defindex": 2544,
+    "item_class": "map_token",
+    "item_name": "Map Stamp - Maul",
+    "name": "Map Token Maul",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/stamp_maul.b2106184bd3a8f267844df7b9d7887273f6360ef.png",
+    "item_name_zh": "Map Stamp - Maul"
   },
   {
     "defindex": 5000,
@@ -33514,7 +33577,7 @@
     "name": "Halloween 2024 Case",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/halloween2021_case2024.c8561f5103183711c06f6d1afe91888d43ab3985.png",
-    "item_name_zh": "Terrifying Trove Case"
+    "item_name_zh": "恐怖寶藏箱"
   },
   {
     "defindex": 5961,
@@ -33523,7 +33586,7 @@
     "name": "Halloween 2024 Key",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/halloween2021_key2024.13d30d50ac465e6d7daa63fc3011e77e7e601c51.png",
-    "item_name_zh": "Terrifying Trove Key"
+    "item_name_zh": "恐怖寶藏鑰匙"
   },
   {
     "defindex": 5962,
@@ -33532,7 +33595,7 @@
     "name": "Halloween 2024 Collection Dummy",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/halloween2021_case2024.c8561f5103183711c06f6d1afe91888d43ab3985.png",
-    "item_name_zh": "Terrifying Trove Collection"
+    "item_name_zh": "恐怖寶藏收藏"
   },
   {
     "defindex": 5963,
@@ -33541,7 +33604,7 @@
     "name": "Scream Fortress 2024 War Paint Case",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2024.7ba06ed6e80358c11d68487312045503eab796bc.png",
-    "item_name_zh": "Scream Fortress XVI War Paint Case"
+    "item_name_zh": "驚聲要塞 XVI 戰漆盒"
   },
   {
     "defindex": 5964,
@@ -33550,7 +33613,7 @@
     "name": "Scream Fortress 2024 War Paint Key",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/weapon_case_key_halloween2024.dbf63b7431391901086c441f8c3c101d6d697005.png",
-    "item_name_zh": "Scream Fortress XVI War Paint Key"
+    "item_name_zh": "驚聲要塞 XVI 戰漆鑰匙"
   },
   {
     "defindex": 5965,
@@ -33559,7 +33622,40 @@
     "name": "Scream Fortress 2024 War Paint Dummy",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/weapons_case_workshop_paintkit_halloween2024.7ba06ed6e80358c11d68487312045503eab796bc.png",
-    "item_name_zh": "Scream Fortress XVI Collection"
+    "item_name_zh": "驚聲要塞 XVI 收藏"
+  },
+  {
+    "defindex": 5966,
+    "item_class": "tf_wearable",
+    "item_name": "Gift-Stuffed Stocking 2024",
+    "name": "Self Gift - Stocking Stuffer 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/winter2013_stocking_stuffer.a4e45c0fdf9632f5594fae637ed2e81ca4736fe7.png",
+    "attributes": [
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "Gift-Stuffed Stocking 2024"
+  },
+  {
+    "defindex": 5967,
+    "item_class": "tool",
+    "item_name": "Winter 2024 Cosmetic Key",
+    "name": "Winter 2024 Cosmetic Key",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/cosmetic_case_key_xmas2024.e30d4c6207fdbb14d2232f835acb1f1baab032b6.png",
+    "item_name_zh": "Winter 2024 Cosmetic Key"
+  },
+  {
+    "defindex": 5968,
+    "item_class": "supply_crate",
+    "item_name": "Winter 2024 Cosmetic Case",
+    "name": "Winter 2024 Cosmetic Case",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/cosmetic_case_ribbon_2024.a9e171e4fa6e0f494a628c4822b89a621458c9c1.png",
+    "item_name_zh": "Winter 2024 Cosmetic Case"
   },
   {
     "defindex": 5999,
@@ -35783,7 +35879,7 @@
     "name": "Strange Filter: Toxic (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_toxic.845b4b28b23070ed657a00949e98bb33264d0b06.png",
-    "item_name_zh": "Strange Filter: Toxic (Community)"
+    "item_name_zh": "奇異過濾器：Toxic（社群）"
   },
   {
     "defindex": 6650,
@@ -35792,7 +35888,7 @@
     "name": "Strange Filter: Darkmarsh (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_darkmarsh.ef344e3dfc13cfe94f0bac63464c79b2fd6f28e2.png",
-    "item_name_zh": "Strange Filter: Darkmarsh (Community)"
+    "item_name_zh": "奇異過濾器：Darkmarsh（社群）"
   },
   {
     "defindex": 6651,
@@ -35801,7 +35897,7 @@
     "name": "Strange Filter: Freaky Fair (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_freaky_fair.7f2a6668afa2aea7afe8c625051bf8067ac2e23c.png",
-    "item_name_zh": "Strange Filter: Freaky Fair (Community)"
+    "item_name_zh": "奇異過濾器：Freaky Fair（社群）"
   },
   {
     "defindex": 6652,
@@ -35810,7 +35906,7 @@
     "name": "Strange Filter: Dynamite (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_dynamite.e7fa970c65aa4c53c7216aa692c31b9064ececdb.png",
-    "item_name_zh": "Strange Filter: Dynamite (Community)"
+    "item_name_zh": "奇異過濾器：Dynamite（社群）"
   },
   {
     "defindex": 6653,
@@ -35819,7 +35915,7 @@
     "name": "Strange Filter: Circus (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_circus.e798590932cf8fb4113f93f58ddb2bf4d7bc6c81.png",
-    "item_name_zh": "Strange Filter: Circus (Community)"
+    "item_name_zh": "奇異過濾器：Circus（社群）"
   },
   {
     "defindex": 6654,
@@ -35828,7 +35924,7 @@
     "name": "Strange Filter: Outburst (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_outburst.c74dba4786987b3cab3e992284b49e7ebfdea2d3.png",
-    "item_name_zh": "Strange Filter: Outburst (Community)"
+    "item_name_zh": "奇異過濾器：Outburst（社群）"
   },
   {
     "defindex": 6655,
@@ -35837,7 +35933,61 @@
     "name": "Strange Filter: Blazehattan (Community)",
     "used_by_classes": [],
     "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_blazehattan.639dabf1ade2a0eb965078f5d55fa95b75ba282d.png",
-    "item_name_zh": "Strange Filter: Blazehattan (Community)"
+    "item_name_zh": "奇異過濾器：Blazehattan（社群）"
+  },
+  {
+    "defindex": 6656,
+    "item_class": "tool",
+    "item_name": "Strange Filter: Overcast (Community)",
+    "name": "Strange Filter: Overcast (Community)",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_overcast.ed5e62d429ee5d552047c6840df92910189902b8.png",
+    "item_name_zh": "Strange Filter: Overcast (Community)"
+  },
+  {
+    "defindex": 6657,
+    "item_class": "tool",
+    "item_name": "Strange Filter: Fortezza (Community)",
+    "name": "Strange Filter: Fortezza (Community)",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_fortezza.c576dbeabc2e176febb86865cf4304c2209e80d8.png",
+    "item_name_zh": "Strange Filter: Fortezza (Community)"
+  },
+  {
+    "defindex": 6658,
+    "item_class": "tool",
+    "item_name": "Strange Filter: Penguin Peak (Community)",
+    "name": "Strange Filter: Penguin Peak (Community)",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_penguinpeak.3d85bec5775391083341e006a8d18cd47b27ec57.png",
+    "item_name_zh": "Strange Filter: Penguin Peak (Community)"
+  },
+  {
+    "defindex": 6659,
+    "item_class": "tool",
+    "item_name": "Strange Filter: Patagonia (Community)",
+    "name": "Strange Filter: Patagonia (Community)",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_patagonia.329ed5db4b8031cc6cf9c19022c75836ee276461.png",
+    "item_name_zh": "Strange Filter: Patagonia (Community)"
+  },
+  {
+    "defindex": 6660,
+    "item_class": "tool",
+    "item_name": "Strange Filter: Cutter (Community)",
+    "name": "Strange Filter: Cutter (Community)",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_cutter.d9ac61c13d25e974b13acb5ad80f9dd98664eb7a.png",
+    "item_name_zh": "Strange Filter: Cutter (Community)"
+  },
+  {
+    "defindex": 6661,
+    "item_class": "tool",
+    "item_name": "Strange Filter: Maul (Community)",
+    "name": "Strange Filter: Maul (Community)",
+    "used_by_classes": [],
+    "image_url": "http://media.steampowered.com/apps/440/icons/strange_filter_maul.ce01c442f965dbab38ae2bc9c830e8114d001205.png",
+    "item_name_zh": "Strange Filter: Maul (Community)"
   },
   {
     "defindex": 8000,
@@ -77581,7 +77731,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Titanium Tank Participant 2017"
+    "item_name_zh": "2017 年 Titanium Tank Participant 參加者"
   },
   {
     "defindex": 9721,
@@ -82256,7 +82406,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Canteen Crasher Platinum Crit 2018"
+    "item_name_zh": "2018 年 Canteen Crasher 白金暴擊"
   },
   {
     "defindex": 9908,
@@ -82281,7 +82431,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Canteen Crasher Gold Uber 2018"
+    "item_name_zh": "2018 年 Canteen Crasher 黃金超能"
   },
   {
     "defindex": 9909,
@@ -82306,7 +82456,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Canteen Crasher Silver Building 2018"
+    "item_name_zh": "2018 年 Canteen Crasher 銀級建築"
   },
   {
     "defindex": 9910,
@@ -82331,7 +82481,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Canteen Crasher Bronze Ammo 2018"
+    "item_name_zh": "2018 年 Canteen Crasher 銅級彈藥"
   },
   {
     "defindex": 9911,
@@ -82356,7 +82506,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Canteen Crasher Iron Recall 2018"
+    "item_name_zh": "2018 年 Canteen Crasher 鐵級召回"
   },
   {
     "defindex": 9912,
@@ -82381,7 +82531,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Canteen Crasher Rust Starter 2018"
+    "item_name_zh": "2018 年 Canteen Crasher 鐵鏽新手"
   },
   {
     "defindex": 9913,
@@ -167481,7 +167631,7 @@
         "value": 3355647
       }
     ],
-    "item_name_zh": "Last Laugh Copper Chicanery 2023"
+    "item_name_zh": "2023 年笑到最後銅級策略"
   },
   {
     "defindex": 13336,
@@ -167511,7 +167661,7 @@
         "value": 10247486
       }
     ],
-    "item_name_zh": "Last Laugh Happy Spud 2023"
+    "item_name_zh": "2023 年笑到最後快樂馬鈴薯"
   },
   {
     "defindex": 13337,
@@ -167541,7 +167691,7 @@
         "value": 7095743
       }
     ],
-    "item_name_zh": "Last Laugh Bruised Johnstone 2023"
+    "item_name_zh": "2023 年笑到最後負傷的強史東"
   },
   {
     "defindex": 13338,
@@ -167566,7 +167716,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Last Laugh Caustic Container 2023"
+    "item_name_zh": "2023 年笑到最後腐蝕性容器"
   },
   {
     "defindex": 13339,
@@ -167596,7 +167746,7 @@
         "value": 2413568
       }
     ],
-    "item_name_zh": "Last Laugh Alluring Artifact 2023"
+    "item_name_zh": "2023 年笑到最後誘惑工藝品"
   },
   {
     "defindex": 13340,
@@ -168626,7 +168776,7 @@
         "value": 941374
       }
     ],
-    "item_name_zh": "Voltaic Violence Verdant Vexatious Vivianite of Vanity 2023"
+    "item_name_zh": "2023 年電流暴力綠意煩惱虛榮綠鐵礦"
   },
   {
     "defindex": 13381,
@@ -168656,7 +168806,7 @@
         "value": 15643670
       }
     ],
-    "item_name_zh": "Voltaic Violence Volcanic Vesuvianite of Valor 2023"
+    "item_name_zh": "2023 年電流暴力火山勇氣維蘇威石"
   },
   {
     "defindex": 13382,
@@ -168681,7 +168831,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "Voltaic Violence Virtual Vascular Vitality 2023"
+    "item_name_zh": "2023 年電流暴力虛擬心臟活力"
   },
   {
     "defindex": 13383,
@@ -171461,7 +171611,7 @@
         "value": 15122944
       }
     ],
-    "item_name_zh": "Galvanized Gauntlet Shimmering Souvenir 2023"
+    "item_name_zh": "2023 年鍍鋅挑戰閃耀紀念品"
   },
   {
     "defindex": 13494,
@@ -171491,7 +171641,7 @@
         "value": 438272
       }
     ],
-    "item_name_zh": "Galvanized Gauntlet Bejeweled Bounty 2023"
+    "item_name_zh": "2023 年鍍鋅挑戰鑲寶獎勵"
   },
   {
     "defindex": 13495,
@@ -171526,7 +171676,7 @@
         "value": 13129
       }
     ],
-    "item_name_zh": "Galvanized Gauntlet Opulent Ornament 2023"
+    "item_name_zh": "2023 年鍍鋅挑戰華麗飾品"
   },
   {
     "defindex": 13496,
@@ -171556,7 +171706,7 @@
         "value": 12377523
       }
     ],
-    "item_name_zh": "Galvanized Gauntlet Soldiers Spoils 2023"
+    "item_name_zh": "2023 年鍍鋅挑戰士兵戰利品"
   },
   {
     "defindex": 13497,
@@ -173321,7 +173471,7 @@
         "value": 4259740
       }
     ],
-    "item_name_zh": "2023 韌體狂熱行動公司之星"
+    "item_name_zh": "2023 年韌體狂熱公司之星"
   },
   {
     "defindex": 13567,
@@ -173351,7 +173501,7 @@
         "value": 16094975
       }
     ],
-    "item_name_zh": "Firmware Frenzy Purehearted Purple 2023"
+    "item_name_zh": "2023 年韌體狂熱忠誠紫心"
   },
   {
     "defindex": 13568,
@@ -173381,7 +173531,7 @@
         "value": 4441855
       }
     ],
-    "item_name_zh": "Firmware Frenzy Bountiful Benevolence 2023"
+    "item_name_zh": "2023 年韌體狂熱豐富善心"
   },
   {
     "defindex": 13569,
@@ -173411,7 +173561,7 @@
         "value": 13793280
       }
     ],
-    "item_name_zh": "Firmware Frenzy Giver in Gold 2023"
+    "item_name_zh": "2023 年韌體狂熱黃金贈予者"
   },
   {
     "defindex": 13570,
@@ -173441,7 +173591,7 @@
         "value": 6619010
       }
     ],
-    "item_name_zh": "Firmware Frenzy Supercritical Selflessness 2023"
+    "item_name_zh": "2023 年韌體狂熱超極無私"
   },
   {
     "defindex": 13571,
@@ -177686,7 +177836,7 @@
         "value": 8998604
       }
     ],
-    "item_name_zh": "磁力混戰行動 2024 年 Fiendish Fuchsite"
+    "item_name_zh": "2024 年磁力混戰惡魔鉻雲母"
   },
   {
     "defindex": 13740,
@@ -177721,7 +177871,7 @@
         "value": 12091445
       }
     ],
-    "item_name_zh": "磁力混戰行動 2024 年 Megalomaniacal Mastodon"
+    "item_name_zh": "2024 年磁力混戰怪獸自大長毛象"
   },
   {
     "defindex": 13741,
@@ -177751,7 +177901,7 @@
         "value": 4117066
       }
     ],
-    "item_name_zh": "磁力混戰行動 2024 年 Humanitarian Hiddenite"
+    "item_name_zh": "2024 年磁力混戰隱藏版人道主義者"
   },
   {
     "defindex": 13742,
@@ -177786,7 +177936,7 @@
         "value": 18060
       }
     ],
-    "item_name_zh": "磁力混戰行動 2024 年 Barely Benign Bismutotantalite"
+    "item_name_zh": "2024 年磁力混戰幾乎無害鉭鉍礦"
   },
   {
     "defindex": 13743,
@@ -177821,7 +177971,7 @@
         "value": 5255910
       }
     ],
-    "item_name_zh": "磁力混戰行動 2024 年 Treasured Tourmaline"
+    "item_name_zh": "2024 年磁力混戰珍藏碧璽"
   },
   {
     "defindex": 13744,
@@ -186961,7 +187111,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "PASS Time Federation Volunteer Medal"
+    "item_name_zh": "PASS Time Federation 志工勳章"
   },
   {
     "defindex": 14108,
@@ -186986,7 +187136,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "AsiaFortress Liquid.tf Highlander Invite 1st Place"
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 邀請賽冠軍"
   },
   {
     "defindex": 14109,
@@ -187011,7 +187161,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "AsiaFortress Liquid.tf Highlander Invite 2nd Place"
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 邀請賽亞軍"
   },
   {
     "defindex": 14110,
@@ -187036,7 +187186,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "AsiaFortress Liquid.tf Highlander Invite 3rd Place"
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 邀請賽季軍"
   },
   {
     "defindex": 14111,
@@ -187061,7 +187211,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "TF2Maps Charitable Heart 2024"
+    "item_name_zh": "2024 年 TF2Maps 慈善之心"
   },
   {
     "defindex": 14112,
@@ -187256,7 +187406,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 1 First Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第一組冠軍"
   },
   {
     "defindex": 14119,
@@ -187281,7 +187431,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 1 Second Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第一組亞軍"
   },
   {
     "defindex": 14120,
@@ -187306,7 +187456,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 1 Third Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第一組季軍"
   },
   {
     "defindex": 14121,
@@ -187331,7 +187481,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 1 Participant"
+    "item_name_zh": "ozfortress 實驗盃 3 第一組參加獎"
   },
   {
     "defindex": 14122,
@@ -187356,7 +187506,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 2 First Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第二組冠軍"
   },
   {
     "defindex": 14123,
@@ -187381,7 +187531,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 2 Second Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第二組亞軍"
   },
   {
     "defindex": 14124,
@@ -187406,7 +187556,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 2 Third Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第二組季軍"
   },
   {
     "defindex": 14125,
@@ -187431,7 +187581,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 2 Participant"
+    "item_name_zh": "ozfortress 實驗盃 3 第二組參加獎"
   },
   {
     "defindex": 14126,
@@ -187456,7 +187606,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 3 First Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第三組冠軍"
   },
   {
     "defindex": 14127,
@@ -187481,7 +187631,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 3 Second Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第三組亞軍"
   },
   {
     "defindex": 14128,
@@ -187506,7 +187656,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 3 Third Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第三組季軍"
   },
   {
     "defindex": 14129,
@@ -187531,7 +187681,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 3 Participant"
+    "item_name_zh": "ozfortress 實驗盃 3 第三組參加獎"
   },
   {
     "defindex": 14130,
@@ -187556,7 +187706,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 4 First Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第四組冠軍"
   },
   {
     "defindex": 14131,
@@ -187581,7 +187731,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 4 Second Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第四組亞軍"
   },
   {
     "defindex": 14132,
@@ -187606,7 +187756,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 4 Third Place"
+    "item_name_zh": "ozfortress 實驗盃 3 第四組季軍"
   },
   {
     "defindex": 14133,
@@ -187631,7 +187781,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "ozfortress Experimental Cup 3 Division 4 Participant"
+    "item_name_zh": "ozfortress 實驗盃 3 第四組參加獎"
   },
   {
     "defindex": 14134,
@@ -187656,7 +187806,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "CLTF2 Ultiduo Cup Champions"
+    "item_name_zh": "CLTF2 Ultiduo 盃冠軍"
   },
   {
     "defindex": 14135,
@@ -187681,7 +187831,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "CLTF2 Ultiduo Cup 2nd Place"
+    "item_name_zh": "CLTF2 Ultiduo 盃亞軍"
   },
   {
     "defindex": 14136,
@@ -187706,7 +187856,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "CLTF2 Ultiduo Cup 3rd Place"
+    "item_name_zh": "CLTF2 Ultiduo 盃季軍"
   },
   {
     "defindex": 14137,
@@ -187731,7 +187881,7 @@
         "value": 1
       }
     ],
-    "item_name_zh": "CLTF2 Ultiduo Cup Participant"
+    "item_name_zh": "CLTF2 Ultiduo 盃參賽者"
   },
   {
     "defindex": 14138,
@@ -187757,6 +187907,3226 @@
       }
     ],
     "item_name_zh": "CLTF2 錦標賽支持者"
+  },
+  {
+    "defindex": 14139,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Gold Medal",
+    "name": "ETF2L 6v6 Premiership Gold Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽金牌"
+  },
+  {
+    "defindex": 14140,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Silver Medal",
+    "name": "ETF2L 6v6 Premiership Silver Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽銀牌"
+  },
+  {
+    "defindex": 14141,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Bronze Medal",
+    "name": "ETF2L 6v6 Premiership Bronze Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽銅牌"
+  },
+  {
+    "defindex": 14142,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Participation Medal",
+    "name": "ETF2L 6v6 Premiership Participation Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽參與獎牌"
+  },
+  {
+    "defindex": 14143,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Gold Medal",
+    "name": "ETF2L 6v6 Division 1 Gold Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組金牌"
+  },
+  {
+    "defindex": 14144,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Silver Medal",
+    "name": "ETF2L 6v6 Division 1 Silver Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組銀牌"
+  },
+  {
+    "defindex": 14145,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Bronze Medal",
+    "name": "ETF2L 6v6 Division 1 Bronze Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組銅牌"
+  },
+  {
+    "defindex": 14146,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Participation Medal",
+    "name": "ETF2L 6v6 Division 1 Participation Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組參加獎"
+  },
+  {
+    "defindex": 14147,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Gold Medal",
+    "name": "ETF2L 6v6 Division 2 Gold Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組金牌"
+  },
+  {
+    "defindex": 14148,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Silver Medal",
+    "name": "ETF2L 6v6 Division 2 Silver Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組銀牌"
+  },
+  {
+    "defindex": 14149,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Bronze Medal",
+    "name": "ETF2L 6v6 Division 2 Bronze Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組銅牌"
+  },
+  {
+    "defindex": 14150,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Participation Medal",
+    "name": "ETF2L 6v6 Division 2 Participation Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組參加獎"
+  },
+  {
+    "defindex": 14151,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Mid Gold Medal",
+    "name": "ETF2L 6v6 Mid Gold Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 中階賽金牌"
+  },
+  {
+    "defindex": 14152,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Mid Silver Medal",
+    "name": "ETF2L 6v6 Mid Silver Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 中階賽銀牌"
+  },
+  {
+    "defindex": 14153,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Mid Bronze Medal",
+    "name": "ETF2L 6v6 Mid Bronze Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 中階賽銅牌"
+  },
+  {
+    "defindex": 14154,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Mid Playoff Medal",
+    "name": "ETF2L 6v6 Mid Playoff Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_playoffs.de5d792e061d64466b97e0be3017658b4d859a8d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 中階季後賽獎牌"
+  },
+  {
+    "defindex": 14155,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Mid Participation Medal",
+    "name": "ETF2L 6v6 Mid Participation Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 中階賽參與獎牌"
+  },
+  {
+    "defindex": 14156,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Gold Medal",
+    "name": "ETF2L 6v6 Low Gold Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 金牌"
+  },
+  {
+    "defindex": 14157,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Silver Medal",
+    "name": "ETF2L 6v6 Low Silver Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 銀牌"
+  },
+  {
+    "defindex": 14158,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Bronze Medal",
+    "name": "ETF2L 6v6 Low Bronze Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 銅牌"
+  },
+  {
+    "defindex": 14159,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Playoff Medal",
+    "name": "ETF2L 6v6 Low Playoff Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_playoffs.de5d792e061d64466b97e0be3017658b4d859a8d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 季後賽獎牌"
+  },
+  {
+    "defindex": 14160,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Participation Medal",
+    "name": "ETF2L 6v6 Low Participation Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 參賽獎牌"
+  },
+  {
+    "defindex": 14161,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Gold Medal",
+    "name": "ETF2L 6v6 Open Gold Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽金牌"
+  },
+  {
+    "defindex": 14162,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Silver Medal",
+    "name": "ETF2L 6v6 Open Silver Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽銀牌"
+  },
+  {
+    "defindex": 14163,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Bronze Medal",
+    "name": "ETF2L 6v6 Open Bronze Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽銅牌"
+  },
+  {
+    "defindex": 14164,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Playoff Medal",
+    "name": "ETF2L 6v6 Open Playoff Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_playoffs.de5d792e061d64466b97e0be3017658b4d859a8d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開季後賽獎牌"
+  },
+  {
+    "defindex": 14165,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Participation Medal",
+    "name": "ETF2L 6v6 Open Participation Medal Season 47",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽參與獎牌"
+  },
+  {
+    "defindex": 14166,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Gold Medal",
+    "name": "ETF2L 6v6 Premiership Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽金牌"
+  },
+  {
+    "defindex": 14167,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Silver Medal",
+    "name": "ETF2L 6v6 Premiership Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽銀牌"
+  },
+  {
+    "defindex": 14168,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Bronze Medal",
+    "name": "ETF2L 6v6 Premiership Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽銅牌"
+  },
+  {
+    "defindex": 14169,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Premiership Participation Medal",
+    "name": "ETF2L 6v6 Premiership Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 超級聯賽參與獎牌"
+  },
+  {
+    "defindex": 14170,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Gold Medal",
+    "name": "ETF2L 6v6 Division 1 Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組金牌"
+  },
+  {
+    "defindex": 14171,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Silver Medal",
+    "name": "ETF2L 6v6 Division 1 Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組銀牌"
+  },
+  {
+    "defindex": 14172,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Bronze Medal",
+    "name": "ETF2L 6v6 Division 1 Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組銅牌"
+  },
+  {
+    "defindex": 14173,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 1 Participation Medal",
+    "name": "ETF2L 6v6 Division 1 Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第一組參加獎"
+  },
+  {
+    "defindex": 14174,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Gold Medal",
+    "name": "ETF2L 6v6 Division 2 Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組金牌"
+  },
+  {
+    "defindex": 14175,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Silver Medal",
+    "name": "ETF2L 6v6 Division 2 Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組銀牌"
+  },
+  {
+    "defindex": 14176,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Bronze Medal",
+    "name": "ETF2L 6v6 Division 2 Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組銅牌"
+  },
+  {
+    "defindex": 14177,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 2 Participation Medal",
+    "name": "ETF2L 6v6 Division 2 Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第二組參加獎"
+  },
+  {
+    "defindex": 14178,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 3 Gold Medal",
+    "name": "ETF2L 6v6 Division 3 Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Division 3 Gold Medal"
+  },
+  {
+    "defindex": 14179,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 3 Silver Medal",
+    "name": "ETF2L 6v6 Division 3 Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Division 3 Silver Medal"
+  },
+  {
+    "defindex": 14180,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 3 Bronze Medal",
+    "name": "ETF2L 6v6 Division 3 Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Division 3 Bronze Medal"
+  },
+  {
+    "defindex": 14181,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 3 Participation Medal",
+    "name": "ETF2L 6v6 Division 3 Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第三組參加獎"
+  },
+  {
+    "defindex": 14182,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 4 Gold Medal",
+    "name": "ETF2L 6v6 Division 4 Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第四組金牌"
+  },
+  {
+    "defindex": 14183,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 4 Silver Medal",
+    "name": "ETF2L 6v6 Division 4 Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第四組銀牌"
+  },
+  {
+    "defindex": 14184,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 4 Bronze Medal",
+    "name": "ETF2L 6v6 Division 4 Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第四組銅牌"
+  },
+  {
+    "defindex": 14185,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Division 4 Participation Medal",
+    "name": "ETF2L 6v6 Division 4 Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 第四組參加獎"
+  },
+  {
+    "defindex": 14186,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Gold Medal",
+    "name": "ETF2L 6v6 Low Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 金牌"
+  },
+  {
+    "defindex": 14187,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Silver Medal",
+    "name": "ETF2L 6v6 Low Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 銀牌"
+  },
+  {
+    "defindex": 14188,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Bronze Medal",
+    "name": "ETF2L 6v6 Low Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 銅牌"
+  },
+  {
+    "defindex": 14189,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Playoff Medal",
+    "name": "ETF2L 6v6 Low Playoff Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_playoffs.de5d792e061d64466b97e0be3017658b4d859a8d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 季後賽獎牌"
+  },
+  {
+    "defindex": 14190,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Low Participation Medal",
+    "name": "ETF2L 6v6 Low Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 Low 參賽獎牌"
+  },
+  {
+    "defindex": 14191,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Gold Medal",
+    "name": "ETF2L 6v6 Open Gold Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽金牌"
+  },
+  {
+    "defindex": 14192,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Silver Medal",
+    "name": "ETF2L 6v6 Open Silver Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽銀牌"
+  },
+  {
+    "defindex": 14193,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Bronze Medal",
+    "name": "ETF2L 6v6 Open Bronze Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽銅牌"
+  },
+  {
+    "defindex": 14194,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Playoff Medal",
+    "name": "ETF2L 6v6 Open Playoff Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_playoffs.de5d792e061d64466b97e0be3017658b4d859a8d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開季後賽獎牌"
+  },
+  {
+    "defindex": 14195,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L 6v6 Open Participation Medal",
+    "name": "ETF2L 6v6 Open Participation Medal Season 48",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L 6v6 公開賽參與獎牌"
+  },
+  {
+    "defindex": 14196,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Premiership Gold Medal",
+    "name": "ETF2L Highlander Premiership Gold Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 超級聯賽金牌"
+  },
+  {
+    "defindex": 14197,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Premiership Silver Medal",
+    "name": "ETF2L Highlander Premiership Silver Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 超級聯賽銀牌"
+  },
+  {
+    "defindex": 14198,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Premiership Bronze Medal",
+    "name": "ETF2L Highlander Premiership Bronze Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 超級聯賽銅牌"
+  },
+  {
+    "defindex": 14199,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Premiership Participation Medal",
+    "name": "ETF2L Highlander Premiership Participation Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 超級聯賽參與獎牌"
+  },
+  {
+    "defindex": 14200,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 1 Gold Medal",
+    "name": "ETF2L Highlander Division 1 Gold Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 第一組金牌"
+  },
+  {
+    "defindex": 14201,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 1 Silver Medal",
+    "name": "ETF2L Highlander Division 1 Silver Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 第一組銀牌"
+  },
+  {
+    "defindex": 14202,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 1 Bronze Medal",
+    "name": "ETF2L Highlander Division 1 Bronze Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 第一組銅牌"
+  },
+  {
+    "defindex": 14203,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 1 Participation Medal",
+    "name": "ETF2L Highlander Division 1 Participation Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 第一組參加獎"
+  },
+  {
+    "defindex": 14204,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 2 Gold Medal",
+    "name": "ETF2L Highlander Division 2 Gold Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Division 2 Gold Medal"
+  },
+  {
+    "defindex": 14205,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 2 Silver Medal",
+    "name": "ETF2L Highlander Division 2 Silver Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Division 2 Silver Medal"
+  },
+  {
+    "defindex": 14206,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 2 Bronze Medal",
+    "name": "ETF2L Highlander Division 2 Bronze Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Division 2 Bronze Medal"
+  },
+  {
+    "defindex": 14207,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Division 2 Participation Medal",
+    "name": "ETF2L Highlander Division 2 Participation Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 第二組參加獎"
+  },
+  {
+    "defindex": 14208,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Mid Gold Medal",
+    "name": "ETF2L Highlander Mid Gold Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 中階賽金牌"
+  },
+  {
+    "defindex": 14209,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Mid Silver Medal",
+    "name": "ETF2L Highlander Mid Silver Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 中階賽銀牌"
+  },
+  {
+    "defindex": 14210,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Mid Bronze Medal",
+    "name": "ETF2L Highlander Mid Bronze Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 中階賽銅牌"
+  },
+  {
+    "defindex": 14211,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Mid Participation Medal",
+    "name": "ETF2L Highlander Mid Participation Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 中階賽參與獎牌"
+  },
+  {
+    "defindex": 14212,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Low Gold Medal",
+    "name": "ETF2L Highlander Low Gold Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Low 金牌"
+  },
+  {
+    "defindex": 14213,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Low Silver Medal",
+    "name": "ETF2L Highlander Low Silver Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Low 銀牌"
+  },
+  {
+    "defindex": 14214,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Low Bronze Medal",
+    "name": "ETF2L Highlander Low Bronze Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Low 銅牌"
+  },
+  {
+    "defindex": 14215,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Low Participation Medal",
+    "name": "ETF2L Highlander Low Participation Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander Low 參賽獎牌"
+  },
+  {
+    "defindex": 14216,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open Gold Medal",
+    "name": "ETF2L Highlander Open Gold Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_gold.eb226b95721f5435fe86e853907b6940ffd105c0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽金牌"
+  },
+  {
+    "defindex": 14217,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open Silver Medal",
+    "name": "ETF2L Highlander Open Silver Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_silver.daf2df8bb7547d81beb4592dfe6f903af4ff0d1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽銀牌"
+  },
+  {
+    "defindex": 14218,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open Bronze Medal",
+    "name": "ETF2L Highlander Open Bronze Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_bronze.c3de347333f9055d853595544e9b7e5bb13e21d2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽銅牌"
+  },
+  {
+    "defindex": 14219,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open Playoff Medal",
+    "name": "ETF2L Highlander Open Playoff Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_playoffs.de5d792e061d64466b97e0be3017658b4d859a8d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開季後賽獎牌"
+  },
+  {
+    "defindex": 14220,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open Participation Medal",
+    "name": "ETF2L Highlander Open Participation Medal Season 32",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_2018_iron.715044a6cfe5ad86ab9f7577c711e6ebf061818b.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽參與獎牌"
+  },
+  {
+    "defindex": 14221,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open 4 Gold Medal",
+    "name": "ETF2L Highlander Open 4 Gold Medal",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_open_1st_place.8b9546ce1f352816065fc5e787ad2064366d964c.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽 4 金牌"
+  },
+  {
+    "defindex": 14222,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open 4 Silver Medal",
+    "name": "ETF2L Highlander Open 4 Silver Medal",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_open_2nd_place.880c8e7cd5921eab3c85957a7399f4859fce5525.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽 4 銀牌"
+  },
+  {
+    "defindex": 14223,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open 4 Bronze Medal",
+    "name": "ETF2L Highlander Open 4 Bronze Medal",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_open_3rd_place.ef9230222f8d97c10d5c1c0d9beafdaba89b4c49.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽 4 銅牌"
+  },
+  {
+    "defindex": 14224,
+    "item_class": "tf_wearable",
+    "item_name": "ETF2L Highlander Open 4 Participation Medal",
+    "name": "ETF2L Highlander Open 4 Participation Medal",
+    "image_url": "http://media.steampowered.com/apps/440/icons/etf2l_highlander_open_participant.024a02b8f6af4b1d29d63eb6c4211309a9e5b593.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ETF2L Highlander 公開賽 4 參加獎牌"
+  },
+  {
+    "defindex": 14225,
+    "item_class": "tf_wearable",
+    "item_name": "Sacred Scouts 6v6 Gold Medal",
+    "name": "Sacred Scouts 6v6 Gold Medal 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/sacred_scouts_6v6_gold.f762bcc019e5326e912697be24e2a9b8485a10b2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "Sacred Scouts 6v6 金牌"
+  },
+  {
+    "defindex": 14226,
+    "item_class": "tf_wearable",
+    "item_name": "Sacred Scouts 6v6 Silver Medal",
+    "name": "Sacred Scouts 6v6 Silver Medal 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/sacred_scouts_6v6_silver.c0f5cdf5d547302715509ba11bff67ba46b58c2c.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "Sacred Scouts 6v6 銀牌"
+  },
+  {
+    "defindex": 14227,
+    "item_class": "tf_wearable",
+    "item_name": "Sacred Scouts 6v6 Bronze Medal",
+    "name": "Sacred Scouts 6v6 Bronze Medal 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/sacred_scouts_6v6_bronze.984c48f67179ee3edb44357aff74d843b37ceb06.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "Sacred Scouts 6v6 銅牌"
+  },
+  {
+    "defindex": 14228,
+    "item_class": "tf_wearable",
+    "item_name": "Sacred Scouts 6v6 Participant",
+    "name": "Sacred Scouts 6v6 Participant 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/sacred_scouts_6v6_participant.b78d0c3f6706847514602ce0a2b61002a8fda67d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "Sacred Scouts 6v6 參賽者"
+  },
+  {
+    "defindex": 14229,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Invite 1st Place",
+    "name": "AsiaFortress Liquid.tf Invite 1st Place Fall 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_gold.b2c904501a82d51a854626f05596c59ad693f35f.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf 邀請賽冠軍"
+  },
+  {
+    "defindex": 14230,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Invite 2nd Place",
+    "name": "AsiaFortress Liquid.tf Invite 2nd Place Fall 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_silver.bbf356280f49e12b98b41039357a4073ec5070c2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf 邀請賽亞軍"
+  },
+  {
+    "defindex": 14231,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Invite 3rd Place",
+    "name": "AsiaFortress Liquid.tf Invite 3rd Place Fall 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_bronze.9cde9b38b8b547c29aee14ee4dd8bfce516b7429.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf 邀請賽季軍"
+  },
+  {
+    "defindex": 14232,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Highlander Open 1st Place",
+    "name": "AsiaFortress Liquid.tf Highlander Open 1st Place Winter 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_liquid_gold.7f8f466d4982e1dabd3f0e7683a79b8ec7755406.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 16433443
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 公開賽冠軍"
+  },
+  {
+    "defindex": 14233,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Highlander Open 2nd Place",
+    "name": "AsiaFortress Liquid.tf Highlander Open 2nd Place Winter 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_liquid_silver.ac96edcfccbf0cf65cc76435b99e86bad5515644.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 11645619
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 公開賽亞軍"
+  },
+  {
+    "defindex": 14234,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Highlander Open 3rd Place",
+    "name": "AsiaFortress Liquid.tf Highlander Open 3rd Place Winter 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_liquid_bronze.dd79d62380ad840ba43fd050afef7ff734a8d0d1.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 6366476
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 公開賽季軍"
+  },
+  {
+    "defindex": 14235,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Highlander Invite Participant",
+    "name": "AsiaFortress Liquid.tf Highlander Invite Participant Winter 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_white.13f78b119d48414d39543adae52046838379bb0d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 16777215
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 邀請賽參賽獎"
+  },
+  {
+    "defindex": 14236,
+    "item_class": "tf_wearable",
+    "item_name": "AsiaFortress Liquid.tf Highlander Open Participant",
+    "name": "AsiaFortress Liquid.tf Highlander Open Participant Winter 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/asiafortress_participant.fb283f6a3b6c2f840b80bfac51d0101b92198ab6.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "AsiaFortress Liquid.tf Highlander 公開賽參賽獎"
+  },
+  {
+    "defindex": 14237,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Premier First Place",
+    "name": "ozfortress Premier 1st Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_prem_first.a52aa005f0ec0428b66854cf238522d5988859f7.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Premier First Place"
+  },
+  {
+    "defindex": 14238,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Premier Second Place",
+    "name": "ozfortress Premier 2nd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_prem_second.ce38dc1c0527478ea3b38bb5a63176ec4c8d2433.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Premier Second Place"
+  },
+  {
+    "defindex": 14239,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Premier Third Place",
+    "name": "ozfortress Premier 3rd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_prem_third.280e9a66c2e1a70d6c8750bdf720e5fc0a84ac25.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Premier Third Place"
+  },
+  {
+    "defindex": 14240,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Premier Participant",
+    "name": "ozfortress Premier Participant Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_prem_participant.f28425879487c48e6590f5e61c7f0f7e6bc79494.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Premier Participant"
+  },
+  {
+    "defindex": 14241,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes High First Place",
+    "name": "ozfortress High 1st Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_first.a2ff919e48d9a56cc8e0d9b2e356ee368c7243e3.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes High First Place"
+  },
+  {
+    "defindex": 14242,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes High Second Place",
+    "name": "ozfortress High 2nd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_second.a95b8a5851427384b34e920c11d4d4c1c859e9b7.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes High Second Place"
+  },
+  {
+    "defindex": 14243,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes High Third Place",
+    "name": "ozfortress High 3rd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_third.a191f2971ea5960812131afbc12dee0f7c0a76b0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes High Third Place"
+  },
+  {
+    "defindex": 14244,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes High Participant",
+    "name": "ozfortress High Participant Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_participant.b4734cb174f0808a4d4c841f2e14ca1c1ace33a2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes High Participant"
+  },
+  {
+    "defindex": 14245,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Intermediate First Place",
+    "name": "ozfortress Intermediate 1st Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_first.a2ff919e48d9a56cc8e0d9b2e356ee368c7243e3.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Intermediate First Place"
+  },
+  {
+    "defindex": 14246,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Intermediate Second Place",
+    "name": "ozfortress Intermediate 2nd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_second.a95b8a5851427384b34e920c11d4d4c1c859e9b7.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Intermediate Second Place"
+  },
+  {
+    "defindex": 14247,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Intermediate Third Place",
+    "name": "ozfortress Intermediate 3rd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_third.a191f2971ea5960812131afbc12dee0f7c0a76b0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Intermediate Third Place"
+  },
+  {
+    "defindex": 14248,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Intermediate Participant",
+    "name": "ozfortress Intermediate Participant Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_participant.b4734cb174f0808a4d4c841f2e14ca1c1ace33a2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Intermediate Participant"
+  },
+  {
+    "defindex": 14249,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Open First Place",
+    "name": "ozfortress Open 1st Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_first.a2ff919e48d9a56cc8e0d9b2e356ee368c7243e3.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Open First Place"
+  },
+  {
+    "defindex": 14250,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Open Second Place",
+    "name": "ozfortress Open 2nd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_second.a95b8a5851427384b34e920c11d4d4c1c859e9b7.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Open Second Place"
+  },
+  {
+    "defindex": 14251,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Open Third Place",
+    "name": "ozfortress Open 3rd Place Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_third.a191f2971ea5960812131afbc12dee0f7c0a76b0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Open Third Place"
+  },
+  {
+    "defindex": 14252,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Sixes Open Participant",
+    "name": "ozfortress Open Participant Season 41",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_sixes_regular_participant.b4734cb174f0808a4d4c841f2e14ca1c1ace33a2.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Sixes Open Participant"
+  },
+  {
+    "defindex": 14253,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Premier First Place",
+    "name": "ozfortress Highlander Premier First Place Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_first.d8db620b95b4c6e2d6ef580a0e7a5c7aa2f764f8.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Premier First Place"
+  },
+  {
+    "defindex": 14254,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Premier Second Place",
+    "name": "ozfortress Highlander Premier Second Place Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_second.25a9c232792866009fe7326d5cc3174153bad0aa.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Premier Second Place"
+  },
+  {
+    "defindex": 14255,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Premier Third Place",
+    "name": "ozfortress Highlander Premier Third Place Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_third.6d1361733e7909e299443cf39149c8713caafbda.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Premier Third Place"
+  },
+  {
+    "defindex": 14256,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Premier Participant",
+    "name": "ozfortress Highlander Premier Participant Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_participant.2d7f9dcd1af82c8a28e210653207b874bec0e63e.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Premier Participant"
+  },
+  {
+    "defindex": 14257,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Main First Place",
+    "name": "ozfortress Highlander Main First Place Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_first.d8db620b95b4c6e2d6ef580a0e7a5c7aa2f764f8.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Main First Place"
+  },
+  {
+    "defindex": 14258,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Main Second Place",
+    "name": "ozfortress Highlander Main Second Place Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_second.25a9c232792866009fe7326d5cc3174153bad0aa.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Main Second Place"
+  },
+  {
+    "defindex": 14259,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Main Third Place",
+    "name": "ozfortress Highlander Main Third Place Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_third.6d1361733e7909e299443cf39149c8713caafbda.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Main Third Place"
+  },
+  {
+    "defindex": 14260,
+    "item_class": "tf_wearable",
+    "item_name": "ozfortress Highlander Main Participant",
+    "name": "ozfortress Highlander Main Participant Season 8",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ozfortress_highlander_participant.2d7f9dcd1af82c8a28e210653207b874bec0e63e.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      }
+    ],
+    "item_name_zh": "ozfortress Highlander Main Participant"
+  },
+  {
+    "defindex": 14261,
+    "item_class": "tf_wearable",
+    "item_name": "Ghoulish Gambit Corrupted Crystal 2024",
+    "name": "Ghoulish Gambit Corrupted Crystal 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ghoulish_corrupted_2024.8096a8cf4f4f3c7b66977a4abf73841e35aa26cf.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 4783872
+      }
+    ],
+    "item_name_zh": "Ghoulish Gambit Corrupted Crystal 2024"
+  },
+  {
+    "defindex": 14262,
+    "item_class": "tf_wearable",
+    "item_name": "Ghoulish Gambit Uncorrupted Crystal 2024",
+    "name": "Ghoulish Gambit Uncorrupted Crystal 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ghoulish_uncorrupted_2024.35f47557b23ec6df85b2f579603711c26a82d113.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 9043977
+      }
+    ],
+    "item_name_zh": "Ghoulish Gambit Uncorrupted Crystal 2024"
+  },
+  {
+    "defindex": 14263,
+    "item_class": "tf_wearable",
+    "item_name": "Ghoulish Gambit Mostly-Corrupted Crystal 2024",
+    "name": "Ghoulish Gambit Mostly-Corrupted Crystal 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ghoulish_mostly_2024.9b1eec45da581579eaa404ebd0ba8086714534ae.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 4783872
+      }
+    ],
+    "item_name_zh": "Ghoulish Gambit Mostly-Corrupted Crystal 2024"
+  },
+  {
+    "defindex": 14264,
+    "item_class": "tf_wearable",
+    "item_name": "Ghoulish Gambit Haunted Tank 2024",
+    "name": "Ghoulish Gambit Haunted Tank 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ghoulish_haunted_2024.c4fa85f6fca29ff91cdd34f289d75791ccab7495.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 8208497
+      }
+    ],
+    "item_name_zh": "Ghoulish Gambit Haunted Tank 2024"
+  },
+  {
+    "defindex": 14265,
+    "item_class": "tf_wearable",
+    "item_name": "Ghoulish Gambit Poisonous Potato 2024",
+    "name": "Ghoulish Gambit Poisonous Potato 2024",
+    "image_url": "http://media.steampowered.com/apps/440/icons/ghoulish_poisonous_2024.a58c0c9522230821bf220f54a83169627766f358.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      },
+      {
+        "name": "cannot trade",
+        "class": "cannot_trade",
+        "value": 1
+      },
+      {
+        "name": "set item tint RGB",
+        "class": "set_item_tint_rgb",
+        "value": 4345659
+      }
+    ],
+    "item_name_zh": "Ghoulish Gambit Poisonous Potato 2024"
   },
   {
     "defindex": 15000,
@@ -203026,7 +206396,7 @@
   {
     "defindex": 30495,
     "item_class": "tf_wearable",
-    "item_name": "Claws And Infect",
+    "item_name": "Claws and Infect",
     "name": "Claws And Infect",
     "used_by_classes": [
       "Scout"
@@ -214094,7 +217464,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Fuel Injector"
+    "item_name_zh": "燃料吸入器"
   },
   {
     "defindex": 31082,
@@ -217062,7 +220432,7 @@
   {
     "defindex": 31212,
     "item_class": "tf_wearable",
-    "item_name": "Beanie The All-Gnawing",
+    "item_name": "Beanie the All-Gnawing",
     "name": "Beanie The All-Gnawing",
     "image_url": "http://media.steampowered.com/apps/440/icons/hwn2021_beanie_all_gnawing.c33cd99ce2c4b7bfff9e4856445c903919e1e398.png",
     "attributes": [
@@ -217077,7 +220447,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Beanie The All-Gnawing"
+    "item_name_zh": "Beanie the All-Gnawing"
   },
   {
     "defindex": 31213,
@@ -217217,7 +220587,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Scariest Mask EVER"
+    "item_name_zh": "史上最恐怖的面具"
   },
   {
     "defindex": 31220,
@@ -222747,7 +226117,7 @@
         "value": 100
       }
     ],
-    "item_name_zh": "Taunt: Crushing Defeat"
+    "item_name_zh": "嘲諷：勝券在握"
   },
   {
     "defindex": 31466,
@@ -222765,7 +226135,7 @@
         "value": 100
       }
     ],
-    "item_name_zh": "Taunt: Peace Out"
+    "item_name_zh": "嘲諷：和平退場"
   },
   {
     "defindex": 31467,
@@ -222780,7 +226150,7 @@
         "value": 100
       }
     ],
-    "item_name_zh": "Taunt: Commending Clap"
+    "item_name_zh": "嘲諷：讚揚鼓掌"
   },
   {
     "defindex": 31468,
@@ -222803,7 +226173,7 @@
         "value": 0
       }
     ],
-    "item_name_zh": "Taunt: The Punchline"
+    "item_name_zh": "嘲諷：笑點"
   },
   {
     "defindex": 31469,
@@ -222823,14 +226193,14 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Fleet Commander"
+    "item_name_zh": "艦隊指揮官"
   },
   {
     "defindex": 31470,
     "item_class": "tf_wearable",
     "item_name": "Triboniophorus Gentlemannus",
     "name": "Triboniophorus Gentlemannus",
-    "image_url": "http://media.steampowered.com/apps/440/icons/hwn2024_triboniophorus.ee95415a95b847708f9ac13fb04652dfe76819e1.png",
+    "image_url": "http://media.steampowered.com/apps/440/icons/hwn2024_triboniophorus.1f51346c41b05dc03c5cc01c7e8f7e5aaa20f8c0.png",
     "attributes": [
       {
         "name": "kill eater score type",
@@ -222846,9 +226216,14 @@
         "name": "counts as assister is some kind of pet this update is going to be awesome",
         "class": "counts_as_assister",
         "value": 2
+      },
+      {
+        "name": "attach particle effect static",
+        "class": "set_attached_particle_static",
+        "value": 28
       }
     ],
-    "item_name_zh": "Triboniophorus Gentlemannus"
+    "item_name_zh": "小精靈紳士"
   },
   {
     "defindex": 31471,
@@ -222868,7 +226243,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Spider Sights"
+    "item_name_zh": "蜘蛛眼鏡"
   },
   {
     "defindex": 31472,
@@ -222892,7 +226267,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Duality of Mantle"
+    "item_name_zh": "神鬼兜帽"
   },
   {
     "defindex": 31473,
@@ -222915,7 +226290,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Shadow Shroud"
+    "item_name_zh": "暗影面罩"
   },
   {
     "defindex": 31474,
@@ -222938,7 +226313,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Nightfall Veil"
+    "item_name_zh": "夜幕紗衣"
   },
   {
     "defindex": 31475,
@@ -222961,7 +226336,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Witch Doctor"
+    "item_name_zh": "巫醫帽"
   },
   {
     "defindex": 31476,
@@ -222984,7 +226359,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Surgeon General"
+    "item_name_zh": "醫務總長"
   },
   {
     "defindex": 31477,
@@ -223007,7 +226382,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Sear Seer"
+    "item_name_zh": "熾熱先知"
   },
   {
     "defindex": 31478,
@@ -223030,7 +226405,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Chiromancer's Kit"
+    "item_name_zh": "煉金術士工具包"
   },
   {
     "defindex": 31479,
@@ -223040,7 +226415,7 @@
     "used_by_classes": [
       "Scout"
     ],
-    "image_url": "http://media.steampowered.com/apps/440/icons/hwn2024_school_nuisance.93a31599739fad7b6e3293decf6e9594ebc850f5.png",
+    "image_url": "http://media.steampowered.com/apps/440/icons/hwn2024_school_nuisance.545c3a37454c2e4b3c253ae99fbb49d434b5e37a.png",
     "attributes": [
       {
         "name": "kill eater score type",
@@ -223053,7 +226428,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "School Nuisance"
+    "item_name_zh": "校園公害"
   },
   {
     "defindex": 31480,
@@ -223076,7 +226451,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Strikeout"
+    "item_name_zh": "三振倒地"
   },
   {
     "defindex": 31481,
@@ -223099,7 +226474,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Hellish Overlord"
+    "item_name_zh": "地獄霸主"
   },
   {
     "defindex": 31482,
@@ -223122,7 +226497,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Strigoi Stare"
+    "item_name_zh": "凶兆凝視"
   },
   {
     "defindex": 31483,
@@ -223145,7 +226520,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Dusk Duster"
+    "item_name_zh": "薄暮長衣"
   },
   {
     "defindex": 31484,
@@ -223168,7 +226543,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Mannhattan Protect"
+    "item_name_zh": "曼哈頓防護"
   },
   {
     "defindex": 31485,
@@ -223191,7 +226566,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Nuclear Necessity"
+    "item_name_zh": "必要防核"
   },
   {
     "defindex": 31486,
@@ -223214,7 +226589,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Contaminated Carryall"
+    "item_name_zh": "核汙背包"
   },
   {
     "defindex": 31487,
@@ -223237,7 +226612,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Delldozer"
+    "item_name_zh": "推土機槍手"
   },
   {
     "defindex": 31488,
@@ -223260,7 +226635,7 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Badlands Bandido"
+    "item_name_zh": "險惡劫匪"
   },
   {
     "defindex": 31489,
@@ -223283,6 +226658,577 @@
         "value": 64
       }
     ],
-    "item_name_zh": "Defaced Detonator"
+    "item_name_zh": "壞臉爆破器"
+  },
+  {
+    "defindex": 31491,
+    "item_class": "no_entity",
+    "item_name": "Taunt: Curtain Call",
+    "name": "Taunt: Curtain Call",
+    "used_by_classes": [
+      "Spy"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/taunt_curtain_call.2438c22a1b7f9d4cf7afed915a8001ca6d752263.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 100
+      }
+    ],
+    "item_name_zh": "Taunt: Curtain Call"
+  },
+  {
+    "defindex": 31492,
+    "item_class": "no_entity",
+    "item_name": "Taunt: Peace!",
+    "name": "Taunt: Peace!",
+    "image_url": "http://media.steampowered.com/apps/440/icons/taunt_peace.b665fe9289afc07a6582e44e0f85a0cae77f4e1d.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 100
+      }
+    ],
+    "item_name_zh": "Taunt: Peace!"
+  },
+  {
+    "defindex": 31493,
+    "item_class": "no_entity",
+    "item_name": "Taunt: Fore-Head Slice",
+    "name": "Taunt: Fore-Head Slice",
+    "used_by_classes": [
+      "Demoman"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/taunt_forehead_slice.b4946c63b442765bc91f21d5745a30cfa62a2be5.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 100
+      }
+    ],
+    "item_name_zh": "Taunt: Fore-Head Slice"
+  },
+  {
+    "defindex": 31494,
+    "item_class": "tf_wearable",
+    "item_name": "Dapper Noel",
+    "name": "Dapper Noel",
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_dapper_noel.7c8d1384fe7c287be98c1443409edd14fc1e1381.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Dapper Noel"
+  },
+  {
+    "defindex": 31495,
+    "item_class": "tf_wearable",
+    "item_name": "Necroprancer",
+    "name": "The Necroprancer",
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_necroprancer_style1.7837bd999f253b8d2357a5c37c3b9b7c1883ca01.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Necroprancer"
+  },
+  {
+    "defindex": 31496,
+    "item_class": "tf_wearable",
+    "item_name": "Battle Music",
+    "name": "The Battle Music",
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_battle_music.69ea31201732f71490f71dfd848d0ec387a38be1.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Battle Music"
+  },
+  {
+    "defindex": 31497,
+    "item_class": "tf_wearable",
+    "item_name": "Hot Spaniel",
+    "name": "Hot Spaniel",
+    "used_by_classes": [
+      "Pyro"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_hot_spaniel.a5e564a600cd546c994062a98bf1bfaafa2a4028.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Hot Spaniel"
+  },
+  {
+    "defindex": 31498,
+    "item_class": "tf_wearable",
+    "item_name": "Frostbite Fit",
+    "name": "Frostbite Fit",
+    "used_by_classes": [
+      "Pyro"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_frostbite_fit.2afe312e2bad22e957a9e2d4ef47df31d01540f1.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Frostbite Fit"
+  },
+  {
+    "defindex": 31499,
+    "item_class": "tf_wearable",
+    "item_name": "L'aire Filteure",
+    "name": "L'aire Filteure",
+    "used_by_classes": [
+      "Spy"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_laire_filteure.01e84edc6b9541e8c210814096f604b2a543b47c.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "L'aire Filteure"
+  },
+  {
+    "defindex": 31500,
+    "item_class": "tf_wearable",
+    "item_name": "Poleur Voyeur",
+    "name": "Poleur Voyeur",
+    "used_by_classes": [
+      "Spy"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_poleur_voyeur_style1.3b0102d70f5012465895880c32ccb374981c362f.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Poleur Voyeur"
+  },
+  {
+    "defindex": 31501,
+    "item_class": "tf_wearable",
+    "item_name": "Le Frosteaux",
+    "name": "Le Frosteaux",
+    "used_by_classes": [
+      "Spy"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_le_frosteaux.673f5a530268d8b6bf62e71cb30f0a71c3e8a9f0.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Le Frosteaux"
+  },
+  {
+    "defindex": 31502,
+    "item_class": "tf_wearable",
+    "item_name": "Scrooge McDoc",
+    "name": "Scrooge McDoc",
+    "used_by_classes": [
+      "Medic"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_scrooge_mcdoc.046d09a278f6cb119e6d7d48077ad226aaee86ce.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Scrooge McDoc"
+  },
+  {
+    "defindex": 31503,
+    "item_class": "tf_wearable",
+    "item_name": "Checkered Past",
+    "name": "The Checkered Past",
+    "used_by_classes": [
+      "Medic"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_checkered_past.f4201d384223c2b6a0e44e6672af87dc706f5427.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Checkered Past"
+  },
+  {
+    "defindex": 31504,
+    "item_class": "tf_wearable",
+    "item_name": "Consigliere's Coverup",
+    "name": "Consigliere's Coverup",
+    "used_by_classes": [
+      "Medic"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_consiglieres_coverup.cd981478a87be2bda39ac849c4fd03532af27414.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Consigliere's Coverup"
+  },
+  {
+    "defindex": 31505,
+    "item_class": "tf_wearable",
+    "item_name": "Crimbo Cap",
+    "name": "The Crimbo Cap",
+    "used_by_classes": [
+      "Scout"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_crimbo_cap.63e7573abf72f1eb4d3186db4379c27bd019c39c.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Crimbo Cap"
+  },
+  {
+    "defindex": 31506,
+    "item_class": "tf_wearable",
+    "item_name": "Triple Jumper",
+    "name": "The Triple Jumper",
+    "used_by_classes": [
+      "Scout"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_triple_jumper.35ce5243c125890a177e39e3accaf1cde73a6ea9.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Triple Jumper"
+  },
+  {
+    "defindex": 31507,
+    "item_class": "tf_wearable",
+    "item_name": "Polar Charger",
+    "name": "Polar Charger",
+    "used_by_classes": [
+      "Soldier"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_polar_charger_style1.ba6957066a26ded459c75baa5d48877b55dd4fb9.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Polar Charger"
+  },
+  {
+    "defindex": 31508,
+    "item_class": "tf_wearable",
+    "item_name": "Field Fatigues",
+    "name": "Field Fatigues",
+    "used_by_classes": [
+      "Soldier"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_field_fatigues_style1.f8b3f6150be6d64fb4740c8369d8b894c049538f.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Field Fatigues"
+  },
+  {
+    "defindex": 31509,
+    "item_class": "tf_wearable",
+    "item_name": "Cossack Camo",
+    "name": "Cossack Camo",
+    "used_by_classes": [
+      "Heavy"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_cossack_camo_style1.64f6b4c87247d85102eba51703d2e518bb177ff6.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Cossack Camo"
+  },
+  {
+    "defindex": 31510,
+    "item_class": "tf_wearable",
+    "item_name": "Battle Balaclava",
+    "name": "Battle Balaclava",
+    "used_by_classes": [
+      "Heavy"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_battle_balaclava_style1.e4ce8ed29c82990fa112a39b3a65619f6a7f43b6.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Battle Balaclava"
+  },
+  {
+    "defindex": 31511,
+    "item_class": "tf_wearable",
+    "item_name": "Top Brass",
+    "name": "The Top Brass",
+    "used_by_classes": [
+      "Demoman"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_top_brass_style1.3cf11d7d9ed58fb071a1ae415ef6e81da9d263f6.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Top Brass"
+  },
+  {
+    "defindex": 31512,
+    "item_class": "tf_wearable",
+    "item_name": "Commanding Presence",
+    "name": "Commanding Presence",
+    "used_by_classes": [
+      "Demoman"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_commanding_style1.7890cfc929488b7d284c07b1db639644105516a4.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Commanding Presence"
+  },
+  {
+    "defindex": 31513,
+    "item_class": "tf_wearable",
+    "item_name": "Mine Sweepers",
+    "name": "Mine Sweepers",
+    "used_by_classes": [
+      "Demoman"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_mine_sweepers.2da0348493e856a890564ae4f11f294a07d02f60.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Mine Sweepers"
+  },
+  {
+    "defindex": 31514,
+    "item_class": "tf_wearable",
+    "item_name": "Buck's Brim",
+    "name": "Buck's Brim",
+    "used_by_classes": [
+      "Engineer"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_bucks_brim_style1.0744b409cfbd8707d03e4b7279e498f817140c6e.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Buck's Brim"
+  },
+  {
+    "defindex": 31515,
+    "item_class": "tf_wearable",
+    "item_name": "Westcoat",
+    "name": "The Westcoat",
+    "used_by_classes": [
+      "Engineer"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_westcoat_style1.d865cae97885a1eb7d68476cc4da32d0f87ea1e6.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Westcoat"
+  },
+  {
+    "defindex": 31516,
+    "item_class": "tf_wearable",
+    "item_name": "Snug Sharpshooter",
+    "name": "Snug Sharpshooter",
+    "used_by_classes": [
+      "Sniper"
+    ],
+    "image_url": "http://media.steampowered.com/apps/440/icons/dec24_snug_sharpshooter.cc991c25000d296a4481e56b3e86b2e8bc49216c.png",
+    "attributes": [
+      {
+        "name": "kill eater score type",
+        "class": "kill_eater_score_type",
+        "value": 64
+      },
+      {
+        "name": "kill eater kill type",
+        "class": "kill_eater_kill_type",
+        "value": 64
+      }
+    ],
+    "item_name_zh": "Snug Sharpshooter"
   }
 ]

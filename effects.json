@@ -217,7 +217,7 @@
   },
   {
     "id": 46,
-    "name": "It's A Secret To Everybody",
+    "name": "It's a Secret to Everybody",
     "system": "unusual_fullmoon_cloudy_secret",
     "name_zh": "這是秘密呦"
   },
@@ -385,7 +385,7 @@
   },
   {
     "id": 81,
-    "name": "Bonzo The All-Gnawing",
+    "name": "Bonzo the All-Gnawing",
     "system": "unusual_tentmonster_purple_parent",
     "name_zh": "啃蝕巨口"
   },
@@ -505,13 +505,13 @@
   },
   {
     "id": 101,
-    "name": "It's a mystery to everyone",
+    "name": "It's a Mystery to Everyone",
     "system": "unusual_mystery_parent",
     "name_zh": "神秘怪譚"
   },
   {
     "id": 102,
-    "name": "It's a puzzle to me",
+    "name": "It's a Puzzle to Me",
     "system": "unusual_mystery_parent_green",
     "name_zh": "神秘謎團"
   },
@@ -1477,9 +1477,9 @@
   },
   {
     "id": 263,
-    "name": "Forever And Forever!",
+    "name": "Forever and Forever!",
     "system": "unusual_hauntedforever_green_parent",
-    "name_zh": "Forever And Forever!"
+    "name_zh": "Forever and Forever!"
   },
   {
     "id": 264,
@@ -1995,85 +1995,139 @@
     "id": 350,
     "name": "Spectral Fire",
     "system": "unusual_spectral_fire_parent",
-    "name_zh": "Spectral Fire"
+    "name_zh": "幽魂野火"
   },
   {
     "id": 351,
     "name": "Galactic Flame",
     "system": "unusual_galactic_fire_parent",
-    "name_zh": "Galactic Flame"
+    "name_zh": "銀河火焰"
   },
   {
     "id": 352,
     "name": "Revived Recharge",
     "system": "unusual_frank_green_parent",
-    "name_zh": "Revived Recharge"
+    "name_zh": "復甦充能"
   },
   {
     "id": 353,
     "name": "Undead Electricity",
     "system": "unusual_frank_purple_parent",
-    "name_zh": "Undead Electricity"
+    "name_zh": "不死電力"
   },
   {
     "id": 354,
     "name": "Frankencharged",
     "system": "unusual_frank_yellow_parent",
-    "name_zh": "Frankencharged"
+    "name_zh": "科學怪充"
   },
   {
     "id": 355,
     "name": "Phantom Plague",
     "system": "unusual_skullsmoke_green_parent",
-    "name_zh": "Phantom Plague"
+    "name_zh": "魅影瘟疫"
   },
   {
     "id": 356,
     "name": "Haunting Haze",
     "system": "unusual_skullsmoke_purple_parent",
-    "name_zh": "Haunting Haze"
+    "name_zh": "鬧鬼陰霾"
   },
   {
     "id": 357,
-    "name": "Bats",
+    "name": "Vicious Vampires",
     "system": "unusual_pigeons_green_parent",
-    "name_zh": "Bats"
+    "name_zh": "惡毒蝙蝠"
   },
   {
     "id": 358,
-    "name": "Ravens",
+    "name": "Ravenous Ravens",
     "system": "unusual_pigeons_purple_parent",
-    "name_zh": "Ravens"
+    "name_zh": "狂野烏鴉"
   },
   {
     "id": 359,
-    "name": "Doves",
+    "name": "Delightful Doves",
     "system": "unusual_pigeons_white_parent",
-    "name_zh": "Doves"
+    "name_zh": "歡樂白鴿"
   },
   {
     "id": 360,
     "name": "Searing Stove",
     "system": "unusual_stove_teamcolor_red",
-    "name_zh": "Searing Stove"
+    "name_zh": "燒騰爐火"
   },
   {
     "id": 361,
     "name": "Searing Stove",
     "system": "unusual_stove_teamcolor_blue",
-    "name_zh": "Searing Stove"
+    "name_zh": "燒騰爐火"
   },
   {
     "id": 362,
     "name": "Über Blaze",
     "system": "unusual_electricfire_teamcolor_red",
-    "name_zh": "Über Blaze"
+    "name_zh": "極燃火焰"
   },
   {
     "id": 363,
     "name": "Über Blaze",
     "system": "unusual_electricfire_teamcolor_blue",
-    "name_zh": "Über Blaze"
+    "name_zh": "極燃火焰"
+  },
+  {
+    "id": 364,
+    "name": "Sizzling",
+    "system": "unusual_sizzling_parent",
+    "name_zh": "Sizzling"
+  },
+  {
+    "id": 365,
+    "name": "Crystal Crown",
+    "system": "unusual_icrown_teamcolor_red",
+    "name_zh": "Crystal Crown"
+  },
+  {
+    "id": 366,
+    "name": "Crystal Crown",
+    "system": "unusual_icrown_teamcolor_blue",
+    "name_zh": "Crystal Crown"
+  },
+  {
+    "id": 367,
+    "name": "Halcyon Halo",
+    "system": "unusual_icrown_parent_purple",
+    "name_zh": "Halcyon Halo"
+  },
+  {
+    "id": 368,
+    "name": "Ghosts of Smissmas Time",
+    "system": "unusual_timeghosts_parent",
+    "name_zh": "Ghosts of Smissmas Time"
+  },
+  {
+    "id": 369,
+    "name": "Aurora Skies",
+    "system": "unusual_aurora_parent",
+    "name_zh": "Aurora Skies"
+  },
+  {
+    "id": 370,
+    "name": "Shining Bokeh",
+    "system": "unusual_bokehsparkle_parent",
+    "name_zh": "Shining Bokeh"
+  },
+  {
+    "id": 371,
+    "name": "Playful Aurora",
+    "system": "unusual_playful_purple_parent",
+    "name_zh": "Playful Aurora"
+  },
+  {
+    "id": 372,
+    "name": "Frisky Morning",
+    "system": "unusual_playful_yellow_parent",
+    "name_zh": "Frisky Morning"
   },
   {
     "id": 701,
@@ -3177,67 +3231,121 @@
     "id": 3174,
     "name": "Power Pressure",
     "system": "utaunt_poweraura_teamcolor_red",
-    "name_zh": "Power Pressure"
+    "name_zh": "強力氣場"
   },
   {
     "id": 3175,
     "name": "Power Pressure",
     "system": "utaunt_poweraura_teamcolor_blue",
-    "name_zh": "Power Pressure"
+    "name_zh": "強力氣場"
   },
   {
     "id": 3176,
     "name": "Magnifying Momentum",
     "system": "utaunt_poweraura_green_parent",
-    "name_zh": "Magnifying Momentum"
+    "name_zh": "強化能量"
   },
   {
     "id": 3177,
     "name": "Charging Catalyst",
     "system": "utaunt_poweraura_purple_parent",
-    "name_zh": "Charging Catalyst"
+    "name_zh": "充能催化劑"
   },
   {
     "id": 3178,
     "name": "Amplifying Aura",
     "system": "utaunt_poweraura_yellow_parent",
-    "name_zh": "Amplifying Aura"
+    "name_zh": "增強光環"
   },
   {
     "id": 3179,
     "name": "Mystic Fusion",
     "system": "utaunt_mysticfusion_parent",
-    "name_zh": "Mystic Fusion"
+    "name_zh": "神祕融合"
   },
   {
     "id": 3180,
     "name": "Obnoxious Confetti",
     "system": "utaunt_confetti_gy_parent",
-    "name_zh": "Obnoxious Confetti"
+    "name_zh": "煩人彩紙"
   },
   {
     "id": 3181,
     "name": "Lovable Confetti",
     "system": "utaunt_confetti_pp_parent",
-    "name_zh": "Lovable Confetti"
+    "name_zh": "可愛彩紙"
   },
   {
     "id": 3182,
     "name": "Confetti Celebration",
     "system": "utaunt_confetti_yp_parent",
-    "name_zh": "Confetti Celebration"
+    "name_zh": "彩紙歡慶"
   },
   {
     "id": 3183,
     "name": "Heavy Rain",
     "system": "utaunt_heavyrain_parent",
-    "name_zh": "Heavy Rain"
+    "name_zh": "大雨"
   },
   {
     "id": 3184,
     "name": "Pumpkin Patch",
     "system": "utaunt_field_parent",
-    "name_zh": "Pumpkin Patch"
+    "name_zh": "南瓜園"
+  },
+  {
+    "id": 3185,
+    "name": "Snowy Day",
+    "system": "utaunt_whitesmissmas_parent",
+    "name_zh": "Snowy Day"
+  },
+  {
+    "id": 3186,
+    "name": "Snowy Spirit",
+    "system": "utaunt_busysnow_teamcolor_red",
+    "name_zh": "Snowy Spirit"
+  },
+  {
+    "id": 3187,
+    "name": "Snowy Spirit",
+    "system": "utaunt_busysnow_teamcolor_blue",
+    "name_zh": "Snowy Spirit"
+  },
+  {
+    "id": 3188,
+    "name": "Lavender Sensation",
+    "system": "utaunt_busysnow_parent_p",
+    "name_zh": "Lavender Sensation"
+  },
+  {
+    "id": 3189,
+    "name": "Verdant Phenomenon",
+    "system": "utaunt_busysnow_parent_g",
+    "name_zh": "Verdant Phenomenon"
+  },
+  {
+    "id": 3190,
+    "name": "Award Winning",
+    "system": "utaunt_roses_teamcolor_red",
+    "name_zh": "Award Winning"
+  },
+  {
+    "id": 3191,
+    "name": "Award Winning",
+    "system": "utaunt_roses_teamcolor_blue",
+    "name_zh": "Award Winning"
+  },
+  {
+    "id": 3192,
+    "name": "Operatic Triumph",
+    "system": "utaunt_roses_gold_parent",
+    "name_zh": "Operatic Triumph"
+  },
+  {
+    "id": 3193,
+    "name": "Tangled Lights",
+    "system": "utaunt_tangledlights_parent",
+    "name_zh": "Tangled Lights"
   },
   {
     "id": 22001,
