@@ -397,7 +397,7 @@
   },
   {
     "id": 83,
-    "name": "Stare From Beyond",
+    "name": "Stare from Beyond",
     "system": "unusual_eyes_orange_parent",
     "name_zh": "暗魂死盯"
   },
@@ -1479,7 +1479,7 @@
     "id": 263,
     "name": "Forever and Forever!",
     "system": "unusual_hauntedforever_green_parent",
-    "name_zh": "Forever and Forever!"
+    "name_zh": "永遠永遠！"
   },
   {
     "id": 264,
@@ -2079,55 +2079,109 @@
     "id": 364,
     "name": "Sizzling",
     "system": "unusual_sizzling_parent",
-    "name_zh": "Sizzling"
+    "name_zh": "蒸氣騰騰"
   },
   {
     "id": 365,
     "name": "Crystal Crown",
     "system": "unusual_icrown_teamcolor_red",
-    "name_zh": "Crystal Crown"
+    "name_zh": "水晶皇冠"
   },
   {
     "id": 366,
     "name": "Crystal Crown",
     "system": "unusual_icrown_teamcolor_blue",
-    "name_zh": "Crystal Crown"
+    "name_zh": "水晶皇冠"
   },
   {
     "id": 367,
     "name": "Halcyon Halo",
     "system": "unusual_icrown_parent_purple",
-    "name_zh": "Halcyon Halo"
+    "name_zh": "太平光環"
   },
   {
     "id": 368,
     "name": "Ghosts of Smissmas Time",
     "system": "unusual_timeghosts_parent",
-    "name_zh": "Ghosts of Smissmas Time"
+    "name_zh": "聖彈幽靈"
   },
   {
     "id": 369,
     "name": "Aurora Skies",
     "system": "unusual_aurora_parent",
-    "name_zh": "Aurora Skies"
+    "name_zh": "空中極光"
   },
   {
     "id": 370,
     "name": "Shining Bokeh",
     "system": "unusual_bokehsparkle_parent",
-    "name_zh": "Shining Bokeh"
+    "name_zh": "閃耀散景"
   },
   {
     "id": 371,
     "name": "Playful Aurora",
     "system": "unusual_playful_purple_parent",
-    "name_zh": "Playful Aurora"
+    "name_zh": "嬉戲的極光"
   },
   {
     "id": 372,
     "name": "Frisky Morning",
     "system": "unusual_playful_yellow_parent",
-    "name_zh": "Frisky Morning"
+    "name_zh": "活潑的早晨"
+  },
+  {
+    "id": 373,
+    "name": "Drunkard",
+    "system": "unusual_drunk_parent",
+    "name_zh": "Drunkard"
+  },
+  {
+    "id": 374,
+    "name": "Blades of Betrayal",
+    "system": "unusual_excalibur_teamcolor_red",
+    "name_zh": "Blades of Betrayal"
+  },
+  {
+    "id": 375,
+    "name": "Blades of Betrayal",
+    "system": "unusual_excalibur_teamcolor_blue",
+    "name_zh": "Blades of Betrayal"
+  },
+  {
+    "id": 376,
+    "name": "Death's Daggers",
+    "system": "unusual_excalibur_parent_purple",
+    "name_zh": "Death's Daggers"
+  },
+  {
+    "id": 377,
+    "name": "Fully Charged",
+    "system": "unusual_uber_teamcolor_red",
+    "name_zh": "Fully Charged"
+  },
+  {
+    "id": 378,
+    "name": "Fully Charged",
+    "system": "unusual_uber_teamcolor_blue",
+    "name_zh": "Fully Charged"
+  },
+  {
+    "id": 379,
+    "name": "Overcharged",
+    "system": "unusual_uber_gold_parent",
+    "name_zh": "Overcharged"
+  },
+  {
+    "id": 380,
+    "name": "Piercing Headache",
+    "system": "unusual_orbitingbullet_parent",
+    "name_zh": "Piercing Headache"
+  },
+  {
+    "id": 381,
+    "name": "Decimating Wind",
+    "system": "unusual_typhoon_parent",
+    "name_zh": "Decimating Wind"
   },
   {
     "id": 701,
@@ -3297,55 +3351,109 @@
     "id": 3185,
     "name": "Snowy Day",
     "system": "utaunt_whitesmissmas_parent",
-    "name_zh": "Snowy Day"
+    "name_zh": "雪花飄落"
   },
   {
     "id": 3186,
     "name": "Snowy Spirit",
     "system": "utaunt_busysnow_teamcolor_red",
-    "name_zh": "Snowy Spirit"
+    "name_zh": "雪白之魂"
   },
   {
     "id": 3187,
     "name": "Snowy Spirit",
     "system": "utaunt_busysnow_teamcolor_blue",
-    "name_zh": "Snowy Spirit"
+    "name_zh": "雪白之魂"
   },
   {
     "id": 3188,
     "name": "Lavender Sensation",
     "system": "utaunt_busysnow_parent_p",
-    "name_zh": "Lavender Sensation"
+    "name_zh": "淡紫感覺"
   },
   {
     "id": 3189,
     "name": "Verdant Phenomenon",
     "system": "utaunt_busysnow_parent_g",
-    "name_zh": "Verdant Phenomenon"
+    "name_zh": "翠綠現象"
   },
   {
     "id": 3190,
     "name": "Award Winning",
     "system": "utaunt_roses_teamcolor_red",
-    "name_zh": "Award Winning"
+    "name_zh": "得獎撒花"
   },
   {
     "id": 3191,
     "name": "Award Winning",
     "system": "utaunt_roses_teamcolor_blue",
-    "name_zh": "Award Winning"
+    "name_zh": "得獎撒花"
   },
   {
     "id": 3192,
     "name": "Operatic Triumph",
     "system": "utaunt_roses_gold_parent",
-    "name_zh": "Operatic Triumph"
+    "name_zh": "謝幕慶祝"
   },
   {
     "id": 3193,
     "name": "Tangled Lights",
     "system": "utaunt_tangledlights_parent",
-    "name_zh": "Tangled Lights"
+    "name_zh": "燈飾纏身"
+  },
+  {
+    "id": 3194,
+    "name": "Seamine",
+    "system": "utaunt_seamine_teamcolor_red",
+    "name_zh": "Seamine"
+  },
+  {
+    "id": 3195,
+    "name": "Seamine",
+    "system": "utaunt_seamine_teamcolor_blue",
+    "name_zh": "Seamine"
+  },
+  {
+    "id": 3196,
+    "name": "Iconic Outline",
+    "system": "utaunt_iconicoutline_teamcolor_red",
+    "name_zh": "Iconic Outline"
+  },
+  {
+    "id": 3197,
+    "name": "Iconic Outline",
+    "system": "utaunt_iconicoutline_teamcolor_blue",
+    "name_zh": "Iconic Outline"
+  },
+  {
+    "id": 3198,
+    "name": "Subtle Silhouette",
+    "system": "utaunt_iconicoutline_pink_parent",
+    "name_zh": "Subtle Silhouette"
+  },
+  {
+    "id": 3199,
+    "name": "Ocean Reef",
+    "system": "utaunt_oceanreef_parent",
+    "name_zh": "Ocean Reef"
+  },
+  {
+    "id": 3200,
+    "name": "Lost Signal",
+    "system": "utaunt_signalinterference_parent",
+    "name_zh": "Lost Signal"
+  },
+  {
+    "id": 3201,
+    "name": "Summer Wave",
+    "system": "utaunt_waterwave_parent",
+    "name_zh": "Summer Wave"
+  },
+  {
+    "id": 3202,
+    "name": "Shark Attack",
+    "system": "utaunt_sharkfin2_parent",
+    "name_zh": "Shark Attack"
   },
   {
     "id": 22001,
