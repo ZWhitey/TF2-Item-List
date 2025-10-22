@@ -1981,7 +1981,7 @@
   },
   {
     "id": 348,
-    "name": "Psycho-delic",
+    "name": "Psycho-Delic",
     "system": "unusual_hippieaura_parent",
     "name_zh": "精神迷幻"
   },
@@ -2133,55 +2133,121 @@
     "id": 373,
     "name": "Drunkard",
     "system": "unusual_drunk_parent",
-    "name_zh": "Drunkard"
+    "name_zh": "醉鬼"
   },
   {
     "id": 374,
     "name": "Blades of Betrayal",
     "system": "unusual_excalibur_teamcolor_red",
-    "name_zh": "Blades of Betrayal"
+    "name_zh": "背叛之刃"
   },
   {
     "id": 375,
     "name": "Blades of Betrayal",
     "system": "unusual_excalibur_teamcolor_blue",
-    "name_zh": "Blades of Betrayal"
+    "name_zh": "背叛之刃"
   },
   {
     "id": 376,
     "name": "Death's Daggers",
     "system": "unusual_excalibur_parent_purple",
-    "name_zh": "Death's Daggers"
+    "name_zh": "死亡匕首"
   },
   {
     "id": 377,
     "name": "Fully Charged",
     "system": "unusual_uber_teamcolor_red",
-    "name_zh": "Fully Charged"
+    "name_zh": "電量充滿"
   },
   {
     "id": 378,
     "name": "Fully Charged",
     "system": "unusual_uber_teamcolor_blue",
-    "name_zh": "Fully Charged"
+    "name_zh": "電量充滿"
   },
   {
     "id": 379,
     "name": "Overcharged",
     "system": "unusual_uber_gold_parent",
-    "name_zh": "Overcharged"
+    "name_zh": "電量超載"
   },
   {
     "id": 380,
     "name": "Piercing Headache",
     "system": "unusual_orbitingbullet_parent",
-    "name_zh": "Piercing Headache"
+    "name_zh": "穿頭之痛"
   },
   {
     "id": 381,
     "name": "Decimating Wind",
     "system": "unusual_typhoon_parent",
-    "name_zh": "Decimating Wind"
+    "name_zh": "毀滅風暴"
+  },
+  {
+    "id": 382,
+    "name": "Ocean Swirl",
+    "system": "unusual_ocean_swirl_teamcolor_red",
+    "name_zh": "Ocean Swirl"
+  },
+  {
+    "id": 383,
+    "name": "Ocean Swirl",
+    "system": "unusual_ocean_swirl_teamcolor_blue",
+    "name_zh": "Ocean Swirl"
+  },
+  {
+    "id": 384,
+    "name": "Toxic Swirl",
+    "system": "unusual_ocean_swirl_green_parent",
+    "name_zh": "Toxic Swirl"
+  },
+  {
+    "id": 385,
+    "name": "Candle Flame",
+    "system": "unusual_candle_teamcolor_red",
+    "name_zh": "Candle Flame"
+  },
+  {
+    "id": 386,
+    "name": "Candle Flame",
+    "system": "unusual_candle_teamcolor_blue",
+    "name_zh": "Candle Flame"
+  },
+  {
+    "id": 387,
+    "name": "Sizzling Aroma",
+    "system": "unusual_deadlyaroma_teamcolor_red",
+    "name_zh": "Sizzling Aroma"
+  },
+  {
+    "id": 388,
+    "name": "Sizzling Aroma",
+    "system": "unusual_deadlyaroma_teamcolor_blue",
+    "name_zh": "Sizzling Aroma"
+  },
+  {
+    "id": 389,
+    "name": "Toxic Aroma",
+    "system": "unusual_deadlyaroma_green_parent",
+    "name_zh": "Toxic Aroma"
+  },
+  {
+    "id": 390,
+    "name": "Current Conductor",
+    "system": "unusual_conductor_teamc_teamcolor_red",
+    "name_zh": "Current Conductor"
+  },
+  {
+    "id": 391,
+    "name": "Current Conductor",
+    "system": "unusual_conductor_teamc_teamcolor_blue",
+    "name_zh": "Current Conductor"
+  },
+  {
+    "id": 392,
+    "name": "Sandy",
+    "system": "unusual_sandy_parent",
+    "name_zh": "Sandy"
   },
   {
     "id": 701,
@@ -2983,7 +3049,7 @@
   },
   {
     "id": 3124,
-    "name": "Deep-sea Devourer",
+    "name": "Deep-Sea Devourer",
     "system": "utaunt_krakenmouth_green_parent",
     "name_zh": "深海吞噬"
   },
@@ -3405,55 +3471,115 @@
     "id": 3194,
     "name": "Seamine",
     "system": "utaunt_seamine_teamcolor_red",
-    "name_zh": "Seamine"
+    "name_zh": "海中水雷"
   },
   {
     "id": 3195,
     "name": "Seamine",
     "system": "utaunt_seamine_teamcolor_blue",
-    "name_zh": "Seamine"
+    "name_zh": "海中水雷"
   },
   {
     "id": 3196,
     "name": "Iconic Outline",
     "system": "utaunt_iconicoutline_teamcolor_red",
-    "name_zh": "Iconic Outline"
+    "name_zh": "經典輪廓"
   },
   {
     "id": 3197,
     "name": "Iconic Outline",
     "system": "utaunt_iconicoutline_teamcolor_blue",
-    "name_zh": "Iconic Outline"
+    "name_zh": "經典輪廓"
   },
   {
     "id": 3198,
     "name": "Subtle Silhouette",
     "system": "utaunt_iconicoutline_pink_parent",
-    "name_zh": "Subtle Silhouette"
+    "name_zh": "低調剪影"
   },
   {
     "id": 3199,
     "name": "Ocean Reef",
     "system": "utaunt_oceanreef_parent",
-    "name_zh": "Ocean Reef"
+    "name_zh": "海洋瑚礁"
   },
   {
     "id": 3200,
     "name": "Lost Signal",
     "system": "utaunt_signalinterference_parent",
-    "name_zh": "Lost Signal"
+    "name_zh": "訊號中斷"
   },
   {
     "id": 3201,
     "name": "Summer Wave",
     "system": "utaunt_waterwave_parent",
-    "name_zh": "Summer Wave"
+    "name_zh": "夏日波光"
   },
   {
     "id": 3202,
     "name": "Shark Attack",
     "system": "utaunt_sharkfin2_parent",
-    "name_zh": "Shark Attack"
+    "name_zh": "鯊魚來襲"
+  },
+  {
+    "id": 3203,
+    "name": "Hazardous Gas",
+    "system": "utaunt_phantasam_green_parent",
+    "name_zh": "Hazardous Gas"
+  },
+  {
+    "id": 3204,
+    "name": "Phantasmal Fog",
+    "system": "utaunt_phantasam_grey_parent",
+    "name_zh": "Phantasmal Fog"
+  },
+  {
+    "id": 3205,
+    "name": "Haunted Mist",
+    "system": "utaunt_phantasam_purple_parent",
+    "name_zh": "Haunted Mist"
+  },
+  {
+    "id": 3206,
+    "name": "Split Malice",
+    "system": "utaunt_multicurse_teamcolor_red",
+    "name_zh": "Split Malice"
+  },
+  {
+    "id": 3207,
+    "name": "Split Malice",
+    "system": "utaunt_multicurse_teamcolor_blue",
+    "name_zh": "Split Malice"
+  },
+  {
+    "id": 3208,
+    "name": "Void Crawlers",
+    "system": "utaunt_voidcrawlers_parent",
+    "name_zh": "Void Crawlers"
+  },
+  {
+    "id": 3209,
+    "name": "Fossil Fueled",
+    "system": "utaunt_tarpit_dinos_parent",
+    "name_zh": "Fossil Fueled"
+  },
+  {
+    "id": 3210,
+    "name": "Tar Pit",
+    "system": "utaunt_tarpit_people_parent",
+    "name_zh": "Tar Pit"
+  },
+  {
+    "id": 3211,
+    "name": "Morbidly Beast",
+    "system": "utaunt_morbed_teamcolor_red",
+    "name_zh": "Morbidly Beast"
+  },
+  {
+    "id": 3212,
+    "name": "Morbidly Beast",
+    "system": "utaunt_morbed_teamcolor_blue",
+    "name_zh": "Morbidly Beast"
   },
   {
     "id": 22001,
