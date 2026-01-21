@@ -42,6 +42,6 @@
   "type": "module",
   "dependencies": {
     "@floating-ui/dom": "1.6.11",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   }
 }
